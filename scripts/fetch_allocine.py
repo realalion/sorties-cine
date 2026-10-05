@@ -11,6 +11,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, timedelta, timezone
 from html import unescape
 from pathlib import Path
+import io
+from PIL import Image
 
 MONTHS = {
     "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4,
@@ -219,6 +221,68 @@ def write_ics_files(films: list[dict]) -> int:
     return len(films)
 
 
+
+FALLBACK_COLORS = [
+    "#E8458B", "#FF6B35", "#7C4DFF", "#00C2FF", "#2EE59D",
+    "#FFD60A", "#FF3B5C", "#5B8CFF", "#FF8A5B", "#B967FF",
+]
+
+
+def vibrant_from_image(im: Image.Image) -> str:
+    im = im.convert("RGB").resize((48, 48), Image.Resampling.BOX)
+    pixels = list(im.getdata())
+    scored = []
+    for r, g, b in pixels:
+        mx, mn = max(r, g, b), min(r, g, b)
+        sat = (mx - mn) / (mx + 1e-6)
+        lum = (r + g + b) / 3 / 255
+        if lum < 0.18 or lum > 0.92:
+            continue
+        score = sat * 1.6 + (0.55 - abs(lum - 0.55))
+        scored.append(((r, g, b), score))
+    if not scored:
+        r = sum(p[0] for p in pixels) // len(pixels)
+        g = sum(p[1] for p in pixels) // len(pixels)
+        b = sum(p[2] for p in pixels) // len(pixels)
+        return f"#{r:02x}{g:02x}{b:02x}"
+    scored.sort(key=lambda x: -x[1])
+    top = [c for c, _ in scored[:12]]
+    r = sum(c[0] for c in top) // len(top)
+    g = sum(c[1] for c in top) // len(top)
+    b = sum(c[2] for c in top) // len(top)
+    mx, mn = max(r, g, b), min(r, g, b)
+    if mx > mn:
+        mid = (mx + mn) / 2
+        boost = 1.18
+        r = int(min(255, max(0, mid + (r - mid) * boost)))
+        g = int(min(255, max(0, mid + (g - mid) * boost)))
+        b = int(min(255, max(0, mid + (b - mid) * boost)))
+    return f"#{r:02x}{g:02x}{b:02x}"
+
+
+def enrich_colors(films: list[dict]) -> None:
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    def one(film):
+        fb = FALLBACK_COLORS[hash(film["id"]) % len(FALLBACK_COLORS)]
+        url = film.get("poster")
+        if not url:
+            return film["id"], fb
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Referer": "https://www.allocine.fr/"})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                raw = r.read()
+            return film["id"], vibrant_from_image(Image.open(io.BytesIO(raw)))
+        except Exception:
+            return film["id"], fb
+
+    by_id = {f["id"]: f for f in films}
+    with ThreadPoolExecutor(max_workers=10) as ex:
+        for fut in as_completed([ex.submit(one, f) for f in films]):
+            fid, color = fut.result()
+            by_id[fid]["color"] = color
+
+
 def write_data(films: list[dict]) -> Path:
     out = {
         "generatedAt": datetime.now().astimezone().isoformat(timespec="seconds"),
@@ -280,10 +344,14 @@ def main():
     if args.ics_only:
         data = json.loads((ROOT / "data.json").read_text(encoding="utf-8"))
         films = data["films"]
+        if films and not films[0].get("color"):
+            enrich_colors(films)
+            write_data(films)
         write_ics_files(films)
         return
 
     films = fetch_all()
+    enrich_colors(films)
     write_data(films)
     write_ics_files(films)
 

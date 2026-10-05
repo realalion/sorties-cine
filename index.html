@@ -3,97 +3,401 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="theme-color" content="#E8458B" media="(prefers-color-scheme: dark)" />
   <meta name="theme-color" content="#E8458B" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Sorties Ciné" />
   <meta name="description" content="Prochaines sorties cinéma en France avec la date officielle." />
-  <link rel="manifest" href="manifest.webmanifest?v=12" />
-  <link rel="apple-touch-icon" href="icons/icon-180.png?v=12" />
+  <link rel="manifest" href="manifest.webmanifest?v=13" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png?v=13" />
   <title>Sorties Ciné France</title>
   <style>
     :root {
-      --text: #f7f7fb;
-      --text-secondary: rgba(247,247,251,0.72);
-      --muted: rgba(247,247,251,0.55);
+      --bg: #0b0b0f;
+      --surface: #14141a;
+      --text: #ffffff;
+      --muted: rgba(255,255,255,0.58);
       --accent: #E8458B;
-      --accent-soft: #FF7AAD;
-      --glass-fill: rgba(255,255,255,0.12);
       --safe-top: env(safe-area-inset-top, 0px);
       --safe-bottom: env(safe-area-inset-bottom, 0px);
-      --header-h: 64px;
-      --dock-h: 80px;
       --spring: cubic-bezier(0.34, 1.3, 0.64, 1);
       --ease: cubic-bezier(0.22, 1, 0.36, 1);
-      --chrome-scale: 1;
+      --tab-h: 72px;
+      --header-h: 58px;
     }
     * { box-sizing: border-box; }
     html, body {
-      margin: 0;
-      padding: 0;
-      min-height: 100%;
+      margin: 0; padding: 0; min-height: 100%;
+      background: var(--bg);
       color: var(--text);
       font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       -webkit-font-smoothing: antialiased;
-      background: #0a0610;
     }
     body {
-      padding-top: calc(var(--header-h) + var(--safe-top) + 18px);
-      padding-bottom: calc(var(--dock-h) + var(--safe-bottom) + 20px);
+      padding-top: calc(var(--header-h) + var(--safe-top) + 8px);
+      padding-bottom: calc(var(--tab-h) + var(--safe-bottom) + 16px);
       overflow-x: hidden;
     }
-    body.chrome-compact {
-      --header-h: 52px;
-      --dock-h: 68px;
+
+    /* Minimal header */
+    .topbar {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 50;
+      padding: calc(10px + var(--safe-top)) 18px 10px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: linear-gradient(180deg, rgba(11,11,15,0.92) 0%, rgba(11,11,15,0.72) 70%, transparent 100%);
+      backdrop-filter: blur(16px) saturate(140%);
+      -webkit-backdrop-filter: blur(16px) saturate(140%);
+    }
+    .topbar img {
+      width: 36px; height: 36px; border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(232,69,139,0.35);
+    }
+    .topbar h1 {
+      margin: 0;
+      font-size: 1.2rem;
+      font-weight: 800;
+      letter-spacing: -0.04em;
     }
 
-    .ambient {
-      position: fixed;
-      inset: 0;
-      z-index: 0;
-      pointer-events: none;
+    .wrap {
+      max-width: 560px;
+      margin: 0 auto;
+      padding: 8px 16px 0;
+    }
+
+    /* Hero cette semaine */
+    .hero {
+      display: none;
+      position: relative;
+      border-radius: 28px;
       overflow: hidden;
-      background: #0a0610;
+      min-height: 220px;
+      margin-bottom: 22px;
+      isolation: isolate;
     }
-    .ambient-mesh {
-      position: absolute;
-      inset: -20%;
-      background:
-        radial-gradient(ellipse 60% 50% at 15% 20%, rgba(232,69,139,0.58), transparent 55%),
-        radial-gradient(ellipse 50% 45% at 85% 15%, rgba(120,60,255,0.45), transparent 50%),
-        radial-gradient(ellipse 55% 50% at 70% 80%, rgba(40,140,255,0.35), transparent 55%),
-        radial-gradient(ellipse 40% 40% at 20% 85%, rgba(255,140,60,0.28), transparent 50%),
-        linear-gradient(160deg, #1a0a18 0%, #0a0610 50%, #12081f 100%);
-      filter: blur(8px);
-      -webkit-filter: blur(8px);
-      transform: scale(1.05);
-      animation: meshDrift 22s var(--ease) infinite alternate;
-    }
-    .ambient-poster {
-      position: absolute;
-      inset: -10%;
+    .hero.visible { display: block; }
+    .hero-bg {
+      position: absolute; inset: 0;
       background-size: cover;
       background-position: center top;
-      opacity: 0.38;
-      filter: blur(42px) saturate(1.35);
-      -webkit-filter: blur(42px) saturate(1.35);
-      transform: scale(1.15);
-      transition: opacity 0.8s var(--ease), background-image 0.8s var(--ease);
+      transform: scale(1.08);
+      filter: saturate(1.25);
     }
-    .ambient-vignette {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(180deg, rgba(8,4,12,0.25) 0%, rgba(8,4,12,0.55) 45%, rgba(8,4,12,0.82) 100%);
+    .hero-scrim {
+      position: absolute; inset: 0;
+      background: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.75) 100%);
     }
-    @keyframes meshDrift {
-      from { transform: scale(1.05) translate(0, 0); }
-      to { transform: scale(1.1) translate(-2%, 2%); }
+    .hero-body {
+      position: relative;
+      z-index: 1;
+      padding: 22px 20px 18px;
+      min-height: 220px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      gap: 8px;
+    }
+    .hero-kicker {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.85);
+    }
+    .hero-title {
+      margin: 0;
+      font-size: 1.85rem;
+      font-weight: 850;
+      letter-spacing: -0.045em;
+      line-height: 1.05;
+      text-wrap: balance;
+    }
+    .hero-meta {
+      color: rgba(255,255,255,0.78);
+      font-size: 0.88rem;
+      font-weight: 560;
     }
 
-    /* Shared Liquid Glass capsule — neutral dark (WhatsApp-like) */
-    .liquid-glass {
+    .week-chips {
+      display: none;
+      gap: 8px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      padding: 0 0 16px;
+      -webkit-overflow-scrolling: touch;
+    }
+    .week-chips::-webkit-scrollbar { display: none; }
+    .week-chips.visible { display: flex; }
+    .week-chip {
+      flex: 0 0 auto;
+      border: none;
+      background: rgba(255,255,255,0.08);
+      color: rgba(255,255,255,0.85);
+      border-radius: 999px;
+      padding: 8px 14px;
+      font: 650 0.78rem/1 inherit;
+      cursor: pointer;
+      -webkit-appearance: none;
+    }
+    .week-chip.active {
+      background: #fff;
+      color: #111;
+    }
+
+    .section-label {
+      margin: 6px 2px 14px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    /* Poster-first vivid cards */
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+    @media (min-width: 520px) {
+      .grid { grid-template-columns: 1fr 1fr 1fr; }
+    }
+    .card {
       position: relative;
+      border: none;
+      padding: 0;
+      margin: 0;
+      border-radius: 22px;
+      overflow: hidden;
+      text-align: left;
+      cursor: pointer;
+      background: var(--c, #333);
+      color: #fff;
+      -webkit-appearance: none;
+      appearance: none;
+      font: inherit;
+      box-shadow: 0 12px 28px color-mix(in srgb, var(--c, #333) 35%, transparent);
+      transform: translateZ(0);
+      transition: transform 0.35s var(--spring), box-shadow 0.35s var(--ease);
+      animation: rise 0.55s var(--ease) both;
+    }
+    .card:active { transform: scale(0.97); }
+    .card-poster {
+      width: 100%;
+      aspect-ratio: 2 / 3;
+      object-fit: cover;
+      display: block;
+      background: rgba(0,0,0,0.2);
+    }
+    .card-poster-fallback {
+      width: 100%;
+      aspect-ratio: 2 / 3;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(160deg, color-mix(in srgb, var(--c) 70%, #fff), var(--c));
+      color: rgba(255,255,255,0.7);
+      font-size: 0.75rem;
+      font-weight: 650;
+    }
+    .card-foot {
+      padding: 12px 12px 14px;
+      background: linear-gradient(180deg, color-mix(in srgb, var(--c) 82%, #000) 0%, color-mix(in srgb, var(--c) 55%, #000) 100%);
+    }
+    .card-title {
+      margin: 0 0 8px;
+      font-size: 0.95rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1.2;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      background: rgba(255,255,255,0.18);
+      border: 0.5px solid rgba(255,255,255,0.28);
+      color: #fff;
+      border-radius: 999px;
+      padding: 3px 9px;
+      font-size: 0.68rem;
+      font-weight: 700;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(16px) scale(0.98); }
+      to { opacity: 1; transform: none; }
+    }
+
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 64px 16px;
+      font-size: 1rem;
+      font-weight: 600;
+    }
+
+    footer.foot {
+      text-align: center;
+      color: rgba(255,255,255,0.35);
+      font-size: 0.68rem;
+      padding: 28px 8px 8px;
+      line-height: 1.45;
+    }
+    #appVersion {
+      display: inline-block;
+      margin-top: 6px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.06);
+      font-weight: 700;
+    }
+
+    /* Detail sheet */
+    .sheet-backdrop {
+      position: fixed; inset: 0;
+      z-index: 80;
+      background: rgba(0,0,0,0.55);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.28s var(--ease);
+    }
+    .sheet-backdrop.open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .sheet {
+      position: fixed;
+      left: 0; right: 0; bottom: 0;
+      z-index: 90;
+      max-height: min(88vh, 760px);
+      background: #121218;
+      border-radius: 28px 28px 0 0;
+      box-shadow: 0 -20px 60px rgba(0,0,0,0.5);
+      transform: translateY(110%);
+      transition: transform 0.42s var(--spring);
+      overflow: auto;
+      -webkit-overflow-scrolling: touch;
+      padding-bottom: calc(20px + var(--safe-bottom));
+    }
+    .sheet.open { transform: translateY(0); }
+    .sheet-handle {
+      width: 40px; height: 5px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.22);
+      margin: 10px auto 6px;
+    }
+    .sheet-hero {
+      position: relative;
+      height: 240px;
+      overflow: hidden;
+    }
+    .sheet-hero img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      object-position: center top;
+      display: block;
+    }
+    .sheet-hero::after {
+      content: "";
+      position: absolute; inset: 0;
+      background: linear-gradient(180deg, transparent 30%, #121218 100%);
+    }
+    .sheet-body { padding: 0 20px 8px; margin-top: -48px; position: relative; }
+    .sheet-title {
+      margin: 0 0 10px;
+      font-size: 1.65rem;
+      font-weight: 850;
+      letter-spacing: -0.04em;
+      line-height: 1.1;
+    }
+    .sheet-meta {
+      display: flex; flex-wrap: wrap; gap: 8px;
+      align-items: center;
+      margin-bottom: 16px;
+      color: var(--muted);
+      font-size: 0.88rem;
+      font-weight: 560;
+    }
+    .sheet-syn {
+      margin: 0 0 22px;
+      color: rgba(255,255,255,0.82);
+      font-size: 0.98rem;
+      line-height: 1.45;
+    }
+    .sheet-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .sheet-primary {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      width: 100%;
+      border: none;
+      border-radius: 16px;
+      padding: 15px 16px;
+      font: 750 1rem/1 inherit;
+      color: #fff;
+      background: var(--accent);
+      cursor: pointer;
+      -webkit-appearance: none;
+      box-shadow: 0 10px 28px rgba(232,69,139,0.35);
+    }
+    .sheet-secondary {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .sheet-secondary a, .sheet-secondary button {
+      flex: 1 1 auto;
+      text-align: center;
+      border-radius: 14px;
+      padding: 12px 10px;
+      font: 650 0.85rem/1 inherit;
+      color: #fff;
+      background: rgba(255,255,255,0.08);
+      border: 0.5px solid rgba(255,255,255,0.12);
+      text-decoration: none;
+      cursor: pointer;
+      -webkit-appearance: none;
+      font-family: inherit;
+    }
+    .sheet-close {
+      position: absolute;
+      top: 12px; right: 12px;
+      z-index: 2;
+      width: 34px; height: 34px;
+      border-radius: 999px;
+      border: none;
+      background: rgba(0,0,0,0.45);
+      color: #fff;
+      font-size: 1.1rem;
+      cursor: pointer;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+
+    /* WhatsApp-style tab bar */
+    .tab-bar {
+      position: fixed;
+      bottom: calc(8px + var(--safe-bottom));
+      left: 12px; right: 12px;
+      z-index: 60;
+      max-width: 420px;
+      margin: 0 auto;
+      height: 64px;
+      border-radius: 999px;
+      padding: 4px;
       background:
         linear-gradient(180deg, rgba(255,255,255,0.14) 0%, rgba(255,255,255,0.04) 40%, rgba(255,255,255,0.03) 100%),
         rgba(40, 40, 44, 0.55);
@@ -102,436 +406,44 @@
       border: 0.5px solid rgba(255,255,255,0.28);
       box-shadow:
         0 10px 36px rgba(0,0,0,0.45),
-        0 2px 8px rgba(0,0,0,0.22),
-        inset 0 0.5px 0 rgba(255,255,255,0.38),
-        inset 0 -0.5px 0 rgba(255,255,255,0.06);
+        inset 0 0.5px 0 rgba(255,255,255,0.38);
       overflow: hidden;
-    }
-    .liquid-glass::after {
-      content: "";
-      position: absolute;
-      inset: 0;
-      border-radius: inherit;
-      pointer-events: none;
-      background: linear-gradient(180deg, rgba(255,255,255,0.12) 0%, transparent 32%, transparent 72%, rgba(255,255,255,0.04) 100%);
-    }
-
-    .glass {
-      position: relative;
-      background:
-        linear-gradient(180deg, rgba(255,255,255,0.12) 0%, rgba(255,255,255,0.04) 45%, rgba(255,255,255,0.03) 100%),
-        rgba(28, 28, 32, 0.45);
-      backdrop-filter: blur(28px) saturate(160%);
-      -webkit-backdrop-filter: blur(28px) saturate(160%);
-      border: 0.5px solid rgba(255,255,255,0.22);
-      border-radius: 22px;
-      box-shadow:
-        0 10px 36px rgba(0,0,0,0.32),
-        inset 0 0.5px 0 rgba(255,255,255,0.28);
-    }
-
-    header.app-header {
-      position: fixed;
-      top: calc(10px + var(--safe-top));
-      left: 14px;
-      right: 14px;
-      z-index: 40;
-      padding: 10px 12px;
-      border-radius: 22px;
-      max-width: 560px;
-      margin: 0 auto;
-      width: auto;
-      transform: scale(var(--chrome-scale));
-      transform-origin: top center;
-      transition: transform 0.45s var(--spring), padding 0.35s var(--ease), border-radius 0.35s var(--ease), opacity 0.3s var(--ease);
-    }
-    body.chrome-compact header.app-header {
-      padding: 7px 10px;
-      border-radius: 18px;
-      --chrome-scale: 0.94;
-      opacity: 0.97;
-    }
-    body.chrome-compact header.app-header .subtitle { display: none; }
-    body.chrome-compact header.app-header .brand-mark {
-      width: 34px;
-      height: 34px;
-      border-radius: 9px;
-    }
-    body.chrome-compact header.app-header h1 { font-size: 1rem; }
-    body.chrome-compact .install-hint { display: none; }
-
-    .brand { display: flex; align-items: center; gap: 11px; }
-    .brand-mark {
-      width: 40px;
-      height: 40px;
-      border-radius: 11px;
-      overflow: hidden;
-      flex-shrink: 0;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.28);
-      transition: width 0.35s var(--ease), height 0.35s var(--ease);
-    }
-    .brand-mark img { width: 100%; height: 100%; display: block; object-fit: cover; }
-    h1 {
-      margin: 0;
-      font-size: 1.08rem;
-      font-weight: 700;
-      letter-spacing: -0.03em;
-      transition: font-size 0.35s var(--ease);
-    }
-    .subtitle {
-      margin: 2px 0 0;
-      color: var(--text-secondary);
-      font-size: 0.74rem;
-      font-weight: 500;
-    }
-    .install-hint {
-      margin-top: 8px;
-      padding: 8px 10px;
-      border-radius: 14px;
-      background: rgba(255,255,255,0.06);
-      border: 0.5px solid rgba(255,255,255,0.12);
-      font-size: 0.74rem;
-      color: var(--text-secondary);
-      line-height: 1.35;
-    }
-    .install-hint strong { color: #fff; }
-    .install-hint.hidden { display: none !important; }
-
-    /* WhatsApp-like tab bar */
-    .tab-bar {
-      position: fixed;
-      bottom: calc(8px + var(--safe-bottom));
-      left: 12px;
-      right: 12px;
-      z-index: 40;
-      max-width: 420px;
-      margin: 0 auto;
-      height: 64px;
-      border-radius: 999px;
-      padding: 4px;
-      transform: scale(var(--chrome-scale));
-      transform-origin: bottom center;
-      transition: transform 0.45s var(--spring), height 0.35s var(--ease), opacity 0.3s var(--ease);
-    }
-    body.chrome-compact .tab-bar {
-      height: 56px;
-      --chrome-scale: 0.94;
-      opacity: 0.97;
     }
     .tab-bar-inner {
       position: relative;
       display: grid;
       grid-template-columns: repeat(4, 1fr);
-      align-items: stretch;
       height: 100%;
-      gap: 0;
     }
     .tab-pill {
       position: absolute;
-      top: 0;
-      left: 0;
-      height: 100%;
-      width: 25%;
+      top: 0; left: 0;
+      height: 100%; width: 25%;
       border-radius: 999px;
-      background: rgba(0, 0, 0, 0.45);
+      background: rgba(0,0,0,0.45);
       border: 0.5px solid rgba(255,255,255,0.10);
-      box-shadow:
-        inset 0 0.5px 0 rgba(255,255,255,0.12),
-        0 1px 4px rgba(0,0,0,0.25);
-      transform: translate3d(0, 0, 0);
+      transform: translate3d(0,0,0);
       transition: transform 0.48s var(--spring);
       pointer-events: none;
       z-index: 0;
-      will-change: transform;
     }
     .tab-btn {
-      position: relative;
-      z-index: 1;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
+      position: relative; z-index: 1;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
       gap: 3px;
-      border: none;
-      background: transparent;
+      border: none; background: transparent;
       color: rgba(255,255,255,0.92);
-      font-family: inherit;
-      font-size: 0.62rem;
-      font-weight: 700;
-      letter-spacing: -0.01em;
+      font: 700 0.62rem/1.1 inherit;
       padding: 4px 2px;
       cursor: pointer;
       -webkit-appearance: none;
-      appearance: none;
-      -webkit-tap-highlight-color: transparent;
-      transition: opacity 0.2s var(--ease);
     }
-    .tab-btn:active { opacity: 0.7; }
     .tab-btn svg {
-      width: 22px;
-      height: 22px;
-      stroke: currentColor;
-      fill: none;
+      width: 22px; height: 22px;
+      stroke: currentColor; fill: none;
       stroke-width: 1.8;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-    }
-    .tab-btn.active svg { stroke-width: 2.1; }
-    .tab-btn span { line-height: 1.1; }
-
-    /* Week chips under header / top of content */
-    .week-chips {
-      display: none;
-      gap: 8px;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
-      padding: 2px 2px 14px;
-      margin: 0 -2px;
-      -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 6%, #000 94%, transparent 100%);
-      mask-image: linear-gradient(90deg, transparent 0%, #000 6%, #000 94%, transparent 100%);
-    }
-    .week-chips.visible { display: flex; }
-    .week-chips::-webkit-scrollbar { display: none; }
-    .week-chip {
-      flex: 0 0 auto;
-      border: 0.5px solid rgba(255,255,255,0.22);
-      background: rgba(255,255,255,0.08);
-      backdrop-filter: blur(16px) saturate(160%);
-      -webkit-backdrop-filter: blur(16px) saturate(160%);
-      color: rgba(255,255,255,0.88);
-      border-radius: 999px;
-      padding: 7px 12px;
-      font-size: 0.75rem;
-      font-weight: 650;
-      font-family: inherit;
-      white-space: nowrap;
-      cursor: pointer;
-      -webkit-appearance: none;
-      appearance: none;
-    }
-    .week-chip.active {
-      background: rgba(0,0,0,0.4);
-      border-color: rgba(255,255,255,0.28);
-      color: #fff;
-      box-shadow: inset 0 0.5px 0 rgba(255,255,255,0.18);
-    }
-
-    main {
-      position: relative;
-      z-index: 1;
-      padding: 8px 14px 0;
-      max-width: 560px;
-      margin: 0 auto;
-    }
-    .week { margin-top: 10px; }
-    .week-title {
-      display: flex;
-      align-items: baseline;
-      justify-content: space-between;
-      gap: 8px;
-      padding: 4px 6px 12px;
-    }
-    .week-title h2 {
-      margin: 0;
-      font-size: 0.95rem;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-    }
-    .week-title .count {
-      color: var(--muted);
-      font-size: 0.75rem;
-      font-weight: 500;
-    }
-
-    .film {
-      display: grid;
-      grid-template-columns: 92px 1fr;
-      gap: 12px;
-      padding: 12px;
-      margin-bottom: 12px;
-      animation: cardIn 0.55s var(--ease) both;
-    }
-    .film:nth-child(2) { animation-delay: 0.03s; }
-    .film:nth-child(3) { animation-delay: 0.06s; }
-    .film:nth-child(4) { animation-delay: 0.09s; }
-    .film:nth-child(5) { animation-delay: 0.12s; }
-    @keyframes cardIn {
-      from { opacity: 0; transform: translateY(12px) scale(0.98); }
-      to { opacity: 1; transform: none; }
-    }
-
-    .poster {
-      width: 92px;
-      height: 138px;
-      border-radius: 14px;
-      object-fit: cover;
-      background: rgba(255,255,255,0.08);
-      display: block;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.35);
-    }
-    .poster-fallback {
-      width: 92px;
-      height: 138px;
-      border-radius: 14px;
-      background: linear-gradient(160deg, rgba(255,255,255,0.12), rgba(255,255,255,0.04));
-      display: grid;
-      place-items: center;
-      color: var(--muted);
-      font-size: 0.7rem;
-      text-align: center;
-      padding: 8px;
-    }
-    .film-body { min-width: 0; }
-    .film-title {
-      margin: 0 0 6px;
-      font-size: 1.02rem;
-      font-weight: 700;
-      line-height: 1.25;
-      letter-spacing: -0.02em;
-    }
-    .meta-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      align-items: center;
-      margin-bottom: 8px;
-    }
-    .badge {
-      display: inline-flex;
-      align-items: center;
-      background: rgba(232,69,139,0.28);
-      color: #ffc2da;
-      border: 0.5px solid rgba(255,150,190,0.4);
-      border-radius: 999px;
-      padding: 3px 9px;
-      font-size: 0.7rem;
-      font-weight: 650;
-    }
-    .meta {
-      color: var(--muted);
-      font-size: 0.74rem;
-      font-weight: 500;
-    }
-    .synopsis {
-      margin: 0;
-      color: var(--text-secondary);
-      font-size: 0.8rem;
-      line-height: 1.4;
-      display: -webkit-box;
-      -webkit-line-clamp: 4;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-    .status {
-      text-align: center;
-      color: var(--muted);
-      padding: 64px 16px;
-      font-size: 0.95rem;
-      position: relative;
-      z-index: 1;
-    }
-    footer {
-      position: relative;
-      z-index: 1;
-      text-align: center;
-      color: rgba(247,247,251,0.4);
-      font-size: 0.7rem;
-      padding: 28px 16px 8px;
-      line-height: 1.45;
-      max-width: 560px;
-      margin: 0 auto;
-    }
-    #appVersion {
-      display: inline-block;
-      margin-top: 4px;
-      padding: 2px 8px;
-      border-radius: 999px;
-      background: rgba(255,255,255,0.08);
-      border: 0.5px solid rgba(255,255,255,0.12);
-      color: rgba(247,247,251,0.55);
-      font-weight: 600;
-      letter-spacing: 0.02em;
-    }
-    .actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-      margin-top: 10px;
-    }
-    a.more {
-      color: var(--accent-soft);
-      text-decoration: none;
-      font-size: 0.75rem;
-      font-weight: 650;
-      display: inline-block;
-    }
-    button.cal-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
-      font-family: inherit;
-      font-size: 0.72rem;
-      font-weight: 650;
-      color: rgba(255,255,255,0.92);
-      border: 0.5px solid rgba(255,255,255,0.28);
-      background:
-        linear-gradient(180deg, rgba(255,255,255,0.14) 0%, rgba(255,255,255,0.04) 100%),
-        rgba(40,40,44,0.45);
-      backdrop-filter: blur(16px) saturate(170%);
-      -webkit-backdrop-filter: blur(16px) saturate(170%);
-      border-radius: 999px;
-      padding: 7px 12px;
-      line-height: 1.2;
-      cursor: pointer;
-      -webkit-tap-highlight-color: transparent;
-      -webkit-appearance: none;
-      appearance: none;
-      box-shadow:
-        inset 0 0.5px 0 rgba(255,255,255,0.35),
-        0 4px 14px rgba(0,0,0,0.2);
-      transition: transform 0.2s var(--ease);
-    }
-    button.cal-btn:active { transform: scale(0.97); }
-    button.cal-btn svg {
-      width: 13px;
-      height: 13px;
-      flex-shrink: 0;
-    }
-    a.cal-alt, button.cal-alt {
-      color: var(--muted);
-      text-decoration: underline;
-      text-underline-offset: 2px;
-      font-size: 0.68rem;
-      font-weight: 500;
-      font-family: inherit;
-      background: none;
-      border: none;
-      padding: 0;
-      cursor: pointer;
-      -webkit-appearance: none;
-      appearance: none;
-    }
-    .cal-alts {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: 4px 6px;
-    }
-    .cal-sep { color: rgba(255,255,255,0.28); font-size: 0.68rem; }
-    .cal-hint {
-      margin: 2px 0 0;
-      color: #ffc2ce;
-      font-size: 0.68rem;
-      line-height: 1.35;
-      max-width: 220px;
-    }
-    .actions-col {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 5px;
+      stroke-linecap: round; stroke-linejoin: round;
     }
 
     @media (prefers-reduced-motion: reduce) {
@@ -539,89 +451,105 @@
         animation: none !important;
         transition: none !important;
       }
-      .tab-pill { transition: none !important; }
-      header.app-header, .tab-bar { transition: none !important; }
     }
   </style>
 </head>
 <body>
-  <div class="ambient" aria-hidden="true">
-    <div class="ambient-mesh"></div>
-    <div class="ambient-poster" id="ambientPoster"></div>
-    <div class="ambient-vignette"></div>
-  </div>
-
-  <header class="app-header liquid-glass" id="appHeader">
-    <div class="brand">
-      <div class="brand-mark" aria-hidden="true">
-        <img src="icons/icon-180.png?v=12" alt="" width="44" height="44" />
-      </div>
-      <div>
-        <h1>Sorties Ciné France</h1>
-        <p class="subtitle" id="metaLine">Chargement…</p>
-      </div>
-    </div>
-    <div class="install-hint" id="installHint">
-      <strong>Sur iPhone :</strong> Safari → bouton Partager → <strong>Sur l’écran d’accueil</strong>.
-    </div>
+  <header class="topbar">
+    <img src="icons/icon-180.png?v=13" alt="" width="36" height="36" />
+    <h1>Sorties Ciné</h1>
   </header>
 
-  <div class="content-wrap" style="position:relative;z-index:1;max-width:560px;margin:0 auto;padding:0 14px;">
+  <div class="wrap">
+    <section class="hero" id="hero" aria-label="Cette semaine"></section>
     <div class="week-chips" id="weekChips" aria-label="Semaines"></div>
+    <div class="section-label" id="sectionLabel">Chargement…</div>
+    <div id="grid" class="grid"></div>
+    <div id="empty" class="empty" hidden>Aucune sortie pour ce filtre.</div>
+    <footer class="foot" id="footer"></footer>
   </div>
-  <main id="app">
-    <div class="status">Chargement des sorties…</div>
-  </main>
-  <footer id="footer"></footer>
 
-  <nav class="tab-bar liquid-glass" id="tabBar" aria-label="Navigation">
+  <div class="sheet-backdrop" id="sheetBackdrop"></div>
+  <aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle" hidden>
+    <div class="sheet-handle"></div>
+    <button type="button" class="sheet-close" id="sheetClose" aria-label="Fermer">✕</button>
+    <div class="sheet-hero" id="sheetHero"></div>
+    <div class="sheet-body">
+      <h2 class="sheet-title" id="sheetTitle"></h2>
+      <div class="sheet-meta" id="sheetMeta"></div>
+      <p class="sheet-syn" id="sheetSyn"></p>
+      <div class="sheet-actions">
+        <button type="button" class="sheet-primary" id="sheetCal">Ajouter au calendrier</button>
+        <div class="sheet-secondary">
+          <a id="sheetGcal" href="#" rel="noopener">Google Agenda</a>
+          <button type="button" id="sheetCopy">Copier le lien</button>
+          <a id="sheetAllocine" href="#" target="_blank" rel="noopener">AlloCiné</a>
+        </div>
+        <p class="sheet-hint" id="sheetHint" hidden style="margin:4px 0 0;color:#ffc2ce;font-size:0.75rem;line-height:1.35;"></p>
+      </div>
+    </div>
+  </aside>
+
+  <nav class="tab-bar" id="tabBar" aria-label="Navigation">
     <div class="tab-bar-inner" id="tabBarInner">
       <div class="tab-pill" id="tabPill" aria-hidden="true"></div>
-      <button type="button" class="tab-btn active" data-tab="all"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.5"/></svg><span>Toutes</span></button>
-      <button type="button" class="tab-btn" data-tab="this"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><circle cx="12" cy="15.5" r="1.6" fill="currentColor" stroke="none"/></svg><span>Cette sem.</span></button>
-      <button type="button" class="tab-btn" data-tab="next"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><path d="M10.5 15.5h5M13.5 12.5v6"/></svg><span>Prochaine</span></button>
-      <button type="button" class="tab-btn" data-tab="later"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><path d="M8 14h3.5M12.5 14H16M8 17.5h3.5M12.5 17.5H16"/></svg><span>Plus tard</span></button>
+      <button type="button" class="tab-btn active" data-tab="all">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.5"/></svg>
+        <span>Toutes</span>
+      </button>
+      <button type="button" class="tab-btn" data-tab="this">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><circle cx="12" cy="15.5" r="1.6" fill="currentColor" stroke="none"/></svg>
+        <span>Cette sem.</span>
+      </button>
+      <button type="button" class="tab-btn" data-tab="next">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><path d="M10.5 15.5h5M13.5 12.5v6"/></svg>
+        <span>Prochaine</span>
+      </button>
+      <button type="button" class="tab-btn" data-tab="later">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><path d="M8 14h3.5M12.5 14H16M8 17.5h3.5M12.5 17.5H16"/></svg>
+        <span>Plus tard</span>
+      </button>
     </div>
   </nav>
 
   <script>
-    const APP_VERSION = 'v12';
+    const APP_VERSION = 'v13';
     const MONTHS_FR = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
-    const DAYS_FR = ['dimanche','lundi','mardi','mercredi','jeudi','vendredi','samedi'];
+    const MONTHS_SHORT = ['janv.','févr.','mars','avr.','mai','juin','juil.','août','sept.','oct.','nov.','déc.'];
+
+    const state = { data: null, tab: 'all', week: null, openFilm: null };
 
     function parseISO(d) {
       const [y,m,day] = d.split('-').map(Number);
       return new Date(y, m-1, day);
     }
-    function formatLong(d) {
+    function isoDate(d) {
+      return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+    }
+    function nextWednesdayOnOrAfter(d) {
+      const x = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+      x.setDate(x.getDate() + ((3 - x.getDay() + 7) % 7));
+      return x;
+    }
+    function formatChip(d) {
       const dt = parseISO(d);
-      return `${DAYS_FR[dt.getDay()]} ${dt.getDate()} ${MONTHS_FR[dt.getMonth()]} ${dt.getFullYear()}`;
+      return `${dt.getDate()} ${MONTHS_SHORT[dt.getMonth()]}`;
     }
     function formatShort(d) {
       const dt = parseISO(d);
       return `${dt.getDate()} ${MONTHS_FR[dt.getMonth()]}`;
     }
-    function formatChip(d) {
-      const dt = parseISO(d);
-      const mon = MONTHS_FR[dt.getMonth()].slice(0, 3);
-      return `${dt.getDate()} ${mon}.`;
-    }
-    function weekKey(iso) { return iso; }
-    function weekLabel(iso) { return `Sorties du ${formatShort(iso)}`; }
     function escapeHtml(s) {
       return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
     }
-
     function isStandalonePwa() {
       return window.navigator.standalone === true ||
         window.matchMedia('(display-mode: standalone)').matches;
     }
-
     function absoluteIcsUrl(filmId) {
       const base = window.location.origin + window.location.pathname.replace(/\/[^/]*$/, '/');
       return new URL(`ics/${filmId}.ics`, base).href;
     }
-
     function googleCalendarUrl(f) {
       const start = f.releaseDate.replace(/-/g, '');
       const endDate = new Date(f.releaseDate + 'T12:00:00');
@@ -635,328 +563,243 @@
       if (f.synopsis) details += (details ? '\n\n' : '') + f.synopsis;
       if (f.allocineUrl) details += (details ? '\n\n' : '') + f.allocineUrl;
       const params = new URLSearchParams({
-        action: 'TEMPLATE',
-        text: title,
-        dates: `${start}/${end}`,
-        details: details,
-        ctz: 'Europe/Paris'
+        action: 'TEMPLATE', text: title, dates: `${start}/${end}`, details, ctz: 'Europe/Paris'
       });
       if (f.allocineUrl) params.set('location', f.allocineUrl);
       return `https://calendar.google.com/calendar/render?${params.toString()}`;
     }
-
     function openIcsForCalendar(httpsUrl, hintEl) {
       if (!isStandalonePwa()) {
         window.location.href = httpsUrl;
         return;
       }
       const safariUrl = httpsUrl.replace(/^https:\/\//i, 'x-safari-https://');
-      const revealHint = () => {
+      const reveal = () => {
         if (hintEl) {
           hintEl.hidden = false;
-          hintEl.textContent = 'Si rien ne s’ouvre : utilisez « Google Agenda » ou « Copier le lien » puis collez-le dans Safari.';
+          hintEl.textContent = 'Si rien ne s’ouvre : Google Agenda ou Copier le lien → coller dans Safari.';
         }
       };
       const onHide = () => {
         if (document.hidden) {
-          clearTimeout(fallbackTimer);
+          clearTimeout(t);
           document.removeEventListener('visibilitychange', onHide);
         }
       };
       document.addEventListener('visibilitychange', onHide);
-      const fallbackTimer = setTimeout(() => {
-        document.removeEventListener('visibilitychange', onHide);
-        revealHint();
-      }, 1000);
-      try {
-        window.location.href = safariUrl;
-      } catch (e) {
-        clearTimeout(fallbackTimer);
-        document.removeEventListener('visibilitychange', onHide);
-        revealHint();
-      }
+      const t = setTimeout(() => { document.removeEventListener('visibilitychange', onHide); reveal(); }, 1000);
+      try { window.location.href = safariUrl; }
+      catch (e) { clearTimeout(t); document.removeEventListener('visibilitychange', onHide); reveal(); }
     }
-
-    function bindCalendarButtons(root) {
-      root.querySelectorAll('[data-cal-ics]').forEach((btn) => {
-        btn.addEventListener('click', (e) => {
-          e.preventDefault();
-          const url = btn.getAttribute('data-cal-ics');
-          if (!url) return;
-          const wrap = btn.closest('.actions-col');
-          const hint = wrap ? wrap.querySelector('[data-cal-hint]') : null;
-          openIcsForCalendar(url, hint);
-        });
-      });
-      root.querySelectorAll('[data-cal-copy]').forEach((btn) => {
-        btn.addEventListener('click', async (e) => {
-          e.preventDefault();
-          const url = btn.getAttribute('data-cal-copy');
-          const wrap = btn.closest('.actions-col');
-          const hint = wrap ? wrap.querySelector('[data-cal-hint]') : null;
-          try {
-            await navigator.clipboard.writeText(url);
-            btn.textContent = 'Lien copié ✓';
-            if (hint) {
-              hint.hidden = false;
-              hint.textContent = 'Ouvrez Safari, collez le lien dans la barre d’adresse, puis validez → Ajouter à Calendrier.';
-            }
-            setTimeout(() => { btn.textContent = 'Copier le lien'; }, 2500);
-          } catch (err) {
-            if (hint) {
-              hint.hidden = false;
-              hint.textContent = 'Copie impossible. Ouvrez Safari et allez sur : ' + url;
-            } else {
-              prompt('Copiez ce lien dans Safari :', url);
-            }
-          }
-        });
-      });
-    }
-
-    function groupByWeek(films) {
-      const map = new Map();
-      for (const f of films) {
-        const k = weekKey(f.releaseDate);
-        if (!map.has(k)) map.set(k, []);
-        map.get(k).push(f);
-      }
-      return [...map.entries()].sort((a,b) => a[0].localeCompare(b[0]));
-    }
-
-    function setAmbientPoster(url) {
-      const el = document.getElementById('ambientPoster');
-      if (!el || !url) return;
-      el.style.backgroundImage = `url("${url}")`;
-    }
-
-    function filmCard(f) {
-      const metaBits = [];
-      if (f.duration) metaBits.push(escapeHtml(f.duration));
-      if (f.genres && f.genres.length) metaBits.push(escapeHtml(f.genres.slice(0, 2).join(', ')));
-      const poster = f.poster
-        ? `<img class="poster" src="${escapeHtml(f.poster)}" alt="Affiche de ${escapeHtml(f.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'poster-fallback',textContent:'Pas d’affiche'}))" />`
-        : `<div class="poster-fallback">Pas d’affiche</div>`;
-      const synopsis = f.synopsis ? `<p class="synopsis">${escapeHtml(f.synopsis)}</p>` : '';
-      const more = f.allocineUrl ? `<a class="more" href="${escapeHtml(f.allocineUrl)}" target="_blank" rel="noopener">Voir sur AlloCiné</a>` : '';
-      const icsAbs = absoluteIcsUrl(f.id);
-      const gcal = googleCalendarUrl(f);
-      const calSvg = `<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2" stroke="currentColor" stroke-width="2"/><path d="M3 10h18" stroke="currentColor" stroke-width="2"/><path d="M8 3v4M16 3v4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>`;
-      const cal = `<div class="actions-col">
-        <button type="button" class="cal-btn" data-cal-ics="${escapeHtml(icsAbs)}">${calSvg}<span>Ajouter au calendrier</span></button>
-        <div class="cal-alts">
-          <a class="cal-alt" href="${escapeHtml(gcal)}" rel="noopener">Google Agenda</a>
-          <span class="cal-sep">·</span>
-          <button type="button" class="cal-alt" data-cal-copy="${escapeHtml(icsAbs)}">Copier le lien</button>
-        </div>
-        <p class="cal-hint" data-cal-hint hidden></p>
-      </div>`;
-      return `<article class="film glass" id="film-${escapeHtml(f.id)}">
-        ${poster}
-        <div class="film-body">
-          <h3 class="film-title">${escapeHtml(f.title)}</h3>
-          <div class="meta-row">
-            <span class="badge">${escapeHtml(formatChip(f.releaseDate))}</span>
-            <span class="meta">${metaBits.join(' · ')}</span>
-          </div>
-          ${synopsis}
-          <div class="actions">${cal}${more}</div>
-        </div>
-      </article>`;
-    }
-
-    function render(data) {
-      if (!data) return;
-      appState.data = data;
-      const films = filmsForState();
-      const groups = groupByWeek(films);
-      const app = document.getElementById('app');
-      if (!groups.length) {
-        app.innerHTML = `<div class="status">Aucune sortie pour ce filtre.</div>`;
-        return;
-      }
-      const firstPoster = films.find(f => f.poster);
-      if (firstPoster) setAmbientPoster(firstPoster.poster);
-
-      app.innerHTML = groups.map(([week, list]) => `
-        <section class="week" id="week-${week}">
-          <div class="week-title">
-            <h2>${escapeHtml(weekLabel(week))}</h2>
-            <span class="count">${list.length} film${list.length > 1 ? 's' : ''}</span>
-          </div>
-          ${list.map(filmCard).join('')}
-        </section>
-      `).join('');
-      bindCalendarButtons(app);
-    }
-
-    function nextWednesdayOnOrAfter(d) {
-      const x = new Date(d.getFullYear(), d.getMonth(), d.getDate());
-      const day = x.getDay(); // 0 Sun .. 3 Wed
-      const add = (3 - day + 7) % 7;
-      x.setDate(x.getDate() + add);
-      return x;
-    }
-    function isoDate(d) {
-      const y = d.getFullYear();
-      const m = String(d.getMonth() + 1).padStart(2, '0');
-      const day = String(d.getDate()).padStart(2, '0');
-      return `${y}-${m}-${day}`;
-    }
-
-    let appState = {
-      data: null,
-      tab: 'all',       // all | this | next | later
-      week: null,       // optional specific week ISO
-    };
 
     function weekBuckets(data) {
       const weeks = [...new Set(data.films.map(f => f.releaseDate))].sort();
-      const today = new Date();
-      const thisW = isoDate(nextWednesdayOnOrAfter(today));
-      const nextDt = nextWednesdayOnOrAfter(today);
-      nextDt.setDate(nextDt.getDate() + 7);
-      const nextW = isoDate(nextDt);
+      const thisW = isoDate(nextWednesdayOnOrAfter(new Date()));
+      const n = nextWednesdayOnOrAfter(new Date());
+      n.setDate(n.getDate() + 7);
+      const nextW = isoDate(n);
       return { weeks, thisW, nextW };
     }
 
     function filmsForState() {
-      const data = appState.data;
+      const data = state.data;
       if (!data) return [];
-      const { thisW, nextW, weeks } = weekBuckets(data);
+      const { thisW, nextW } = weekBuckets(data);
       let list = data.films;
-      if (appState.tab === 'this') {
-        list = list.filter(f => f.releaseDate === thisW);
-      } else if (appState.tab === 'next') {
-        list = list.filter(f => f.releaseDate === nextW);
-      } else if (appState.tab === 'later') {
-        list = list.filter(f => f.releaseDate > nextW);
-      }
-      if (appState.week) {
-        list = list.filter(f => f.releaseDate === appState.week);
-      }
+      if (state.tab === 'this') list = list.filter(f => f.releaseDate === thisW);
+      else if (state.tab === 'next') list = list.filter(f => f.releaseDate === nextW);
+      else if (state.tab === 'later') list = list.filter(f => f.releaseDate > nextW);
+      if (state.week) list = list.filter(f => f.releaseDate === state.week);
       return list;
     }
 
-    function chipsWeeksForTab() {
-      const data = appState.data;
-      if (!data) return [];
-      const { weeks, thisW, nextW } = weekBuckets(data);
-      if (appState.tab === 'all') return weeks;
-      if (appState.tab === 'this') return weeks.filter(w => w === thisW);
-      if (appState.tab === 'next') return weeks.filter(w => w === nextW);
-      if (appState.tab === 'later') return weeks.filter(w => w > nextW);
+    function chipsWeeks() {
+      const { weeks, thisW, nextW } = weekBuckets(state.data);
+      if (state.tab === 'this') return weeks.filter(w => w === thisW);
+      if (state.tab === 'next') return weeks.filter(w => w === nextW);
+      if (state.tab === 'later') return weeks.filter(w => w > nextW);
       return weeks;
     }
 
     function moveTabPill(btn, instant) {
       const pill = document.getElementById('tabPill');
       const inner = document.getElementById('tabBarInner');
-      if (!pill || !inner || !btn) return;
       const idx = [...inner.querySelectorAll('.tab-btn')].indexOf(btn);
       if (idx < 0) return;
       if (instant) pill.style.transition = 'none';
-      pill.style.transform = `translate3d(${idx * 100}%, 0, 0)`;
-      if (instant) {
-        void pill.offsetWidth;
-        pill.style.transition = '';
-      }
+      pill.style.transform = `translate3d(${idx * 100}%,0,0)`;
+      if (instant) { void pill.offsetWidth; pill.style.transition = ''; }
     }
 
-    function renderWeekChips() {
-      const el = document.getElementById('weekChips');
-      if (!el) return;
-      const weeks = chipsWeeksForTab();
-      // Show chips when multiple weeks available for current tab (or always for all/later)
-      const show = weeks.length > 1 || (appState.tab === 'all' && weeks.length > 0);
-      if (!show) {
-        el.classList.remove('visible');
-        el.innerHTML = '';
+    function renderHero(films) {
+      const hero = document.getElementById('hero');
+      const { thisW } = weekBuckets(state.data);
+      const show = state.tab === 'this' || (state.tab === 'all' && !state.week);
+      const pool = (state.tab === 'this' || show)
+        ? state.data.films.filter(f => f.releaseDate === thisW)
+        : [];
+      if (!show || !pool.length) {
+        hero.classList.remove('visible');
+        hero.innerHTML = '';
         return;
       }
+      const top = pool.find(f => f.poster) || pool[0];
+      hero.classList.add('visible');
+      const color = top.color || '#E8458B';
+      hero.innerHTML = `
+        <div class="hero-bg" style="background-image:url('${escapeHtml(top.poster || '')}'); background-color:${escapeHtml(color)}"></div>
+        <div class="hero-scrim"></div>
+        <div class="hero-body">
+          <div class="hero-kicker">Cette semaine · ${escapeHtml(formatChip(thisW))}</div>
+          <h2 class="hero-title">${escapeHtml(top.title)}</h2>
+          <div class="hero-meta">${pool.length} sortie${pool.length > 1 ? 's' : ''}${top.genres && top.genres[0] ? ' · ' + escapeHtml(top.genres[0]) : ''}</div>
+        </div>`;
+      hero.onclick = () => openSheet(top);
+    }
+
+    function renderChips() {
+      const el = document.getElementById('weekChips');
+      const weeks = chipsWeeks();
+      const show = weeks.length > 1;
+      if (!show) { el.classList.remove('visible'); el.innerHTML = ''; return; }
       el.classList.add('visible');
-      const activeWeek = appState.week;
-      el.innerHTML = `<button type="button" class="week-chip ${!activeWeek ? 'active' : ''}" data-week="">Toutes</button>` +
-        weeks.map(w =>
-          `<button type="button" class="week-chip ${activeWeek === w ? 'active' : ''}" data-week="${w}">${escapeHtml(formatChip(w))}</button>`
-        ).join('');
+      el.innerHTML = `<button type="button" class="week-chip ${!state.week ? 'active' : ''}" data-week="">Toutes</button>` +
+        weeks.map(w => `<button type="button" class="week-chip ${state.week === w ? 'active' : ''}" data-week="${w}">${escapeHtml(formatChip(w))}</button>`).join('');
       el.onclick = (e) => {
-        const btn = e.target.closest('.week-chip');
-        if (!btn) return;
-        appState.week = btn.dataset.week || null;
-        renderWeekChips();
-        render(appState.data);
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        const b = e.target.closest('.week-chip');
+        if (!b) return;
+        state.week = b.dataset.week || null;
+        renderAll();
       };
+    }
+
+    function cardHTML(f, i) {
+      const color = f.color || '#555';
+      const poster = f.poster
+        ? `<img class="card-poster" src="${escapeHtml(f.poster)}" alt="" loading="lazy" referrerpolicy="no-referrer" />`
+        : `<div class="card-poster-fallback">Affiche</div>`;
+      return `<button type="button" class="card" data-id="${escapeHtml(f.id)}" style="--c:${escapeHtml(color)};animation-delay:${Math.min(i, 12) * 0.03}s">
+        ${poster}
+        <div class="card-foot">
+          <h3 class="card-title">${escapeHtml(f.title)}</h3>
+          <span class="badge">${escapeHtml(formatChip(f.releaseDate))}</span>
+        </div>
+      </button>`;
+    }
+
+    function renderGrid() {
+      const films = filmsForState();
+      const grid = document.getElementById('grid');
+      const empty = document.getElementById('empty');
+      const label = document.getElementById('sectionLabel');
+      const labels = { all: 'Toutes les sorties', this: 'Cette semaine', next: 'Prochaine semaine', later: 'Plus tard' };
+      label.textContent = state.week ? `Semaine du ${formatShort(state.week)}` : (labels[state.tab] || '');
+      if (!films.length) {
+        grid.innerHTML = '';
+        empty.hidden = false;
+        return;
+      }
+      empty.hidden = true;
+      grid.innerHTML = films.map((f, i) => cardHTML(f, i)).join('');
+      grid.onclick = (e) => {
+        const card = e.target.closest('.card');
+        if (!card) return;
+        const film = state.data.films.find(x => x.id === card.dataset.id);
+        if (film) openSheet(film);
+      };
+    }
+
+    function renderAll() {
+      const films = filmsForState();
+      renderHero(films);
+      renderChips();
+      renderGrid();
+    }
+
+    function openSheet(f) {
+      state.openFilm = f;
+      const sheet = document.getElementById('sheet');
+      const backdrop = document.getElementById('sheetBackdrop');
+      document.getElementById('sheetTitle').textContent = f.title;
+      const bits = [];
+      bits.push(formatChip(f.releaseDate));
+      if (f.duration) bits.push(f.duration);
+      if (f.genres && f.genres.length) bits.push(f.genres.slice(0, 2).join(', '));
+      document.getElementById('sheetMeta').innerHTML =
+        `<span class="badge" style="background:${escapeHtml(f.color || '#E8458B')}">${escapeHtml(formatChip(f.releaseDate))}</span>` +
+        `<span>${escapeHtml(bits.slice(1).join(' · '))}</span>`;
+      document.getElementById('sheetSyn').textContent = f.synopsis || 'Pas de synopsis.';
+      const hero = document.getElementById('sheetHero');
+      hero.innerHTML = f.poster
+        ? `<img src="${escapeHtml(f.poster)}" alt="" referrerpolicy="no-referrer" />`
+        : `<div style="height:100%;background:${escapeHtml(f.color || '#333')}"></div>`;
+      const ics = absoluteIcsUrl(f.id);
+      document.getElementById('sheetCal').onclick = () =>
+        openIcsForCalendar(ics, document.getElementById('sheetHint'));
+      document.getElementById('sheetGcal').href = googleCalendarUrl(f);
+      document.getElementById('sheetAllocine').href = f.allocineUrl || '#';
+      document.getElementById('sheetAllocine').style.display = f.allocineUrl ? '' : 'none';
+      document.getElementById('sheetCopy').onclick = async () => {
+        const hint = document.getElementById('sheetHint');
+        try {
+          await navigator.clipboard.writeText(ics);
+          hint.hidden = false;
+          hint.textContent = 'Lien copié — collez-le dans Safari pour ajouter à Calendrier.';
+        } catch (e) {
+          hint.hidden = false;
+          hint.textContent = ics;
+        }
+      };
+      document.getElementById('sheetHint').hidden = true;
+      sheet.hidden = false;
+      requestAnimationFrame(() => {
+        sheet.classList.add('open');
+        backdrop.classList.add('open');
+      });
+    }
+
+    function closeSheet() {
+      const sheet = document.getElementById('sheet');
+      const backdrop = document.getElementById('sheetBackdrop');
+      sheet.classList.remove('open');
+      backdrop.classList.remove('open');
+      setTimeout(() => { sheet.hidden = true; state.openFilm = null; }, 320);
     }
 
     function setupTabs() {
       const inner = document.getElementById('tabBarInner');
-      if (!inner) return;
       inner.querySelectorAll('.tab-btn').forEach((btn) => {
         btn.addEventListener('click', () => {
           inner.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b === btn));
           moveTabPill(btn, false);
-          appState.tab = btn.dataset.tab || 'all';
-          appState.week = null;
-          renderWeekChips();
-          render(appState.data);
+          state.tab = btn.dataset.tab || 'all';
+          state.week = null;
+          renderAll();
           window.scrollTo({ top: 0, behavior: 'smooth' });
         });
       });
-      const active = inner.querySelector('.tab-btn.active');
-      moveTabPill(active, true);
-    }
-
-    function setupChromeScroll() {
-      let lastY = window.scrollY || 0;
-      let ticking = false;
-      const update = () => {
-        ticking = false;
-        const y = window.scrollY || 0;
-        const delta = y - lastY;
-        if (y < 24) {
-          document.body.classList.remove('chrome-compact');
-        } else if (delta > 6) {
-          document.body.classList.add('chrome-compact');
-        } else if (delta < -6) {
-          document.body.classList.remove('chrome-compact');
-        }
-        lastY = y;
-      };
-      window.addEventListener('scroll', () => {
-        if (!ticking) {
-          ticking = true;
-          requestAnimationFrame(update);
-        }
-      }, { passive: true });
-    }
-
-    function hideInstallIfStandalone() {
-      if (isStandalonePwa()) document.getElementById('installHint').classList.add('hidden');
+      moveTabPill(inner.querySelector('.tab-btn.active'), true);
     }
 
     async function main() {
-      hideInstallIfStandalone();
+      setupTabs();
+      document.getElementById('sheetClose').onclick = closeSheet;
+      document.getElementById('sheetBackdrop').onclick = closeSheet;
       try {
         const res = await fetch('data.json', { cache: 'no-cache' });
         if (!res.ok) throw new Error('HTTP ' + res.status);
-        const data = await res.json();
-        document.getElementById('metaLine').textContent =
-          `${data.count} films · ${formatShort(data.from)} → ${formatShort(data.to)}`;
+        state.data = await res.json();
         document.getElementById('footer').innerHTML =
-          `Données : ${escapeHtml(data.source)} · Màj ${escapeHtml((data.generatedAt || '').slice(0,10))}<br/>Dates de sortie officielle en France (souvent le mercredi).<br/><span id="appVersion">${APP_VERSION}</span>`;
-        if (data.films && data.films[0] && data.films[0].poster) {
-          setAmbientPoster(data.films[0].poster);
+          `Données : ${escapeHtml(state.data.source)} · Màj ${escapeHtml((state.data.generatedAt || '').slice(0,10))}<br/>Dates de sortie officielle en France.<br/><span id="appVersion">${APP_VERSION}</span>`;
+        renderAll();
+        if (new URLSearchParams(location.search).get('detail') === '1') {
+          const f = state.data.films.find(x => x.poster) || state.data.films[0];
+          if (f) setTimeout(() => openSheet(f), 200);
         }
-        appState.data = data;
-        setupTabs();
-        renderWeekChips();
-        render(data);
-        setupChromeScroll();
       } catch (err) {
-        document.getElementById('app').innerHTML =
-          `<div class="status">Impossible de charger les sorties.<br/><small>${escapeHtml(err.message)}</small></div>`;
+        document.getElementById('sectionLabel').textContent = 'Erreur';
+        document.getElementById('empty').hidden = false;
+        document.getElementById('empty').textContent = 'Impossible de charger les sorties.';
       }
     }
 
@@ -967,8 +810,7 @@
         refreshing = true;
         window.location.reload();
       });
-
-      async function setupSW() {
+      window.addEventListener('load', async () => {
         try {
           const reg = await navigator.serviceWorker.register('./sw.js', { updateViaCache: 'none' });
           const poke = () => { try { reg.update(); } catch (e) {} };
@@ -987,8 +829,7 @@
             });
           });
         } catch (e) {}
-      }
-      window.addEventListener('load', setupSW);
+      });
     }
     main();
   </script>

@@ -20,7 +20,8 @@
       "directors": [
         "Abderrahmane Sissako"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051533.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051533.html",
+      "color": "#8b8b8b"
     },
     {
       "id": "313150",
@@ -35,7 +36,8 @@
       "directors": [
         "Kantemir Balagov"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313150.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313150.html",
+      "color": "#edd803"
     },
     {
       "id": "1000040606",
@@ -54,7 +56,8 @@
       "directors": [
         "Tetsuo Yajima"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040606.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040606.html",
+      "color": "#00aaf1"
     },
     {
       "id": "1000019249",
@@ -70,7 +73,8 @@
       "directors": [
         "Elie Semoun"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html",
+      "color": "#009fcc"
     },
     {
       "id": "1000030290",
@@ -85,7 +89,8 @@
       "directors": [
         "Alexandre Arcady"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030290.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030290.html",
+      "color": "#692a03"
     },
     {
       "id": "302738",
@@ -102,7 +107,8 @@
       "directors": [
         "Edmunds Jansons"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302738.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302738.html",
+      "color": "#4ba475"
     },
     {
       "id": "285141",
@@ -118,7 +124,8 @@
       "directors": [
         "Sarah Arnold"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=285141.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=285141.html",
+      "color": "#b48148"
     },
     {
       "id": "1000031247",
@@ -133,7 +140,8 @@
       "directors": [
         "Claude Zidi Jr."
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031247.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031247.html",
+      "color": "#0785c3"
     },
     {
       "id": "1000012178",
@@ -148,7 +156,8 @@
       "directors": [
         "Zhiqi Pan"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012178.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012178.html",
+      "color": "#489326"
     },
     {
       "id": "1000045582",
@@ -166,7 +175,8 @@
         "Noé Garcia",
         "Erwann Hette"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045582.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045582.html",
+      "color": "#ef0627"
     },
     {
       "id": "1000038349",
@@ -181,7 +191,8 @@
       "directors": [
         "Jean-Pierre Bekolo"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038349.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038349.html",
+      "color": "#c8670c"
     },
     {
       "id": "1000037443",
@@ -197,7 +208,8 @@
       "directors": [
         "Adrian Chiarella"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037443.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037443.html",
+      "color": "#2b4c4c"
     },
     {
       "id": "1000018994",
@@ -212,7 +224,8 @@
       "directors": [
         "Toshizo Fujiwara"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018994.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018994.html",
+      "color": "#e67909"
     },
     {
       "id": "1000023992",
@@ -227,7 +240,8 @@
       "directors": [
         "Marc Fitoussi"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023992.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023992.html",
+      "color": "#f2002c"
     },
     {
       "id": "1000048424",
@@ -243,7 +257,8 @@
       "directors": [
         "Natasha Mashkevich"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048424.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048424.html",
+      "color": "#8c8c8c"
     },
     {
       "id": "1000039188",
@@ -258,7 +273,8 @@
       "directors": [
         "Maxime-Claude L'Ecuyer"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039188.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039188.html",
+      "color": "#8c8c8c"
     },
     {
       "id": "1000039641",
@@ -273,7 +289,8 @@
       "directors": [
         "Antoine Fromental"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039641.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039641.html",
+      "color": "#ecaa1f"
     },
     {
       "id": "1000026649",
@@ -288,7 +305,8 @@
       "directors": [
         "Aaron Sorkin"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026649.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026649.html",
+      "color": "#a06a54"
     },
     {
       "id": "299748",
@@ -303,7 +321,8 @@
       "directors": [
         "Valentina Maurel"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=299748.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=299748.html",
+      "color": "#0089cf"
     },
     {
       "id": "272376",
@@ -318,7 +337,8 @@
       "directors": [
         "Michael Dalton-Smith"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272376.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272376.html",
+      "color": "#ff7d08"
     },
     {
       "id": "318791",
@@ -333,7 +353,8 @@
       "directors": [
         "Brian Duffield"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html",
+      "color": "#0093a2"
     },
     {
       "id": "1000036827",
@@ -348,7 +369,8 @@
       "directors": [
         "Cheyenne Carron"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036827.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036827.html",
+      "color": "#5990b7"
     },
     {
       "id": "1000048944",
@@ -365,7 +387,8 @@
         "Isabelle Dario",
         "Vincent Glenn"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048944.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048944.html",
+      "color": "#71b89e"
     },
     {
       "id": "1000035013",
@@ -380,7 +403,8 @@
       "directors": [
         "Toon Wang"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.html",
+      "color": "#95313d"
     },
     {
       "id": "321790",
@@ -395,7 +419,8 @@
       "directors": [
         "Louis Clichy"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.html",
+      "color": "#6c8dac"
     },
     {
       "id": "1000039457",
@@ -410,7 +435,8 @@
       "directors": [
         "Hong Sang-soo"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "326160",
@@ -426,7 +452,8 @@
       "directors": [
         "Fred Cavayé"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326160.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326160.html",
+      "color": "#c9734d"
     },
     {
       "id": "1000019091",
@@ -441,7 +468,8 @@
       "directors": [
         "Eivind Landsvik"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019091.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019091.html",
+      "color": "#558452"
     },
     {
       "id": "1000051724",
@@ -456,7 +484,8 @@
       "directors": [
         "Jean-Marc Merlent"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051724.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051724.html",
+      "color": "#8f4e22"
     },
     {
       "id": "1000023068",
@@ -471,7 +500,8 @@
       "directors": [
         "Rob Savage"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023068.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023068.html",
+      "color": "#624127"
     },
     {
       "id": "1000022205",
@@ -486,7 +516,8 @@
       "directors": [
         "Andreï Zviaguintsev"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html",
+      "color": "#b2432a"
     },
     {
       "id": "1000013643",
@@ -502,7 +533,8 @@
         "Jérémie Degruson",
         "Yanis Belaid"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html",
+      "color": "#f4560f"
     },
     {
       "id": "1000012312",
@@ -517,7 +549,8 @@
       "directors": [
         "Brigitte Poupart"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012312.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012312.html",
+      "color": "#219290"
     },
     {
       "id": "1000047512",
@@ -533,7 +566,8 @@
       "directors": [
         "Antoine Colomb"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html",
+      "color": "#00aaf6"
     },
     {
       "id": "1000028085",
@@ -548,7 +582,8 @@
       "directors": [
         "Nicolas Wadimoff"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028085.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028085.html",
+      "color": "#7b5d4f"
     },
     {
       "id": "314939",
@@ -564,7 +599,8 @@
       "directors": [
         "Kitao Sakurai"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314939.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314939.html",
+      "color": "#fd9400"
     },
     {
       "id": "1000016901",
@@ -581,7 +617,8 @@
       "directors": [
         "James Watkins"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.html",
+      "color": "#fc0e00"
     },
     {
       "id": "1000018384",
@@ -597,7 +634,8 @@
       "directors": [
         "Guillaume Canet"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html",
+      "color": "#b55a46"
     },
     {
       "id": "315883",
@@ -614,7 +652,8 @@
       "directors": [
         "Taika Waititi"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315883.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315883.html",
+      "color": "#ea9f28"
     },
     {
       "id": "296642",
@@ -633,7 +672,8 @@
         "Joel Crawford",
         "Januel P. Mercado"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html",
+      "color": "#5e2eae"
     },
     {
       "id": "318225",
@@ -649,7 +689,8 @@
       "directors": [
         "Marine Atlan"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318225.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318225.html",
+      "color": "#a33f6f"
     },
     {
       "id": "1000030383",
@@ -664,7 +705,8 @@
       "directors": [
         "Eric Judor"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030383.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030383.html",
+      "color": "#006f6f"
     },
     {
       "id": "1000026766",
@@ -680,7 +722,8 @@
         "Isabelle Ingold",
         "Vivianne Perelmuter"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026766.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026766.html",
+      "color": "#a2511c"
     },
     {
       "id": "1000043220",
@@ -695,7 +738,8 @@
       "directors": [
         "Gessica Généus"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043220.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043220.html",
+      "color": "#fd790d"
     },
     {
       "id": "37179",
@@ -711,7 +755,8 @@
       "directors": [
         "Michael Almereyda"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html",
+      "color": "#f74917"
     },
     {
       "id": "13069",
@@ -728,7 +773,8 @@
       "directors": [
         "Tsui Hark"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=13069.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=13069.html",
+      "color": "#d62f49"
     },
     {
       "id": "1000024131",
@@ -747,7 +793,8 @@
         "Steve Cox",
         "Matthew Walker"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024131.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024131.html",
+      "color": "#ff8f00"
     },
     {
       "id": "1000026725",
@@ -762,7 +809,8 @@
       "directors": [
         "Robert Guédiguian"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026725.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026725.html",
+      "color": "#187690"
     },
     {
       "id": "1000018229",
@@ -775,7 +823,8 @@
       "synopsis": "",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
       "directors": [],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018229.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018229.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "322884",
@@ -793,7 +842,8 @@
         "Alex Huston Fischer",
         "Eleanor Wilson"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=322884.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=322884.html",
+      "color": "#326b6d"
     },
     {
       "id": "1000051317",
@@ -809,7 +859,8 @@
         "Gabriel Campina",
         "John Dauvin"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html",
+      "color": "#975c11"
     },
     {
       "id": "314882",
@@ -826,7 +877,8 @@
       "directors": [
         "Na Hong-jin"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314882.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314882.html",
+      "color": "#647ba1"
     },
     {
       "id": "1000033620",
@@ -841,7 +893,8 @@
       "directors": [
         "Alexander Murphy"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033620.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033620.html",
+      "color": "#b01d17"
     },
     {
       "id": "1000028073",
@@ -856,7 +909,8 @@
       "directors": [
         "Nicolangelo Gelormini"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028073.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028073.html",
+      "color": "#5a5243"
     },
     {
       "id": "307252",
@@ -871,7 +925,8 @@
       "directors": [
         "Carlos Saura"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=307252.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=307252.html",
+      "color": "#822a18"
     },
     {
       "id": "1000019622",
@@ -888,7 +943,8 @@
       "directors": [
         "Alexandre Castagnetti"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019622.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019622.html",
+      "color": "#aa6f3b"
     },
     {
       "id": "1000012316",
@@ -905,7 +961,8 @@
       "directors": [
         "Olivier Clert"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012316.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012316.html",
+      "color": "#ba6206"
     },
     {
       "id": "1000000251",
@@ -920,7 +977,8 @@
       "directors": [
         "Marie-Pierre Brêtas"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000251.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000251.html",
+      "color": "#f2a711"
     },
     {
       "id": "281367",
@@ -936,7 +994,8 @@
       "directors": [
         "Marina De Van"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=281367.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=281367.html",
+      "color": "#764320"
     },
     {
       "id": "1000020311",
@@ -952,7 +1011,8 @@
       "directors": [
         "László Nemes"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020311.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020311.html",
+      "color": "#a43939"
     },
     {
       "id": "1000027716",
@@ -968,7 +1028,8 @@
       "directors": [
         "Benjamin Wainwright-Pearce"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html",
+      "color": "#9e54ac"
     },
     {
       "id": "1000051934",
@@ -984,7 +1045,8 @@
         "Basile Monnot",
         "Samy Bouyssié"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051934.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051934.html",
+      "color": "#b54828"
     },
     {
       "id": "1000036515",
@@ -999,7 +1061,8 @@
       "directors": [
         "Rudi Rosenberg"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036515.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036515.html",
+      "color": "#ae5b00"
     },
     {
       "id": "1000023600",
@@ -1014,7 +1077,8 @@
       "directors": [
         "Marion Le Corroller"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023600.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023600.html",
+      "color": "#912f17"
     },
     {
       "id": "1000050930",
@@ -1029,7 +1093,8 @@
       "directors": [
         "Xavier Pestuggia"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050930.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050930.html",
+      "color": "#8d4f2a"
     },
     {
       "id": "316461",
@@ -1044,7 +1109,8 @@
       "directors": [
         "Christian Swegal"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316461.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316461.html",
+      "color": "#325658"
     },
     {
       "id": "1000040300",
@@ -1059,7 +1125,8 @@
       "directors": [
         "Luca Salmaso"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040300.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040300.html",
+      "color": "#d15436"
     },
     {
       "id": "1000036932",
@@ -1074,7 +1141,8 @@
       "directors": [
         "Jordan Firstman"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036932.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036932.html",
+      "color": "#ffdb00"
     },
     {
       "id": "1000038090",
@@ -1089,7 +1157,8 @@
       "directors": [
         "Franck Llopis"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038090.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038090.html",
+      "color": "#86561b"
     },
     {
       "id": "1000033278",
@@ -1104,7 +1173,8 @@
       "directors": [
         "William Eubank"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033278.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033278.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000014492",
@@ -1119,7 +1189,8 @@
       "directors": [
         "Takashi Yamazaki"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html",
+      "color": "#004ca0"
     },
     {
       "id": "1000027255",
@@ -1134,7 +1205,8 @@
       "directors": [
         "Jonas d'Adesky"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027255.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027255.html",
+      "color": "#ad603f"
     },
     {
       "id": "323550",
@@ -1152,7 +1224,8 @@
         "Lauriane Escaffre",
         "Yvo Muller"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323550.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323550.html",
+      "color": "#fffc06"
     },
     {
       "id": "1000051742",
@@ -1168,7 +1241,8 @@
         "Baptiste Deturche",
         "Corentin Esmieu"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051742.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051742.html",
+      "color": "#a17a5a"
     },
     {
       "id": "272218",
@@ -1183,7 +1257,8 @@
       "directors": [
         "Malek Bensmail"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272218.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272218.html",
+      "color": "#ae2a0a"
     },
     {
       "id": "1000051511",
@@ -1198,7 +1273,8 @@
       "directors": [
         "Jean-Pierre Dessens"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html",
+      "color": "#6e4b2a"
     },
     {
       "id": "1000005161",
@@ -1213,7 +1289,8 @@
       "directors": [
         "Pascal Plisson"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html",
+      "color": "#00adf7"
     },
     {
       "id": "1000046573",
@@ -1228,7 +1305,8 @@
       "directors": [
         "Salomée Stévenin"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046573.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046573.html",
+      "color": "#00c4fc"
     },
     {
       "id": "1000051859",
@@ -1241,7 +1319,8 @@
       "synopsis": "",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
       "directors": [],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000035928",
@@ -1257,7 +1336,8 @@
         "Patrick Attali",
         "Thibaut Miche"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035928.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035928.html",
+      "color": "#644135"
     },
     {
       "id": "1000031925",
@@ -1272,7 +1352,8 @@
       "directors": [
         "Philippe de Chauveron"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "298024",
@@ -1287,7 +1368,8 @@
       "directors": [
         "Martin McDonagh"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298024.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298024.html",
+      "color": "#dc471c"
     },
     {
       "id": "1000049510",
@@ -1306,7 +1388,8 @@
         "Jocelyn Charles",
         "Maïté Sonnet"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html",
+      "color": "#af9f20"
     },
     {
       "id": "1000040172",
@@ -1321,7 +1404,8 @@
       "directors": [
         "Cédric Kahn"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040172.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040172.html",
+      "color": "#e8c20d"
     },
     {
       "id": "1000037363",
@@ -1336,7 +1420,8 @@
       "directors": [
         "Khalil Cherti"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037363.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037363.html",
+      "color": "#833a00"
     },
     {
       "id": "1000020289",
@@ -1353,7 +1438,8 @@
       "directors": [
         "David Leitch"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020289.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020289.html",
+      "color": "#62f000"
     },
     {
       "id": "310509",
@@ -1368,7 +1454,8 @@
       "directors": [
         "Sandra Wollner"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310509.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310509.html",
+      "color": "#007c8d"
     },
     {
       "id": "1000040446",
@@ -1383,7 +1470,8 @@
       "directors": [
         "Florian Hessique"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040446.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040446.html",
+      "color": "#003b60"
     },
     {
       "id": "1000041856",
@@ -1401,7 +1489,8 @@
         "Andy Morahan",
         "David Austin"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041856.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041856.html",
+      "color": "#b17431"
     },
     {
       "id": "1000039483",
@@ -1416,7 +1505,8 @@
       "directors": [
         "Albert Dupontel"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html",
+      "color": "#ff0000"
     },
     {
       "id": "1000048020",
@@ -1431,7 +1521,8 @@
       "directors": [
         "Nicholas Pineda"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048020.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048020.html",
+      "color": "#a41717"
     },
     {
       "id": "1000019282",
@@ -1448,7 +1539,8 @@
       "directors": [
         "Igor Minaiev"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html",
+      "color": "#b0a714"
     },
     {
       "id": "310503",
@@ -1464,7 +1556,8 @@
       "directors": [
         "Bérenger Thouin"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310503.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310503.html",
+      "color": "#713e27"
     },
     {
       "id": "1000032333",
@@ -1479,7 +1572,8 @@
       "directors": [
         "Roland Edzard"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.html",
+      "color": "#c06d00"
     },
     {
       "id": "1000032461",
@@ -1496,7 +1590,8 @@
         "Joost Van Den Bosch",
         "Erick Verkerk"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html",
+      "color": "#ae7c5b"
     },
     {
       "id": "1000044110",
@@ -1511,7 +1606,8 @@
       "directors": [
         "Rahma Benhamou-El Madani"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html",
+      "color": "#1da3fe"
     },
     {
       "id": "1000043430",
@@ -1527,7 +1623,8 @@
       "directors": [
         "Rahma Benhamou-El Madani"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.html",
+      "color": "#a33926"
     },
     {
       "id": "323956",
@@ -1543,7 +1640,8 @@
         "Fanny Liatard",
         "Jérémy Trouilh"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html",
+      "color": "#00baca"
     },
     {
       "id": "1000020647",
@@ -1559,7 +1657,8 @@
       "directors": [
         "Thomas Ancora"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020647.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020647.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "58916",
@@ -1575,7 +1674,8 @@
       "directors": [
         "Leos Carax"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=58916.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=58916.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000034007",
@@ -1592,7 +1692,8 @@
       "directors": [
         "Ti West"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html",
+      "color": "#0a405e"
     },
     {
       "id": "328439",
@@ -1608,7 +1709,8 @@
       "directors": [
         "Jan Komasa"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328439.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328439.html",
+      "color": "#8c583c"
     },
     {
       "id": "1000020962",
@@ -1623,7 +1725,8 @@
       "directors": [
         "Marta Díaz (II)"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020962.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020962.html",
+      "color": "#9a3e34"
     },
     {
       "id": "1000023042",
@@ -1638,7 +1741,8 @@
       "directors": [
         "Joon-ho Park"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "316136",
@@ -1654,7 +1758,8 @@
         "Matthieu Rumani",
         "Nicolas Slomka"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html",
+      "color": "#bb181c"
     },
     {
       "id": "1000048844",
@@ -1669,7 +1774,8 @@
       "directors": [
         "Christophe Karabache"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048844.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048844.html",
+      "color": "#851b18"
     },
     {
       "id": "1000051654",
@@ -1684,7 +1790,8 @@
       "directors": [
         "Rodolfo Pastor"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051654.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051654.html",
+      "color": "#83330d"
     },
     {
       "id": "1000010370",
@@ -1699,7 +1806,8 @@
       "directors": [
         "Mipo O"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010370.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010370.html",
+      "color": "#a65d59"
     },
     {
       "id": "298873",
@@ -1714,7 +1822,8 @@
       "directors": [
         "Maxence Voiseux"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298873.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298873.html",
+      "color": "#866766"
     },
     {
       "id": "1000004528",
@@ -1731,7 +1840,8 @@
       "directors": [
         "Francis Lawrence"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
+      "color": "#b59545"
     },
     {
       "id": "1000022995",
@@ -1747,7 +1857,8 @@
       "directors": [
         "Alexandre Smia"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html",
+      "color": "#024f84"
     },
     {
       "id": "780",
@@ -1762,7 +1873,8 @@
       "directors": [
         "Erich Von Stroheim"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=780.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=780.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000017168",
@@ -1779,7 +1891,8 @@
       "directors": [
         "Lukas Dhont"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html",
+      "color": "#803013"
     },
     {
       "id": "1000018671",
@@ -1795,7 +1908,8 @@
       "directors": [
         "Mounia Meddour"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html",
+      "color": "#a66d59"
     },
     {
       "id": "1000021751",
@@ -1810,7 +1924,8 @@
       "directors": [
         "Lim Lungyin"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021751.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021751.html",
+      "color": "#674a3d"
     },
     {
       "id": "1000032798",
@@ -1825,7 +1940,8 @@
       "directors": [
         "Goro Kuji"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html",
+      "color": "#4291ba"
     },
     {
       "id": "1000052544",
@@ -1840,7 +1956,8 @@
       "directors": [
         "Sabrina Nouchi"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052544.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052544.html",
+      "color": "#c96f00"
     },
     {
       "id": "1000028480",
@@ -1855,7 +1972,8 @@
       "directors": [
         "Viesturs Kairiss"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028480.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028480.html",
+      "color": "#bc5053"
     },
     {
       "id": "1000028451",
@@ -1870,7 +1988,8 @@
       "directors": [
         "Callum Devlin"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028451.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028451.html",
+      "color": "#812700"
     },
     {
       "id": "1000046705",
@@ -1887,7 +2006,8 @@
         "Benjamin Botella",
         "Zoltan Horvath"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046705.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046705.html",
+      "color": "#ffbc00"
     },
     {
       "id": "1000044048",
@@ -1902,7 +2022,8 @@
       "directors": [
         "Paul Nouhet"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html",
+      "color": "#7e372c"
     },
     {
       "id": "312529",
@@ -1923,7 +2044,8 @@
         "Jason Hand",
         "Josie Trinidad"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html",
+      "color": "#dc8210"
     },
     {
       "id": "1000028361",
@@ -1938,7 +2060,8 @@
       "directors": [
         "Ambroise Sabbagh"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html",
+      "color": "#c02c33"
     },
     {
       "id": "1000043822",
@@ -1953,7 +2076,8 @@
       "directors": [
         "Rafiki Fariala"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043822.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043822.html",
+      "color": "#ff9504"
     },
     {
       "id": "1000004190",
@@ -1968,7 +2092,8 @@
       "directors": [
         "Martin Provost"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html",
+      "color": "#064e8c"
     },
     {
       "id": "1000028064",
@@ -1985,7 +2110,8 @@
       "directors": [
         "Pierre-Ange Carlotti"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html",
+      "color": "#8b4a2a"
     },
     {
       "id": "1000052290",
@@ -2002,7 +2128,8 @@
         "Max Lang",
         "Johannes Weiland"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052290.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052290.html",
+      "color": "#fc7c10"
     },
     {
       "id": "1000012306",
@@ -2017,7 +2144,8 @@
       "directors": [
         "Lisandro Alonso"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012306.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012306.html",
+      "color": "#7a6523"
     },
     {
       "id": "1000041096",
@@ -2035,7 +2163,8 @@
       "directors": [
         "Aurélie Raphaël"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000037949",
@@ -2052,7 +2181,8 @@
       "directors": [
         "Woo-Ping Yuen"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037949.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037949.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000009924",
@@ -2067,7 +2197,8 @@
       "directors": [
         "Maryse Legagneur"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009924.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009924.html",
+      "color": "#d17118"
     },
     {
       "id": "1000044062",
@@ -2082,7 +2213,8 @@
       "directors": [
         "Alain Cavalier"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html",
+      "color": "#c65344"
     },
     {
       "id": "1000016814",
@@ -2097,7 +2229,8 @@
       "directors": [
         "John Hamburg"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016814.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016814.html",
+      "color": "#c20000"
     },
     {
       "id": "1000014559",
@@ -2114,7 +2247,8 @@
       "directors": [
         "James Gray"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000052525",
@@ -2129,7 +2263,8 @@
       "directors": [
         "Mostafa Heravi"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html",
+      "color": "#f28200"
     },
     {
       "id": "1000027620",
@@ -2144,7 +2279,8 @@
       "directors": [
         "Stéphane Brizé"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027620.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027620.html",
+      "color": "#5d7b82"
     },
     {
       "id": "1000012542",
@@ -2159,7 +2295,8 @@
       "directors": [
         "Teemu Nikki"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012542.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012542.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "327394",
@@ -2174,7 +2311,8 @@
       "directors": [
         "Léonor Serraille"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327394.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327394.html",
+      "color": "#85482d"
     },
     {
       "id": "313265",
@@ -2193,7 +2331,8 @@
       "directors": [
         "Alexandre Heboyan"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html",
+      "color": "#ff8700"
     },
     {
       "id": "1000027075",
@@ -2208,7 +2347,8 @@
       "directors": [
         "Manoël Dupont"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027075.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027075.html",
+      "color": "#435170"
     },
     {
       "id": "1000021740",
@@ -2223,7 +2363,8 @@
       "directors": [
         "Tony Gilroy"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html",
+      "color": "#005973"
     },
     {
       "id": "1000038378",
@@ -2238,7 +2379,8 @@
       "directors": [
         "Clément Michel"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "302095",
@@ -2254,7 +2396,8 @@
       "directors": [
         "Pierre Le Gall"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302095.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302095.html",
+      "color": "#004463"
     },
     {
       "id": "1000031164",
@@ -2269,7 +2412,8 @@
       "directors": [
         "Pawel Pawlikowski"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.html",
+      "color": "#8b8b8b"
     },
     {
       "id": "1000014166",
@@ -2285,7 +2429,8 @@
       "directors": [
         "Gonzague Legout"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014166.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014166.html",
+      "color": "#9e0e00"
     },
     {
       "id": "1000026311",
@@ -2300,7 +2445,8 @@
       "directors": [
         "Julien Elie"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026311.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026311.html",
+      "color": "#868991"
     },
     {
       "id": "1000044336",
@@ -2315,7 +2461,8 @@
       "directors": [
         "Mathias Mlekuz"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044336.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044336.html",
+      "color": "#1f50a1"
     },
     {
       "id": "1000024935",
@@ -2330,7 +2477,8 @@
       "directors": [
         "Mehdi Benallal"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html",
+      "color": "#a19464"
     },
     {
       "id": "1000023399",
@@ -2345,7 +2493,8 @@
       "directors": [
         "Irene Bailo Carramiñana"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023399.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023399.html",
+      "color": "#ff0077"
     },
     {
       "id": "1000021762",
@@ -2360,7 +2509,8 @@
       "directors": [
         "Luc Picard"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000031015",
@@ -2375,7 +2525,8 @@
       "directors": [
         "Nicolas Pariser"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031015.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031015.html",
+      "color": "#ff4903"
     },
     {
       "id": "1000027308",
@@ -2390,7 +2541,8 @@
       "directors": [
         "Rostislav Kirpičenko"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html",
+      "color": "#625043"
     },
     {
       "id": "312651",
@@ -2406,7 +2558,8 @@
       "directors": [
         "Tommy Wirkola"
       ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312651.html"
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312651.html",
+      "color": "#d30000"
     }
   ]
 }
