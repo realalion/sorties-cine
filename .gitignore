@@ -3,3 +3,4 @@ preview.png
 __pycache__/
 *.pyc
 .venv/
+icon-preview.png

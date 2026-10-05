@@ -7,8 +7,8 @@
   "id": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0f0f12",
-  "theme_color": "#b41428",
+  "background_color": "#0a0610",
+  "theme_color": "#1a0a14",
   "lang": "fr-FR",
   "icons": [
     {
@@ -28,6 +28,12 @@
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
