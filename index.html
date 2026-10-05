@@ -231,11 +231,11 @@
       font-weight: 600;
       display: inline-block;
     }
-    a.cal-btn {
+    button.cal-btn {
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      text-decoration: none;
+      font-family: inherit;
       font-size: 0.72rem;
       font-weight: 600;
       color: var(--accent-soft);
@@ -244,22 +244,32 @@
       border-radius: 999px;
       padding: 5px 10px;
       line-height: 1.2;
+      cursor: pointer;
       -webkit-tap-highlight-color: transparent;
+      -webkit-appearance: none;
+      appearance: none;
     }
-    a.cal-btn:active {
+    button.cal-btn:active {
       background: #3a1520;
     }
-    a.cal-btn svg {
+    button.cal-btn svg {
       width: 13px;
       height: 13px;
       flex-shrink: 0;
     }
-    a.cal-alt {
+    a.cal-alt, button.cal-alt {
       color: var(--muted);
       text-decoration: underline;
       text-underline-offset: 2px;
       font-size: 0.68rem;
       font-weight: 500;
+      font-family: inherit;
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
     }
     .cal-alts {
       display: flex;
@@ -345,8 +355,9 @@
     }
 
     function absoluteIcsUrl(filmId) {
-      // Absolute HTTPS URL for Safari handoff (required by x-safari-https)
-      return new URL(`ics/${filmId}.ics`, window.location.href).href;
+      // Always absolute https://realalion.github.io/sorties-cine/ics/<id>.ics
+      const base = window.location.origin + window.location.pathname.replace(/\/[^/]*$/, '/');
+      return new URL(`ics/${filmId}.ics`, base).href;
     }
 
     function googleCalendarUrl(f) {
@@ -386,7 +397,8 @@
       }
       // Standalone PWA: target=_blank = SFSafariViewController (blank page, compass greyed).
       // Force real Safari with x-safari-https:// (works iOS 15/17/18+; not iOS 16).
-      const safariUrl = 'x-safari-' + httpsUrl;
+      // https://host/path → x-safari-https://host/path  (never x-safari-http…)
+      const safariUrl = httpsUrl.replace(/^https:\/\//i, 'x-safari-https://');
       const revealHint = () => {
         if (hintEl) {
           hintEl.hidden = false;
@@ -474,12 +486,13 @@
       const gcal = googleCalendarUrl(f);
       const calSvg = `<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2" stroke="currentColor" stroke-width="2"/><path d="M3 10h18" stroke="currentColor" stroke-width="2"/><path d="M8 3v4M16 3v4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>`;
       // href = absolute https .ics for normal Safari; click handler overrides in standalone
+      // <button> (not <a target=_blank>) so standalone never opens SFSafariViewController sheet
       const cal = `<div class="actions-col">
-        <a class="cal-btn" href="${escapeHtml(icsAbs)}" data-cal-ics="${escapeHtml(icsAbs)}" type="text/calendar">${calSvg}<span>Ajouter au calendrier</span></a>
+        <button type="button" class="cal-btn" data-cal-ics="${escapeHtml(icsAbs)}">${calSvg}<span>Ajouter au calendrier</span></button>
         <div class="cal-alts">
-          <a class="cal-alt" href="${escapeHtml(gcal)}" target="_blank" rel="noopener">Google Agenda</a>
+          <a class="cal-alt" href="${escapeHtml(gcal)}" rel="noopener">Google Agenda</a>
           <span class="cal-sep">·</span>
-          <a class="cal-alt" href="${escapeHtml(icsAbs)}" data-cal-copy="${escapeHtml(icsAbs)}">Copier le lien</a>
+          <button type="button" class="cal-alt" data-cal-copy="${escapeHtml(icsAbs)}">Copier le lien</button>
         </div>
         <p class="cal-hint" data-cal-hint hidden></p>
       </div>`;
@@ -549,7 +562,7 @@
         document.getElementById('metaLine').textContent =
           `${data.count} films · ${formatShort(data.from)} → ${formatShort(data.to)}`;
         document.getElementById('footer').innerHTML =
-          `Données : ${escapeHtml(data.source)} · Màj ${escapeHtml((data.generatedAt || '').slice(0,10))}<br/>Dates de sortie officielle en France (souvent le mercredi).`;
+          `Données : ${escapeHtml(data.source)} · Màj ${escapeHtml((data.generatedAt || '').slice(0,10))}<br/>Dates de sortie officielle en France (souvent le mercredi).<br/><span id="appVersion">v6</span>`;
         renderNav(data, null);
         render(data, null);
       } catch (err) {
@@ -558,10 +571,38 @@
       }
     }
 
+    const APP_VERSION = 'v6';
+
     if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js').catch(() => {});
+      let refreshing = false;
+      navigator.serviceWorker.addEventListener('controllerchange', () => {
+        if (refreshing) return;
+        refreshing = true;
+        window.location.reload();
       });
+
+      async function setupSW() {
+        try {
+          const reg = await navigator.serviceWorker.register('./sw.js', { updateViaCache: 'none' });
+          const poke = () => { try { reg.update(); } catch (e) {} };
+          poke();
+          document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState === 'visible') poke();
+          });
+          // If a waiting worker exists (update already downloaded), activate it
+          if (reg.waiting) reg.waiting.postMessage({ type: 'SKIP_WAITING' });
+          reg.addEventListener('updatefound', () => {
+            const nw = reg.installing;
+            if (!nw) return;
+            nw.addEventListener('statechange', () => {
+              if (nw.state === 'installed' && navigator.serviceWorker.controller) {
+                nw.postMessage({ type: 'SKIP_WAITING' });
+              }
+            });
+          });
+        } catch (e) {}
+      }
+      window.addEventListener('load', setupSW);
     }
     main();
   </script>
