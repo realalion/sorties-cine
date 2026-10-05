@@ -217,13 +217,42 @@
       padding: 28px 16px 8px;
       line-height: 1.4;
     }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin-top: 8px;
+    }
     a.more {
       color: var(--accent-soft);
       text-decoration: none;
       font-size: 0.75rem;
       font-weight: 600;
       display: inline-block;
-      margin-top: 6px;
+    }
+    a.cal-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      text-decoration: none;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--accent-soft);
+      border: 1px solid #6a2432;
+      background: #241018;
+      border-radius: 999px;
+      padding: 5px 10px;
+      line-height: 1.2;
+      -webkit-tap-highlight-color: transparent;
+    }
+    a.cal-btn:active {
+      background: #3a1520;
+    }
+    a.cal-btn svg {
+      width: 13px;
+      height: 13px;
+      flex-shrink: 0;
     }
   </style>
 </head>
@@ -302,6 +331,8 @@
         : `<div class="poster-fallback">Pas d’affiche</div>`;
       const synopsis = f.synopsis ? `<p class="synopsis">${escapeHtml(f.synopsis)}</p>` : '';
       const more = f.allocineUrl ? `<a class="more" href="${escapeHtml(f.allocineUrl)}" target="_blank" rel="noopener">Voir sur AlloCiné</a>` : '';
+      // Static .ics on GitHub Pages: most reliable way to open « Ajouter à Calendrier » on iOS Safari / PWA
+      const cal = `<a class="cal-btn" href="ics/${escapeHtml(f.id)}.ics" type="text/calendar" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2" stroke="currentColor" stroke-width="2"/><path d="M3 10h18" stroke="currentColor" stroke-width="2"/><path d="M8 3v4M16 3v4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>Ajouter au calendrier</span></a>`;
       return `<article class="film" id="film-${escapeHtml(f.id)}">
         ${poster}
         <div class="film-body">
@@ -311,7 +342,7 @@
             <span class="meta">${metaBits.join(' · ')}</span>
           </div>
           ${synopsis}
-          ${more}
+          <div class="actions">${cal}${more}</div>
         </div>
       </article>`;
     }

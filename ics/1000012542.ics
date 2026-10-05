@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000012542-2026-12-02@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 100 Litres — sortie ciné
+DESCRIPTION:Comédie · 1h28min\n\nLe destin de deux sœurs experte de la f
+ abrication d’une bière ancestrale de Finlande. Leur autre sœur se mar
+ ie et leur demande de faire 100 litres de bières pour son mariage. Mais 
+ les deux brasseuses boivent les 100 litres et se réveillent avec une ter
+ rible gueule de bois et…\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000012542.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012542.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

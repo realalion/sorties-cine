@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000041096-2026-11-25@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Le Noël d'Ernest et Célestine — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille · 1h11min\n\nLa vie 
+ d’Ernest et Célestine est toujours pleine de surprises et de fantaisie
+  : cuisiner de délicieuses charabiettes au miel\, chercher le cadeau par
+ fait ou encore préparer un spectacle de patinage… les deux complices n
+ e s’ennuient jamais. Et au moment de préparer Noël\, tout…\n\nhttps
+ ://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

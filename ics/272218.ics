@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-272218-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 L’Arabe (The Arab) — sortie ciné
+DESCRIPTION:Drame · 1h46min\n\nDans l’Algérie des années de plomb\, un
+  jeune journaliste tente de faire émerger une parole enfouie. C’est à
+  Oran qu’il rencontre un retraité solitaire qui lui livre une histoire
+  sidérante : il serait le frère de « l’Arabe » assassiné dans L’
+ Étranger d’Albert Camus.\n\nhttps://www.allocine.fr/film/fichefilm_gen
+ _cfilm=272218.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=272218.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

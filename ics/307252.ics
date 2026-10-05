@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-307252-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Las paredes hablan — sortie ciné
+DESCRIPTION:Documentaire · 1h15min\n\nLe documentaire de Saura est centré
+  sur les origines de l'art et sa relation avec les tendances les plus ava
+ nt-gardistes. Le film dépeint l'évolution et la relation de l'art avec 
+ le mur comme toile de création\, depuis les premières révolutions grap
+ hiques des grottes…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm
+ =307252.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=307252.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

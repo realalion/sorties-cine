@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000030383-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Le Roi du Game — sortie ciné
+DESCRIPTION:Comédie\n\nAlexandre est prêt à tout pour renouer avec sa fi
+ lle. Quitte à infiltrer une équipe de bras cassés dans un univers de j
+ eu médiéval-fantastique. Cette quête improbable pourrait bien le ramen
+ er à ses propres rêves oubliés...\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000030383.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030383.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

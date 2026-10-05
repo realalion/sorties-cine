@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-323956-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Les Yeux Verts — sortie ciné
+DESCRIPTION:Drame\n\nChaya\, 11 ans\, vit avec sa famille dans les Landes\,
+  au bord de l’océan. A l’annonce de leur expulsion\, son grand frèr
+ e Nour sombre dans un sommeil profond et mystérieux. Chaya va tout faire
+  pour le réveiller\, jusqu’à plonger dans ses rêves pour le retrouve
+ r.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

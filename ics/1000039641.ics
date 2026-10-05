@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039641-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 Retour au collège — sortie ciné
+DESCRIPTION:Documentaire · 1h25min\n\nAu collège Auguste Renoir\, deux é
+ lèves de 3ème risquent de passer devant le conseil de discipline. Sarah
+ \, c’est pour une histoire de tipex qui s’est terminée en bagarre da
+ ns la salle de classe. Quant à Yasmine\, sa prof d’arts plastiques est
+  à bout après que la jeune fille l’a…\n\nhttps://www.allocine.fr/fi
+ lm/fichefilm_gen_cfilm=1000039641.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039641.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000024935-2026-12-02@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Opération tramway — sortie ciné
+DESCRIPTION:Documentaire · 1h23min\n\n" L’Antenne est à nous " est une 
+ émission de télévision locale financée par le Département de Seine-S
+ aint-Denis et diffusée entre 1986 et 1994. Dans ces mêmes années\, une
+  ligne de tramway est implantée dans le département\, cinquante ans apr
+ ès la disparition de ce mode de…\n\nhttps://www.allocine.fr/film/fiche
+ film_gen_cfilm=1000024935.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

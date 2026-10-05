@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000045582-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 Le Monde à l'envers — sortie ciné
+DESCRIPTION:Animation\, Famille · 45min\n\nPlongez dans un univers où la 
+ différence devient poésie à travers six récits touchants. De Rémi\, 
+ le souriceau vivant la tête en bas\, à Sacha et son parcours inclusif 
+ à l’école\, de Lina qui s'envole avec un pull\, à Lily qui fait éte
+ rnuer la lune... Ce programme explore avec…\n\nhttps://www.allocine.fr/
+ film/fichefilm_gen_cfilm=1000045582.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045582.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

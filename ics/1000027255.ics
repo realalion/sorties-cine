@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000027255-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Kwibuka\, se souvenir — sortie ciné
+DESCRIPTION:Drame · 1h32min\n\nLia\, basketteuse franco-rwandaise\, est in
+ vitée à rejoindre l'équipe nationale du Rwanda pour le championnat d'A
+ frique. Ce retour dans le pays qu'elle a fui étant enfant ravive les sou
+ venirs du passé et va profondément bouleverser sa vie.\n\nhttps://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=1000027255.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027255.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

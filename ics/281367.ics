@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-281367-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Ma nudité ne sert à rien — sortie ciné
+DESCRIPTION:Documentaire\, Drame · 1h25min\n\nMarina de Van bataille avec 
+ ses relations sentimentales\, sa propre image et sa nudité à une époqu
+ e où les applis de rencontres et les échanges en ligne sont légion…\
+ n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=281367.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=281367.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

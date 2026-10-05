@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000014492-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Godzilla Minus Zero — sortie ciné
+DESCRIPTION:Science Fiction · 2h15min\n\nJapon après la Seconde Guerre mo
+ ndiale\, Shikishima Koichi\, un ancien pilote kamikaze survit à une renc
+ ontre avec Godzilla et souffre de symptômes de stress post-traumatique. 
+ Lorsque la créature réapparaît des années plus tard\, un groupe de so
+ ldats et de vétérans doit s'unir…\n\nhttps://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000014492.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

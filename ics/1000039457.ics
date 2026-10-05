@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039457-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Le Jour de son retour — sortie ciné
+DESCRIPTION:Drame · 1h24min\n\nElle vient de terminer le tournage d’un f
+ ilm indépendant et doit maintenant donner trois interviews à ce sujet. 
+ Ensuite\, lors de son cours de théâtre\, son professeur lui demande de 
+ rejouer les interviews. Mais\, pour une raison quelconque\, elle est inca
+ pable de s’en souvenir.\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=1000039457.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

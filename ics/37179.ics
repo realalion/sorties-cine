@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-37179-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Nadja — sortie ciné
+DESCRIPTION:Comédie\, Epouvante-horreur · 1h33min\n\nNadja\, fille du com
+ te Dracula\, vit à New-York. A la nouvelle de la mort de son père\, ell
+ e va tenter de renouer ses liens avec son frère.\n\nhttps://www.allocine
+ .fr/film/fichefilm_gen_cfilm=37179.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

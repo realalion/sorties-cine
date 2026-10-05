@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000036827-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Il était une fois le printemps — sortie ciné
+DESCRIPTION:Drame · 1h40min\n\nPaul élève seul sa fille Agathe dans un v
+ illage soudé autour de sa paroisse. Lorsqu’un prêtre annonce l’arri
+ vée de migrants africains\, la communauté se divise.\n\nhttps://www.all
+ ocine.fr/film/fichefilm_gen_cfilm=1000036827.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036827.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

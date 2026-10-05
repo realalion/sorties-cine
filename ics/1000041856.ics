@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000041856-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 George Michael: The Faith Tour — sortie ciné
+DESCRIPTION:Concert\, Documentaire\, Musical · 1h53min\n\nUn long métrage
+  restauré et remasterisé à partir d’images longtemps considérées c
+ omme perdues\, tournées au célèbre Palais Omnisports de Paris-Bercy lo
+ rs de l’étape européenne du Faith Tour en 1988.\n\nhttps://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=1000041856.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041856.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

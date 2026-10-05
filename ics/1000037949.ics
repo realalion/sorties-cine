@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000037949-2026-11-25@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Le Sabre des gardiens — sortie ciné
+DESCRIPTION:Action\, Arts Martiaux\, Historique · 2h06min\n\nSous la dynas
+ tie Sui\, en Chine\, durant le règne oppressif de l’empereur Yang Guan
+ g. Biao Ren\, un mercenaire chevronné se retrouve mêlé à un complot.\
+ n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000037949.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037949.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

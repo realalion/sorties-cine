@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-272376-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 Volcans : Plongez au cœur du cratère — sortie ciné
+DESCRIPTION:Documentaire · 45min\n\nDes cratères fumants d'Hawaï aux ent
+ railles incandescentes du volcan Marum au Vanuatu\, Volcans vous emmène 
+ là où presque personne n'ose aller : au bord des plus grands volcans en
+  activité de la planète.\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=272376.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=272376.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

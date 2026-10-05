@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000052290-2026-11-25@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Gruffalo\, de père en fils — sortie ciné
+DESCRIPTION:Animation · 53min\n\nLes monstres les plus attachants de la li
+ ttérature jeunesse sont de retour sur grand écran ! Il n’est jamais t
+ rès bon qu’un Gruffalo\, père ou fils\, se montre dans le grand bois 
+ profond. Il pourrait être poursuivi par la Grande Méchante Souris.\n\nh
+ ttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000052290.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052290.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

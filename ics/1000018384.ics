@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000018384-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Karma — sortie ciné
+DESCRIPTION:Drame\, Thriller · 2h20min\n\nDans un village au nord de l’E
+ spagne\, Jeanne tente de reconstruire sa vie avec Daniel\, qui ne connaî
+ t rien de son passé trouble. Un jour\, Mateo\, le filleul de Jeanne âg
+ é de six ans\, disparaît mystérieusement… Afin d’échapper à la p
+ olice qui la soupçonne rapidement\, Jeanne se…\n\nhttps://www.allocine
+ .fr/film/fichefilm_gen_cfilm=1000018384.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

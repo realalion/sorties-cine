@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000020647-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 L’Ordre Pourpre — sortie ciné
+DESCRIPTION:Epouvante-horreur\, Thriller · 1h30min\n\nUn an après un bizu
+ tage qui a mal tourné\, un groupe d’étudiants se retrouve pourchassé
+  par un mystérieux tueur\, bien décidé à les décimer un par un. Bien
+ venue dans l’ordre pourpre !\n\nhttps://www.allocine.fr/film/fichefilm_
+ gen_cfilm=1000020647.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020647.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

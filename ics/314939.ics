@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-314939-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Street Fighter — sortie ciné
+DESCRIPTION:Action\, Arts Martiaux · 2h00min\n\nEn 1993\, Ryu et Ken Maste
+ rs\, deux Street Fighters autrefois inséparables\, sont replongés dans 
+ l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain W
+ orld Warrior Tournament : un affrontement brutal où se mêlent poings\, 
+ destin et fureur. Mais derrière cette…\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=314939.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=314939.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

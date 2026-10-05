@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-298024-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Wild Horse Nine — sortie ciné
+DESCRIPTION:Thriller · 1h58min\n\nPeu avant le coup d'État chilien de 197
+ 3\, deux agents de la CIA\, Chris et Lee\, sont envoyés de Santiago vers
+  l'île de Pâques par leur supérieur\, MJ. Au milieu des statues emblé
+ matiques de l'île\, tandis que ces partenaires de longue date sont confr
+ ontés à leur sombre passé et…\n\nhttps://www.allocine.fr/film/fichef
+ ilm_gen_cfilm=298024.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=298024.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

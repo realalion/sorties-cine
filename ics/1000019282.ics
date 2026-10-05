@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000019282-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Izolyatsia — sortie ciné
+DESCRIPTION:Documentaire\, Drame\, Historique · 1h15min\n\nDans les année
+ s 1950\, l'usine « Isolation » à Donetsk est un centre industriel maje
+ ur du Donbass\, un des fleurons du communisme. A la chute de l'Union sovi
+ étique\, Isolation est reconvertie en un prestigieux centre d'art contem
+ porain et accueille des artistes du monde entier.\n\nhttps://www.allocine
+ .fr/film/fichefilm_gen_cfilm=1000019282.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

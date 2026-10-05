@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000012178-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 Le Jardin de Madame Hu — sortie ciné
+DESCRIPTION:Documentaire · 1h42min\n\nÀ Chongqing\, Madame Hu transforme 
+ les objets abandonnés qu’elle récupère en un jardin foisonnant. Le p
+ ortrait sensible d’une femme\, de son fils et de leur quête d’un ref
+ uge dans une ville en pleine mutation.\n\nhttps://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000012178.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012178.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

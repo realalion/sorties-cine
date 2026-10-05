@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-315883-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Klara et le soleil — sortie ciné
+DESCRIPTION:Comédie\, Drame\, Science Fiction · 1h57min\n\nLorsque Klara 
+ rencontre Josie\, chacune perçoit immédiatement chez l'autre une âme s
+ oeur. Josie entretient une relation compliquée avec sa mère et toutes d
+ eux ont traversé de lourdes épreuves. Mais l'émerveillement sincère d
+ e Klara et sa loyauté sans faille commencent peu à…\n\nhttps://www.al
+ locine.fr/film/fichefilm_gen_cfilm=315883.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=315883.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

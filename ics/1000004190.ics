@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000004190-2026-11-25@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Demain je tombe amoureux — sortie ciné
+DESCRIPTION:Comédie · 1h47min\n\nLe jour de son départ à la retraite\, 
+ Émile\, professeur de lettres à Dieppe\, donne à ses jeunes élèves u
+ n dernier cours sur la littérature et l’amour\, les encourageant à de
+ venir les poètes de leurs propres existences. Une fois rentré chez lui\
+ , Émile découvre que sa femme l’a…\n\nhttps://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000004190.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

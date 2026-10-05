@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000023042-2026-11-18@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 3670 — sortie ciné
+DESCRIPTION:Drame · 2h04min\n\nUn défecteur nord-coréen explore son homo
+ sexualité en fréquentant la communauté gay de Séoul.\n\nhttps://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=1000023042.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

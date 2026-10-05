@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044062-2026-11-25@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Merci d'être venu — sortie ciné
+DESCRIPTION:Documentaire\n\nDernier épisode du journal filmé d'Alain Cava
+ lier.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

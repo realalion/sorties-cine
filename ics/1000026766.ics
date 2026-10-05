@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000026766-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Les Recommencements — sortie ciné
+DESCRIPTION:Documentaire · 1h27min\n\nVétéran de la guerre du Vietnam\, 
+ Al Moon vit en solitaire sur les terres de sa tribu\, en Californie du No
+ rd. À mesure que la violence et les destructions écologiques s’abatte
+ nt sur la réserve\, d’anciennes angoisses refont surface. Al n’a plu
+ s le choix : il doit prendre la…\n\nhttps://www.allocine.fr/film/fichef
+ ilm_gen_cfilm=1000026766.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026766.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

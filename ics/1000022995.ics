@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000022995-2026-11-18@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Jupiter — sortie ciné
+DESCRIPTION:Drame\, Thriller · 1h27min\n\nFraîchement élu\, le présiden
+ t Paul Archambault doit affronter une crise sans précédent : son homolo
+ gue russe\, cible d'un attentat\, brandit un ultimatum nucléaire menaça
+ nt un allié de la France. Face au risque d'escalade militaire\, le prés
+ ident réunit son état-major dans le…\n\nhttps://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000022995.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

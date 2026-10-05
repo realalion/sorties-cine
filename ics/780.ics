@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-780-2026-11-18@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 La Reine Kelly — sortie ciné
+DESCRIPTION:Drame · 1h45min\n\nDans un royaume imaginaire d’Europe\, la 
+ Reine Régina\, cruelle et impitoyable\, doit épouser le Prince Wolfram\
+ , noceur et libertin notoire. Un jour\, à la tête de son régiment\, le
+  prince croise un groupe de jeunes nonnes qui s’en retournent au pensio
+ nnat. Il remarque…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=
+ 780.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=780.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

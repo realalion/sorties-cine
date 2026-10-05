@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-296642-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 L'île des souvenirs — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille · 1h49min\n\nJo et R
+ aissa\, deux meilleures amies depuis la primaire\, qui\, après avoir obt
+ enu le baccalauréat\, sont sur le point de se lancer dans des choix de p
+ arcours différents. Alors qu’elles fêtent leur dernière soirée ense
+ mble\, les deux jeunes filles tombent sur un portail mystérieux…\n\nht
+ tps://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

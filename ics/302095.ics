@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-302095-2026-12-02@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Du fioul dans les artères — sortie ciné
+DESCRIPTION:Drame\, Romance · 1h31min\n\nÉtienne est un chauffeur routier
+  dévoué et passionné. Chevillé à la route chaque semaine\, au détri
+ ment de sa vie affective\, Étienne se contente de brèves entrevues sur 
+ des parkings avec des anonymes. Mais lorsqu'il rencontre Bartosz\, un rou
+ tier polonais\, son cœur chavire.…\n\nhttps://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=302095.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=302095.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

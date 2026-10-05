@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000051511-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 L’Himalaya Sans Filtre : Sur Les Routes De Lo — sortie cin
+ é
+DESCRIPTION:Documentaire · 1h01min\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000051511.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000040300-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Carlo Acutis\, un saint pour notre temps — sortie ciné
+DESCRIPTION:Documentaire · 1h26min\n\nLa vie de saint Carlo Acutis\, avec 
+ les témoignages inédits de ses proches.\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=1000040300.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040300.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

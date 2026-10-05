@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044110-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Le Pacte de sel — sortie ciné
+DESCRIPTION:Documentaire · 1h27min\n\nLe Pacte de sel est l'histoire intim
+ iste de la réalisatrice avec son pays natal l'Algérie qui s'entremêle 
+ avec le destin des familles marocaines vivant en Algérie puis chassées
+  en 1975. La réalisatrice porte un regard profondément humain sur le v
+ ivre-ensemble\, la liberté…\n\nhttps://www.allocine.fr/film/fichefilm
+ _gen_cfilm=1000044110.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

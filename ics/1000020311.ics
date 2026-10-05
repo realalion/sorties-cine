@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000020311-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Moulin — sortie ciné
+DESCRIPTION:Drame\, Historique · 2h14min\n\nJuin 1943\, Jean Moulin\, chef
+  de la Résistance\, est arrêté alors qu'il tente de réunifier les for
+ ces de l’Armée Secrète. Interrogé par Klaus Barbie\, le chef de la G
+ estapo de Lyon\, Moulin est entraîné dans une confrontation implacable.
+ \n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000020311.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020311.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

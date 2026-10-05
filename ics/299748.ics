@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-299748-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 Ton animal maternel — sortie ciné
+DESCRIPTION:Drame · 1h45min\n\nDe retour au Costa Rica après des études 
+ en Europe\, Elsa retrouve sa petite sœur Amalia\, seule dans la maison f
+ amiliale. De plus en plus insaisissable\, celle-ci semble enfermée dans 
+ des croyances ésotériques. Elsa essaie d’alerter leurs parents.\n\nht
+ tps://www.allocine.fr/film/fichefilm_gen_cfilm=299748.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=299748.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

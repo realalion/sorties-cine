@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000026649-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 The Social Reckoning — sortie ciné
+DESCRIPTION:Drame · 1h53min\n\nLe film s'inspire de l'histoire vraie de Fr
+ ances Haugen\, une jeune ingénieure chez Facebook\, qui sollicite l'aide
+  de Jeff Horwitz\, journaliste au Wall Street Journal. Ensemble\, ils se 
+ lancent dans une enquête pleine de dangers qui les mènera à révéler 
+ au grand jour les…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=
+ 1000026649.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026649.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

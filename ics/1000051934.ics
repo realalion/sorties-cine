@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000051934-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Papa où t'es ? — sortie ciné
+DESCRIPTION:Documentaire\n\nÀ 27 ans\, Nicolas n’a presque aucun souveni
+ r de son enfance et n’a jamais connu son père. Séparé de sa mère à
+  l’âge de trois ans\, il a grandi placé entre familles d’accueil et
+  foyers. Décidé à retrouver ce père qui l’a abandonné à la naissa
+ nce\, Nicolas récupère son dossier de…\n\nhttps://www.allocine.fr/fil
+ m/fichefilm_gen_cfilm=1000051934.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051934.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

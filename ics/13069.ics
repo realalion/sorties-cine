@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-13069-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Peking Opera Blues — sortie ciné
+DESCRIPTION:Action\, Comédie\, Romance · 1h45min\n\nPeu de temps après l
+ ’instauration de la République de Chine\, le pays est soumis à un con
+ trôle militaire\, et disputé par différents groupes. Tsao Wan est la f
+ ille d’un seigneur de guerre\, mais elle appartient secrètement à un 
+ groupe de révolutionnaires.\n\nhttps://www.allocine.fr/film/fichefilm_ge
+ n_cfilm=13069.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=13069.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

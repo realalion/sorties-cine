@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-310509-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Everytime — sortie ciné
+DESCRIPTION:Drame · 2h04min\n\nJessie est une adolescente pleine de vie. S
+ on seul problème est qu’elle partage sa chambre avec sa petite sœur. 
+ Ella\, leur mère\, est débordée mais attentive. Quand l’une des troi
+ s disparaît\, toute la famille est bouleversée et cherche un coupable. 
+ Ella décide alors d’un…\n\nhttps://www.allocine.fr/film/fichefilm_ge
+ n_cfilm=310509.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=310509.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

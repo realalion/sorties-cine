@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000047512-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Petite Casbah — sortie ciné
+DESCRIPTION:Animation\, Famille · 1h24min\n\nAlgérie\, juin 1955. Khadidj
+ a quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite
+  à une altercation au marché\, il se fait arrêter par la police et Kha
+ didja se retrouve seule. Heureusement\, Lyes\, Ahmed et Philippe vont tou
+ t mettre en œuvre pour l’aider à…\n\nhttps://www.allocine.fr/film/f
+ ichefilm_gen_cfilm=1000047512.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

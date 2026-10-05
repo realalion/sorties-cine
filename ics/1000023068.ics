@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000023068-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Malfaisante — sortie ciné
+DESCRIPTION:Epouvante-horreur · 1h34min\n\nMALFAISANTE nous entraine dans 
+ l’univers de la très jeune Bela\, dont le quotidien se détériore de 
+ jour en jour en raison de la relation qu’elle entretient\, au cœur de 
+ sa propre maison\, avec une entité malveillante qui ressemble étrangeme
+ nt à sa propre mère.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfil
+ m=1000023068.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023068.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

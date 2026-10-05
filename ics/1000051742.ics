@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000051742-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Louve\, une vie dans les Alpes — sortie ciné
+DESCRIPTION:Documentaire · 1h10min\n\nDans les Alpes\, nous découvrons l
+ ’histoire vraie d’une louve. Une plongée immersive dans le monde sec
+ ret des loups\, un hommage à leur résilience et à leur place fragile d
+ ans un écosystème qu’ils partagent avec nous.\n\nhttps://www.allocine
+ .fr/film/fichefilm_gen_cfilm=1000051742.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051742.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

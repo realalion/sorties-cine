@@ -1,4 +1,4 @@
-const CACHE = 'sorties-cine-v2';
+const CACHE = 'sorties-cine-v3';
 const ASSETS = [
   './',
   './index.html',

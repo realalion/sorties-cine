@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000040172-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 15/18 — sortie ciné
+DESCRIPTION:Drame · 1h44min\n\nLucia\, 17 ans\, est amenée par la police 
+ dans une unité de soins pédopsychiatriques de l’hôpital public. Ici 
+ tous les patients ont entre 15 et 18 ans. Lucia connaît l’endroit\, el
+ le y a fait de nombreux séjours. Elle retrouve son amie Eloïse\, en hos
+ pitalisation longue durée\,…\n\nhttps://www.allocine.fr/film/fichefilm
+ _gen_cfilm=1000040172.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040172.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

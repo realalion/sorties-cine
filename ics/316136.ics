@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-316136-2026-11-18@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Camembert — sortie ciné
+DESCRIPTION:Comédie\n\nStan\, trentenaire d’origine modeste\, rencontre 
+ pour la première fois la famille de sa petite amie Cléo. Il découvre a
+ lors la tradition familiale : à chaque anniversaire de France\, l’impr
+ essionnante maîtresse de maison\, on lance une partie de Trivial Pursuit
+  ©. Il sait qu’il…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfi
+ lm=316136.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

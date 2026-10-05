@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-310503-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 L'Âge d'Or — sortie ciné
+DESCRIPTION:Drame\, Historique · 1h53min\n\nLa vie hors-norme de Jeanne La
+ vaur n’appartient qu’à elle-même. Elle traverse le XXème siècle e
+ t défie son destin\, depuis son enfance dans la boucherie de ses parents
+  jusqu’à son rêve de devenir comtesse. D’une guerre à l’autre\, 
+ du Paris des années folles au Brésil\, son…\n\nhttps://www.allocine.f
+ r/film/fichefilm_gen_cfilm=310503.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=310503.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

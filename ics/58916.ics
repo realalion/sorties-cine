@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-58916-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Pierre ou les ambiguïtés — sortie ciné
+DESCRIPTION:Drame\, Romance · 3h00min\n\nD'après Pierre ou les Ambiguït
+ és de Herman Melville.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfi
+ lm=58916.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=58916.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

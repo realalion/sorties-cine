@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000043822-2026-11-25@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Congo Boy — sortie ciné
+DESCRIPTION:Drame · 1h30min\n\nBangui. Robert a 17 ans et rêve de faire c
+ arrière dans la musique. Mais il n'est pas un Centrafricain comme les au
+ tres. Il est un réfugié congolais. Lorsque ses parents sont arrêtés\,
+  il doit s'occuper seul de ses quatre jeunes frère et sœurs.\n\nhttps:/
+ /www.allocine.fr/film/fichefilm_gen_cfilm=1000043822.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043822.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

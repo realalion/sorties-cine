@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000013643-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Mochy — sortie ciné
+DESCRIPTION:Animation · 1h25min\n\nMochy est un jeune chien au grand cœur
+ … mais il n’a pas un physique facile… Ça ne l’empêche pas d’a
+ voir un rêve : participer au concours du plus beau chien.\n\nhttps://www
+ .allocine.fr/film/fichefilm_gen_cfilm=1000013643.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

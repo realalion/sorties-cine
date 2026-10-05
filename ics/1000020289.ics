@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000020289-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Comment braquer une banque — sortie ciné
+DESCRIPTION:Action\, Policier\, Thriller · 2h01min\n\nUne équipe de braqu
+ eurs filme ses hold-up en direct et devient viral. Mais leur célébrité
+  grandissante attire l'attention d'un agent du FBI et d'une ingénieure i
+ nformatique déterminés à les arrêter. Alors que cet improbable duo se
+  rapproche dangereusement d’eux\, le gang…\n\nhttps://www.allocine.fr
+ /film/fichefilm_gen_cfilm=1000020289.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020289.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

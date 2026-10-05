@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-318791-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Englouti — sortie ciné
+DESCRIPTION:Thriller · 1h46min\n\nAu large de la côte californienne\, Jay
+  Gardiner part à la recherche de la dépouille de son père récemment d
+ isparu. Alors qu’il sonde les fonds marins\, le jeune plongeur se retro
+ uve soudainement avalé par un énorme cachalot. Piégé dans l’estomac
+  de l’animal\, il ne lui reste…\n\nhttps://www.allocine.fr/film/fiche
+ film_gen_cfilm=318791.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

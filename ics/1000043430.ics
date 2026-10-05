@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000043430-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Le Peuple — sortie ciné
+DESCRIPTION:Documentaire\, Drame · 1h57min\n\nLe Peuple rend hommage à Ka
+ teb Yacine par la réactualisation d'extraits de ces deux plus importante
+ s pièces de théâtre : Le cadavre encerclé et Mohamed prends ta valise
+ . Cinquante ans plus tard\, Mahfoud Lakroune\, le comédien fétiche du d
+ ramaturge\, remonte sur les planches…\n\nhttps://www.allocine.fr/film/f
+ ichefilm_gen_cfilm=1000043430.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

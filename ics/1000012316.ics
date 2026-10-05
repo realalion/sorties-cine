@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000012316-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Le Mystère Lucy Lost — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Famille\n\nLucy vit avec sa famille dans
+  un village sur une petite île isolée. Ses dons extraordinaires suscite
+ nt le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille
+  qu'elle seule peut voir - Lucy embarque dans une grande aventure pour pe
+ rcer le secret de ses…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000012316.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012316.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

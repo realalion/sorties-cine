@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000048944-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Je veux bien — sortie ciné
+DESCRIPTION:Documentaire · 1h11min\n\nFrance 2026 : vivre sans emploi\, ç
+ a peut arriver\, mais sans aucun revenu… comment dire ? Votée en déce
+ mbre 2023\, la loi Plein emploi conditionne l'allocation du RSA au fait d
+ 'exercer 15 heures d'activités hebdomadaires. Fortement troublés par ce
+ tte idée que puissent être…\n\nhttps://www.allocine.fr/film/fichefilm
+ _gen_cfilm=1000048944.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048944.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

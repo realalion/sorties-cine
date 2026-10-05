@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000050930-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Supplique à nos fantômes — sortie ciné
+DESCRIPTION:Documentaire · 1h11min\n\nMarqué par une enfance traumatique 
+ et une mère l’ayant fait vivre sous son emprise\, le réalisateur Xavi
+ er Pestuggia entreprend de raconter son passé.\n\nhttps://www.allocine.f
+ r/film/fichefilm_gen_cfilm=1000050930.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050930.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

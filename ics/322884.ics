@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-322884-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Wicker — sortie ciné
+DESCRIPTION:Drame\, Fantastique\, Romance · 1h45min\n\nMise au ban de son 
+ village\, une pêcheuse solitaire commande au vannier local un mari en os
+ ier. Cet époux improbable se révèle doté d’une sensibilité et de t
+ alents qui dépassent toutes ses attentes. À son contact\, elle découvr
+ e un désir insoupçonné et s’éprend véritablement de…\n\nhttps://
+ www.allocine.fr/film/fichefilm_gen_cfilm=322884.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=322884.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

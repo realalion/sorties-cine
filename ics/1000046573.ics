@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000046573-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Nos âmes libres — sortie ciné
+DESCRIPTION:Documentaire · 1h24min\n\nNOS ÂMES LIBRES est une invitation 
+ au sensible. Une aventure qui traverse le temps\, les pays\, les élémen
+ ts\, l’eau\, la terre\, la forme : une expédition qui interroge intime
+ ment notre rapport au vivant. De sa rencontre avec l'animal libre et sauv
+ age\, de ses plongées avec les…\n\nhttps://www.allocine.fr/film/fichef
+ ilm_gen_cfilm=1000046573.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046573.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

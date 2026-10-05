@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-321790-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Le Corset — sortie ciné
+DESCRIPTION:Animation · 1h30min\n\nDans une ferme au cœur de la Beauce\, 
+ Christophe\, 11 ans\, règle ses pas sur ceux de son père. Mais à l’
+ école\, à la maison\, sur le tracteur\, Christophe penche... et tombe. 
+ Il est obligé de porter un corset pour filer droit.\n\nhttps://www.alloc
+ ine.fr/film/fichefilm_gen_cfilm=321790.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

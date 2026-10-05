@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000032798-2026-11-18@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Peleliu : Guerre au paradis — sortie ciné
+DESCRIPTION:Animation · 1h44min\n\nJapon\, 1944. 10 000 soldats japonais d
+ ébarquent sur l'île de Peleliu. Tamaru\, un aspirant mangaka de 21 ans 
+ est enrôlé malgré lui dans le conflit\, tout comme Yoshiki avec qui il
+  va se lier d'amitié. Ensemble\, ils s'accrochent à la vie au coeur de 
+ cette guerre d'usure. Isolés…\n\nhttps://www.allocine.fr/film/fichefil
+ m_gen_cfilm=1000032798.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

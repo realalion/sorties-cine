@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000010370-2026-11-18@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Fais-moi un signe — sortie ciné
+DESCRIPTION:Drame · 1h45min\n\nEnfant\, Haru ne voyait pas la différence 
+ : avec ses parents sourds\, tout était simple\, empli d’amour et de co
+ mplicité. Mais en grandissant\, il découvre le poids du regard des autr
+ es et la force des mots.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000010370.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010370.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

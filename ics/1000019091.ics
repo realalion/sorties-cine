@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000019091-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Low Expectations — sortie ciné
+DESCRIPTION:Drame · 1h45min\n\nAlors qu’elle est au sommet de sa carriè
+ re musicale\, Maja vacille et voit ses ambitions s’interrompre brutalem
+ ent. Elle se réfugie chez sa mère\, enseignante à Oslo\, qui lui décr
+ oche un poste de surveillante dans son lycée. Loin de la scène\, Maja c
+ ommence lentement à retrouver…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000019091.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019091.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

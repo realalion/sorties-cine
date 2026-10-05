@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-313265-2026-12-02@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Astérix - Le Royaume de Nubie — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Historique · 1h26m
+ in\n\nUn village d’irréductibles Gaulois résiste encore et toujours 
+ à l’envahisseur… Mais pour combien de temps encore ? Un élixir de j
+ ouvence accidentellement versé dans la potion magique a transformé tout
+  le village en enfants ! Une seule solution pour Astérix et Obélix : vo
+ yager…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039188-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 R. Roussil\, Le Cul par Terre — sortie ciné
+DESCRIPTION:Documentaire · 1h17min\n\nRobert Roussil\, figure incontournab
+ le de la sculpture québécoise\, s’est distingué par des œuvres auda
+ cieuses et un engagement profond pour la liberté d’expression. Depuis 
+ son décès en 2013\, son héritage tend malheureusement à s’effacer. 
+ Robert Roussil\, le cul par terre…\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000039188.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039188.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

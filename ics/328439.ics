@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-328439-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 The Good Boy — sortie ciné
+DESCRIPTION:Drame\, Thriller · 1h50min\n\nTommy\, jeune délinquant insouc
+ iant et impulsif naviguant entre fêtes alcoolisées et violences incontr
+ ôlables\, se réveille un matin enchaîné dans la cave d’une maison. 
+ Il est à la merci de ses occupants\, une étrange famille qui s’est do
+ nnée pour mission de le remettre dans le…\n\nhttps://www.allocine.fr/f
+ ilm/fichefilm_gen_cfilm=328439.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=328439.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

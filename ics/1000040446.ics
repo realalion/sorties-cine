@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000040446-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Face à face — sortie ciné
+DESCRIPTION:Drame · 1h24min\n\nFabienne Langlois\, conseillère d'insertio
+ n et de probation au Centre National d’Évaluation\, doit déterminer s
+ i Antoine Martineau\, détenu pour le meurtre de sa femme\, peut obtenir 
+ une libération conditionnelle. Entre mutisme\, paranoïa et zones d’om
+ bre\, elle plonge dans…\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=1000040446.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040446.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

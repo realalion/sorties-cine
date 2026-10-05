@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000051724-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Mais qui a tué Marcel ? Un été 76 — sortie ciné
+DESCRIPTION:Divers · 1h57min\n\nEté 1976\, en pleine canicule\, dans cett
+ e enquête aux allures de comédie\, nous plongeons dans un petit village
+  du Périgord\, où une gendarmette respecte la hiérarchie militaire ave
+ c une intelligence et une subtilité de féministe\, des ados bien dans l
+ eur époque\, et un commandant…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000051724.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051724.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

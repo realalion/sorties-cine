@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000048020-2026-11-11@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Infirmary — sortie ciné
+DESCRIPTION:Epouvante-horreur · 1h27min\n\nUn gardien a disparu lors de sa
+  première nuit dans un ancien hôpital psychiatrique. Les images de vid
+ éosurveillance montrent des incidents inexplicables qui continuent de d
+ éconcerter les enquêteurs.\n\nhttps://www.allocine.fr/film/fichefilm_ge
+ n_cfilm=1000048020.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048020.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

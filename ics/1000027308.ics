@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000027308-2026-12-02@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Vesna — sortie ciné
+DESCRIPTION:Drame · 1h33min\n\nEn Ukraine occupée\, les Russes interdisen
+ t d’enterrer les civils ukrainiens exécutés. Andryï\, prêtre de 35 
+ ans\, voit son église transformée en morgue. Contraint d'y stocker les 
+ corps avant leur disparition en fosses communes\, il résiste en secret :
+  il identifie les morts et…\n\nhttps://www.allocine.fr/film/fichefilm_g
+ en_cfilm=1000027308.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

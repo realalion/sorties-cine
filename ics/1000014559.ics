@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000014559-2026-11-25@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Paper Tiger — sortie ciné
+DESCRIPTION:Drame\, Policier\, Thriller · 1h55min\n\nDeux frères que tout
+  oppose s’unissent pour une affaire douteuse liée à la mafia russe. M
+ ais ce qui devait être une opportunité devient un cauchemar\, mettant e
+ n péril leur famille\, leur intégrité\, et leur lien fraternel.\n\nhtt
+ ps://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

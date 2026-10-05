@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000027716-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Ozzy & Black Sabbath : Back to the Beginning — sortie ciné
+DESCRIPTION:Concert\, Documentaire · 2h27min\n\nOzzy & Black Sabbath : Bac
+ k to the Beginning revient sur un moment marquant de l’histoire de la m
+ usique : l’ultime performance d’Ozzy Osbourne\, un adieu historique 
+ à ses fans au stade de Villa Park\, dans sa ville natale de Birmingham\,
+  filmé seulement 17 jours avant sa…\n\nhttps://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000027716.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

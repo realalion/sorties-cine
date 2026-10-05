@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000033620-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Irish Travellers — sortie ciné
+DESCRIPTION:Documentaire · 1h36min\n\nLe long d'une route oubliée\, la fa
+ mille O'Reilly vit dans une vieille caravane échouée au milieu des cham
+ ps. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile
+  château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'ex
+ pulsion\, leur équilibre de…\n\nhttps://www.allocine.fr/film/fichefilm
+ _gen_cfilm=1000033620.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033620.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

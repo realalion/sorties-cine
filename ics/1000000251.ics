@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000000251-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Leaving Amerika — sortie ciné
+DESCRIPTION:Documentaire · 1h57min\n\nDerrick vient de laisser son apparte
+ ment et dort dans sa voiture. À presque 50 ans\, épuisé de se débattr
+ e dans le labyrinthe ultralibéral et raciste des Etats-Unis\, il décide
+  de quitter son pays.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000000251.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000251.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

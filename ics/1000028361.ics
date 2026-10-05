@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000028361-2026-11-25@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Classe Libre — sortie ciné
+DESCRIPTION:Documentaire · 1h33min\n\nIls ont une vingtaine d’années et
+  veulent devenir acteurs. Pendant deux ans\, seize apprentis comédiens o
+ nt joué\, ri et douté ensemble. Maintenant\, ils préparent leur dernie
+ r spectacle avant de se lancer dans l'inconnu\, rêvant du même destin q
+ ue leurs prédécesseurs.\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=1000028361.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

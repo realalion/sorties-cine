@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000018994-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 Mikusu Modan — sortie ciné
+DESCRIPTION:Drame · 1h44min\n\nUn couple tient un restaurant d'okonomiyaki
+  et recrute des jeunes sortant de centres de détention pour les aider à
+  réintégrer la société. Yuto\, 18 ans\, veut plus que tout recommence
+ r à zéro. Hiro\, 53 ans\, tient un restaurant avec sa femme Sono\, 42 a
+ ns. Il embauche d'anciens…\n\nhttps://www.allocine.fr/film/fichefilm_ge
+ n_cfilm=1000018994.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018994.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

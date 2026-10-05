@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000005161-2026-11-04@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Ma toute petite école — sortie ciné
+DESCRIPTION:Documentaire · 1h28min\n\nNichée à 1 600 mètres d’altitud
+ e dans le minuscule hameau de La Gurraz (35 habitants)\, en Haute Tarenta
+ ise\, se trouve la plus petite école de France : huit élèves\, de la m
+ aternelle au CM2\, un seul lieu de savoir et de vie. Le film s’invite d
+ ans la vie de ces enfants\, de leur…\n\nhttps://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000005161.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

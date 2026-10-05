@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000028073-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 La Tentazione — sortie ciné
+DESCRIPTION:Drame · 1h48min\n\nÀ cinquante ans\, Gioia est une enseignant
+ e qui vit encore chez ses parents\, sous la coupe d'une mère autoritaire
+ . Elle propose des cours particuliers à Alessio\, un nouvel élève de s
+ on lycée. Quand ces deux solitudes se rencontrent\, un poison silencieux
+  se distille.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000028
+ 073.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028073.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

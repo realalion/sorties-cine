@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-318225-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 La Gradiva — sortie ciné
+DESCRIPTION:Comédie\, Drame · 2h25min\n\nUn groupe de lycéens français 
+ part en voyage scolaire à Naples pour découvrir les ruines de Pompéi e
+ t ses corps pétrifiés par le Vésuve. C’est là que le vertige les sa
+ isit brutalement. L’un après l’autre\, ils se laissent submerger par
+  le désir et la colère jusqu’à s’y…\n\nhttps://www.allocine.fr/f
+ ilm/fichefilm_gen_cfilm=318225.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=318225.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

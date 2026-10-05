@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000026725-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Une femme aujourd’hui — sortie ciné
+DESCRIPTION:Comédie dramatique\n\nJuliette\, 30 ans\, semble avoir tout po
+ ur elle : un poste prestigieux dans la finance\, une belle maison\, une v
+ ie rythmée par les voyages et les amours de passage. Lorsqu’elle est a
+ gressée par un collègue\, son monde s’effondre. Juliette s'engage alo
+ rs sur un nouveau chemin pour…\n\nhttps://www.allocine.fr/film/fichefil
+ m_gen_cfilm=1000026725.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026725.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

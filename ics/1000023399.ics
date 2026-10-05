@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000023399-2026-12-02@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Queer me — sortie ciné
+DESCRIPTION:Documentaire · 1h35min\n\nEn 2015\, Irene\, tout juste arrivé
+ e d’Espagne\, débarque au TDB\, un squat toulousain occupé par des je
+ unes queer radicaux\, refuge dans un monde hostile. Elle y filme et parta
+ ge l’euphorie\, les luttes\, les amours et la rage de vivre qui les ani
+ ment.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000023399.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023399.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

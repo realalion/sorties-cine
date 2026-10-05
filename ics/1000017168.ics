@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000017168-2026-11-18@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Les Braves (Coward) — sortie ciné
+DESCRIPTION:Drame\, Historique\, Romance · 2h05min\n\nLe jeune soldat Pier
+ re veut faire ses preuves sur le front pendant la Première Guerre mondia
+ le. Derrière les lignes\, il rencontre Francis\, chargé de remonter le 
+ moral des troupes.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=10
+ 00017168.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

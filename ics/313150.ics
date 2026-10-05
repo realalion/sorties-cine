@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-313150-2026-10-07@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎬 Butterfly Jam — sortie ciné
+DESCRIPTION:Drame · 1h37min\n\nDans le New Jersey\, un adolescent de 16 an
+ s partage son temps entre les tapis de lutte et le petit restaurant tcher
+ kesse de sa famille\, au bord de la faillite. Mais une décision impulsiv
+ e de son père\, éternel opportuniste\, vient bouleverser sa trajectoire
+ .\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=313150.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=313150.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000024131-2026-10-21@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Shaun le Mouton : La Bêêête d'Halloween — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille · 1h20min\n\nA Hallo
+ ween\, les habitants de la ferme de Mossy Bottom se réjouissent des fest
+ ivités\, jusqu’à ce que le Fermier maladroit saccage les citrouilles 
+ bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou
+  pour résoudre le problème\, les choses dérapent : le…\n\nhttps://ww
+ w.allocine.fr/film/fichefilm_gen_cfilm=1000024131.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024131.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

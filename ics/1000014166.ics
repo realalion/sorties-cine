@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000014166-2026-12-02@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Le Lièvre — sortie ciné
+DESCRIPTION:Drame\, Thriller\n\nLièvre pour un champion de course de fond 
+ qui ne cesse de l’humilier\, Ian se lance dans une course clandestine o
+ ù des centaines de participants courent jusqu’à l’épuisement. À l
+ a clé\, une somme qui pourrait changer la vie de sa famille. Dans un jeu
+  où s’arrêter mène à la…\n\nhttps://www.allocine.fr/film/fichefil
+ m_gen_cfilm=1000014166.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014166.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

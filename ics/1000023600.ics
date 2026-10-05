@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000023600-2026-10-28@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Sanguine — sortie ciné
+DESCRIPTION:Epouvante-horreur · 1h43min\n\nMargot débute son internat aux
+  urgences\, où elle peine à s’adapter. Très vite\, elle fait face à
+  des patients de son âge aux symptômes inexpliqués. La récurrence de 
+ ces cas exceptionnels l’interroge\, d’autant qu’elle observe\, sur 
+ son propre corps\, des manifestations de plus en…\n\nhttps://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=1000023600.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023600.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

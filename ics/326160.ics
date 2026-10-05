@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-326160-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Les Misérables — sortie ciné
+DESCRIPTION:Drame\, Historique · 2h56min\n\nLibéré après 19 ans de bagn
+ e pour le vol d’un pain\, Jean Valjean décide de changer de vie et de 
+ faire le bien autour de lui. Sous une fausse identité\, il devient avec 
+ le temps un notable respecté de tous. Mais son passé le rattrape...\n\n
+ https://www.allocine.fr/film/fichefilm_gen_cfilm=326160.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=326160.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

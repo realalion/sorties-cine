@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000022205-2026-10-14@realalion.github.io
+DTSTAMP:20261005T163007Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎬 Minotaure — sortie ciné
+DESCRIPTION:Drame · 2h20min\n\nRussie\, 2022. Gleb\, chef d’entreprise p
+ rospère\, vit avec sa femme Galina et leur fils dans une ville de provin
+ ce. Il se retrouve confronté à des problèmes professionnels croissants
+ \, dans un monde de plus en plus instable.\n\nhttps://www.allocine.fr/fil
+ m/fichefilm_gen_cfilm=1000022205.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
