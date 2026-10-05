@@ -1,4 +1,4 @@
-const CACHE = 'sorties-cine-v9';
+const CACHE = 'sorties-cine-v10';
 const PRECACHE = [
   './icons/icon-180.png',
   './icons/icon-192.png',
