@@ -1,8 +1,8 @@
 const CACHE = 'sorties-cine-v10';
 const PRECACHE = [
-  './icons/icon-180.png',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
+  './icons/icon-180-v10.png',
+  './icons/icon-192-v10.png',
+  './icons/icon-512-v10.png',
   './manifest.webmanifest'
 ];
 
