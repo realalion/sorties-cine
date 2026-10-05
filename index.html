@@ -254,6 +254,33 @@
       height: 13px;
       flex-shrink: 0;
     }
+    a.cal-alt {
+      color: var(--muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      font-size: 0.68rem;
+      font-weight: 500;
+    }
+    .cal-alts {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 4px 6px;
+    }
+    .cal-sep { color: #55556a; font-size: 0.68rem; }
+    .cal-hint {
+      margin: 2px 0 0;
+      color: #c9a0a8;
+      font-size: 0.68rem;
+      line-height: 1.35;
+      max-width: 220px;
+    }
+    .actions-col {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 4px;
+    }
   </style>
 </head>
 <body>
@@ -312,6 +339,118 @@
       return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
     }
 
+    function isStandalonePwa() {
+      return window.navigator.standalone === true ||
+        window.matchMedia('(display-mode: standalone)').matches;
+    }
+
+    function absoluteIcsUrl(filmId) {
+      // Absolute HTTPS URL for Safari handoff (required by x-safari-https)
+      return new URL(`ics/${filmId}.ics`, window.location.href).href;
+    }
+
+    function googleCalendarUrl(f) {
+      // All-day event: dates=YYYYMMDD/YYYYMMDD (end exclusive)
+      const start = f.releaseDate.replace(/-/g, '');
+      const endDate = new Date(f.releaseDate + 'T12:00:00');
+      endDate.setDate(endDate.getDate() + 1);
+      const end = endDate.toISOString().slice(0, 10).replace(/-/g, '');
+      const title = `🎬 ${f.title} — sortie ciné`;
+      const bits = [];
+      if (f.genres && f.genres.length) bits.push(f.genres.join(', '));
+      if (f.duration) bits.push(f.duration);
+      let details = bits.join(' · ');
+      if (f.synopsis) details += (details ? '\n\n' : '') + f.synopsis;
+      if (f.allocineUrl) details += (details ? '\n\n' : '') + f.allocineUrl;
+      const params = new URLSearchParams({
+        action: 'TEMPLATE',
+        text: title,
+        dates: `${start}/${end}`,
+        details: details,
+        ctz: 'Europe/Paris'
+      });
+      if (f.allocineUrl) params.set('location', f.allocineUrl);
+      return `https://calendar.google.com/calendar/render?${params.toString()}`;
+    }
+
+    /**
+     * In standalone PWA, target=_blank opens SFSafariViewController which cannot
+     * hand .ics to Calendar (blank page). Open real Safari via x-safari-https://
+     * (iOS 15/17/18+; not iOS 16). Fallback: navigate to the https .ics URL.
+     */
+    function openIcsForCalendar(httpsUrl, hintEl) {
+      // Normal Safari: navigate directly to .ics → « Ajouter à Calendrier »
+      if (!isStandalonePwa()) {
+        window.location.href = httpsUrl;
+        return;
+      }
+      // Standalone PWA: target=_blank = SFSafariViewController (blank page, compass greyed).
+      // Force real Safari with x-safari-https:// (works iOS 15/17/18+; not iOS 16).
+      const safariUrl = 'x-safari-' + httpsUrl;
+      const revealHint = () => {
+        if (hintEl) {
+          hintEl.hidden = false;
+          hintEl.textContent = 'Si rien ne s’ouvre : utilisez « Google Agenda » ou « Copier le lien » puis collez-le dans Safari.';
+        }
+      };
+      const onHide = () => {
+        if (document.hidden) {
+          clearTimeout(fallbackTimer);
+          document.removeEventListener('visibilitychange', onHide);
+        }
+      };
+      document.addEventListener('visibilitychange', onHide);
+      const fallbackTimer = setTimeout(() => {
+        // Scheme ignored / blocked — do NOT open https in-app (blank). Show secondary options.
+        document.removeEventListener('visibilitychange', onHide);
+        revealHint();
+      }, 1000);
+      try {
+        window.location.href = safariUrl;
+      } catch (e) {
+        clearTimeout(fallbackTimer);
+        document.removeEventListener('visibilitychange', onHide);
+        revealHint();
+      }
+    }
+
+    function bindCalendarButtons(root) {
+      root.querySelectorAll('[data-cal-ics]').forEach((btn) => {
+        btn.addEventListener('click', (e) => {
+          e.preventDefault();
+          const url = btn.getAttribute('data-cal-ics');
+          if (!url) return;
+          const wrap = btn.closest('.actions-col');
+          const hint = wrap ? wrap.querySelector('[data-cal-hint]') : null;
+          openIcsForCalendar(url, hint);
+        });
+      });
+      root.querySelectorAll('[data-cal-copy]').forEach((btn) => {
+        btn.addEventListener('click', async (e) => {
+          e.preventDefault();
+          const url = btn.getAttribute('data-cal-copy');
+          const wrap = btn.closest('.actions-col');
+          const hint = wrap ? wrap.querySelector('[data-cal-hint]') : null;
+          try {
+            await navigator.clipboard.writeText(url);
+            btn.textContent = 'Lien copié ✓';
+            if (hint) {
+              hint.hidden = false;
+              hint.textContent = 'Ouvrez Safari, collez le lien dans la barre d’adresse, puis validez → Ajouter à Calendrier.';
+            }
+            setTimeout(() => { btn.textContent = 'Copier le lien'; }, 2500);
+          } catch (err) {
+            if (hint) {
+              hint.hidden = false;
+              hint.textContent = 'Copie impossible. Ouvrez Safari et allez sur : ' + url;
+            } else {
+              prompt('Copiez ce lien dans Safari :', url);
+            }
+          }
+        });
+      });
+    }
+
     function groupByWeek(films) {
       const map = new Map();
       for (const f of films) {
@@ -331,8 +470,19 @@
         : `<div class="poster-fallback">Pas d’affiche</div>`;
       const synopsis = f.synopsis ? `<p class="synopsis">${escapeHtml(f.synopsis)}</p>` : '';
       const more = f.allocineUrl ? `<a class="more" href="${escapeHtml(f.allocineUrl)}" target="_blank" rel="noopener">Voir sur AlloCiné</a>` : '';
-      // Static .ics on GitHub Pages: most reliable way to open « Ajouter à Calendrier » on iOS Safari / PWA
-      const cal = `<a class="cal-btn" href="ics/${escapeHtml(f.id)}.ics" type="text/calendar" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2" stroke="currentColor" stroke-width="2"/><path d="M3 10h18" stroke="currentColor" stroke-width="2"/><path d="M8 3v4M16 3v4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>Ajouter au calendrier</span></a>`;
+      const icsAbs = absoluteIcsUrl(f.id);
+      const gcal = googleCalendarUrl(f);
+      const calSvg = `<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2" stroke="currentColor" stroke-width="2"/><path d="M3 10h18" stroke="currentColor" stroke-width="2"/><path d="M8 3v4M16 3v4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>`;
+      // href = absolute https .ics for normal Safari; click handler overrides in standalone
+      const cal = `<div class="actions-col">
+        <a class="cal-btn" href="${escapeHtml(icsAbs)}" data-cal-ics="${escapeHtml(icsAbs)}" type="text/calendar">${calSvg}<span>Ajouter au calendrier</span></a>
+        <div class="cal-alts">
+          <a class="cal-alt" href="${escapeHtml(gcal)}" target="_blank" rel="noopener">Google Agenda</a>
+          <span class="cal-sep">·</span>
+          <a class="cal-alt" href="${escapeHtml(icsAbs)}" data-cal-copy="${escapeHtml(icsAbs)}">Copier le lien</a>
+        </div>
+        <p class="cal-hint" data-cal-hint hidden></p>
+      </div>`;
       return `<article class="film" id="film-${escapeHtml(f.id)}">
         ${poster}
         <div class="film-body">
@@ -366,6 +516,7 @@
           ${list.map(filmCard).join('')}
         </section>
       `).join('');
+      bindCalendarButtons(app);
     }
 
     function renderNav(data, active) {
@@ -386,9 +537,7 @@
     }
 
     function hideInstallIfStandalone() {
-      const standalone = window.navigator.standalone === true ||
-        window.matchMedia('(display-mode: standalone)').matches;
-      if (standalone) document.getElementById('installHint').classList.add('hidden');
+      if (isStandalonePwa()) document.getElementById('installHint').classList.add('hidden');
     }
 
     async function main() {
