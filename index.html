@@ -9,8 +9,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Sorties Ciné" />
   <meta name="description" content="Prochaines sorties cinéma en France avec la date officielle." />
-  <link rel="manifest" href="manifest.webmanifest?v=10" />
-  <link rel="apple-touch-icon" href="icons/icon-180-v10.png" />
+  <link rel="manifest" href="manifest.webmanifest?v=11" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png?v=11" />
   <title>Sorties Ciné France</title>
   <style>
     :root {
@@ -19,19 +19,14 @@
       --muted: rgba(247,247,251,0.55);
       --accent: #E8458B;
       --accent-soft: #FF7AAD;
-      --glass: rgba(255,255,255,0.10);
-      --glass-strong: rgba(255,255,255,0.16);
-      --glass-border: rgba(255,255,255,0.28);
-      --glass-border-soft: rgba(255,255,255,0.14);
-      --shadow: 0 10px 40px rgba(0,0,0,0.35);
-      --radius-lg: 26px;
-      --radius-md: 22px;
-      --radius-sm: 16px;
+      --glass-fill: rgba(255,255,255,0.12);
       --safe-top: env(safe-area-inset-top, 0px);
       --safe-bottom: env(safe-area-inset-bottom, 0px);
-      --header-h: 76px;
-      --dock-h: 64px;
+      --header-h: 64px;
+      --dock-h: 52px;
+      --spring: cubic-bezier(0.34, 1.3, 0.64, 1);
       --ease: cubic-bezier(0.22, 1, 0.36, 1);
+      --chrome-scale: 1;
     }
     * { box-sizing: border-box; }
     html, body {
@@ -44,12 +39,15 @@
       background: #0a0610;
     }
     body {
-      padding-top: calc(var(--header-h) + var(--safe-top) + 8px);
+      padding-top: calc(var(--header-h) + var(--safe-top) + 18px);
       padding-bottom: calc(var(--dock-h) + var(--safe-bottom) + 28px);
       overflow-x: hidden;
     }
+    body.chrome-compact {
+      --header-h: 52px;
+      --dock-h: 44px;
+    }
 
-    /* Ambient Liquid Glass backdrop */
     .ambient {
       position: fixed;
       inset: 0;
@@ -86,141 +84,221 @@
     .ambient-vignette {
       position: absolute;
       inset: 0;
-      background:
-        linear-gradient(180deg, rgba(8,4,12,0.25) 0%, rgba(8,4,12,0.55) 45%, rgba(8,4,12,0.82) 100%);
+      background: linear-gradient(180deg, rgba(8,4,12,0.25) 0%, rgba(8,4,12,0.55) 45%, rgba(8,4,12,0.82) 100%);
     }
     @keyframes meshDrift {
       from { transform: scale(1.05) translate(0, 0); }
       to { transform: scale(1.1) translate(-2%, 2%); }
     }
 
-    .glass {
-      background: var(--glass);
-      background-image: linear-gradient(180deg, rgba(255,255,255,0.18) 0%, rgba(255,255,255,0.05) 40%, rgba(255,255,255,0.02) 100%);
-      backdrop-filter: blur(28px) saturate(180%);
-      -webkit-backdrop-filter: blur(28px) saturate(180%);
-      border: 1px solid transparent;
-      border-radius: var(--radius-md);
-      box-shadow:
-        var(--shadow),
-        inset 0 1px 0 rgba(255,255,255,0.35),
-        inset 0 -1px 0 rgba(255,255,255,0.05);
-      /* gradient rim via background-clip trick on pseudo */
+    /* Shared Liquid Glass capsule */
+    .liquid-glass {
       position: relative;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.22) 0%, rgba(255,255,255,0.06) 42%, rgba(255,255,255,0.04) 100%),
+        rgba(30, 24, 36, 0.28);
+      backdrop-filter: blur(40px) saturate(180%) brightness(1.08);
+      -webkit-backdrop-filter: blur(40px) saturate(180%) brightness(1.08);
+      border: 0.5px solid rgba(255,255,255,0.42);
+      box-shadow:
+        0 8px 32px rgba(0,0,0,0.38),
+        0 2px 8px rgba(0,0,0,0.18),
+        inset 0 0.5px 0 rgba(255,255,255,0.55),
+        inset 0 -0.5px 0 rgba(255,255,255,0.08);
+      overflow: hidden;
     }
-    .glass::before {
+    .liquid-glass::after {
       content: "";
       position: absolute;
       inset: 0;
       border-radius: inherit;
-      padding: 1px;
-      background: linear-gradient(160deg, rgba(255,255,255,0.55), rgba(255,255,255,0.08) 40%, rgba(255,255,255,0.22));
-      -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-      -webkit-mask-composite: xor;
-      mask-composite: exclude;
       pointer-events: none;
+      background: linear-gradient(180deg, rgba(255,255,255,0.18) 0%, transparent 35%, transparent 70%, rgba(255,255,255,0.06) 100%);
+    }
+
+    /* Film cards keep softer glass */
+    .glass {
+      position: relative;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.16) 0%, rgba(255,255,255,0.05) 45%, rgba(255,255,255,0.03) 100%),
+        rgba(255,255,255,0.08);
+      backdrop-filter: blur(28px) saturate(170%);
+      -webkit-backdrop-filter: blur(28px) saturate(170%);
+      border: 0.5px solid rgba(255,255,255,0.28);
+      border-radius: 22px;
+      box-shadow:
+        0 10px 36px rgba(0,0,0,0.32),
+        inset 0 0.5px 0 rgba(255,255,255,0.4);
     }
 
     header.app-header {
       position: fixed;
       top: calc(10px + var(--safe-top));
-      left: 12px;
-      right: 12px;
+      left: 14px;
+      right: 14px;
       z-index: 40;
-      padding: 12px 14px;
-      border-radius: var(--radius-lg);
+      padding: 10px 12px;
+      border-radius: 22px;
       max-width: 560px;
       margin: 0 auto;
       width: auto;
+      transform: scale(var(--chrome-scale));
+      transform-origin: top center;
+      transition: transform 0.45s var(--spring), padding 0.35s var(--ease), border-radius 0.35s var(--ease), opacity 0.3s var(--ease);
     }
-    .brand {
-      display: flex;
-      align-items: center;
-      gap: 12px;
+    body.chrome-compact header.app-header {
+      padding: 7px 10px;
+      border-radius: 18px;
+      --chrome-scale: 0.94;
+      opacity: 0.97;
     }
+    body.chrome-compact header.app-header .subtitle { display: none; }
+    body.chrome-compact header.app-header .brand-mark {
+      width: 34px;
+      height: 34px;
+      border-radius: 9px;
+    }
+    body.chrome-compact header.app-header h1 { font-size: 1rem; }
+    body.chrome-compact .install-hint { display: none; }
+
+    .brand { display: flex; align-items: center; gap: 11px; }
     .brand-mark {
-      width: 44px;
-      height: 44px;
-      border-radius: 12px;
+      width: 40px;
+      height: 40px;
+      border-radius: 11px;
       overflow: hidden;
       flex-shrink: 0;
-      box-shadow: 0 4px 16px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.4);
+      box-shadow: 0 2px 10px rgba(0,0,0,0.28);
+      transition: width 0.35s var(--ease), height 0.35s var(--ease);
     }
-    .brand-mark img {
-      width: 100%;
-      height: 100%;
-      display: block;
-      object-fit: cover;
-    }
+    .brand-mark img { width: 100%; height: 100%; display: block; object-fit: cover; }
     h1 {
       margin: 0;
-      font-size: 1.12rem;
+      font-size: 1.08rem;
       font-weight: 700;
       letter-spacing: -0.03em;
+      transition: font-size 0.35s var(--ease);
     }
     .subtitle {
       margin: 2px 0 0;
       color: var(--text-secondary);
-      font-size: 0.76rem;
+      font-size: 0.74rem;
       font-weight: 500;
     }
     .install-hint {
-      margin-top: 10px;
-      padding: 10px 12px;
-      border-radius: var(--radius-sm);
+      margin-top: 8px;
+      padding: 8px 10px;
+      border-radius: 14px;
       background: rgba(255,255,255,0.08);
-      border: 1px solid rgba(255,255,255,0.16);
-      font-size: 0.78rem;
+      border: 0.5px solid rgba(255,255,255,0.16);
+      font-size: 0.74rem;
       color: var(--text-secondary);
       line-height: 1.35;
     }
     .install-hint strong { color: #fff; }
-    .install-hint.hidden { display: none; }
+    .install-hint.hidden { display: none !important; }
 
-    /* Floating bottom week dock */
+    /* Bottom Liquid Glass dock */
     .week-dock {
       position: fixed;
       bottom: calc(10px + var(--safe-bottom));
-      left: 12px;
-      right: 12px;
+      left: 16px;
+      right: 16px;
       z-index: 40;
-      padding: 8px;
+      padding: 4px;
       border-radius: 999px;
-      max-width: 560px;
+      max-width: 420px;
       margin: 0 auto;
       width: auto;
+      height: var(--dock-h);
+      transform: scale(var(--chrome-scale));
+      transform-origin: bottom center;
+      transition: transform 0.45s var(--spring), height 0.35s var(--ease), opacity 0.3s var(--ease);
+    }
+    body.chrome-compact .week-dock {
+      --chrome-scale: 0.92;
+      opacity: 0.96;
+    }
+    .toolbar-wrap {
+      position: relative;
+      height: 100%;
+      border-radius: inherit;
+      overflow: hidden;
+      -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 10%, #000 90%, transparent 100%);
+      mask-image: linear-gradient(90deg, transparent 0%, #000 10%, #000 90%, transparent 100%);
     }
     .toolbar {
+      position: relative;
       display: flex;
-      gap: 6px;
+      align-items: center;
+      gap: 0;
+      height: 100%;
       overflow-x: auto;
+      overflow-y: hidden;
       -webkit-overflow-scrolling: touch;
       scrollbar-width: none;
-      padding: 2px;
+      padding: 0 4px;
     }
     .toolbar::-webkit-scrollbar { display: none; }
+
     .chip {
+      position: relative;
+      z-index: 2;
       flex: 0 0 auto;
-      border: 1px solid rgba(255,255,255,0.14);
-      background: rgba(255,255,255,0.08);
-      color: var(--text);
+      border: none;
+      background: transparent;
+      color: rgba(255,255,255,0.85);
       border-radius: 999px;
-      padding: 9px 14px;
-      font-size: 0.8rem;
+      padding: 0 14px;
+      height: calc(var(--dock-h) - 8px);
+      font-size: 0.78rem;
       font-weight: 600;
       font-family: inherit;
       white-space: nowrap;
       cursor: pointer;
       -webkit-appearance: none;
       appearance: none;
-      transition: background 0.25s var(--ease), transform 0.2s var(--ease), border-color 0.25s var(--ease);
+      transition: color 0.25s var(--ease);
     }
-    .chip:active { transform: scale(0.96); }
     .chip.active {
-      background: linear-gradient(180deg, rgba(242,95,158,0.98), rgba(232,69,139,0.95));
-      border-color: rgba(255,255,255,0.35);
-      box-shadow: 0 4px 18px rgba(232,69,139,0.40), inset 0 1px 0 rgba(255,255,255,0.35);
-      color: #fff;
+      color: var(--accent);
+    }
+    .chip:active { opacity: 0.75; }
+
+    /* Sliding glass lens */
+    .dock-lens {
+      position: absolute;
+      top: 4px;
+      left: 0;
+      height: calc(var(--dock-h) - 8px);
+      width: 64px;
+      border-radius: 999px;
+      z-index: 1;
+      pointer-events: none;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.42) 0%, rgba(255,255,255,0.14) 38%, rgba(255,255,255,0.08) 100%),
+        rgba(255,255,255,0.10);
+      backdrop-filter: blur(20px) saturate(200%) brightness(1.15);
+      -webkit-backdrop-filter: blur(20px) saturate(200%) brightness(1.15);
+      border: 0.5px solid rgba(255,255,255,0.55);
+      box-shadow:
+        0 2px 10px rgba(0,0,0,0.18),
+        inset 0 0.5px 0 rgba(255,255,255,0.75),
+        inset 0 -0.5px 0 rgba(255,255,255,0.12);
+      transform: translateX(0);
+      transition: transform 0.5s var(--spring), width 0.45s var(--spring);
+      will-change: transform, width;
+    }
+    .dock-lens::before {
+      content: "";
+      position: absolute;
+      left: 14%;
+      right: 14%;
+      top: 1px;
+      height: 38%;
+      border-radius: 999px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.55), transparent);
+      opacity: 0.85;
     }
 
     main {
@@ -256,7 +334,6 @@
       gap: 12px;
       padding: 12px;
       margin-bottom: 12px;
-      border-radius: var(--radius-md);
       animation: cardIn 0.55s var(--ease) both;
     }
     .film:nth-child(2) { animation-delay: 0.03s; }
@@ -307,15 +384,15 @@
     .badge {
       display: inline-flex;
       align-items: center;
-      background: rgba(232,69,139,0.28);
+      background: rgba(232,69,139,0.22);
       color: #ffc2da;
-      border: 1px solid rgba(255,150,190,0.35);
+      border: 0.5px solid rgba(255,150,190,0.35);
       border-radius: 999px;
       padding: 3px 9px;
       font-size: 0.7rem;
       font-weight: 650;
-      backdrop-filter: blur(8px);
-      -webkit-backdrop-filter: blur(8px);
+      backdrop-filter: blur(10px) saturate(160%);
+      -webkit-backdrop-filter: blur(10px) saturate(160%);
     }
     .meta {
       color: var(--muted);
@@ -357,7 +434,7 @@
       padding: 2px 8px;
       border-radius: 999px;
       background: rgba(255,255,255,0.08);
-      border: 1px solid rgba(255,255,255,0.12);
+      border: 0.5px solid rgba(255,255,255,0.12);
       color: rgba(247,247,251,0.55);
       font-weight: 600;
       letter-spacing: 0.02em;
@@ -383,11 +460,13 @@
       font-family: inherit;
       font-size: 0.72rem;
       font-weight: 650;
-      color: #fff;
-      border: 1px solid rgba(255,255,255,0.28);
-      background: linear-gradient(180deg, rgba(242,95,158,0.65), rgba(200,50,120,0.50));
-      backdrop-filter: blur(12px) saturate(160%);
-      -webkit-backdrop-filter: blur(12px) saturate(160%);
+      color: #ffd0e2;
+      border: 0.5px solid rgba(255,180,210,0.45);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,0.22) 0%, rgba(255,255,255,0.05) 100%),
+        rgba(232,69,139,0.28);
+      backdrop-filter: blur(16px) saturate(180%);
+      -webkit-backdrop-filter: blur(16px) saturate(180%);
       border-radius: 999px;
       padding: 7px 12px;
       line-height: 1.2;
@@ -395,7 +474,9 @@
       -webkit-tap-highlight-color: transparent;
       -webkit-appearance: none;
       appearance: none;
-      box-shadow: inset 0 1px 0 rgba(255,255,255,0.35), 0 4px 14px rgba(232,69,139,0.28);
+      box-shadow:
+        inset 0 0.5px 0 rgba(255,255,255,0.45),
+        0 4px 14px rgba(232,69,139,0.18);
       transition: transform 0.2s var(--ease);
     }
     button.cal-btn:active { transform: scale(0.97); }
@@ -444,6 +525,8 @@
         animation: none !important;
         transition: none !important;
       }
+      .dock-lens { transition: none !important; }
+      header.app-header, .week-dock { transition: none !important; }
     }
   </style>
 </head>
@@ -454,10 +537,10 @@
     <div class="ambient-vignette"></div>
   </div>
 
-  <header class="app-header glass">
+  <header class="app-header liquid-glass" id="appHeader">
     <div class="brand">
       <div class="brand-mark" aria-hidden="true">
-        <img src="icons/icon-180-v10.png" alt="" width="44" height="44" />
+        <img src="icons/icon-180.png?v=11" alt="" width="44" height="44" />
       </div>
       <div>
         <h1>Sorties Ciné France</h1>
@@ -474,12 +557,16 @@
   </main>
   <footer id="footer"></footer>
 
-  <nav class="week-dock glass" aria-label="Filtrer par semaine">
-    <div class="toolbar" id="weekNav"></div>
+  <nav class="week-dock liquid-glass" id="weekDock" aria-label="Filtrer par semaine">
+    <div class="toolbar-wrap">
+      <div class="toolbar" id="weekNav">
+        <div class="dock-lens" id="dockLens" aria-hidden="true"></div>
+      </div>
+    </div>
   </nav>
 
   <script>
-    const APP_VERSION = 'v10';
+    const APP_VERSION = 'v11';
     const MONTHS_FR = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
     const DAYS_FR = ['dimanche','lundi','mardi','mercredi','jeudi','vendredi','samedi'];
 
@@ -494,6 +581,11 @@
     function formatShort(d) {
       const dt = parseISO(d);
       return `${dt.getDate()} ${MONTHS_FR[dt.getMonth()]}`;
+    }
+    function formatChip(d) {
+      const dt = parseISO(d);
+      const mon = MONTHS_FR[dt.getMonth()].slice(0, 3);
+      return `${dt.getDate()} ${mon}.`;
     }
     function weekKey(iso) { return iso; }
     function weekLabel(iso) { return `Sorties du ${formatShort(iso)}`; }
@@ -645,7 +737,7 @@
         <div class="film-body">
           <h3 class="film-title">${escapeHtml(f.title)}</h3>
           <div class="meta-row">
-            <span class="badge">${escapeHtml(formatShort(f.releaseDate))}</span>
+            <span class="badge">${escapeHtml(formatChip(f.releaseDate))}</span>
             <span class="meta">${metaBits.join(' · ')}</span>
           </div>
           ${synopsis}
@@ -680,21 +772,86 @@
       bindCalendarButtons(app);
     }
 
+    function moveDockLens(toBtn, instant) {
+      const lens = document.getElementById('dockLens');
+      if (!lens || !toBtn) return;
+      const x = toBtn.offsetLeft;
+      const w = toBtn.offsetWidth;
+      if (instant) lens.style.transition = 'none';
+      lens.style.width = `${Math.max(w, 40)}px`;
+      lens.style.transform = `translate3d(${x}px, 0, 0)`;
+      if (instant) {
+        void lens.offsetWidth;
+        lens.style.transition = '';
+      }
+    }
+
     function renderNav(data, active) {
       const weeks = [...new Set(data.films.map(f => f.releaseDate))].sort();
       const nav = document.getElementById('weekNav');
+      let lens = document.getElementById('dockLens');
+      if (!lens) {
+        lens = document.createElement('div');
+        lens.className = 'dock-lens';
+        lens.id = 'dockLens';
+        lens.setAttribute('aria-hidden', 'true');
+      }
       const allChip = `<button type="button" class="chip ${!active ? 'active' : ''}" data-week="">Toutes</button>`;
       nav.innerHTML = allChip + weeks.map(w =>
-        `<button type="button" class="chip ${active === w ? 'active' : ''}" data-week="${w}">${escapeHtml(formatShort(w))}</button>`
+        `<button type="button" class="chip ${active === w ? 'active' : ''}" data-week="${w}">${escapeHtml(formatChip(w))}</button>`
       ).join('');
+      nav.prepend(lens);
+
+      const activate = (btn, week, scrollTop) => {
+        nav.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c === btn));
+        moveDockLens(btn, false);
+        render(data, week);
+        if (scrollTop) window.scrollTo({ top: 0, behavior: 'smooth' });
+        // keep selected chip visible
+        btn.scrollIntoView({ inline: 'center', block: 'nearest', behavior: 'smooth' });
+      };
+
       nav.onclick = (e) => {
         const btn = e.target.closest('button.chip');
         if (!btn) return;
         const w = btn.dataset.week || null;
-        renderNav(data, w);
-        render(data, w);
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        activate(btn, w, true);
       };
+
+      // Position lens after layout
+      requestAnimationFrame(() => {
+        const activeBtn = nav.querySelector('.chip.active') || nav.querySelector('.chip');
+        moveDockLens(activeBtn, true);
+      });
+
+    }
+
+    function setupChromeScroll() {
+      let lastY = window.scrollY || 0;
+      let ticking = false;
+      const update = () => {
+        ticking = false;
+        const y = window.scrollY || 0;
+        const delta = y - lastY;
+        if (y < 24) {
+          document.body.classList.remove('chrome-compact');
+        } else if (delta > 6) {
+          document.body.classList.add('chrome-compact');
+        } else if (delta < -6) {
+          document.body.classList.remove('chrome-compact');
+        }
+        lastY = y;
+      };
+      window.addEventListener('scroll', () => {
+        if (!ticking) {
+          ticking = true;
+          requestAnimationFrame(update);
+        }
+      }, { passive: true });
+      window.addEventListener('resize', () => {
+        const activeBtn = document.querySelector('#weekNav .chip.active');
+        if (activeBtn) moveDockLens(activeBtn, true);
+      });
     }
 
     function hideInstallIfStandalone() {
@@ -716,6 +873,7 @@
         }
         renderNav(data, null);
         render(data, null);
+        setupChromeScroll();
       } catch (err) {
         document.getElementById('app').innerHTML =
           `<div class="status">Impossible de charger les sorties.<br/><small>${escapeHtml(err.message)}</small></div>`;
