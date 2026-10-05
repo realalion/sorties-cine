@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 .venv/
 icon-preview.png
+icon-alt-preview.png

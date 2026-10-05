@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff5a7a"/>
-      <stop offset="45%" stop-color="#c4183a"/>
-      <stop offset="100%" stop-color="#5b1a8a"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff4876"/>
+      <stop offset="100%" stop-color="#581c94"/>
     </linearGradient>
   </defs>
-  <!-- Full-bleed opaque square (iOS applies its own mask) -->
   <rect width="512" height="512" fill="url(#bg)"/>
-  <ellipse cx="180" cy="120" rx="160" ry="80" fill="#fff" opacity="0.16"/>
-  <g transform="translate(102 168)">
-    <rect x="0" y="40" width="308" height="192" rx="34" fill="#ffffff" fill-opacity="0.22" stroke="#ffffff" stroke-opacity="0.65" stroke-width="3"/>
-    <rect x="0" y="0" width="308" height="54" rx="26" fill="#ffffff" fill-opacity="0.34" stroke="#ffffff" stroke-opacity="0.7" stroke-width="2.5"/>
-    <path d="M26 8 L66 46 L108 8 L150 46 L192 8 L234 46 L276 8" fill="none" stroke="#ffffff" stroke-opacity="0.8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M132 112 L132 180 L198 146 Z" fill="#ffffff" fill-opacity="0.92"/>
-  </g>
+  <circle cx="256" cy="256" r="148" fill="none" stroke="#ffffff" stroke-width="18"/>
+  <path d="M224 190 L224 322 L338 256 Z" fill="#ffffff"/>
 </svg>
