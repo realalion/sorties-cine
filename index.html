@@ -9,8 +9,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Sorties Ciné" />
   <meta name="description" content="Prochaines sorties cinéma en France avec la date officielle." />
-  <link rel="manifest" href="manifest.webmanifest?v=11" />
-  <link rel="apple-touch-icon" href="icons/icon-180.png?v=11" />
+  <link rel="manifest" href="manifest.webmanifest?v=12" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png?v=12" />
   <title>Sorties Ciné France</title>
   <style>
     :root {
@@ -23,7 +23,7 @@
       --safe-top: env(safe-area-inset-top, 0px);
       --safe-bottom: env(safe-area-inset-bottom, 0px);
       --header-h: 64px;
-      --dock-h: 52px;
+      --dock-h: 72px;
       --spring: cubic-bezier(0.34, 1.3, 0.64, 1);
       --ease: cubic-bezier(0.22, 1, 0.36, 1);
       --chrome-scale: 1;
@@ -40,7 +40,7 @@
     }
     body {
       padding-top: calc(var(--header-h) + var(--safe-top) + 18px);
-      padding-bottom: calc(var(--dock-h) + var(--safe-bottom) + 28px);
+      padding-bottom: calc(var(--dock-h) + var(--safe-bottom) + 20px);
       overflow-x: hidden;
     }
     body.chrome-compact {
@@ -91,20 +91,20 @@
       to { transform: scale(1.1) translate(-2%, 2%); }
     }
 
-    /* Shared Liquid Glass capsule */
+    /* Shared Liquid Glass capsule — neutral dark (WhatsApp-like) */
     .liquid-glass {
       position: relative;
       background:
-        linear-gradient(180deg, rgba(255,255,255,0.22) 0%, rgba(255,255,255,0.06) 42%, rgba(255,255,255,0.04) 100%),
-        rgba(30, 24, 36, 0.28);
-      backdrop-filter: blur(40px) saturate(180%) brightness(1.08);
-      -webkit-backdrop-filter: blur(40px) saturate(180%) brightness(1.08);
-      border: 0.5px solid rgba(255,255,255,0.42);
+        linear-gradient(180deg, rgba(255,255,255,0.14) 0%, rgba(255,255,255,0.04) 40%, rgba(255,255,255,0.03) 100%),
+        rgba(40, 40, 44, 0.55);
+      backdrop-filter: blur(40px) saturate(180%) brightness(1.05);
+      -webkit-backdrop-filter: blur(40px) saturate(180%) brightness(1.05);
+      border: 0.5px solid rgba(255,255,255,0.28);
       box-shadow:
-        0 8px 32px rgba(0,0,0,0.38),
-        0 2px 8px rgba(0,0,0,0.18),
-        inset 0 0.5px 0 rgba(255,255,255,0.55),
-        inset 0 -0.5px 0 rgba(255,255,255,0.08);
+        0 10px 36px rgba(0,0,0,0.45),
+        0 2px 8px rgba(0,0,0,0.22),
+        inset 0 0.5px 0 rgba(255,255,255,0.38),
+        inset 0 -0.5px 0 rgba(255,255,255,0.06);
       overflow: hidden;
     }
     .liquid-glass::after {
@@ -113,22 +113,21 @@
       inset: 0;
       border-radius: inherit;
       pointer-events: none;
-      background: linear-gradient(180deg, rgba(255,255,255,0.18) 0%, transparent 35%, transparent 70%, rgba(255,255,255,0.06) 100%);
+      background: linear-gradient(180deg, rgba(255,255,255,0.12) 0%, transparent 32%, transparent 72%, rgba(255,255,255,0.04) 100%);
     }
 
-    /* Film cards keep softer glass */
     .glass {
       position: relative;
       background:
-        linear-gradient(180deg, rgba(255,255,255,0.16) 0%, rgba(255,255,255,0.05) 45%, rgba(255,255,255,0.03) 100%),
-        rgba(255,255,255,0.08);
-      backdrop-filter: blur(28px) saturate(170%);
-      -webkit-backdrop-filter: blur(28px) saturate(170%);
-      border: 0.5px solid rgba(255,255,255,0.28);
+        linear-gradient(180deg, rgba(255,255,255,0.12) 0%, rgba(255,255,255,0.04) 45%, rgba(255,255,255,0.03) 100%),
+        rgba(28, 28, 32, 0.45);
+      backdrop-filter: blur(28px) saturate(160%);
+      -webkit-backdrop-filter: blur(28px) saturate(160%);
+      border: 0.5px solid rgba(255,255,255,0.22);
       border-radius: 22px;
       box-shadow:
         0 10px 36px rgba(0,0,0,0.32),
-        inset 0 0.5px 0 rgba(255,255,255,0.4);
+        inset 0 0.5px 0 rgba(255,255,255,0.28);
     }
 
     header.app-header {
@@ -189,8 +188,8 @@
       margin-top: 8px;
       padding: 8px 10px;
       border-radius: 14px;
-      background: rgba(255,255,255,0.08);
-      border: 0.5px solid rgba(255,255,255,0.16);
+      background: rgba(255,255,255,0.06);
+      border: 0.5px solid rgba(255,255,255,0.12);
       font-size: 0.74rem;
       color: var(--text-secondary);
       line-height: 1.35;
@@ -198,107 +197,124 @@
     .install-hint strong { color: #fff; }
     .install-hint.hidden { display: none !important; }
 
-    /* Bottom Liquid Glass dock */
-    .week-dock {
+    /* WhatsApp-like tab bar */
+    .tab-bar {
       position: fixed;
-      bottom: calc(10px + var(--safe-bottom));
-      left: 16px;
-      right: 16px;
+      bottom: calc(8px + var(--safe-bottom));
+      left: 12px;
+      right: 12px;
       z-index: 40;
-      padding: 4px;
-      border-radius: 999px;
       max-width: 420px;
       margin: 0 auto;
-      width: auto;
-      height: var(--dock-h);
+      height: 64px;
+      border-radius: 999px;
+      padding: 4px;
       transform: scale(var(--chrome-scale));
       transform-origin: bottom center;
       transition: transform 0.45s var(--spring), height 0.35s var(--ease), opacity 0.3s var(--ease);
     }
-    body.chrome-compact .week-dock {
-      --chrome-scale: 0.92;
-      opacity: 0.96;
+    body.chrome-compact .tab-bar {
+      height: 56px;
+      --chrome-scale: 0.94;
+      opacity: 0.97;
     }
-    .toolbar-wrap {
+    .tab-bar-inner {
       position: relative;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      align-items: stretch;
       height: 100%;
-      border-radius: inherit;
-      overflow: hidden;
-      -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 10%, #000 90%, transparent 100%);
-      mask-image: linear-gradient(90deg, transparent 0%, #000 10%, #000 90%, transparent 100%);
-    }
-    .toolbar {
-      position: relative;
-      display: flex;
-      align-items: center;
       gap: 0;
-      height: 100%;
-      overflow-x: auto;
-      overflow-y: hidden;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
-      padding: 0 4px;
     }
-    .toolbar::-webkit-scrollbar { display: none; }
-
-    .chip {
+    .tab-pill {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 25%;
+      border-radius: 999px;
+      background: rgba(0, 0, 0, 0.45);
+      border: 0.5px solid rgba(255,255,255,0.10);
+      box-shadow:
+        inset 0 0.5px 0 rgba(255,255,255,0.12),
+        0 1px 4px rgba(0,0,0,0.25);
+      transform: translate3d(0, 0, 0);
+      transition: transform 0.48s var(--spring);
+      pointer-events: none;
+      z-index: 0;
+      will-change: transform;
+    }
+    .tab-btn {
       position: relative;
-      z-index: 2;
-      flex: 0 0 auto;
+      z-index: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
       border: none;
       background: transparent;
-      color: rgba(255,255,255,0.85);
+      color: rgba(255,255,255,0.92);
+      font-family: inherit;
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      padding: 4px 2px;
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
+      -webkit-tap-highlight-color: transparent;
+      transition: opacity 0.2s var(--ease);
+    }
+    .tab-btn:active { opacity: 0.7; }
+    .tab-btn svg {
+      width: 22px;
+      height: 22px;
+      stroke: currentColor;
+      fill: none;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    .tab-btn.active svg { stroke-width: 2.1; }
+    .tab-btn span { line-height: 1.1; }
+
+    /* Week chips under header / top of content */
+    .week-chips {
+      display: none;
+      gap: 8px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding: 2px 2px 14px;
+      margin: 0 -2px;
+      -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 6%, #000 94%, transparent 100%);
+      mask-image: linear-gradient(90deg, transparent 0%, #000 6%, #000 94%, transparent 100%);
+    }
+    .week-chips.visible { display: flex; }
+    .week-chips::-webkit-scrollbar { display: none; }
+    .week-chip {
+      flex: 0 0 auto;
+      border: 0.5px solid rgba(255,255,255,0.22);
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(16px) saturate(160%);
+      -webkit-backdrop-filter: blur(16px) saturate(160%);
+      color: rgba(255,255,255,0.88);
       border-radius: 999px;
-      padding: 0 14px;
-      height: calc(var(--dock-h) - 8px);
-      font-size: 0.78rem;
-      font-weight: 600;
+      padding: 7px 12px;
+      font-size: 0.75rem;
+      font-weight: 650;
       font-family: inherit;
       white-space: nowrap;
       cursor: pointer;
       -webkit-appearance: none;
       appearance: none;
-      transition: color 0.25s var(--ease);
     }
-    .chip.active {
-      color: var(--accent);
-    }
-    .chip:active { opacity: 0.75; }
-
-    /* Sliding glass lens */
-    .dock-lens {
-      position: absolute;
-      top: 4px;
-      left: 0;
-      height: calc(var(--dock-h) - 8px);
-      width: 64px;
-      border-radius: 999px;
-      z-index: 1;
-      pointer-events: none;
-      background:
-        linear-gradient(180deg, rgba(255,255,255,0.42) 0%, rgba(255,255,255,0.14) 38%, rgba(255,255,255,0.08) 100%),
-        rgba(255,255,255,0.10);
-      backdrop-filter: blur(20px) saturate(200%) brightness(1.15);
-      -webkit-backdrop-filter: blur(20px) saturate(200%) brightness(1.15);
-      border: 0.5px solid rgba(255,255,255,0.55);
-      box-shadow:
-        0 2px 10px rgba(0,0,0,0.18),
-        inset 0 0.5px 0 rgba(255,255,255,0.75),
-        inset 0 -0.5px 0 rgba(255,255,255,0.12);
-      transform: translateX(0);
-      transition: transform 0.5s var(--spring), width 0.45s var(--spring);
-      will-change: transform, width;
-    }
-    .dock-lens::before {
-      content: "";
-      position: absolute;
-      left: 14%;
-      right: 14%;
-      top: 1px;
-      height: 38%;
-      border-radius: 999px;
-      background: linear-gradient(180deg, rgba(255,255,255,0.55), transparent);
-      opacity: 0.85;
+    .week-chip.active {
+      background: rgba(0,0,0,0.4);
+      border-color: rgba(255,255,255,0.28);
+      color: #fff;
+      box-shadow: inset 0 0.5px 0 rgba(255,255,255,0.18);
     }
 
     main {
@@ -308,7 +324,7 @@
       max-width: 560px;
       margin: 0 auto;
     }
-    .week { margin-top: 18px; }
+    .week { margin-top: 10px; }
     .week-title {
       display: flex;
       align-items: baseline;
@@ -384,15 +400,13 @@
     .badge {
       display: inline-flex;
       align-items: center;
-      background: rgba(232,69,139,0.22);
+      background: rgba(232,69,139,0.28);
       color: #ffc2da;
-      border: 0.5px solid rgba(255,150,190,0.35);
+      border: 0.5px solid rgba(255,150,190,0.4);
       border-radius: 999px;
       padding: 3px 9px;
       font-size: 0.7rem;
       font-weight: 650;
-      backdrop-filter: blur(10px) saturate(160%);
-      -webkit-backdrop-filter: blur(10px) saturate(160%);
     }
     .meta {
       color: var(--muted);
@@ -460,13 +474,13 @@
       font-family: inherit;
       font-size: 0.72rem;
       font-weight: 650;
-      color: #ffd0e2;
-      border: 0.5px solid rgba(255,180,210,0.45);
+      color: rgba(255,255,255,0.92);
+      border: 0.5px solid rgba(255,255,255,0.28);
       background:
-        linear-gradient(180deg, rgba(255,255,255,0.22) 0%, rgba(255,255,255,0.05) 100%),
-        rgba(232,69,139,0.28);
-      backdrop-filter: blur(16px) saturate(180%);
-      -webkit-backdrop-filter: blur(16px) saturate(180%);
+        linear-gradient(180deg, rgba(255,255,255,0.14) 0%, rgba(255,255,255,0.04) 100%),
+        rgba(40,40,44,0.45);
+      backdrop-filter: blur(16px) saturate(170%);
+      -webkit-backdrop-filter: blur(16px) saturate(170%);
       border-radius: 999px;
       padding: 7px 12px;
       line-height: 1.2;
@@ -475,8 +489,8 @@
       -webkit-appearance: none;
       appearance: none;
       box-shadow:
-        inset 0 0.5px 0 rgba(255,255,255,0.45),
-        0 4px 14px rgba(232,69,139,0.18);
+        inset 0 0.5px 0 rgba(255,255,255,0.35),
+        0 4px 14px rgba(0,0,0,0.2);
       transition: transform 0.2s var(--ease);
     }
     button.cal-btn:active { transform: scale(0.97); }
@@ -525,8 +539,8 @@
         animation: none !important;
         transition: none !important;
       }
-      .dock-lens { transition: none !important; }
-      header.app-header, .week-dock { transition: none !important; }
+      .tab-pill { transition: none !important; }
+      header.app-header, .tab-bar { transition: none !important; }
     }
   </style>
 </head>
@@ -540,7 +554,7 @@
   <header class="app-header liquid-glass" id="appHeader">
     <div class="brand">
       <div class="brand-mark" aria-hidden="true">
-        <img src="icons/icon-180.png?v=11" alt="" width="44" height="44" />
+        <img src="icons/icon-180.png?v=12" alt="" width="44" height="44" />
       </div>
       <div>
         <h1>Sorties Ciné France</h1>
@@ -552,21 +566,26 @@
     </div>
   </header>
 
+  <div class="content-wrap" style="position:relative;z-index:1;max-width:560px;margin:0 auto;padding:0 14px;">
+    <div class="week-chips" id="weekChips" aria-label="Semaines"></div>
+  </div>
   <main id="app">
     <div class="status">Chargement des sorties…</div>
   </main>
   <footer id="footer"></footer>
 
-  <nav class="week-dock liquid-glass" id="weekDock" aria-label="Filtrer par semaine">
-    <div class="toolbar-wrap">
-      <div class="toolbar" id="weekNav">
-        <div class="dock-lens" id="dockLens" aria-hidden="true"></div>
-      </div>
+  <nav class="tab-bar liquid-glass" id="tabBar" aria-label="Navigation">
+    <div class="tab-bar-inner" id="tabBarInner">
+      <div class="tab-pill" id="tabPill" aria-hidden="true"></div>
+      <button type="button" class="tab-btn active" data-tab="all"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.5"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.5"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.5"/></svg><span>Toutes</span></button>
+      <button type="button" class="tab-btn" data-tab="this"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><circle cx="12" cy="15.5" r="1.6" fill="currentColor" stroke="none"/></svg><span>Cette sem.</span></button>
+      <button type="button" class="tab-btn" data-tab="next"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><path d="M10.5 15.5h5M13.5 12.5v6"/></svg><span>Prochaine</span></button>
+      <button type="button" class="tab-btn" data-tab="later"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M8 3.5v3M16 3.5v3M3.5 10h17"/><path d="M8 14h3.5M12.5 14H16M8 17.5h3.5M12.5 17.5H16"/></svg><span>Plus tard</span></button>
     </div>
   </nav>
 
   <script>
-    const APP_VERSION = 'v11';
+    const APP_VERSION = 'v12';
     const MONTHS_FR = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
     const DAYS_FR = ['dimanche','lundi','mardi','mercredi','jeudi','vendredi','samedi'];
 
@@ -746,17 +765,16 @@
       </article>`;
     }
 
-    function render(data, filterWeek) {
-      const films = filterWeek
-        ? data.films.filter(f => f.releaseDate === filterWeek)
-        : data.films;
+    function render(data) {
+      if (!data) return;
+      appState.data = data;
+      const films = filmsForState();
       const groups = groupByWeek(films);
       const app = document.getElementById('app');
       if (!groups.length) {
-        app.innerHTML = `<div class="status">Aucune sortie pour cette semaine.</div>`;
+        app.innerHTML = `<div class="status">Aucune sortie pour ce filtre.</div>`;
         return;
       }
-      // Ambient from first visible film with a poster
       const firstPoster = films.find(f => f.poster);
       if (firstPoster) setAmbientPoster(firstPoster.poster);
 
@@ -772,58 +790,122 @@
       bindCalendarButtons(app);
     }
 
-    function moveDockLens(toBtn, instant) {
-      const lens = document.getElementById('dockLens');
-      if (!lens || !toBtn) return;
-      const x = toBtn.offsetLeft;
-      const w = toBtn.offsetWidth;
-      if (instant) lens.style.transition = 'none';
-      lens.style.width = `${Math.max(w, 40)}px`;
-      lens.style.transform = `translate3d(${x}px, 0, 0)`;
+    function nextWednesdayOnOrAfter(d) {
+      const x = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+      const day = x.getDay(); // 0 Sun .. 3 Wed
+      const add = (3 - day + 7) % 7;
+      x.setDate(x.getDate() + add);
+      return x;
+    }
+    function isoDate(d) {
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      return `${y}-${m}-${day}`;
+    }
+
+    let appState = {
+      data: null,
+      tab: 'all',       // all | this | next | later
+      week: null,       // optional specific week ISO
+    };
+
+    function weekBuckets(data) {
+      const weeks = [...new Set(data.films.map(f => f.releaseDate))].sort();
+      const today = new Date();
+      const thisW = isoDate(nextWednesdayOnOrAfter(today));
+      const nextDt = nextWednesdayOnOrAfter(today);
+      nextDt.setDate(nextDt.getDate() + 7);
+      const nextW = isoDate(nextDt);
+      return { weeks, thisW, nextW };
+    }
+
+    function filmsForState() {
+      const data = appState.data;
+      if (!data) return [];
+      const { thisW, nextW, weeks } = weekBuckets(data);
+      let list = data.films;
+      if (appState.tab === 'this') {
+        list = list.filter(f => f.releaseDate === thisW);
+      } else if (appState.tab === 'next') {
+        list = list.filter(f => f.releaseDate === nextW);
+      } else if (appState.tab === 'later') {
+        list = list.filter(f => f.releaseDate > nextW);
+      }
+      if (appState.week) {
+        list = list.filter(f => f.releaseDate === appState.week);
+      }
+      return list;
+    }
+
+    function chipsWeeksForTab() {
+      const data = appState.data;
+      if (!data) return [];
+      const { weeks, thisW, nextW } = weekBuckets(data);
+      if (appState.tab === 'all') return weeks;
+      if (appState.tab === 'this') return weeks.filter(w => w === thisW);
+      if (appState.tab === 'next') return weeks.filter(w => w === nextW);
+      if (appState.tab === 'later') return weeks.filter(w => w > nextW);
+      return weeks;
+    }
+
+    function moveTabPill(btn, instant) {
+      const pill = document.getElementById('tabPill');
+      const inner = document.getElementById('tabBarInner');
+      if (!pill || !inner || !btn) return;
+      const idx = [...inner.querySelectorAll('.tab-btn')].indexOf(btn);
+      if (idx < 0) return;
+      if (instant) pill.style.transition = 'none';
+      pill.style.transform = `translate3d(${idx * 100}%, 0, 0)`;
       if (instant) {
-        void lens.offsetWidth;
-        lens.style.transition = '';
+        void pill.offsetWidth;
+        pill.style.transition = '';
       }
     }
 
-    function renderNav(data, active) {
-      const weeks = [...new Set(data.films.map(f => f.releaseDate))].sort();
-      const nav = document.getElementById('weekNav');
-      let lens = document.getElementById('dockLens');
-      if (!lens) {
-        lens = document.createElement('div');
-        lens.className = 'dock-lens';
-        lens.id = 'dockLens';
-        lens.setAttribute('aria-hidden', 'true');
+    function renderWeekChips() {
+      const el = document.getElementById('weekChips');
+      if (!el) return;
+      const weeks = chipsWeeksForTab();
+      // Show chips when multiple weeks available for current tab (or always for all/later)
+      const show = weeks.length > 1 || (appState.tab === 'all' && weeks.length > 0);
+      if (!show) {
+        el.classList.remove('visible');
+        el.innerHTML = '';
+        return;
       }
-      const allChip = `<button type="button" class="chip ${!active ? 'active' : ''}" data-week="">Toutes</button>`;
-      nav.innerHTML = allChip + weeks.map(w =>
-        `<button type="button" class="chip ${active === w ? 'active' : ''}" data-week="${w}">${escapeHtml(formatChip(w))}</button>`
-      ).join('');
-      nav.prepend(lens);
-
-      const activate = (btn, week, scrollTop) => {
-        nav.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c === btn));
-        moveDockLens(btn, false);
-        render(data, week);
-        if (scrollTop) window.scrollTo({ top: 0, behavior: 'smooth' });
-        // keep selected chip visible
-        btn.scrollIntoView({ inline: 'center', block: 'nearest', behavior: 'smooth' });
-      };
-
-      nav.onclick = (e) => {
-        const btn = e.target.closest('button.chip');
+      el.classList.add('visible');
+      const activeWeek = appState.week;
+      el.innerHTML = `<button type="button" class="week-chip ${!activeWeek ? 'active' : ''}" data-week="">Toutes</button>` +
+        weeks.map(w =>
+          `<button type="button" class="week-chip ${activeWeek === w ? 'active' : ''}" data-week="${w}">${escapeHtml(formatChip(w))}</button>`
+        ).join('');
+      el.onclick = (e) => {
+        const btn = e.target.closest('.week-chip');
         if (!btn) return;
-        const w = btn.dataset.week || null;
-        activate(btn, w, true);
+        appState.week = btn.dataset.week || null;
+        renderWeekChips();
+        render(appState.data);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
       };
+    }
 
-      // Position lens after layout
-      requestAnimationFrame(() => {
-        const activeBtn = nav.querySelector('.chip.active') || nav.querySelector('.chip');
-        moveDockLens(activeBtn, true);
+    function setupTabs() {
+      const inner = document.getElementById('tabBarInner');
+      if (!inner) return;
+      inner.querySelectorAll('.tab-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          inner.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b === btn));
+          moveTabPill(btn, false);
+          appState.tab = btn.dataset.tab || 'all';
+          appState.week = null;
+          renderWeekChips();
+          render(appState.data);
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
       });
-
+      const active = inner.querySelector('.tab-btn.active');
+      moveTabPill(active, true);
     }
 
     function setupChromeScroll() {
@@ -848,10 +930,6 @@
           requestAnimationFrame(update);
         }
       }, { passive: true });
-      window.addEventListener('resize', () => {
-        const activeBtn = document.querySelector('#weekNav .chip.active');
-        if (activeBtn) moveDockLens(activeBtn, true);
-      });
     }
 
     function hideInstallIfStandalone() {
@@ -871,8 +949,10 @@
         if (data.films && data.films[0] && data.films[0].poster) {
           setAmbientPoster(data.films[0].poster);
         }
-        renderNav(data, null);
-        render(data, null);
+        appState.data = data;
+        setupTabs();
+        renderWeekChips();
+        render(data);
         setupChromeScroll();
       } catch (err) {
         document.getElementById('app').innerHTML =
