@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install dependencies
+        run: pip install pillow
+
       - name: Fetch AlloCiné data
         run: python3 scripts/fetch_allocine.py
 
