@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:00:00+02:00",
+  "generatedAt": "2026-10-06T06:14:25+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -299,7 +299,7 @@
       "genres": [
         "Drame"
       ],
-      "duration": "1h53min",
+      "duration": "1h52min",
       "synopsis": "Le film s'inspire de l'histoire vraie de Frances Haugen, une jeune ingénieure chez Facebook, qui sollicite l'aide de Jeff Horwitz, journaliste au Wall Street Journal. Ensemble, ils se lancent dans une enquête pleine de dangers qui les mènera à révéler au grand jour les…",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/9e/55/9e553042ac8f31f580cb0540fae60dc4.jpg",
       "directors": [
@@ -1723,7 +1723,7 @@
       "synopsis": "1970, le tout premier match de football féminin espagnol organisé par un jeune entraîneur, stupéfait par le talent et la passion d’un groupe de jeunes filles.",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/6a/65/6a65633cab082f0fbdfdac1fe5704c5a.jpg",
       "directors": [
-        "Marta Díaz (II)"
+        "Marta Díaz de Lope Díaz"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020962.html",
       "color": "#9a3e34"
