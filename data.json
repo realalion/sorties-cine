@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-06T06:14:25+00:00",
+  "generatedAt": "2026-10-07T05:31:28+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-10-07",
   "to": "2026-12-02",
-  "count": 153,
+  "count": 151,
   "films": [
     {
       "id": "1000051533",
@@ -300,7 +300,7 @@
         "Drame"
       ],
       "duration": "1h52min",
-      "synopsis": "Le film s'inspire de l'histoire vraie de Frances Haugen, une jeune ingénieure chez Facebook, qui sollicite l'aide de Jeff Horwitz, journaliste au Wall Street Journal. Ensemble, ils se lancent dans une enquête pleine de dangers qui les mènera à révéler au grand jour les…",
+      "synopsis": "Le film s'inspire de l'histoire vraie d'une jeune ingénieure chez Facebook, qui sollicite l'aide d'un journaliste au Wall Street Journal. Ensemble, ils se lancent dans une enquête pour révéler les secrets les mieux gardés du puissant réseau social.",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/9e/55/9e553042ac8f31f580cb0540fae60dc4.jpg",
       "directors": [
         "Aaron Sorkin"
@@ -1161,22 +1161,6 @@
       "color": "#86561b"
     },
     {
-      "id": "1000033278",
-      "title": "Ghost Soldier",
-      "releaseDate": "2026-11-04",
-      "genres": [
-        "Action"
-      ],
-      "duration": null,
-      "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [
-        "William Eubank"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033278.html",
-      "color": "#e0e0e0"
-    },
-    {
       "id": "1000014492",
       "title": "Godzilla Minus Zero",
       "releaseDate": "2026-11-04",
@@ -1329,7 +1313,7 @@
       "genres": [
         "Drame"
       ],
-      "duration": null,
+      "duration": "1h33min",
       "synopsis": "Sarah (15 ans), drôle et discrète, voit son monde basculer quand des photos “sexy”, prises naïvement avec sa meilleure amie Chloé, fuitent au collège. Au centre du manège : Charles, meneur charismatique et cruel, qui fait la loi dans la classe et va faire de Sarah son bouc…",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/f7/f4/f7f467f2886621b5286596dfdbc01c0a.jpg",
       "directors": [
@@ -1380,7 +1364,7 @@
         "Comédie",
         "Drame"
       ],
-      "duration": "1h26min",
+      "duration": "1h16min",
       "synopsis": "Et si les monstres d'aujourd'hui étaient moins imaginaires qu'ils n'y paraissent ? Des paysages transformés par le climat aux angoisses qui traversent nos sociétés, Zones troubles explore un fantastique profondément ancré dans notre époque. Quatre films où l'inexplicable…",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/58/bf/58bf5c2ba3dd104847a8181bcbb66fdc.png",
       "directors": [
@@ -2249,22 +2233,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html",
       "color": "#e0e0e0"
-    },
-    {
-      "id": "1000052525",
-      "title": "Sānsūr",
-      "releaseDate": "2026-11-25",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h27min",
-      "synopsis": "Sānsūr, « censure » en persan, suit six Iraniennes qui ont refusé de plier devant l'État : artiste, enseignante, journaliste, sportive, musicienne, actrice. Entre arrestations, harcèlement et exil, ce documentaire interroge ce que la censure, du hijab obligatoire à…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/be/4d/be4dc0dadf53d3876fcfe0d0ecb74346.jpg",
-      "directors": [
-        "Mostafa Heravi"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html",
-      "color": "#f28200"
     },
     {
       "id": "1000027620",
