@@ -222,6 +222,166 @@ def write_ics_files(films: list[dict]) -> int:
 
 
 
+# ---------------------------------------------------------------------------
+# Flux d'abonnement unique (webcal) : calendrier.ics
+# ---------------------------------------------------------------------------
+FEED_PATH = ROOT / "calendrier.ics"
+FEED_STATE_PATH = ROOT / "calendrier-state.json"
+FEED_KEEP_PAST_DAYS = 14      # garder les sorties récentes 2 semaines
+FEED_TOMBSTONE_DAYS = 180     # mémoriser les films retirés (SEQUENCE continue)
+FEED_UID_DOMAIN = "realalion.github.io"
+
+
+def _utc_stamp() -> str:
+    return datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+
+def _feed_fields(film: dict) -> dict:
+    """Champs qui définissent le contenu d'un VEVENT du flux."""
+    return {
+        "title": film.get("title") or "Film",
+        "releaseDate": film["releaseDate"],
+        "genres": list(film.get("genres") or []),
+        "duration": film.get("duration"),
+        "directors": list(film.get("directors") or []),
+        "cast": list(film.get("cast") or []),
+        "synopsis": film.get("synopsis") or "",
+        "allocineUrl": film.get("allocineUrl") or "",
+    }
+
+
+def _feed_description(f: dict) -> str:
+    parts = []
+    meta = []
+    if f.get("genres"):
+        meta.append(", ".join(f["genres"]))
+    if f.get("duration"):
+        meta.append(f["duration"])
+    if meta:
+        parts.append(" · ".join(meta))
+    if f.get("directors"):
+        parts.append("De " + ", ".join(f["directors"]))
+    if f.get("cast"):
+        parts.append("Avec " + ", ".join(f["cast"]))
+    if f.get("synopsis"):
+        parts.append(f["synopsis"])
+    if f.get("allocineUrl"):
+        parts.append("AlloCiné : " + f["allocineUrl"])
+    parts.append("Sortie officielle au cinéma en France.")
+    return "\n\n".join(parts)
+
+
+def _feed_vevent(fid: str, entry: dict) -> list[str]:
+    f = entry["fields"]
+    start = date.fromisoformat(f["releaseDate"])
+    end = start + timedelta(days=1)
+    lines = [
+        "BEGIN:VEVENT",
+        f"UID:sortie-cine-{fid}@{FEED_UID_DOMAIN}",
+        f"DTSTAMP:{entry['modified']}",
+        f"CREATED:{entry['created']}",
+        f"LAST-MODIFIED:{entry['modified']}",
+        f"SEQUENCE:{entry['sequence']}",
+        f"DTSTART;VALUE=DATE:{start.strftime('%Y%m%d')}",
+        f"DTEND;VALUE=DATE:{end.strftime('%Y%m%d')}",
+        f"SUMMARY:{ics_escape('🎬 ' + f['title'])}",
+        f"DESCRIPTION:{ics_escape(_feed_description(f))}",
+    ]
+    if f.get("allocineUrl"):
+        lines.append(f"URL;VALUE=URI:{f['allocineUrl']}")
+    if f.get("genres"):
+        lines.append("CATEGORIES:" + ",".join(ics_escape(g) for g in f["genres"]))
+    lines += ["TRANSP:TRANSPARENT", "STATUS:CONFIRMED", "END:VEVENT"]
+    return lines
+
+
+def write_feed(films: list[dict], today: date | None = None) -> int:
+    """Écrit calendrier.ics (flux d'abonnement) + calendrier-state.json.
+
+    - UID stable par film (id AlloCiné) -> un changement de date met à jour
+      l'événement existant au lieu d'en créer un doublon.
+    - SEQUENCE +1 et DTSTAMP/LAST-MODIFIED rafraîchis quand la date change ;
+      DTSTAMP/LAST-MODIFIED rafraîchis si un autre champ change.
+    - Un film absent de data.json (date retirée / « Prochainement ») sort du
+      flux, sauf s'il est sorti il y a moins de FEED_KEEP_PAST_DAYS jours.
+    """
+    today = today or date.today()
+    now = _utc_stamp()
+    try:
+        state = json.loads(FEED_STATE_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        state = {}
+    films_state = state.get("films", {})
+    current = {f["id"]: f for f in films if f.get("releaseDate")}
+
+    new_state = {}
+    for fid, film in current.items():
+        fields = _feed_fields(film)
+        prev = films_state.get(fid)
+        if prev is None:
+            entry = {"created": now, "modified": now, "sequence": 0, "fields": fields}
+        else:
+            entry = dict(prev)
+            entry["fields"] = fields
+            if prev["fields"].get("releaseDate") != fields["releaseDate"]:
+                entry["sequence"] = int(prev.get("sequence", 0)) + 1
+                entry["modified"] = now
+            elif prev["fields"] != fields or not prev.get("inFeed", True):
+                entry["modified"] = now
+                if not prev.get("inFeed", True):
+                    entry["sequence"] = int(prev.get("sequence", 0)) + 1
+        entry["inFeed"] = True
+        entry.pop("removedOn", None)
+        new_state[fid] = entry
+
+    keep_from = today - timedelta(days=FEED_KEEP_PAST_DAYS)
+    for fid, prev in films_state.items():
+        if fid in new_state:
+            continue
+        rel = date.fromisoformat(prev["fields"]["releaseDate"])
+        entry = dict(prev)
+        if prev.get("inFeed", True) and keep_from <= rel < today:
+            # Sorti récemment : on le garde dans le flux quelques jours
+            entry["inFeed"] = True
+        else:
+            # Date retirée, film déplacé hors fenêtre, ou sorti depuis longtemps
+            if entry.get("inFeed", True):
+                entry["inFeed"] = False
+                entry["removedOn"] = today.isoformat()
+            removed = date.fromisoformat(entry.get("removedOn", today.isoformat()))
+            if (today - removed).days > FEED_TOMBSTONE_DAYS:
+                continue
+        new_state[fid] = entry
+
+    in_feed = sorted(
+        ((fid, e) for fid, e in new_state.items() if e.get("inFeed")),
+        key=lambda x: (x[1]["fields"]["releaseDate"], x[1]["fields"]["title"]),
+    )
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//realalion//Sorties Cine France//FR",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-CALNAME:Sorties Ciné",
+        f"X-WR-CALDESC:{ics_escape('Dates de sortie officielles au cinéma en France (source AlloCiné). Mise à jour quotidienne.')}",
+        "X-WR-TIMEZONE:Europe/Paris",
+        "X-APPLE-CALENDAR-COLOR:#E8458B",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+        "X-PUBLISHED-TTL:PT6H",
+    ]
+    for fid, entry in in_feed:
+        lines += _feed_vevent(fid, entry)
+    lines.append("END:VCALENDAR")
+    FEED_PATH.write_text("\r\n".join(ics_fold(l) for l in lines) + "\r\n", encoding="utf-8", newline="")
+
+    out_state = {"films": dict(sorted(new_state.items()))}
+    FEED_STATE_PATH.write_text(json.dumps(out_state, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"wrote {FEED_PATH} ({len(in_feed)} events)")
+    return len(in_feed)
+
+
+
 FALLBACK_COLORS = [
     "#E8458B", "#FF6B35", "#7C4DFF", "#00C2FF", "#2EE59D",
     "#FFD60A", "#FF3B5C", "#5B8CFF", "#FF8A5B", "#B967FF",
@@ -348,12 +508,14 @@ def main():
             enrich_colors(films)
             write_data(films)
         write_ics_files(films)
+        write_feed(films)
         return
 
     films = fetch_all()
     enrich_colors(films)
     write_data(films)
     write_ics_files(films)
+    write_feed(films)
 
 
 if __name__ == "__main__":

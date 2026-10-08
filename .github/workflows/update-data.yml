@@ -27,14 +27,14 @@ jobs:
       - name: Fetch AlloCiné data
         run: python3 scripts/fetch_allocine.py
 
-      - name: Commit data.json et ics/ si changés
+      - name: Commit data.json, ics/ et calendrier.ics si changés
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json ics
+          git add data.json ics calendrier.ics calendrier-state.json
           if git diff --staged --quiet; then
             echo "Pas de changement"
           else
-            git commit -m "chore: mise à jour sorties AlloCiné (data + ics)"
+            git commit -m "chore: mise à jour sorties AlloCiné (data + ics + calendrier)"
             git push
           fi
