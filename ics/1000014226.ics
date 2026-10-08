@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000014226-2026-12-09@realalion.github.io
+DTSTAMP:20261008T053123Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎬 Everybody Digs Bill Evans — sortie ciné
+DESCRIPTION:Biopic\, Musical · 1h42min\n\nJuin 1961\, New York : le légen
+ daire pianiste de jazz Bill Evans a trouvé sa voix musicale et a créé 
+ le trio parfait\, comprenant le bassiste Scott LaFaro. Une résidence au 
+ Village Vanguard de New York culmine avec l'enregistrement en direct de d
+ eux des plus grands disques de…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000014226.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014226.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000046828-2026-12-09@realalion.github.io
+DTSTAMP:20261008T053123Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎬 Tanger blues — sortie ciné
+DESCRIPTION:Comédie dramatique\, Thriller · 1h42min\n\nElsa Delcourt\, un
+ e avocate en pleine crise\, voit son monde s'effondrer. Après une confro
+ ntation violente avec son compagnon\, elle décide de partir seule à Tan
+ ger. Déterminée à échapper aux attentes qui l'étouffent\, son voyage
+  devient plus qu'une simple fuite : c'est une quête…\n\nhttps://www.al
+ locine.fr/film/fichefilm_gen_cfilm=1000046828.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046828.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

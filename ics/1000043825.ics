@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000043825-2026-12-09@realalion.github.io
+DTSTAMP:20261008T053123Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎬 Viendra la révolution — sortie ciné
+DESCRIPTION:Documentaire · 1h35min\n\nÀ travers cinq portraits de ses pro
+ ches\, autant de figures de résistance\, Pegah Ahangarani trace le réci
+ t intime de sa vie. Puisant dans ses archives personnelles\, vidéos fami
+ liales\, images de manifestations\, articles de presse et enregistrements
+  sonores\, elle traverse plus…\n\nhttps://www.allocine.fr/film/fichefil
+ m_gen_cfilm=1000043825.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043825.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-204864-2026-12-09@realalion.github.io
+DTSTAMP:20261008T053123Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎬 Le Chat chapeauté — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie · 1h45min\n\nLe Chat se voit c
+ onfier sa mission la plus difficile jusqu'à présent... aider deux frèr
+ es et sœurs qui ont du mal à s'installer dans une nouvelle ville.\n\nht
+ tps://www.allocine.fr/film/fichefilm_gen_cfilm=204864.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=204864.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

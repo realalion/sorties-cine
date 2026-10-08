@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-296439-2026-12-09@realalion.github.io
+DTSTAMP:20261008T053123Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎬 Wildwood la prophétie de la forêt — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Famille\, Fantastique · 2h12min\n\nPrue
+ \, une jeune fille courageuse\, part à la recherche de son petit frère\
+ , enlevé et retenu dans la forêt interdite peuplée de créatures encha
+ ntées\, d’alliés inattendus et d’adversaires redoutables. Ce qui d
+ ébute comme une quête intime se transforme rapidement en une aventure
+ …\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=296439.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=296439.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

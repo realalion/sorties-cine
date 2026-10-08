@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000016226-2026-12-09@realalion.github.io
+DTSTAMP:20261008T053123Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎬 Hot Spot — sortie ciné
+DESCRIPTION:Action\, Science Fiction\, Thriller · 1h41min\n\nDans une soci
+ été gouvernée par une IA sensible\, un détective privé enquêtant su
+ r un meurtre tombe sur un groupe rebelle capable d'ébranler le chef num
+ érique.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000016226.h
+ tml
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016226.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
