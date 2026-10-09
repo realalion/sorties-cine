@@ -117,14 +117,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000039457@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261009T053154Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261009T053154Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:🎬 Le Jour de son retour
-DESCRIPTION:Drame · 1h24min\n\nDe Hong Sang-soo\n\nElle vient de terminer 
+DESCRIPTION:Drame · 1h25min\n\nDe Hong Sang-soo\n\nElle vient de terminer 
  le tournage d’un film indépendant et doit maintenant donner trois inte
  rviews à ce sujet. Ensuite\, lors de son cours de théâtre\, son profes
  seur lui demande de rejouer les interviews. Mais\, pour une raison quelco
@@ -419,21 +419,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-296642@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261009T053154Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261009T053154Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 L'île des souvenirs
-DESCRIPTION:Animation\, Aventure\, Comédie\, Famille · 1h49min\n\nDe Joel
-  Crawford\, Januel P. Mercado\n\nJo et Raissa\, deux meilleures amies dep
- uis la primaire\, qui\, après avoir obtenu le baccalauréat\, sont sur l
- e point de se lancer dans des choix de parcours différents. Alors qu’e
- lles fêtent leur dernière soirée ensemble\, les deux jeunes filles tom
- bent sur un portail mystérieux…\n\nAlloCiné : https://www.allocine.fr
- /film/fichefilm_gen_cfilm=296642.html\n\nSortie officielle au cinéma en 
- France.
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille · 1h48min\n\nDe Joel
+  Crawford\, Januel P. Mercado\n\nTandis qu’elles fêtent leur dernière
+  soirée ensemble\, deux meilleures amies tombent sur un portail mystéri
+ eux qui les emmène sur l’île fantastique de Nakali\, peuplée de cré
+ atures féeriques et mythologiques\, tout droit sorties des contes philip
+ pins de leur enfance.\n\nAlloCiné : https://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=296642.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html
 CATEGORIES:Animation,Aventure,Comédie,Famille
 TRANSP:TRANSPARENT
@@ -457,6 +456,28 @@ DESCRIPTION:Comédie\, Drame · 2h25min\n\nDe Marine Atlan\n\nUn groupe de
  tie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=318225.html
 CATEGORIES:Comédie,Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000036109@realalion.github.io
+DTSTAMP:20261009T053154Z
+CREATED:20261009T053154Z
+LAST-MODIFIED:20261009T053154Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎬 Le Printemps vint en riant
+DESCRIPTION:Drame · 1h36min\n\nAu cœur du printemps\, une saison pleine d
+ e renouveau et d'énergie vibrante\, quatre histoires captivantes se dér
+ oulent. Cette période de joie cache aussi son côté sombre\, révélant
+  l'inattendu. Alors que les fleurs commencent à se faner\, l'arrivée de
+  l'automne apporte des…\n\nAlloCiné : https://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000036109.html\n\nSortie officielle au cinéma en Franc
+ e.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.h
+ tml
+CATEGORIES:Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -1199,16 +1220,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000051859@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261009T053154Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261009T053154Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 Peppa fête Noël
-DESCRIPTION:Animation · 50min\n\nAlloCiné : https://www.allocine.fr/film/
- fichefilm_gen_cfilm=1000051859.html\n\nSortie officielle au cinéma en Fr
- ance.
+DESCRIPTION:Animation · 50min\n\nDe Mark Baker\, Neville Astley\n\nRetrouv
+ ez Peppa et toute sa famille au cinéma pour une grande fête de Noël pl
+ eine de surprises et d’aventures hivernales. Une sélection de nouveaux
+  épisodes et d'épisodes incontournables de la série à découvrir avec
+  vos proches !\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000051859.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.h
  tml
 CATEGORIES:Animation
@@ -1865,6 +1889,28 @@ DESCRIPTION:Drame\, Thriller · 1h27min\n\nDe Alexandre Smia\n\nFraîchemen
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.h
  tml
 CATEGORIES:Drame,Thriller
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000032333@realalion.github.io
+DTSTAMP:20261009T053154Z
+CREATED:20261009T053154Z
+LAST-MODIFIED:20261009T053154Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 La Montagne d'or
+DESCRIPTION:Documentaire · 1h25min\n\nDe Roland Edzard\n\nLa fièvre de l
+ ’or s’est emparée du Nord du Niger. En quête du métal précieux et
+  malgré les risques\, une armée de chercheurs d'or a pris d’assaut le
+ s sites d’intérêt. Tandis que les camps s’installent et se démant
+ èlent au gré des rumeurs de nouvelles pistes\, Moussa et ses…\n\nAllo
+ Ciné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.html\
+ n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.h
+ tml
+CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

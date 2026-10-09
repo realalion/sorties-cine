@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-08T06:43:31+00:00",
+  "generatedAt": "2026-10-09T05:31:54+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-10-14",
   "to": "2026-12-09",
-  "count": 143,
+  "count": 145,
   "films": [
     {
       "id": "318791",
@@ -96,7 +96,7 @@
       "genres": [
         "Drame"
       ],
-      "duration": "1h24min",
+      "duration": "1h25min",
       "synopsis": "Elle vient de terminer le tournage d’un film indépendant et doit maintenant donner trois interviews à ce sujet. Ensuite, lors de son cours de théâtre, son professeur lui demande de rejouer les interviews. Mais, pour une raison quelconque, elle est incapable de s’en souvenir.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
       "directors": [
@@ -332,8 +332,8 @@
         "Comédie",
         "Famille"
       ],
-      "duration": "1h49min",
-      "synopsis": "Jo et Raissa, deux meilleures amies depuis la primaire, qui, après avoir obtenu le baccalauréat, sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elles fêtent leur dernière soirée ensemble, les deux jeunes filles tombent sur un portail mystérieux…",
+      "duration": "1h48min",
+      "synopsis": "Tandis qu’elles fêtent leur dernière soirée ensemble, deux meilleures amies tombent sur un portail mystérieux qui les emmène sur l’île fantastique de Nakali, peuplée de créatures féeriques et mythologiques, tout droit sorties des contes philippins de leur enfance.",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
       "directors": [
         "Joel Crawford",
@@ -358,6 +358,20 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318225.html",
       "color": "#a33f6f"
+    },
+    {
+      "id": "1000036109",
+      "title": "Le Printemps vint en riant",
+      "releaseDate": "2026-10-21",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h36min",
+      "synopsis": "Au cœur du printemps, une saison pleine de renouveau et d'énergie vibrante, quatre histoires captivantes se déroulent. Cette période de joie cache aussi son côté sombre, révélant l'inattendu. Alors que les fleurs commencent à se faner, l'arrivée de l'automne apporte des…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1f/24/1f246a70381c498abfd766c347a638f0.jpg",
+      "directors": [],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.html",
+      "color": "#ed8614"
     },
     {
       "id": "1000030383",
@@ -951,11 +965,14 @@
         "Animation"
       ],
       "duration": "50min",
-      "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [],
+      "synopsis": "Retrouvez Peppa et toute sa famille au cinéma pour une grande fête de Noël pleine de surprises et d’aventures hivernales. Une sélection de nouveaux épisodes et d'épisodes incontournables de la série à découvrir avec vos proches !",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/60/99/6099fc0962b069b0b087541354161411.jpg",
+      "directors": [
+        "Mark Baker",
+        "Neville Astley"
+      ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html",
-      "color": "#e0e0e0"
+      "color": "#f30007"
     },
     {
       "id": "1000035928",
@@ -1051,12 +1068,12 @@
       ],
       "duration": null,
       "synopsis": "Charlie et Hicham, la trentaine, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est confronté à l’infécondité. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans, entre espoirs et déceptions, ils vont mettre leur…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/5e/9d/5e9d6ccddf0856dab13432765beb0d2d.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0a/18/0a18acf83e57e18b7826971f3720dfc4.jpg",
       "directors": [
         "Khalil Cherti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037363.html",
-      "color": "#833a00"
+      "color": "#823900"
     },
     {
       "id": "1000020289",
@@ -1187,12 +1204,12 @@
       ],
       "duration": "1h53min",
       "synopsis": "La vie hors-norme de Jeanne Lavaur n’appartient qu’à elle-même. Elle traverse le XXème siècle et défie son destin, depuis son enfance dans la boucherie de ses parents jusqu’à son rêve de devenir comtesse. D’une guerre à l’autre, du Paris des années folles au Brésil, son…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/34/8a/348a707bf7cdf9dcf9cdf1941b708a93.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/71/de/71de9133eec5b0baa90d1b47a127e8ce.jpg",
       "directors": [
         "Bérenger Thouin"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310503.html",
-      "color": "#713e27"
+      "color": "#bb874d"
     },
     {
       "id": "1000032461",
@@ -1421,12 +1438,12 @@
       ],
       "duration": "1h45min",
       "synopsis": "Enfant, Haru ne voyait pas la différence : avec ses parents sourds, tout était simple, empli d’amour et de complicité. Mais en grandissant, il découvre le poids du regard des autres et la force des mots.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/46/c9/46c929cf18b9262af0b32734a6e79f0c.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/81/ed/81ed92cc0bd75a723563370ece25db46.jpg",
       "directors": [
         "Mipo O"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010370.html",
-      "color": "#a65d59"
+      "color": "#d82b15"
     },
     {
       "id": "298873",
@@ -1478,6 +1495,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html",
       "color": "#024f84"
+    },
+    {
+      "id": "1000032333",
+      "title": "La Montagne d'or",
+      "releaseDate": "2026-11-18",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h25min",
+      "synopsis": "La fièvre de l’or s’est emparée du Nord du Niger. En quête du métal précieux et malgré les risques, une armée de chercheurs d'or a pris d’assaut les sites d’intérêt. Tandis que les camps s’installent et se démantèlent au gré des rumeurs de nouvelles pistes, Moussa et ses…",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/ba/40/ba40ea69269385ee27f94afe51b30fd6.jpg",
+      "directors": [
+        "Roland Edzard"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.html",
+      "color": "#c06d00"
     },
     {
       "id": "780",

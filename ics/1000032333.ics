@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000032333-2026-11-18@realalion.github.io
+DTSTAMP:20261009T053154Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 La Montagne d'or — sortie ciné
+DESCRIPTION:Documentaire · 1h25min\n\nLa fièvre de l’or s’est emparé
+ e du Nord du Niger. En quête du métal précieux et malgré les risques\
+ , une armée de chercheurs d'or a pris d’assaut les sites d’intérêt
+ . Tandis que les camps s’installent et se démantèlent au gré des rum
+ eurs de nouvelles pistes\, Moussa et ses…\n\nhttps://www.allocine.fr/fi
+ lm/fichefilm_gen_cfilm=1000032333.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
