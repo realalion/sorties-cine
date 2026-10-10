@@ -393,7 +393,7 @@
   },
   "1000016901": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261010T052941Z",
    "sequence": 0,
    "fields": {
     "title": "Clayface",
@@ -403,7 +403,7 @@
      "Epouvante-horreur",
      "Thriller"
     ],
-    "duration": null,
+    "duration": "1h48min",
     "directors": [
      "James Watkins"
     ],
@@ -415,7 +415,7 @@
   },
   "1000017168": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261010T052941Z",
    "sequence": 0,
    "fields": {
     "title": "Les Braves (Coward)",
@@ -425,7 +425,7 @@
      "Historique",
      "Romance"
     ],
-    "duration": "2h05min",
+    "duration": "2h07min",
     "directors": [
      "Lukas Dhont"
     ],
@@ -766,11 +766,11 @@
   },
   "1000023042": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261010T052941Z",
+   "sequence": 1,
    "fields": {
     "title": "3670",
-    "releaseDate": "2026-11-18",
+    "releaseDate": "2026-11-25",
     "genres": [
      "Drame"
     ],
@@ -779,7 +779,7 @@
      "Joon-ho Park"
     ],
     "cast": [],
-    "synopsis": "Un défecteur nord-coréen explore son homosexualité en fréquentant la communauté gay de Séoul.",
+    "synopsis": "Cheol-jun, 27 ans, a fui la Corée du Nord pour vivre au Sud. En attendant que ses parents le rejoignent, le jeune homme, gay, essaie de faire des rencontres, mais son statut particulier et sa timidité naturelle l’inhibent… jusqu’au jour où Yeong-jun, un garçon chaleureux, lui…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html"
    },
    "inFeed": true
@@ -1398,13 +1398,14 @@
   },
   "1000035013": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261010T052941Z",
    "sequence": 0,
    "fields": {
     "title": "La Porte des dieux",
     "releaseDate": "2026-10-14",
     "genres": [
-     "Drame"
+     "Drame",
+     "Thriller"
     ],
     "duration": "2h12min",
     "directors": [
@@ -1439,7 +1440,7 @@
   },
   "1000036109": {
    "created": "20261009T053154Z",
-   "modified": "20261009T053154Z",
+   "modified": "20261010T052941Z",
    "sequence": 0,
    "fields": {
     "title": "Le Printemps vint en riant",
@@ -1448,7 +1449,9 @@
      "Drame"
     ],
     "duration": "1h36min",
-    "directors": [],
+    "directors": [
+     "Noha Adel"
+    ],
     "cast": [],
     "synopsis": "Au cœur du printemps, une saison pleine de renouveau et d'énergie vibrante, quatre histoires captivantes se déroulent. Cette période de joie cache aussi son côté sombre, révélant l'inattendu. Alors que les fleurs commencent à se faner, l'arrivée de l'automne apporte des…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.html"
@@ -1599,7 +1602,7 @@
   },
   "1000039457": {
    "created": "20261008T064216Z",
-   "modified": "20261009T053154Z",
+   "modified": "20261010T052941Z",
    "sequence": 0,
    "fields": {
     "title": "Le Jour de son retour",
@@ -1612,7 +1615,7 @@
      "Hong Sang-soo"
     ],
     "cast": [],
-    "synopsis": "Elle vient de terminer le tournage d’un film indépendant et doit maintenant donner trois interviews à ce sujet. Ensuite, lors de son cours de théâtre, son professeur lui demande de rejouer les interviews. Mais, pour une raison quelconque, elle est incapable de s’en souvenir.",
+    "synopsis": "Suite à son récent divorce, une grande actrice coréenne retourne sur le devant de la scène douze ans après sa dernière apparition à l’écran. À l’occasion de la sortie du film, elle s’entretient successivement avec trois jeunes journalistes...",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.html"
    },
    "inFeed": true
@@ -1969,7 +1972,7 @@
   },
   "1000047512": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261010T052941Z",
    "sequence": 0,
    "fields": {
     "title": "Petite Casbah",
@@ -1983,7 +1986,7 @@
      "Antoine Colomb"
     ],
     "cast": [],
-    "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à…",
+    "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à le…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html"
    },
    "inFeed": true

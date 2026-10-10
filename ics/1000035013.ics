@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000035013-2026-10-14@realalion.github.io
-DTSTAMP:20261009T053154Z
+DTSTAMP:20261010T052941Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:🎬 La Porte des dieux — sortie ciné
-DESCRIPTION:Drame · 2h12min\n\nDeux jeunes hommes découvrent que les port
- es d’un temple local sont des antiquités précieuses. Séduits par la 
- tentation de l’argent facile\, ils commettent un vol audacieux. Mais la
-  situation dérape lorsqu’ils se retrouvent impliqués dans une série 
- d’événements violents\, avec…\n\nhttps://www.allocine.fr/film/fiche
- film_gen_cfilm=1000035013.html
+DESCRIPTION:Drame\, Thriller · 2h12min\n\nDeux jeunes hommes découvrent q
+ ue les portes d’un temple local sont des antiquités précieuses. Sédu
+ its par la tentation de l’argent facile\, ils commettent un vol audacie
+ ux. Mais la situation dérape lorsqu’ils se retrouvent impliqués dans 
+ une série d’événements violents\, avec…\n\nhttps://www.allocine.fr
+ /film/fichefilm_gen_cfilm=1000035013.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

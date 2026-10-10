@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T05:31:54+00:00",
+  "generatedAt": "2026-10-10T05:29:41+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -62,7 +62,8 @@
       "title": "La Porte des dieux",
       "releaseDate": "2026-10-14",
       "genres": [
-        "Drame"
+        "Drame",
+        "Thriller"
       ],
       "duration": "2h12min",
       "synopsis": "Deux jeunes hommes découvrent que les portes d’un temple local sont des antiquités précieuses. Séduits par la tentation de l’argent facile, ils commettent un vol audacieux. Mais la situation dérape lorsqu’ils se retrouvent impliqués dans une série d’événements violents, avec…",
@@ -97,7 +98,7 @@
         "Drame"
       ],
       "duration": "1h25min",
-      "synopsis": "Elle vient de terminer le tournage d’un film indépendant et doit maintenant donner trois interviews à ce sujet. Ensuite, lors de son cours de théâtre, son professeur lui demande de rejouer les interviews. Mais, pour une raison quelconque, elle est incapable de s’en souvenir.",
+      "synopsis": "Suite à son récent divorce, une grande actrice coréenne retourne sur le devant de la scène douze ans après sa dernière apparition à l’écran. À l’occasion de la sortie du film, elle s’entretient successivement avec trois jeunes journalistes...",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
       "directors": [
         "Hong Sang-soo"
@@ -228,7 +229,7 @@
         "Famille"
       ],
       "duration": "1h24min",
-      "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à…",
+      "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à le…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/17/54/17541c911a486e7b1a8a08911805be6e.jpg",
       "directors": [
         "Antoine Colomb"
@@ -278,7 +279,7 @@
         "Epouvante-horreur",
         "Thriller"
       ],
-      "duration": null,
+      "duration": "1h48min",
       "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre, Matt se tourne vers un traitement expérimental qui lui…",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
       "directors": [
@@ -369,7 +370,9 @@
       "duration": "1h36min",
       "synopsis": "Au cœur du printemps, une saison pleine de renouveau et d'énergie vibrante, quatre histoires captivantes se déroulent. Cette période de joie cache aussi son côté sombre, révélant l'inattendu. Alors que les fleurs commencent à se faner, l'arrivée de l'automne apporte des…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1f/24/1f246a70381c498abfd766c347a638f0.jpg",
-      "directors": [],
+      "directors": [
+        "Noha Adel"
+      ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.html",
       "color": "#ed8614"
     },
@@ -1365,22 +1368,6 @@
       "color": "#9a3e34"
     },
     {
-      "id": "1000023042",
-      "title": "3670",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "2h04min",
-      "synopsis": "Un défecteur nord-coréen explore son homosexualité en fréquentant la communauté gay de Séoul.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [
-        "Joon-ho Park"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html",
-      "color": "#e0e0e0"
-    },
-    {
       "id": "316136",
       "title": "Camembert",
       "releaseDate": "2026-11-18",
@@ -1454,12 +1441,12 @@
       ],
       "duration": "1h45min",
       "synopsis": "Dans le nord de la France, Gabin, le petit dernier de la famille Jourdel, est destiné à reprendre la boucherie de son père. Tiraillé entre loyauté familiale et envies d’échappées, il a d’autres rêves : dresser une vache de concours, devenir éleveur canin, sauver la ferme de…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/8d/05/8d0593277c6585f2183ab43b2926708a.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/f4/f9/f4f9596241435673ee4b9e67ced5cbac.jpg",
       "directors": [
         "Maxence Voiseux"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298873.html",
-      "color": "#866766"
+      "color": "#009bdc"
     },
     {
       "id": "1000004528",
@@ -1537,7 +1524,7 @@
         "Historique",
         "Romance"
       ],
-      "duration": "2h05min",
+      "duration": "2h07min",
       "synopsis": "Le jeune soldat Pierre veut faire ses preuves sur le front pendant la Première Guerre mondiale. Derrière les lignes, il rencontre Francis, chargé de remonter le moral des troupes.",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/f9/87/f9878d8018f1c89eda8fd60351691840.jpg",
       "directors": [
@@ -1660,6 +1647,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046705.html",
       "color": "#ffbc00"
+    },
+    {
+      "id": "1000023042",
+      "title": "3670",
+      "releaseDate": "2026-11-25",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "2h04min",
+      "synopsis": "Cheol-jun, 27 ans, a fui la Corée du Nord pour vivre au Sud. En attendant que ses parents le rejoignent, le jeune homme, gay, essaie de faire des rencontres, mais son statut particulier et sa timidité naturelle l’inhibent… jusqu’au jour où Yeong-jun, un garçon chaleureux, lui…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/73/1d/731dd9b688c6d86b3d41dc04983f0df3.jpg",
+      "directors": [
+        "Joon-ho Park"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html",
+      "color": "#18a7d5"
     },
     {
       "id": "1000044048",
@@ -2324,12 +2327,12 @@
       ],
       "duration": "1h24min",
       "synopsis": "Depuis l’enfance, Vincent Chabloz nourrit une passion profonde pour Derborence, une vallée des Alpes, majestueuse et marquée par son histoire. Le cinéaste animalier nous invite à découvrir ce territoire exceptionnel à travers ceux qui l’habitent toute l’année : renards,…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/fc/54/fc54f1e79b97541b60550a0d3405a758.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/33/cb/33cb07eeac11e9158927bfbd2d41c9dd.jpg",
       "directors": [
         "Vincent Chabloz"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047524.html",
-      "color": "#a79d4a"
+      "color": "#b0a23e"
     },
     {
       "id": "1000033622",

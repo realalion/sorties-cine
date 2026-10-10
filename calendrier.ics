@@ -75,23 +75,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000035013@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261010T052941Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261010T052941Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:🎬 La Porte des dieux
-DESCRIPTION:Drame · 2h12min\n\nDe Toon Wang\n\nDeux jeunes hommes découvr
- ent que les portes d’un temple local sont des antiquités précieuses. 
- Séduits par la tentation de l’argent facile\, ils commettent un vol au
- dacieux. Mais la situation dérape lorsqu’ils se retrouvent impliqués 
- dans une série d’événements violents\, avec…\n\nAlloCiné : https:
- //www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.html\n\nSortie offi
- cielle au cinéma en France.
+DESCRIPTION:Drame\, Thriller · 2h12min\n\nDe Toon Wang\n\nDeux jeunes homm
+ es découvrent que les portes d’un temple local sont des antiquités pr
+ écieuses. Séduits par la tentation de l’argent facile\, ils commetten
+ t un vol audacieux. Mais la situation dérape lorsqu’ils se retrouvent 
+ impliqués dans une série d’événements violents\, avec…\n\nAlloCin
+ é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.html\n\n
+ Sortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.h
  tml
-CATEGORIES:Drame
+CATEGORIES:Drame,Thriller
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -117,20 +117,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000039457@realalion.github.io
-DTSTAMP:20261009T053154Z
+DTSTAMP:20261010T052941Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261009T053154Z
+LAST-MODIFIED:20261010T052941Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:🎬 Le Jour de son retour
-DESCRIPTION:Drame · 1h25min\n\nDe Hong Sang-soo\n\nElle vient de terminer 
- le tournage d’un film indépendant et doit maintenant donner trois inte
- rviews à ce sujet. Ensuite\, lors de son cours de théâtre\, son profes
- seur lui demande de rejouer les interviews. Mais\, pour une raison quelco
- nque\, elle est incapable de s’en souvenir.\n\nAlloCiné : https://www.
- allocine.fr/film/fichefilm_gen_cfilm=1000039457.html\n\nSortie officielle
-  au cinéma en France.
+DESCRIPTION:Drame · 1h25min\n\nDe Hong Sang-soo\n\nSuite à son récent di
+ vorce\, une grande actrice coréenne retourne sur le devant de la scène 
+ douze ans après sa dernière apparition à l’écran. À l’occasion d
+ e la sortie du film\, elle s’entretient successivement avec trois jeune
+ s journalistes...\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_g
+ en_cfilm=1000039457.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.h
  tml
 CATEGORIES:Drame
@@ -289,9 +288,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000047512@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261010T052941Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261010T052941Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
@@ -300,9 +299,9 @@ DESCRIPTION:Animation\, Famille · 1h24min\n\nDe Antoine Colomb\n\nAlgérie
  \, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère 
  Malek à Alger. Suite à une altercation au marché\, il se fait arrêter
   par la police et Khadidja se retrouve seule. Heureusement\, Lyes\, Ahmed
-  et Philippe vont tout mettre en œuvre pour l’aider à…\n\nAlloCiné
-  : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html\n\nSo
- rtie officielle au cinéma en France.
+  et Philippe vont tout mettre en œuvre pour l’aider à le…\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html\n\
+ nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.h
  tml
 CATEGORIES:Animation,Famille
@@ -354,20 +353,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000016901@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261010T052941Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261010T052941Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Clayface
-DESCRIPTION:Drame\, Epouvante-horreur\, Thriller\n\nDe James Watkins\n\nL'a
- scension fulgurante de Matt Hagen\, de gamin des rues de Gotham à star h
- ollywoodienne\, est brutalement interrompue lorsqu'un baron du crime le l
- aisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à p
- erdre\, Matt se tourne vers un traitement expérimental qui lui…\n\nAll
- oCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.html
- \n\nSortie officielle au cinéma en France.
+DESCRIPTION:Drame\, Epouvante-horreur\, Thriller · 1h48min\n\nDe James Wat
+ kins\n\nL'ascension fulgurante de Matt Hagen\, de gamin des rues de Gotha
+ m à star hollywoodienne\, est brutalement interrompue lorsqu'un baron du
+  crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plu
+ s rien à perdre\, Matt se tourne vers un traitement expérimental qui lu
+ i…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000
+ 016901.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.h
  tml
 CATEGORIES:Drame,Epouvante-horreur,Thriller
@@ -461,20 +460,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000036109@realalion.github.io
-DTSTAMP:20261009T053154Z
+DTSTAMP:20261010T052941Z
 CREATED:20261009T053154Z
-LAST-MODIFIED:20261009T053154Z
+LAST-MODIFIED:20261010T052941Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Le Printemps vint en riant
-DESCRIPTION:Drame · 1h36min\n\nAu cœur du printemps\, une saison pleine d
- e renouveau et d'énergie vibrante\, quatre histoires captivantes se dér
- oulent. Cette période de joie cache aussi son côté sombre\, révélant
-  l'inattendu. Alors que les fleurs commencent à se faner\, l'arrivée de
-  l'automne apporte des…\n\nAlloCiné : https://www.allocine.fr/film/fic
- hefilm_gen_cfilm=1000036109.html\n\nSortie officielle au cinéma en Franc
- e.
+DESCRIPTION:Drame · 1h36min\n\nDe Noha Adel\n\nAu cœur du printemps\, une
+  saison pleine de renouveau et d'énergie vibrante\, quatre histoires cap
+ tivantes se déroulent. Cette période de joie cache aussi son côté som
+ bre\, révélant l'inattendu. Alors que les fleurs commencent à se faner
+ \, l'arrivée de l'automne apporte des…\n\nAlloCiné : https://www.allo
+ cine.fr/film/fichefilm_gen_cfilm=1000036109.html\n\nSortie officielle au 
+ cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.h
  tml
 CATEGORIES:Drame
@@ -1723,25 +1722,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000023042@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:🎬 3670
-DESCRIPTION:Drame · 2h04min\n\nDe Joon-ho Park\n\nUn défecteur nord-coré
- en explore son homosexualité en fréquentant la communauté gay de Séou
- l.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=100002
- 3042.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-316136@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -1937,14 +1917,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000017168@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261010T052941Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261010T052941Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Les Braves (Coward)
-DESCRIPTION:Drame\, Historique\, Romance · 2h05min\n\nDe Lukas Dhont\n\nLe
+DESCRIPTION:Drame\, Historique\, Romance · 2h07min\n\nDe Lukas Dhont\n\nLe
   jeune soldat Pierre veut faire ses preuves sur le front pendant la Premi
  ère Guerre mondiale. Derrière les lignes\, il rencontre Francis\, charg
  é de remonter le moral des troupes.\n\nAlloCiné : https://www.allocine.
@@ -2100,6 +2080,28 @@ DESCRIPTION:Animation\, Famille · 44min\n\nDe Benjamin Botella\, Zoltan Ho
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046705.h
  tml
 CATEGORIES:Animation,Famille
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000023042@realalion.github.io
+DTSTAMP:20261010T052941Z
+CREATED:20261008T064216Z
+LAST-MODIFIED:20261010T052941Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 3670
+DESCRIPTION:Drame · 2h04min\n\nDe Joon-ho Park\n\nCheol-jun\, 27 ans\, a f
+ ui la Corée du Nord pour vivre au Sud. En attendant que ses parents le r
+ ejoignent\, le jeune homme\, gay\, essaie de faire des rencontres\, mais 
+ son statut particulier et sa timidité naturelle l’inhibent… jusqu’
+ au jour où Yeong-jun\, un garçon chaleureux\, lui…\n\nAlloCiné : htt
+ ps://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html\n\nSortie o
+ fficielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.h
+ tml
+CATEGORIES:Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

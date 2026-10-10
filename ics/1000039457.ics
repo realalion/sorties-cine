@@ -5,16 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000039457-2026-10-14@realalion.github.io
-DTSTAMP:20261009T053154Z
+DTSTAMP:20261010T052941Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:🎬 Le Jour de son retour — sortie ciné
-DESCRIPTION:Drame · 1h25min\n\nElle vient de terminer le tournage d’un f
- ilm indépendant et doit maintenant donner trois interviews à ce sujet. 
- Ensuite\, lors de son cours de théâtre\, son professeur lui demande de 
- rejouer les interviews. Mais\, pour une raison quelconque\, elle est inca
- pable de s’en souvenir.\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
- film=1000039457.html
+DESCRIPTION:Drame · 1h25min\n\nSuite à son récent divorce\, une grande a
+ ctrice coréenne retourne sur le devant de la scène douze ans après sa 
+ dernière apparition à l’écran. À l’occasion de la sortie du film\
+ , elle s’entretient successivement avec trois jeunes journalistes...\n\
+ nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
