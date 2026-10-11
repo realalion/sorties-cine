@@ -1788,19 +1788,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000010370@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261011T053006Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261011T053006Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Fais-moi un signe
-DESCRIPTION:Drame · 1h45min\n\nDe Mipo O\n\nEnfant\, Haru ne voyait pas la
-  différence : avec ses parents sourds\, tout était simple\, empli d’a
- mour et de complicité. Mais en grandissant\, il découvre le poids du re
- gard des autres et la force des mots.\n\nAlloCiné : https://www.allocine
- .fr/film/fichefilm_gen_cfilm=1000010370.html\n\nSortie officielle au cin
- éma en France.
+DESCRIPTION:Drame · 1h45min\n\nDe Mipo O\n\nEnfant\, Dai ne voyait pas la 
+ différence : avec ses parents sourds\, tout était simple\, empli d’am
+ our et de complicité. Mais en grandissant\, il découvre le poids du reg
+ ard des autres et la force des mots – ceux qui échappent à son père 
+ et sa mère.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000010370.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010370.h
  tml
 CATEGORIES:Drame
