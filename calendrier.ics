@@ -3083,4 +3083,93 @@ CATEGORIES:Animation,Aventure,Famille,Fantastique
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000033019@realalion.github.io
+DTSTAMP:20261012T073847Z
+CREATED:20261012T073847Z
+LAST-MODIFIED:20261012T073847Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🎬 The Revenge of La Llorona
+DESCRIPTION:Épouvante-horreur\n\nAlloCiné : https://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000033019.html\n\nSortie officielle au cinéma en Fr
+ ance.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033019.h
+ tml
+CATEGORIES:Épouvante-horreur
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-294813@realalion.github.io
+DTSTAMP:20261012T073847Z
+CREATED:20261012T073847Z
+LAST-MODIFIED:20261012T073847Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 The Exorcist: Martyrs
+DESCRIPTION:Épouvante-horreur\n\nAlloCiné : https://www.allocine.fr/film/
+ fichefilm_gen_cfilm=294813.html\n\nSortie officielle au cinéma en France
+ .
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=294813.html
+CATEGORIES:Épouvante-horreur
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000030478@realalion.github.io
+DTSTAMP:20261012T073847Z
+CREATED:20261012T073847Z
+LAST-MODIFIED:20261012T073847Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🎬 Anything But Ghosts
+DESCRIPTION:Épouvante-horreur\n\nAlloCiné : https://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000030478.html\n\nSortie officielle au cinéma en Fr
+ ance.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030478.h
+ tml
+CATEGORIES:Épouvante-horreur
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000036756@realalion.github.io
+DTSTAMP:20261012T073847Z
+CREATED:20261012T073847Z
+LAST-MODIFIED:20261012T073847Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:🎬 Paranormal Activity
+DESCRIPTION:Épouvante-horreur\n\nAlloCiné : https://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000036756.html\n\nSortie officielle au cinéma en Fr
+ ance.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036756.h
+ tml
+CATEGORIES:Épouvante-horreur
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000029689@realalion.github.io
+DTSTAMP:20261012T073847Z
+CREATED:20261012T073847Z
+LAST-MODIFIED:20261012T073847Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:🎬 Sleepover
+DESCRIPTION:Épouvante-horreur\n\nAlloCiné : https://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000029689.html\n\nSortie officielle au cinéma en Fr
+ ance.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029689.h
+ tml
+CATEGORIES:Épouvante-horreur
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

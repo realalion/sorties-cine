@@ -1192,6 +1192,24 @@
    },
    "inFeed": true
   },
+  "1000029689": {
+   "created": "20261012T073847Z",
+   "modified": "20261012T073847Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Sleepover",
+    "releaseDate": "2027-10-06",
+    "genres": [
+     "Épouvante-horreur"
+    ],
+    "duration": null,
+    "directors": [],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029689.html"
+   },
+   "inFeed": true
+  },
   "1000030383": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -1209,6 +1227,24 @@
     "cast": [],
     "synopsis": "Alexandre est prêt à tout pour renouer avec sa fille. Quitte à infiltrer une équipe de bras cassés dans un univers de jeu médiéval-fantastique. Cette quête improbable pourrait bien le ramener à ses propres rêves oubliés...",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030383.html"
+   },
+   "inFeed": true
+  },
+  "1000030478": {
+   "created": "20261012T073847Z",
+   "modified": "20261012T073847Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Anything But Ghosts",
+    "releaseDate": "2027-05-05",
+    "genres": [
+     "Épouvante-horreur"
+    ],
+    "duration": null,
+    "directors": [],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030478.html"
    },
    "inFeed": true
   },
@@ -1331,6 +1367,24 @@
     "cast": [],
     "synopsis": "Japon, 1944. 10 000 soldats japonais débarquent sur l'île de Peleliu. Tamaru, un aspirant mangaka de 21 ans est enrôlé malgré lui dans le conflit, tout comme Yoshiki avec qui il va se lier d'amitié. Ensemble, ils s'accrochent à la vie au coeur de cette guerre d'usure. Isolés…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html"
+   },
+   "inFeed": true
+  },
+  "1000033019": {
+   "created": "20261012T073847Z",
+   "modified": "20261012T073847Z",
+   "sequence": 0,
+   "fields": {
+    "title": "The Revenge of La Llorona",
+    "releaseDate": "2027-02-24",
+    "genres": [
+     "Épouvante-horreur"
+    ],
+    "duration": null,
+    "directors": [],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033019.html"
    },
    "inFeed": true
   },
@@ -1475,6 +1529,24 @@
     "cast": [],
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036515.html"
+   },
+   "inFeed": true
+  },
+  "1000036756": {
+   "created": "20261012T073847Z",
+   "modified": "20261012T073847Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Paranormal Activity",
+    "releaseDate": "2027-05-19",
+    "genres": [
+     "Épouvante-horreur"
+    ],
+    "duration": null,
+    "directors": [],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036756.html"
    },
    "inFeed": true
   },
@@ -2406,6 +2478,24 @@
     "cast": [],
     "synopsis": "Marina de Van bataille avec ses relations sentimentales, sa propre image et sa nudité à une époque où les applis de rencontres et les échanges en ligne sont légion…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=281367.html"
+   },
+   "inFeed": true
+  },
+  "294813": {
+   "created": "20261012T073847Z",
+   "modified": "20261012T073847Z",
+   "sequence": 0,
+   "fields": {
+    "title": "The Exorcist: Martyrs",
+    "releaseDate": "2027-03-10",
+    "genres": [
+     "Épouvante-horreur"
+    ],
+    "duration": null,
+    "directors": [],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294813.html"
    },
    "inFeed": true
   },

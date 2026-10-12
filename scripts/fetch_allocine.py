@@ -295,7 +295,39 @@ def _feed_vevent(fid: str, entry: dict) -> list[str]:
     return lines
 
 
-def write_feed(films: list[dict], today: date | None = None) -> int:
+EXTRA_PATH = ROOT / "extra-films.json"
+
+
+def load_extra_films(recheck: bool = True) -> list[dict]:
+    """Films suivis manuellement (hors fenêtre). Revérifie la date AlloCiné
+    si elle est lisible sur la fiche ; sinon garde la date connue."""
+    try:
+        data = json.loads(EXTRA_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    changed = False
+    for f in data.get("films", []):
+        if not recheck or not f.get("allocineUrl"):
+            continue
+        try:
+            html = fetch(f["allocineUrl"])
+        except Exception:
+            continue
+        info = re.search(r'meta-body-info">(.*?)</div>', html, re.S)
+        if not info:
+            continue
+        m = re.search(r"(\d{1,2}\s+[a-zéû]+\s+\d{4})", clean_text(info.group(1)).lower())
+        d = parse_fr_date(m.group(1)) if m else None
+        if d and d.isoformat() != f["releaseDate"]:
+            print(f"extra: {f['title']} {f['releaseDate']} -> {d.isoformat()}")
+            f["releaseDate"] = d.isoformat()
+            changed = True
+    if changed:
+        EXTRA_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    return [f for f in data.get("films", []) if f.get("releaseDate")]
+
+
+def write_feed(films: list[dict], today: date | None = None, extras: list[dict] | None = None) -> int:
     """Écrit calendrier.ics (flux d'abonnement) + calendrier-state.json.
 
     - UID stable par film (id AlloCiné) -> un changement de date met à jour
@@ -313,6 +345,10 @@ def write_feed(films: list[dict], today: date | None = None) -> int:
         state = {}
     films_state = state.get("films", {})
     current = {f["id"]: f for f in films if f.get("releaseDate")}
+    if extras is None:
+        extras = load_extra_films()
+    for f in extras:
+        current.setdefault(f["id"], f)
 
     new_state = {}
     for fid, film in current.items():

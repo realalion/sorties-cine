@@ -1,0 +1,10 @@
+{
+ "_note": "Films suivis hors fenêtre de scraping (ex. veille Blumhouse). Toujours inclus dans calendrier.ics ; date revérifiée sur AlloCiné à chaque exécution.",
+ "films": [
+  {"id": "1000033019", "title": "The Revenge of La Llorona", "releaseDate": "2027-02-24", "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033019.html", "genres": ["Épouvante-horreur"]},
+  {"id": "294813", "title": "The Exorcist: Martyrs", "releaseDate": "2027-03-10", "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294813.html", "genres": ["Épouvante-horreur"]},
+  {"id": "1000030478", "title": "Anything But Ghosts", "releaseDate": "2027-05-05", "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030478.html", "genres": ["Épouvante-horreur"]},
+  {"id": "1000036756", "title": "Paranormal Activity", "releaseDate": "2027-05-19", "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036756.html", "genres": ["Épouvante-horreur"]},
+  {"id": "1000029689", "title": "Sleepover", "releaseDate": "2027-10-06", "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029689.html", "genres": ["Épouvante-horreur"]}
+ ]
+}
