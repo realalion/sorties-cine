@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T05:33:52+00:00",
+  "generatedAt": "2026-10-13T08:26:32+02:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-10-14",
   "to": "2026-12-09",
-  "count": 143,
+  "count": 144,
   "films": [
     {
       "id": "318791",
@@ -1414,6 +1414,24 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010370.html",
       "color": "#d82b15"
+    },
+    {
+      "id": "1000028064",
+      "title": "Forty Love",
+      "releaseDate": "2026-11-18",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Thriller"
+      ],
+      "duration": null,
+      "synopsis": "Sacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraîné depuis toujours par son père, ils rêvent ensemble de décrocher leur premier grand titre à Paris. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sacha devra faire face à un autre défi :…",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/fb/17/fb17a27e5a8a96636829883fb0fd6b1c.jpg",
+      "directors": [
+        "Pierre-Ange Carlotti"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html",
+      "color": "#8b4a2a"
     },
     {
       "id": "298873",

@@ -51,7 +51,10 @@ def fetch(url: str) -> str:
         return r.read().decode("utf-8", "replace")
 
 
-def parse_week(html: str, week_date: date):
+def parse_week(html: str, week_date: date, window: tuple[date, date] | None = None):
+    """Parse une page agenda. Garde les films datés de la semaine, et aussi ceux
+    dont la fiche indique un autre mercredi dans la fenêtre (AlloCiné laisse
+    parfois un film avancé/reculé sur l'ancienne semaine de l'agenda)."""
     cards = re.findall(
         r'<div class="card entity-card entity-card-list cf">(.*?)(?=<div class="card entity-card entity-card-list cf">|</ul>\s*<div class="pagination|</ul>\s*</section|$)',
         html,
@@ -72,7 +75,14 @@ def parse_week(html: str, week_date: date):
             continue
         release = parse_fr_date(date_m.group(1))
         if release != week_date:
-            continue
+            in_window = (
+                window is not None
+                and release is not None
+                and release.weekday() == 2
+                and window[0] <= release <= window[1]
+            )
+            if not in_window:
+                continue
         poster_m = re.search(r'<img class="thumbnail-img"[^>]*src="([^"]+)"', c)
         poster = poster_m.group(1) if poster_m else None
         if poster:
@@ -505,7 +515,7 @@ def fetch_all() -> list[dict]:
     while d <= end:
         url = f"https://www.allocine.fr/film/agenda/sem-{d.isoformat()}/"
         print("fetch", url)
-        films = parse_week(fetch(url), d)
+        films = parse_week(fetch(url), d, (start, end))
         print(f"  {len(films)} films")
         all_films.extend(films)
         d += timedelta(days=7)

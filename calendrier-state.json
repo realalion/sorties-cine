@@ -1072,11 +1072,11 @@
   },
   "1000028064": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261013T062632Z",
+   "sequence": 1,
    "fields": {
     "title": "Forty Love",
-    "releaseDate": "2026-11-25",
+    "releaseDate": "2026-11-18",
     "genres": [
      "Drame",
      "Romance",
@@ -1090,8 +1090,7 @@
     "synopsis": "Sacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraîné depuis toujours par son père, ils rêvent ensemble de décrocher leur premier grand titre à Paris. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sacha devra faire face à un autre défi :…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html"
    },
-   "inFeed": false,
-   "removedOn": "2026-10-13"
+   "inFeed": true
   },
   "1000028073": {
    "created": "20261008T064216Z",

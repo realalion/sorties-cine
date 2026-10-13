@@ -1786,6 +1786,28 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000028064@realalion.github.io
+DTSTAMP:20261013T062632Z
+CREATED:20261008T064216Z
+LAST-MODIFIED:20261013T062632Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Forty Love
+DESCRIPTION:Drame\, Romance\, Thriller\n\nDe Pierre-Ange Carlotti\n\nSacha 
+ Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraî
+ né depuis toujours par son père\, ils rêvent ensemble de décrocher le
+ ur premier grand titre à Paris. L’arrivée d’un nouveau rival va bou
+ leverser ses certitudes. Sacha devra faire face à un autre défi :…\n\
+ nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.
+ html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.h
+ tml
+CATEGORIES:Drame,Romance,Thriller
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-298873@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
