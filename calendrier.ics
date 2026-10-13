@@ -1369,6 +1369,28 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000053702@realalion.github.io
+DTSTAMP:20261013T053352Z
+CREATED:20261013T053352Z
+LAST-MODIFIED:20261013T053352Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Centenaires
+DESCRIPTION:Documentaire · 1h51min\n\nDe Guillaume Descave\n\nIls et elles
+  ont traversé un siècle de bouleversements. À travers leurs souvenirs\
+ , leurs épreuves et leur regard sur le monde d’aujourd’hui\, « Cent
+ enaires » donne la parole à des femmes et des hommes de plus de 100 ans
+ . Un film sur la mémoire\, la transmission et la réalité du…\n\nAllo
+ Ciné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html\
+ n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.h
+ tml
+CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-1000020289@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -1554,50 +1576,6 @@ DESCRIPTION:Animation\, Aventure · 1h02min\n\nDe Joost Van Den Bosch\, Eri
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.h
  tml
 CATEGORIES:Animation,Aventure
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000044110@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:🎬 Le Pacte de sel
-DESCRIPTION:Documentaire · 1h27min\n\nDe Rahma Benhamou-El Madani\n\nLe Pa
- cte de sel est l'histoire intimiste de la réalisatrice avec son pays nat
- al l'Algérie qui s'entremêle avec le destin des familles marocaines viv
- ant en Algérie puis chassées en 1975. La réalisatrice porte un regard
-  profondément humain sur le vivre-ensemble\, la liberté…\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html\n\n
- Sortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.h
- tml
-CATEGORIES:Documentaire
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000043430@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:🎬 Le Peuple
-DESCRIPTION:Documentaire\, Drame · 1h57min\n\nDe Rahma Benhamou-El Madani\
- n\nLe Peuple rend hommage à Kateb Yacine par la réactualisation d'extra
- its de ces deux plus importantes pièces de théâtre : Le cadavre encerc
- lé et Mohamed prends ta valise. Cinquante ans plus tard\, Mahfoud Lakrou
- ne\, le comédien fétiche du dramaturge\, remonte sur les planches…\n\
- nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.
- html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.h
- tml
-CATEGORIES:Documentaire,Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -2214,28 +2192,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000028064@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:🎬 Forty Love
-DESCRIPTION:Drame\, Romance\, Thriller\n\nDe Pierre-Ange Carlotti\n\nSacha 
- Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraî
- né depuis toujours par son père\, ils rêvent ensemble de décrocher le
- ur premier grand titre à Paris. L’arrivée d’un nouveau rival va bou
- leverser ses certitudes. Sacha devra faire face à un autre défi :…\n\
- nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.
- html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.h
- tml
-CATEGORIES:Drame,Romance,Thriller
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-1000052290@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -2343,17 +2299,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000044062@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261013T053352Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261013T053352Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Merci d'être venu
-DESCRIPTION:Documentaire\n\nDe Alain Cavalier\n\nDernier épisode du journa
- l filmé d'Alain Cavalier.\n\nAlloCiné : https://www.allocine.fr/film/fi
- chefilm_gen_cfilm=1000044062.html\n\nSortie officielle au cinéma en Fran
- ce.
+DESCRIPTION:Documentaire\n\nDe Alain Cavalier\n\nCeci est l’histoire d’
+ un filmeur\, Alain Cavalier. Toujours accompagné de sa caméra il contin
+ ue de filmer passionnément la vie\, apprenant encore sur lui et surtout 
+ sur les autres. Cependant il prend de l’âge et voit sa vitesse\, sa fr
+ aîcheur\, son audace et sa légèreté baisser.…\n\nAlloCiné : https:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html\n\nSortie offi
+ cielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.h
  tml
 CATEGORIES:Documentaire

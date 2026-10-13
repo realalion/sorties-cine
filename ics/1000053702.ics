@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000053702-2026-11-11@realalion.github.io
+DTSTAMP:20261013T053352Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎬 Centenaires — sortie ciné
+DESCRIPTION:Documentaire · 1h51min\n\nIls et elles ont traversé un siècl
+ e de bouleversements. À travers leurs souvenirs\, leurs épreuves et leu
+ r regard sur le monde d’aujourd’hui\, « Centenaires » donne la paro
+ le à des femmes et des hommes de plus de 100 ans. Un film sur la mémoir
+ e\, la transmission et la réalité du…\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=1000053702.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

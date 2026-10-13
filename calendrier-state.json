@@ -1090,7 +1090,8 @@
     "synopsis": "Sacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraîné depuis toujours par son père, ils rêvent ensemble de décrocher leur premier grand titre à Paris. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sacha devra faire face à un autre défi :…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-13"
   },
   "1000028073": {
    "created": "20261008T064216Z",
@@ -1857,7 +1858,8 @@
     "synopsis": "Le Peuple rend hommage à Kateb Yacine par la réactualisation d'extraits de ces deux plus importantes pièces de théâtre : Le cadavre encerclé et Mohamed prends ta valise. Cinquante ans plus tard, Mahfoud Lakroune, le comédien fétiche du dramaturge, remonte sur les planches…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-13"
   },
   "1000043822": {
    "created": "20261008T064216Z",
@@ -1921,7 +1923,7 @@
   },
   "1000044062": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261013T053352Z",
    "sequence": 0,
    "fields": {
     "title": "Merci d'être venu",
@@ -1934,7 +1936,7 @@
      "Alain Cavalier"
     ],
     "cast": [],
-    "synopsis": "Dernier épisode du journal filmé d'Alain Cavalier.",
+    "synopsis": "Ceci est l’histoire d’un filmeur, Alain Cavalier. Toujours accompagné de sa caméra il continue de filmer passionnément la vie, apprenant encore sur lui et surtout sur les autres. Cependant il prend de l’âge et voit sa vitesse, sa fraîcheur, son audace et sa légèreté baisser.…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html"
    },
    "inFeed": true
@@ -1957,7 +1959,8 @@
     "synopsis": "Le Pacte de sel est l'histoire intimiste de la réalisatrice avec son pays natal l'Algérie qui s'entremêle avec le destin des familles marocaines vivant en Algérie puis chassées en 1975. La réalisatrice porte un regard profondément humain sur le vivre-ensemble, la liberté…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-13"
   },
   "1000044336": {
    "created": "20261008T064216Z",
@@ -2392,6 +2395,26 @@
     "cast": [],
     "synopsis": "160 000 enfants victimes d’abus sexuels chaque année. Devant ce chiffre dramatique et l’absence totale de prévention, une femme décide d’ouvrir un lieu d’accueil pour pédophiles.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052544.html"
+   },
+   "inFeed": true
+  },
+  "1000053702": {
+   "created": "20261013T053352Z",
+   "modified": "20261013T053352Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Centenaires",
+    "releaseDate": "2026-11-11",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "1h51min",
+    "directors": [
+     "Guillaume Descave"
+    ],
+    "cast": [],
+    "synopsis": "Ils et elles ont traversé un siècle de bouleversements. À travers leurs souvenirs, leurs épreuves et leur regard sur le monde d’aujourd’hui, « Centenaires » donne la parole à des femmes et des hommes de plus de 100 ans. Un film sur la mémoire, la transmission et la réalité du…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html"
    },
    "inFeed": true
   },

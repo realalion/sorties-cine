@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T07:39:23+00:00",
+  "generatedAt": "2026-10-13T05:33:52+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-10-14",
   "to": "2026-12-09",
-  "count": 145,
+  "count": 143,
   "films": [
     {
       "id": "318791",
@@ -1003,12 +1003,12 @@
       ],
       "duration": null,
       "synopsis": "En quelques jours seulement, tout semble virer à la catastrophe pour Antoine Blanchet, héritier de l’ancestrale fabrique familiale de balances.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "directors": [
         "Philippe de Chauveron"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html",
-      "color": "#e0e0e0"
+      "color": "#f30000"
     },
     {
       "id": "298024",
@@ -1077,6 +1077,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037363.html",
       "color": "#823900"
+    },
+    {
+      "id": "1000053702",
+      "title": "Centenaires",
+      "releaseDate": "2026-11-11",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h51min",
+      "synopsis": "Ils et elles ont traversé un siècle de bouleversements. À travers leurs souvenirs, leurs épreuves et leur regard sur le monde d’aujourd’hui, « Centenaires » donne la parole à des femmes et des hommes de plus de 100 ans. Un film sur la mémoire, la transmission et la réalité du…",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/c7/56/c756953e67b722cefb27316706220282.jpg",
+      "directors": [
+        "Guillaume Descave"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html",
+      "color": "#7b787c"
     },
     {
       "id": "1000020289",
@@ -1231,39 +1247,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html",
       "color": "#ae7c5b"
-    },
-    {
-      "id": "1000044110",
-      "title": "Le Pacte de sel",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h27min",
-      "synopsis": "Le Pacte de sel est l'histoire intimiste de la réalisatrice avec son pays natal l'Algérie qui s'entremêle avec le destin des familles marocaines vivant en Algérie puis chassées en 1975. La réalisatrice porte un regard profondément humain sur le vivre-ensemble, la liberté…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8f/28/8f28790960e97766ebe43d9cb6f55e99.jpg",
-      "directors": [
-        "Rahma Benhamou-El Madani"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html",
-      "color": "#1da3fe"
-    },
-    {
-      "id": "1000043430",
-      "title": "Le Peuple",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Documentaire",
-        "Drame"
-      ],
-      "duration": "1h57min",
-      "synopsis": "Le Peuple rend hommage à Kateb Yacine par la réactualisation d'extraits de ces deux plus importantes pièces de théâtre : Le cadavre encerclé et Mohamed prends ta valise. Cinquante ans plus tard, Mahfoud Lakroune, le comédien fétiche du dramaturge, remonte sur les planches…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0d/22/0d223ddc835ac2caabbea16566400f51.jpg",
-      "directors": [
-        "Rahma Benhamou-El Madani"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.html",
-      "color": "#a33926"
     },
     {
       "id": "323956",
@@ -1751,24 +1734,6 @@
       "color": "#064e8c"
     },
     {
-      "id": "1000028064",
-      "title": "Forty Love",
-      "releaseDate": "2026-11-25",
-      "genres": [
-        "Drame",
-        "Romance",
-        "Thriller"
-      ],
-      "duration": null,
-      "synopsis": "Sacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraîné depuis toujours par son père, ils rêvent ensemble de décrocher leur premier grand titre à Paris. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sacha devra faire face à un autre défi :…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/fb/17/fb17a27e5a8a96636829883fb0fd6b1c.jpg",
-      "directors": [
-        "Pierre-Ange Carlotti"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html",
-      "color": "#8b4a2a"
-    },
-    {
       "id": "1000052290",
       "title": "Gruffalo, de père en fils",
       "releaseDate": "2026-11-25",
@@ -1863,13 +1828,13 @@
         "Documentaire"
       ],
       "duration": null,
-      "synopsis": "Dernier épisode du journal filmé d'Alain Cavalier.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/3a/be/3abeb5a0f3ca3342391804535408a029.jpg",
+      "synopsis": "Ceci est l’histoire d’un filmeur, Alain Cavalier. Toujours accompagné de sa caméra il continue de filmer passionnément la vie, apprenant encore sur lui et surtout sur les autres. Cependant il prend de l’âge et voit sa vitesse, sa fraîcheur, son audace et sa légèreté baisser.…",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/7c/64/7c6421b192e7900a1fc602eab7f61260.jpg",
       "directors": [
         "Alain Cavalier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html",
-      "color": "#c65344"
+      "color": "#b77452"
     },
     {
       "id": "1000016814",
@@ -2176,12 +2141,12 @@
       ],
       "duration": "1h33min",
       "synopsis": "En Ukraine occupée, les Russes interdisent d’enterrer les civils ukrainiens exécutés. Andryï, prêtre de 35 ans, voit son église transformée en morgue. Contraint d'y stocker les corps avant leur disparition en fosses communes, il résiste en secret : il identifie les morts et…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/99/2d/992d55e2e05fdd51526e78588fa3e67a.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/22/a7/22a7f1cf5ab8b2522cbb3dd693641077.jpg",
       "directors": [
         "Rostislav Kirpičenko"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html",
-      "color": "#625043"
+      "color": "#787f8a"
     },
     {
       "id": "312651",

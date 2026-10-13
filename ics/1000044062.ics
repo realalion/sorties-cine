@@ -5,12 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000044062-2026-11-25@realalion.github.io
-DTSTAMP:20261012T073923Z
+DTSTAMP:20261013T053352Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Merci d'être venu — sortie ciné
-DESCRIPTION:Documentaire\n\nDernier épisode du journal filmé d'Alain Cava
- lier.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html
+DESCRIPTION:Documentaire\n\nCeci est l’histoire d’un filmeur\, Alain Ca
+ valier. Toujours accompagné de sa caméra il continue de filmer passionn
+ ément la vie\, apprenant encore sur lui et surtout sur les autres. Cepen
+ dant il prend de l’âge et voit sa vitesse\, sa fraîcheur\, son audace
+  et sa légèreté baisser.…\n\nhttps://www.allocine.fr/film/fichefilm_
+ gen_cfilm=1000044062.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
