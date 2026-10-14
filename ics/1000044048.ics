@@ -4,10 +4,10 @@ PRODID:-//Sorties Cine France//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sortie-cine-1000044048-2026-11-25@realalion.github.io
-DTSTAMP:20261013T062632Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
+UID:sortie-cine-1000044048-2026-12-09@realalion.github.io
+DTSTAMP:20261014T054257Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 Barça Zou — sortie ciné
 DESCRIPTION:Comédie dramatique · 1h26min\n\nL’été de leurs dix-huit a
  ns\, Emile\, Paul\, Hascoët et Léo partent à Barcelone\, la Mecque du 

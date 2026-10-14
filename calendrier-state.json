@@ -373,7 +373,7 @@
   },
   "1000016814": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261014T054257Z",
    "sequence": 0,
    "fields": {
     "title": "Mon beau-père, ma belle-fille et moi",
@@ -381,7 +381,7 @@
     "genres": [
      "Comédie"
     ],
-    "duration": null,
+    "duration": "1h45min",
     "directors": [
      "John Hamburg"
     ],
@@ -1902,11 +1902,11 @@
   },
   "1000044048": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261014T054257Z",
+   "sequence": 1,
    "fields": {
     "title": "Barça Zou",
-    "releaseDate": "2026-11-25",
+    "releaseDate": "2026-12-09",
     "genres": [
      "Comédie dramatique"
     ],
@@ -2718,7 +2718,7 @@
   },
   "312651": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261014T054257Z",
    "sequence": 0,
    "fields": {
     "title": "Violent Night 2",
@@ -2727,7 +2727,7 @@
      "Action",
      "Comédie"
     ],
-    "duration": null,
+    "duration": "1h50min",
     "directors": [
      "Tommy Wirkola"
     ],
@@ -2870,7 +2870,7 @@
   },
   "318791": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261014T054257Z",
    "sequence": 0,
    "fields": {
     "title": "Englouti",
@@ -2883,7 +2883,7 @@
      "Brian Duffield"
     ],
     "cast": [],
-    "synopsis": "Au large de la côte californienne, Jay Gardiner part à la recherche de la dépouille de son père récemment disparu. Alors qu’il sonde les fonds marins, le jeune plongeur se retrouve soudainement avalé par un énorme cachalot. Piégé dans l’estomac de l’animal, il ne lui reste…",
+    "synopsis": "Au large de la côte californienne, Jay Gardiner part à la recherche de la dépouille de son père récemment disparu. Alors qu’il sonde les fonds marins, le jeune plongeur se retrouve soudainement avalé par un énorme cachalot.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html"
    },
    "inFeed": true

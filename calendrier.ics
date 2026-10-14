@@ -12,9 +12,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:sortie-cine-318791@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261014T054257Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261014T054257Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
@@ -22,10 +22,9 @@ SUMMARY:🎬 Englouti
 DESCRIPTION:Thriller · 1h46min\n\nDe Brian Duffield\n\nAu large de la côt
  e californienne\, Jay Gardiner part à la recherche de la dépouille de s
  on père récemment disparu. Alors qu’il sonde les fonds marins\, le je
- une plongeur se retrouve soudainement avalé par un énorme cachalot. Pi
- égé dans l’estomac de l’animal\, il ne lui reste…\n\nAlloCiné : 
- https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html\n\nSortie of
- ficielle au cinéma en France.
+ une plongeur se retrouve soudainement avalé par un énorme cachalot.\n\n
+ AlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html\
+ n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html
 CATEGORIES:Thriller
 TRANSP:TRANSPARENT
@@ -2106,27 +2105,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000044048@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:🎬 Barça Zou
-DESCRIPTION:Comédie dramatique · 1h26min\n\nDe Paul Nouhet\n\nL’été d
- e leurs dix-huit ans\, Emile\, Paul\, Hascoët et Léo partent à Barcelo
- ne\, la Mecque du skateboard\, pour leurs premières vacances entre potes
- . Dix ans plus tard\, ils s’appellent et se refont le film.\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html\n\n
- Sortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.h
- tml
-CATEGORIES:Comédie dramatique
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-312529@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -2343,16 +2321,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000016814@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261014T054257Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261014T054257Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Comédie\n\nDe John Hamburg\n\nUn nouveau film de la franchise 
- Mon beau-père et moi.\n\nAlloCiné : https://www.allocine.fr/film/fichef
- ilm_gen_cfilm=1000016814.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Comédie · 1h45min\n\nDe John Hamburg\n\nUn nouveau film de la
+  franchise Mon beau-père et moi.\n\nAlloCiné : https://www.allocine.fr/
+ film/fichefilm_gen_cfilm=1000016814.html\n\nSortie officielle au cinéma 
+ en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016814.h
  tml
 CATEGORIES:Comédie
@@ -2753,16 +2732,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-312651@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261014T054257Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261014T054257Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Violent Night 2
-DESCRIPTION:Action\, Comédie\n\nDe Tommy Wirkola\n\nSuite de Violent Night
-  (2022) de Tommy Wirkola.\n\nAlloCiné : https://www.allocine.fr/film/fic
- hefilm_gen_cfilm=312651.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Action\, Comédie · 1h50min\n\nDe Tommy Wirkola\n\nSuite de Vi
+ olent Night (2022) de Tommy Wirkola.\n\nAlloCiné : https://www.allocine.
+ fr/film/fichefilm_gen_cfilm=312651.html\n\nSortie officielle au cinéma e
+ n France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=312651.html
 CATEGORIES:Action,Comédie
 TRANSP:TRANSPARENT
@@ -2785,6 +2765,27 @@ DESCRIPTION:Documentaire · 45min\n\nDe Fredi Devas\n\nNagez avec les phoqu
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003266.h
  tml
 CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000044048@realalion.github.io
+DTSTAMP:20261014T054257Z
+CREATED:20261008T064216Z
+LAST-MODIFIED:20261014T054257Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎬 Barça Zou
+DESCRIPTION:Comédie dramatique · 1h26min\n\nDe Paul Nouhet\n\nL’été d
+ e leurs dix-huit ans\, Emile\, Paul\, Hascoët et Léo partent à Barcelo
+ ne\, la Mecque du skateboard\, pour leurs premières vacances entre potes
+ . Dix ans plus tard\, ils s’appellent et se refont le film.\n\nAlloCin
+ é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html\n\n
+ Sortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.h
+ tml
+CATEGORIES:Comédie dramatique
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

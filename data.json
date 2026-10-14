@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:26:32+02:00",
+  "generatedAt": "2026-10-14T05:42:57+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -15,7 +15,7 @@
         "Thriller"
       ],
       "duration": "1h46min",
-      "synopsis": "Au large de la côte californienne, Jay Gardiner part à la recherche de la dépouille de son père récemment disparu. Alors qu’il sonde les fonds marins, le jeune plongeur se retrouve soudainement avalé par un énorme cachalot. Piégé dans l’estomac de l’animal, il ne lui reste…",
+      "synopsis": "Au large de la côte californienne, Jay Gardiner part à la recherche de la dépouille de son père récemment disparu. Alors qu’il sonde les fonds marins, le jeune plongeur se retrouve soudainement avalé par un énorme cachalot.",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/31/73/3173f450f63ac497176b4d6c8fd08ea0.jpg",
       "directors": [
         "Brian Duffield"
@@ -1666,22 +1666,6 @@
       "color": "#18a7d5"
     },
     {
-      "id": "1000044048",
-      "title": "Barça Zou",
-      "releaseDate": "2026-11-25",
-      "genres": [
-        "Comédie dramatique"
-      ],
-      "duration": "1h26min",
-      "synopsis": "L’été de leurs dix-huit ans, Emile, Paul, Hascoët et Léo partent à Barcelone, la Mecque du skateboard, pour leurs premières vacances entre potes. Dix ans plus tard, ils s’appellent et se refont le film.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/03/05/030588ae8fce59e28a5e74296d110494.jpg",
-      "directors": [
-        "Paul Nouhet"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html",
-      "color": "#7e372c"
-    },
-    {
       "id": "312529",
       "title": "Billie à la croisée des mondes",
       "releaseDate": "2026-11-25",
@@ -1694,14 +1678,14 @@
       ],
       "duration": null,
       "synopsis": "Adolescente impulsive et anticonformiste, Billie est tout le contraire d’Alice - sa mère - une femme prudente et réfléchie. Lorsque la jeune fille libère accidentellement des pouvoirs magiques qu’elle ignorait, elle se retrouve propulsée bien au-delà de son domicile, vers un…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/52/43/5243bb2f8bc8ef2b730e593e1921bde7.png",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/3c/18/3c18971d723e0c30b15dd5183bb1192d.jpg",
       "directors": [
         "Fawn Veerasunthorn",
         "Jason Hand",
         "Josie Trinidad"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html",
-      "color": "#dc8210"
+      "color": "#00beff"
     },
     {
       "id": "1000028361",
@@ -1728,12 +1712,12 @@
       ],
       "duration": "1h30min",
       "synopsis": "Bangui. Robert a 17 ans et rêve de faire carrière dans la musique. Mais il n'est pas un Centrafricain comme les autres. Il est un réfugié congolais. Lorsque ses parents sont arrêtés, il doit s'occuper seul de ses quatre jeunes frère et sœurs.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/51/fa/51fa96b6e994efc33dce88238af1cb07.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/6e/c4/6ec4af2e8a78ed2d4a26cb68bb913a4e.jpg",
       "directors": [
         "Rafiki Fariala"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043822.html",
-      "color": "#ff9504"
+      "color": "#ff8e05"
     },
     {
       "id": "1000004190",
@@ -1861,7 +1845,7 @@
       "genres": [
         "Comédie"
       ],
-      "duration": null,
+      "duration": "1h45min",
       "synopsis": "Un nouveau film de la franchise Mon beau-père et moi.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/e7/b2/e7b2d3047feb71205387d7e2b34d02a2.jpg",
       "directors": [
@@ -2174,7 +2158,7 @@
         "Action",
         "Comédie"
       ],
-      "duration": null,
+      "duration": "1h50min",
       "synopsis": "Suite de Violent Night (2022) de Tommy Wirkola.",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/5c/71/5c713bfabf643dd093071a507cb30c5a.jpg",
       "directors": [
@@ -2198,6 +2182,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003266.html",
       "color": "#4792c4"
+    },
+    {
+      "id": "1000044048",
+      "title": "Barça Zou",
+      "releaseDate": "2026-12-09",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "duration": "1h26min",
+      "synopsis": "L’été de leurs dix-huit ans, Emile, Paul, Hascoët et Léo partent à Barcelone, la Mecque du skateboard, pour leurs premières vacances entre potes. Dix ans plus tard, ils s’appellent et se refont le film.",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/03/05/030588ae8fce59e28a5e74296d110494.jpg",
+      "directors": [
+        "Paul Nouhet"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html",
+      "color": "#7e372c"
     },
     {
       "id": "1000018371",
@@ -2225,12 +2225,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "Juin 1961, New York : le légendaire pianiste de jazz Bill Evans a trouvé sa voix musicale et a créé le trio parfait, comprenant le bassiste Scott LaFaro. Une résidence au Village Vanguard de New York culmine avec l'enregistrement en direct de deux des plus grands disques de…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/eb/48/eb4840a623decd4934d4c342a3dae590.jpg",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/b0/80/b080f924e51f37dd658477a75c20f920.jpeg",
       "directors": [
         "Grant Gee"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014226.html",
-      "color": "#67ae69"
+      "color": "#c8a00a"
     },
     {
       "id": "1000016226",
