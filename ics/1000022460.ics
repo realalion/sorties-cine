@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000022460-2026-12-16@realalion.github.io
+DTSTAMP:20261015T054330Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Je vois des immeubles tomber comme la foudre — sortie ciné
+DESCRIPTION:Comédie dramatique · 1h49min\n\nCinq amis. Cinq vies. D'innom
+ brables espoirs. Patrick\, Shiv\, Rian\, Oli et Conor ont grandi à Birmi
+ ngham. Ils jouaient ensemble\, séchaient les cours ensemble et rêvaient
+  ensemble du futur. Aujourd'hui\, ils ont trente ans et sont rattrapés p
+ ar le quotidien. Seul Rian a quitté…\n\nhttps://www.allocine.fr/film/f
+ ichefilm_gen_cfilm=1000022460.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022460.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

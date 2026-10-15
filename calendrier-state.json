@@ -62,7 +62,7 @@
   },
   "1000004528": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261015T054330Z",
    "sequence": 0,
    "fields": {
     "title": "Hunger Games : Lever de soleil sur la moisson",
@@ -70,7 +70,8 @@
     "genres": [
      "Action",
      "Aventure",
-     "Drame"
+     "Drame",
+     "Science Fiction"
     ],
     "duration": null,
     "directors": [
@@ -743,6 +744,26 @@
    },
    "inFeed": true
   },
+  "1000022460": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Je vois des immeubles tomber comme la foudre",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Comédie dramatique"
+    ],
+    "duration": "1h49min",
+    "directors": [
+     "Clio Barnard"
+    ],
+    "cast": [],
+    "synopsis": "Cinq amis. Cinq vies. D'innombrables espoirs. Patrick, Shiv, Rian, Oli et Conor ont grandi à Birmingham. Ils jouaient ensemble, séchaient les cours ensemble et rêvaient ensemble du futur. Aujourd'hui, ils ont trente ans et sont rattrapés par le quotidien. Seul Rian a quitté…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022460.html"
+   },
+   "inFeed": true
+  },
   "1000022995": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -865,6 +886,27 @@
     "cast": [],
     "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024131.html"
+   },
+   "inFeed": true
+  },
+  "1000024810": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "La Bola Negra",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "2h40min",
+    "directors": [
+     "Javier Calvo",
+     "Javier Ambrossi"
+    ],
+    "cast": [],
+    "synopsis": "Espagne 1932, 1937, 2017. Trois hommes. Trois époques. Un même fil invisible de désir, de douleur et d'héritage. LA BOLA NEGRA traverse le temps pour révéler ce qui les unit.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024810.html"
    },
    "inFeed": true
   },
@@ -1072,11 +1114,11 @@
   },
   "1000028064": {
    "created": "20261008T064216Z",
-   "modified": "20261013T062632Z",
-   "sequence": 1,
+   "modified": "20261015T054330Z",
+   "sequence": 2,
    "fields": {
     "title": "Forty Love",
-    "releaseDate": "2026-11-18",
+    "releaseDate": "2026-11-25",
     "genres": [
      "Drame",
      "Romance",
@@ -1612,7 +1654,7 @@
   },
   "1000037949": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261015T054330Z",
    "sequence": 0,
    "fields": {
     "title": "Le Sabre des gardiens",
@@ -1627,7 +1669,7 @@
      "Woo-Ping Yuen"
     ],
     "cast": [],
-    "synopsis": "Sous la dynastie Sui, en Chine, durant le règne oppressif de l’empereur Yang Guang. Biao Ren, un mercenaire chevronné se retrouve mêlé à un complot.",
+    "synopsis": "Fin de la dynastie Sui, vers l’an 600, en Chine. Dao Ma, ancien soldat devenu chasseur de primes, accepte d’escorter un mystérieux personnage masqué jusqu’à Chang’an, afin de s’acquitter d’une dette envers son vénérable ami, le chef du Clan Mo. Le passager se révèle être Zhi…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037949.html"
    },
    "inFeed": true
@@ -1983,7 +2025,7 @@
   },
   "1000046573": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261015T054330Z",
    "sequence": 0,
    "fields": {
     "title": "Nos âmes libres",
@@ -1991,7 +2033,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": "1h24min",
+    "duration": "1h13min",
     "directors": [
      "Salomée Stévenin"
     ],
@@ -2041,6 +2083,26 @@
     "cast": [],
     "synopsis": "Elsa Delcourt, une avocate en pleine crise, voit son monde s'effondrer. Après une confrontation violente avec son compagnon, elle décide de partir seule à Tanger. Déterminée à échapper aux attentes qui l'étouffent, son voyage devient plus qu'une simple fuite : c'est une quête…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046828.html"
+   },
+   "inFeed": true
+  },
+  "1000047461": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Route Algéricaine",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h48min",
+    "directors": [
+     "Rabah Ameur-Zaïmeche"
+    ],
+    "cast": [],
+    "synopsis": "Slimane, un vieux routier fatigué et malade, et Smaïn, son rippeur, ont pour mission de convoyer une cargaison au fin fond du Sahara algérien. En route, ils se font violemment agresser et dérober leur camion. Anna, une jeune chercheuse universitaire, et Sofiane, son compagnon…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.html"
    },
    "inFeed": true
   },
@@ -2168,6 +2230,26 @@
     "cast": [],
     "synopsis": "Et si les monstres d'aujourd'hui étaient moins imaginaires qu'ils n'y paraissent ? Des paysages transformés par le climat aux angoisses qui traversent nos sociétés, Zones troubles explore un fantastique profondément ancré dans notre époque. Quatre films où l'inexplicable…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html"
+   },
+   "inFeed": true
+  },
+  "1000050663": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Le Facteur Humain",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Divers"
+    ],
+    "duration": null,
+    "directors": [
+     "Nicolas Saada"
+    ],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050663.html"
    },
    "inFeed": true
   },
@@ -2397,6 +2479,26 @@
    },
    "inFeed": true
   },
+  "1000053016": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Là où l'herbe est plus verte",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": null,
+    "directors": [
+     "Coco Tassel"
+    ],
+    "cast": [],
+    "synopsis": "Sylvain est un agriculteur qui considère le bio comme un retour en arrière. En s’immergeant dans son quotidien, celui d’un homme confronté aux transformations de son métier, aux contraintes économiques, le film cherche à comprendre ce qui le guide dans sa pratique, comme ses…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053016.html"
+   },
+   "inFeed": true
+  },
   "1000053702": {
    "created": "20261013T053352Z",
    "modified": "20261013T053352Z",
@@ -2462,6 +2564,28 @@
    },
    "inFeed": true
   },
+  "269068": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Avengers: Doomsday",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Action",
+     "Aventure"
+    ],
+    "duration": "2h45min",
+    "directors": [
+     "Joe Russo",
+     "Anthony Russo"
+    ],
+    "cast": [],
+    "synopsis": "Dans ce nouveau chapitre de la saga Avengers, les héros emblématiques venus de différents univers sont réunis face à une menace existentielle sans précédent.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=269068.html"
+   },
+   "inFeed": true
+  },
   "272218": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -2479,6 +2603,29 @@
     "cast": [],
     "synopsis": "Dans l’Algérie des années de plomb, un jeune journaliste tente de faire émerger une parole enfouie. C’est à Oran qu’il rencontre un retraité solitaire qui lui livre une histoire sidérante : il serait le frère de « l’Arabe » assassiné dans L’Étranger d’Albert Camus.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272218.html"
+   },
+   "inFeed": true
+  },
+  "275256": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Léo, le chant des océans",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Animation",
+     "Aventure",
+     "Comédie",
+     "Famille"
+    ],
+    "duration": "1h31min",
+    "directors": [
+     "Reza Memari"
+    ],
+    "cast": [],
+    "synopsis": "Léo, jeune baleine à bosse, rêve de trouver sa voix pour suivre la destinée de son père, dont le chant magique protégeait autrefois les fonds marins. Quand le redoutable Léviathan se réveille, seul Léo a le pouvoir de l’arrêter. Accompagné de ses amis Willy et Darya, il se…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=275256.html"
    },
    "inFeed": true
   },
@@ -2646,6 +2793,26 @@
     "cast": [],
     "synopsis": "Le documentaire de Saura est centré sur les origines de l'art et sa relation avec les tendances les plus avant-gardistes. Le film dépeint l'évolution et la relation de l'art avec le mur comme toile de création, depuis les premières révolutions graphiques des grottes…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=307252.html"
+   },
+   "inFeed": true
+  },
+  "309190": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Six mois dans la maison rose et bleue",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Divers"
+    ],
+    "duration": "1h44min",
+    "directors": [
+     "Bruno Santamaría Razo"
+    ],
+    "cast": [],
+    "synopsis": "Mexico, début des années 90. Bruno grandit dans une famille joyeuse et insouciante. Le jour de ses onze ans, il apprend que son père est malade. Trente ans plus tard, Bruno filme. Il cherche à se souvenir de ces six mois dans la maison rose et bleue de son enfance.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=309190.html"
    },
    "inFeed": true
   },
@@ -2888,6 +3055,26 @@
    },
    "inFeed": true
   },
+  "319971": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Carmen, l’oiseau rebelle",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Animation"
+    ],
+    "duration": "1h26min",
+    "directors": [
+     "Sébastien Laudenbach"
+    ],
+    "cast": [],
+    "synopsis": "Dans les ruelles de Séville, Salva, Belén et leur bande de gamins des rues vont affronter tous les dangers pour éloigner la menace qui plane sur Carmen, jeune femme libre et flamboyante. Le destin de Carmen, oiseau rebelle, est entre leurs mains.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=319971.html"
+   },
+   "inFeed": true
+  },
   "321790": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -2910,12 +3097,13 @@
   },
   "322884": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261015T054330Z",
    "sequence": 0,
    "fields": {
     "title": "Wicker",
     "releaseDate": "2026-10-21",
     "genres": [
+     "Comédie",
      "Drame",
      "Fantastique",
      "Romance"
@@ -2972,6 +3160,28 @@
     "cast": [],
     "synopsis": "Chaya, 11 ans, vit avec sa famille dans les Landes, au bord de l’océan. A l’annonce de leur expulsion, son grand frère Nour sombre dans un sommeil profond et mystérieux. Chaya va tout faire pour le réveiller, jusqu’à plonger dans ses rêves pour le retrouver.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html"
+   },
+   "inFeed": true
+  },
+  "324508": {
+   "created": "20261015T054330Z",
+   "modified": "20261015T054330Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Dune : Troisième partie",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Action",
+     "Aventure",
+     "Science Fiction"
+    ],
+    "duration": null,
+    "directors": [
+     "Denis Villeneuve"
+    ],
+    "cast": [],
+    "synopsis": "Près de vingt ans après avoir pris le contrôle de l’Empire, Paul Atréides règne désormais en empereur impitoyable. Alors que d’anciens alliés refont surface, que de nouvelles menaces émergent et que la trahison rôde à chaque instant, Paul doit affronter les conséquences de la…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html"
    },
    "inFeed": true
   },
@@ -3059,7 +3269,7 @@
   },
   "37179": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261015T054330Z",
    "sequence": 0,
    "fields": {
     "title": "Nadja",
@@ -3073,7 +3283,7 @@
      "Michael Almereyda"
     ],
     "cast": [],
-    "synopsis": "Nadja, fille du comte Dracula, vit à New-York. A la nouvelle de la mort de son père, elle va tenter de renouer ses liens avec son frère.",
+    "synopsis": "Après la mort de son père, le comte Dracula, Nadja, jeune vampire désenchantée, erre à travers New York, espérant que cette disparition la libérera enfin du poids d’une existence éternelle. En chemin, elle fait la rencontre de Lucy, une jeune femme perdue et mélancolique : un…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html"
    },
    "inFeed": true

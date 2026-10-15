@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000047461-2026-12-16@realalion.github.io
+DTSTAMP:20261015T054330Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Route Algéricaine — sortie ciné
+DESCRIPTION:Drame · 1h48min\n\nSlimane\, un vieux routier fatigué et mala
+ de\, et Smaïn\, son rippeur\, ont pour mission de convoyer une cargaison
+  au fin fond du Sahara algérien. En route\, ils se font violemment agres
+ ser et dérober leur camion. Anna\, une jeune chercheuse universitaire\, 
+ et Sofiane\, son compagnon…\n\nhttps://www.allocine.fr/film/fichefilm_g
+ en_cfilm=1000047461.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

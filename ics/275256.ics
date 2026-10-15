@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-275256-2026-12-16@realalion.github.io
+DTSTAMP:20261015T054330Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Léo\, le chant des océans — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille · 1h31min\n\nLéo\, 
+ jeune baleine à bosse\, rêve de trouver sa voix pour suivre la destiné
+ e de son père\, dont le chant magique protégeait autrefois les fonds ma
+ rins. Quand le redoutable Léviathan se réveille\, seul Léo a le pouvoi
+ r de l’arrêter. Accompagné de ses amis Willy et Darya\, il se…\n\nh
+ ttps://www.allocine.fr/film/fichefilm_gen_cfilm=275256.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=275256.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

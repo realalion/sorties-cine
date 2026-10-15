@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000024810-2026-12-16@realalion.github.io
+DTSTAMP:20261015T054330Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 La Bola Negra — sortie ciné
+DESCRIPTION:Drame · 2h40min\n\nEspagne 1932\, 1937\, 2017. Trois hommes. T
+ rois époques. Un même fil invisible de désir\, de douleur et d'hérita
+ ge. LA BOLA NEGRA traverse le temps pour révéler ce qui les unit.\n\nht
+ tps://www.allocine.fr/film/fichefilm_gen_cfilm=1000024810.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024810.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

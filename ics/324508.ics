@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-324508-2026-12-16@realalion.github.io
+DTSTAMP:20261015T054330Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Dune : Troisième partie — sortie ciné
+DESCRIPTION:Action\, Aventure\, Science Fiction\n\nPrès de vingt ans aprè
+ s avoir pris le contrôle de l’Empire\, Paul Atréides règne désormai
+ s en empereur impitoyable. Alors que d’anciens alliés refont surface\,
+  que de nouvelles menaces émergent et que la trahison rôde à chaque in
+ stant\, Paul doit affronter les conséquences de la…\n\nhttps://www.all
+ ocine.fr/film/fichefilm_gen_cfilm=324508.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

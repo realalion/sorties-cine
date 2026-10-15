@@ -4,10 +4,10 @@ PRODID:-//Sorties Cine France//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sortie-cine-1000028064-2026-11-18@realalion.github.io
-DTSTAMP:20261014T054257Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
+UID:sortie-cine-1000028064-2026-11-25@realalion.github.io
+DTSTAMP:20261015T054330Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Forty Love — sortie ciné
 DESCRIPTION:Drame\, Romance\, Thriller\n\nSacha Gallo a 21 ans et ne sait f
  aire qu’une chose : jouer au tennis. Entraîné depuis toujours par son

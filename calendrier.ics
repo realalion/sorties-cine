@@ -546,18 +546,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-37179@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261015T054330Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261015T054330Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Nadja
 DESCRIPTION:Comédie\, Epouvante-horreur · 1h33min\n\nDe Michael Almereyda
- \n\nNadja\, fille du comte Dracula\, vit à New-York. A la nouvelle de la
-  mort de son père\, elle va tenter de renouer ses liens avec son frère.
- \n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.ht
- ml\n\nSortie officielle au cinéma en France.
+ \n\nAprès la mort de son père\, le comte Dracula\, Nadja\, jeune vampir
+ e désenchantée\, erre à travers New York\, espérant que cette dispari
+ tion la libérera enfin du poids d’une existence éternelle. En chemin\
+ , elle fait la rencontre de Lucy\, une jeune femme perdue et mélancoliqu
+ e : un…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm
+ =37179.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html
 CATEGORIES:Comédie,Epouvante-horreur
 TRANSP:TRANSPARENT
@@ -647,23 +649,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-322884@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261015T054330Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261015T054330Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Wicker
-DESCRIPTION:Drame\, Fantastique\, Romance · 1h45min\n\nDe Alex Huston Fisc
- her\, Eleanor Wilson\n\nMise au ban de son village\, une pêcheuse solita
- ire commande au vannier local un mari en osier. Cet époux improbable se 
- révèle doté d’une sensibilité et de talents qui dépassent toutes s
- es attentes. À son contact\, elle découvre un désir insoupçonné et s
- ’éprend véritablement de…\n\nAlloCiné : https://www.allocine.fr/fi
- lm/fichefilm_gen_cfilm=322884.html\n\nSortie officielle au cinéma en Fra
- nce.
+DESCRIPTION:Comédie\, Drame\, Fantastique\, Romance · 1h45min\n\nDe Alex 
+ Huston Fischer\, Eleanor Wilson\n\nMise au ban de son village\, une pêch
+ euse solitaire commande au vannier local un mari en osier. Cet époux imp
+ robable se révèle doté d’une sensibilité et de talents qui dépasse
+ nt toutes ses attentes. À son contact\, elle découvre un désir insoup
+ çonné et s’éprend véritablement de…\n\nAlloCiné : https://www.al
+ locine.fr/film/fichefilm_gen_cfilm=322884.html\n\nSortie officielle au ci
+ néma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=322884.html
-CATEGORIES:Drame,Fantastique,Romance
+CATEGORIES:Comédie,Drame,Fantastique,Romance
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -1196,14 +1198,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000046573@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261015T054330Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261015T054330Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 Nos âmes libres
-DESCRIPTION:Documentaire · 1h24min\n\nDe Salomée Stévenin\n\nNOS ÂMES L
+DESCRIPTION:Documentaire · 1h13min\n\nDe Salomée Stévenin\n\nNOS ÂMES L
  IBRES est une invitation au sensible. Une aventure qui traverse le temps\
  , les pays\, les éléments\, l’eau\, la terre\, la forme : une expédi
  tion qui interroge intimement notre rapport au vivant. De sa rencontre av
@@ -1785,28 +1787,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000028064@realalion.github.io
-DTSTAMP:20261013T062632Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261013T062632Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:🎬 Forty Love
-DESCRIPTION:Drame\, Romance\, Thriller\n\nDe Pierre-Ange Carlotti\n\nSacha 
- Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraî
- né depuis toujours par son père\, ils rêvent ensemble de décrocher le
- ur premier grand titre à Paris. L’arrivée d’un nouveau rival va bou
- leverser ses certitudes. Sacha devra faire face à un autre défi :…\n\
- nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.
- html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.h
- tml
-CATEGORIES:Drame,Romance,Thriller
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-298873@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -1829,23 +1809,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000004528@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261015T054330Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261015T054330Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Hunger Games : Lever de soleil sur la moisson
-DESCRIPTION:Action\, Aventure\, Drame\n\nDe Francis Lawrence\n\nAlors que l
- e jour se lève sur les 50e Hunger Games annuels\, la peur s'empare des d
- istricts de Panem. Cette année\, en l'honneur du Quarter Quell\, deux fo
- is plus de tributs seront tirés au sort. Dans le District 12\, Haymitch 
- Abernathy essaie de ne pas trop penser à ses chances.…\n\nAlloCiné : 
- https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html\n\nSorti
- e officielle au cinéma en France.
+DESCRIPTION:Action\, Aventure\, Drame\, Science Fiction\n\nDe Francis Lawre
+ nce\n\nAlors que le jour se lève sur les 50e Hunger Games annuels\, la p
+ eur s'empare des districts de Panem. Cette année\, en l'honneur du Quart
+ er Quell\, deux fois plus de tributs seront tirés au sort. Dans le Distr
+ ict 12\, Haymitch Abernathy essaie de ne pas trop penser à ses chances.
+ …\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=10000
+ 04528.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.h
  tml
-CATEGORIES:Action,Aventure,Drame
+CATEGORIES:Action,Aventure,Drame,Science Fiction
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -2192,6 +2172,28 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000028064@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261008T064216Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Forty Love
+DESCRIPTION:Drame\, Romance\, Thriller\n\nDe Pierre-Ange Carlotti\n\nSacha 
+ Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraî
+ né depuis toujours par son père\, ils rêvent ensemble de décrocher le
+ ur premier grand titre à Paris. L’arrivée d’un nouveau rival va bou
+ leverser ses certitudes. Sacha devra faire face à un autre défi :…\n\
+ nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.
+ html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.h
+ tml
+CATEGORIES:Drame,Romance,Thriller
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-1000052290@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -2258,17 +2260,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000037949@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261015T054330Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261015T054330Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Le Sabre des gardiens
 DESCRIPTION:Action\, Arts Martiaux\, Historique · 2h06min\n\nDe Woo-Ping Y
- uen\n\nSous la dynastie Sui\, en Chine\, durant le règne oppressif de l
- ’empereur Yang Guang. Biao Ren\, un mercenaire chevronné se retrouve m
- êlé à un complot.\n\nAlloCiné : https://www.allocine.fr/film/fichefil
+ uen\n\nFin de la dynastie Sui\, vers l’an 600\, en Chine. Dao Ma\, anci
+ en soldat devenu chasseur de primes\, accepte d’escorter un mystérieux
+  personnage masqué jusqu’à Chang’an\, afin de s’acquitter d’une
+  dette envers son vénérable ami\, le chef du Clan Mo. Le passager se r
+ évèle être Zhi…\n\nAlloCiné : https://www.allocine.fr/film/fichefil
  m_gen_cfilm=1000037949.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037949.h
  tml
@@ -3062,6 +3066,213 @@ DESCRIPTION:Animation\, Aventure\, Famille\, Fantastique · 2h12min\n\nDe T
  m_gen_cfilm=296439.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=296439.html
 CATEGORIES:Animation,Aventure,Famille,Fantastique
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-269068@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Avengers: Doomsday
+DESCRIPTION:Action\, Aventure · 2h45min\n\nDe Joe Russo\, Anthony Russo\n\
+ nDans ce nouveau chapitre de la saga Avengers\, les héros emblématiques
+  venus de différents univers sont réunis face à une menace existentiel
+ le sans précédent.\n\nAlloCiné : https://www.allocine.fr/film/fichefil
+ m_gen_cfilm=269068.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=269068.html
+CATEGORIES:Action,Aventure
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-319971@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Carmen\, l’oiseau rebelle
+DESCRIPTION:Animation · 1h26min\n\nDe Sébastien Laudenbach\n\nDans les ru
+ elles de Séville\, Salva\, Belén et leur bande de gamins des rues vont 
+ affronter tous les dangers pour éloigner la menace qui plane sur Carmen\
+ , jeune femme libre et flamboyante. Le destin de Carmen\, oiseau rebelle\
+ , est entre leurs mains.\n\nAlloCiné : https://www.allocine.fr/film/fich
+ efilm_gen_cfilm=319971.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=319971.html
+CATEGORIES:Animation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-324508@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Dune : Troisième partie
+DESCRIPTION:Action\, Aventure\, Science Fiction\n\nDe Denis Villeneuve\n\nP
+ rès de vingt ans après avoir pris le contrôle de l’Empire\, Paul Atr
+ éides règne désormais en empereur impitoyable. Alors que d’anciens a
+ lliés refont surface\, que de nouvelles menaces émergent et que la trah
+ ison rôde à chaque instant\, Paul doit affronter les conséquences de l
+ a…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=3245
+ 08.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html
+CATEGORIES:Action,Aventure,Science Fiction
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000022460@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Je vois des immeubles tomber comme la foudre
+DESCRIPTION:Comédie dramatique · 1h49min\n\nDe Clio Barnard\n\nCinq amis.
+  Cinq vies. D'innombrables espoirs. Patrick\, Shiv\, Rian\, Oli et Conor 
+ ont grandi à Birmingham. Ils jouaient ensemble\, séchaient les cours en
+ semble et rêvaient ensemble du futur. Aujourd'hui\, ils ont trente ans e
+ t sont rattrapés par le quotidien. Seul Rian a quitté…\n\nAlloCiné :
+  https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022460.html\n\nSort
+ ie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022460.h
+ tml
+CATEGORIES:Comédie dramatique
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000024810@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 La Bola Negra
+DESCRIPTION:Drame · 2h40min\n\nDe Javier Calvo\, Javier Ambrossi\n\nEspagn
+ e 1932\, 1937\, 2017. Trois hommes. Trois époques. Un même fil invisibl
+ e de désir\, de douleur et d'héritage. LA BOLA NEGRA traverse le temps 
+ pour révéler ce qui les unit.\n\nAlloCiné : https://www.allocine.fr/fi
+ lm/fichefilm_gen_cfilm=1000024810.html\n\nSortie officielle au cinéma en
+  France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024810.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000050663@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Le Facteur Humain
+DESCRIPTION:Divers\n\nDe Nicolas Saada\n\nAlloCiné : https://www.allocine.
+ fr/film/fichefilm_gen_cfilm=1000050663.html\n\nSortie officielle au ciné
+ ma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050663.h
+ tml
+CATEGORIES:Divers
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000053016@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Là où l'herbe est plus verte
+DESCRIPTION:Documentaire\n\nDe Coco Tassel\n\nSylvain est un agriculteur qu
+ i considère le bio comme un retour en arrière. En s’immergeant dans s
+ on quotidien\, celui d’un homme confronté aux transformations de son m
+ étier\, aux contraintes économiques\, le film cherche à comprendre ce 
+ qui le guide dans sa pratique\, comme ses…\n\nAlloCiné : https://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=1000053016.html\n\nSortie officielle 
+ au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053016.h
+ tml
+CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-275256@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Léo\, le chant des océans
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille · 1h31min\n\nDe Reza
+  Memari\n\nLéo\, jeune baleine à bosse\, rêve de trouver sa voix pour 
+ suivre la destinée de son père\, dont le chant magique protégeait autr
+ efois les fonds marins. Quand le redoutable Léviathan se réveille\, seu
+ l Léo a le pouvoir de l’arrêter. Accompagné de ses amis Willy et Dar
+ ya\, il se…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_c
+ film=275256.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=275256.html
+CATEGORIES:Animation,Aventure,Comédie,Famille
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000047461@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Route Algéricaine
+DESCRIPTION:Drame · 1h48min\n\nDe Rabah Ameur-Zaïmeche\n\nSlimane\, un vi
+ eux routier fatigué et malade\, et Smaïn\, son rippeur\, ont pour missi
+ on de convoyer une cargaison au fin fond du Sahara algérien. En route\, 
+ ils se font violemment agresser et dérober leur camion. Anna\, une jeune
+  chercheuse universitaire\, et Sofiane\, son compagnon…\n\nAlloCiné : 
+ https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.html\n\nSorti
+ e officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-309190@realalion.github.io
+DTSTAMP:20261015T054330Z
+CREATED:20261015T054330Z
+LAST-MODIFIED:20261015T054330Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Six mois dans la maison rose et bleue
+DESCRIPTION:Divers · 1h44min\n\nDe Bruno Santamaría Razo\n\nMexico\, déb
+ ut des années 90. Bruno grandit dans une famille joyeuse et insouciante.
+  Le jour de ses onze ans\, il apprend que son père est malade. Trente an
+ s plus tard\, Bruno filme. Il cherche à se souvenir de ces six mois dans
+  la maison rose et bleue de son enfance.\n\nAlloCiné : https://www.alloc
+ ine.fr/film/fichefilm_gen_cfilm=309190.html\n\nSortie officielle au ciné
+ ma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=309190.html
+CATEGORIES:Divers
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

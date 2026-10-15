@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-269068-2026-12-16@realalion.github.io
+DTSTAMP:20261015T054330Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Avengers: Doomsday — sortie ciné
+DESCRIPTION:Action\, Aventure · 2h45min\n\nDans ce nouveau chapitre de la 
+ saga Avengers\, les héros emblématiques venus de différents univers so
+ nt réunis face à une menace existentielle sans précédent.\n\nhttps://
+ www.allocine.fr/film/fichefilm_gen_cfilm=269068.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=269068.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
