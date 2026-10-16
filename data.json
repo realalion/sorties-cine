@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T05:43:30+00:00",
+  "generatedAt": "2026-10-16T05:42:38+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-10-21",
   "to": "2026-12-16",
-  "count": 138,
+  "count": 142,
   "films": [
     {
       "id": "1000016901",
@@ -16,7 +16,7 @@
         "Epouvante-horreur",
         "Thriller"
       ],
-      "duration": "1h48min",
+      "duration": "1h49min",
       "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre, Matt se tourne vers un traitement expérimental qui lui…",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
       "directors": [
@@ -462,7 +462,7 @@
       ],
       "duration": null,
       "synopsis": "À 27 ans, Nicolas n’a presque aucun souvenir de son enfance et n’a jamais connu son père. Séparé de sa mère à l’âge de trois ans, il a grandi placé entre familles d’accueil et foyers. Décidé à retrouver ce père qui l’a abandonné à la naissance, Nicolas récupère son dossier de…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/b8/30/b830cae98b03af5d6679df3f2b84afb9.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/2d/5b/2d5be7939e2b342391de951db5694ca7.jpg",
       "directors": [
         "Basile Monnot",
         "Samy Bouyssié"
@@ -549,6 +549,48 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036932.html",
       "color": "#ffdb00"
+    },
+    {
+      "id": "1000038768",
+      "title": "Coup de coeur surprise Jeune Public -1- AFCAE Novembre 2026",
+      "releaseDate": "2026-11-04",
+      "genres": [
+        "Divers"
+      ],
+      "duration": "35min",
+      "synopsis": "",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8d/76/8d76e28dde8b463ab39e241de1e03492.png",
+      "directors": [],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038768.html",
+      "color": "#ff7c27"
+    },
+    {
+      "id": "1000038769",
+      "title": "Coup de coeur surprise Jeune Public -2- AFCAE Novembre 2026",
+      "releaseDate": "2026-11-04",
+      "genres": [
+        "Divers"
+      ],
+      "duration": "1h30min",
+      "synopsis": "",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8d/76/8d76e28dde8b463ab39e241de1e03492.png",
+      "directors": [],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038769.html",
+      "color": "#ff7c27"
+    },
+    {
+      "id": "1000038770",
+      "title": "Coup de coeur surprise Jeune Public -3- AFCAE Novembre 2026",
+      "releaseDate": "2026-11-04",
+      "genres": [
+        "Divers"
+      ],
+      "duration": "1h30min",
+      "synopsis": "",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8d/76/8d76e28dde8b463ab39e241de1e03492.png",
+      "directors": [],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038770.html",
+      "color": "#ff7c27"
     },
     {
       "id": "1000038090",
@@ -1696,6 +1738,22 @@
       "color": "#435170"
     },
     {
+      "id": "324538",
+      "title": "Aïsha ne peut plus s’envoler",
+      "releaseDate": "2026-12-02",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "2h11min",
+      "synopsis": "À 26 ans, Aïsha, une aide à domicile soudanaise, vit dans un quartier du cœur du Caire où elle est témoin des tensions entre ses compatriotes migrants africains et les gangs locaux. Prise entre une relation ambiguë avec un jeune cuisinier égyptien, un gangster qui la fait…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/3c/b2/3cb2342e6ffd3e8e03c1ae6aaf6a21f6.jpg",
+      "directors": [
+        "Morad Mostafa"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324538.html",
+      "color": "#ab4e00"
+    },
+    {
       "id": "1000021740",
       "title": "Behemoth!",
       "releaseDate": "2026-12-02",
@@ -1737,12 +1795,12 @@
       ],
       "duration": "1h31min",
       "synopsis": "Étienne est un chauffeur routier dévoué et passionné. Chevillé à la route chaque semaine, au détriment de sa vie affective, Étienne se contente de brèves entrevues sur des parkings avec des anonymes. Mais lorsqu'il rencontre Bartosz, un routier polonais, son cœur chavire.…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/49/5b/495bf0ee07f66b326fa6170846b5d28d.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/0e/76/0e7668d9363d3f802f54dc5dd2e92ae3.jpg",
       "directors": [
         "Pierre Le Gall"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302095.html",
-      "color": "#004463"
+      "color": "#0084ad"
     },
     {
       "id": "1000031164",
@@ -2149,12 +2207,12 @@
       ],
       "duration": "2h12min",
       "synopsis": "Prue, une jeune fille courageuse, part à la recherche de son petit frère, enlevé et retenu dans la forêt interdite peuplée de créatures enchantées, d’alliés inattendus et d’adversaires redoutables. Ce qui débute comme une quête intime se transforme rapidement en une aventure…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/80/10/80102570d98452c1236036f84ddc3c0b.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/eb/7b/eb7bc0115e792026f287c2f9bbc08faf.jpg",
       "directors": [
         "Travis Knight"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296439.html",
-      "color": "#954526"
+      "color": "#0c86cf"
     },
     {
       "id": "269068",

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-324538-2026-12-02@realalion.github.io
+DTSTAMP:20261016T054238Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Aïsha ne peut plus s’envoler — sortie ciné
+DESCRIPTION:Drame · 2h11min\n\nÀ 26 ans\, Aïsha\, une aide à domicile s
+ oudanaise\, vit dans un quartier du cœur du Caire où elle est témoin d
+ es tensions entre ses compatriotes migrants africains et les gangs locaux
+ . Prise entre une relation ambiguë avec un jeune cuisinier égyptien\, u
+ n gangster qui la fait…\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=324538.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=324538.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
