@@ -5,16 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000036109-2026-10-21@realalion.github.io
-DTSTAMP:20261016T054238Z
+DTSTAMP:20261017T054101Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Le Printemps vint en riant — sortie ciné
-DESCRIPTION:Drame · 1h36min\n\nAu cœur du printemps\, une saison pleine d
- e renouveau et d'énergie vibrante\, quatre histoires captivantes se dér
- oulent. Cette période de joie cache aussi son côté sombre\, révélant
-  l'inattendu. Alors que les fleurs commencent à se faner\, l'arrivée de
-  l'automne apporte des…\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
- film=1000036109.html
+DESCRIPTION:Drame · 1h36min\n\nCe film est composé de cinq histoires cour
+ tes se déroulant au printemps\, la saison la plus cruelle\, qui libère 
+ les secrets\, la colère\, les chagrins et la férocité à chaque coup d
+ e feuille.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109
+ .html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

@@ -352,20 +352,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000016901@realalion.github.io
-DTSTAMP:20261016T054238Z
+DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261016T054238Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Clayface
 DESCRIPTION:Drame\, Epouvante-horreur\, Thriller · 1h49min\n\nDe James Wat
- kins\n\nL'ascension fulgurante de Matt Hagen\, de gamin des rues de Gotha
- m à star hollywoodienne\, est brutalement interrompue lorsqu'un baron du
-  crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plu
- s rien à perdre\, Matt se tourne vers un traitement expérimental qui lu
- i…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000
- 016901.html\n\nSortie officielle au cinéma en France.
+ kins\n\nStar hollywoodienne en pleine ascension\, Matt Hagen se retrouve 
+ atrocement défiguré par un baron du crime. Il se tourne vers un traitem
+ ent expérimental qui lui rend miraculeusement son apparence… mais alt
+ ère profondément sa perception de la réalité.\n\nAlloCiné : https://
+ www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.html\n\nSortie offici
+ elle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.h
  tml
 CATEGORIES:Drame,Epouvante-horreur,Thriller
@@ -396,20 +396,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-315883@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Klara et le soleil
-DESCRIPTION:Comédie\, Drame\, Science Fiction · 1h57min\n\nDe Taika Waiti
- ti\n\nLorsque Klara rencontre Josie\, chacune perçoit immédiatement che
- z l'autre une âme soeur. Josie entretient une relation compliquée avec 
- sa mère et toutes deux ont traversé de lourdes épreuves. Mais l'émerv
- eillement sincère de Klara et sa loyauté sans faille commencent peu à
- …\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=31588
- 3.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Comédie\, Drame\, Science Fiction · 1h56min\n\nDe Taika Waiti
+ ti\n\nKlara est une Amie Artificielle qui ne souhaite qu’une chose : tr
+ ouver le foyer idéal. Lorsque Klara rencontre Josie\, chacune perçoit i
+ mmédiatement chez l’autre une âme sœur.\n\nAlloCiné : https://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=315883.html\n\nSortie officielle au c
+ inéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=315883.html
 CATEGORIES:Comédie,Drame,Science Fiction
 TRANSP:TRANSPARENT
@@ -459,20 +458,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000036109@realalion.github.io
-DTSTAMP:20261010T052941Z
+DTSTAMP:20261017T054101Z
 CREATED:20261009T053154Z
-LAST-MODIFIED:20261010T052941Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Le Printemps vint en riant
-DESCRIPTION:Drame · 1h36min\n\nDe Noha Adel\n\nAu cœur du printemps\, une
-  saison pleine de renouveau et d'énergie vibrante\, quatre histoires cap
- tivantes se déroulent. Cette période de joie cache aussi son côté som
- bre\, révélant l'inattendu. Alors que les fleurs commencent à se faner
- \, l'arrivée de l'automne apporte des…\n\nAlloCiné : https://www.allo
- cine.fr/film/fichefilm_gen_cfilm=1000036109.html\n\nSortie officielle au 
- cinéma en France.
+DESCRIPTION:Drame · 1h36min\n\nDe Noha Adel\n\nCe film est composé de cin
+ q histoires courtes se déroulant au printemps\, la saison la plus cruell
+ e\, qui libère les secrets\, la colère\, les chagrins et la férocité 
+ à chaque coup de feuille.\n\nAlloCiné : https://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000036109.html\n\nSortie officielle au cinéma en Fran
+ ce.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.h
  tml
 CATEGORIES:Drame
@@ -546,20 +544,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-37179@realalion.github.io
-DTSTAMP:20261015T054330Z
+DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261015T054330Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Nadja
-DESCRIPTION:Comédie\, Epouvante-horreur · 1h33min\n\nDe Michael Almereyda
+DESCRIPTION:Comédie\, Epouvante-horreur · 1h37min\n\nDe Michael Almereyda
  \n\nAprès la mort de son père\, le comte Dracula\, Nadja\, jeune vampir
  e désenchantée\, erre à travers New York\, espérant que cette dispari
  tion la libérera enfin du poids d’une existence éternelle. En chemin\
  , elle fait la rencontre de Lucy\, une jeune femme perdue et mélancoliqu
- e : un…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm
- =37179.html\n\nSortie officielle au cinéma en France.
+ e.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.
+ html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html
 CATEGORIES:Comédie,Epouvante-horreur
 TRANSP:TRANSPARENT
@@ -987,6 +985,28 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000049344@realalion.github.io
+DTSTAMP:20261017T054101Z
+CREATED:20261017T054101Z
+LAST-MODIFIED:20261017T054101Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 30 ans après... Mémoire d'une féria
+DESCRIPTION:Documentaire · 1h47min\n\nDe Frédéric Bonnet\n\nLa Féria Pa
+ scale d'Arles fait partie de ces événements qui marquent profondément 
+ une ville et plusieurs générations. En croisant images d'archives et t
+ émoignages contemporains\, le film propose un voyage dans le temps où s
+ e mêlent nostalgie\, transmission et réflexion sur les…\n\nAlloCiné 
+ : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html\n\nSor
+ tie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.h
+ tml
+CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-1000040300@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -1317,18 +1337,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000031925@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 Un bon patron
-DESCRIPTION:Comédie\n\nDe Philippe de Chauveron\n\nEn quelques jours seule
- ment\, tout semble virer à la catastrophe pour Antoine Blanchet\, hérit
- ier de l’ancestrale fabrique familiale de balances.\n\nAlloCiné : http
- s://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html\n\nSortie of
- ficielle au cinéma en France.
+DESCRIPTION:Comédie · 1h27min\n\nDe Philippe de Chauveron\n\nEn quelques 
+ jours seulement\, tout semble virer à la catastrophe pour Antoine Blanch
+ et\, héritier de l’ancestrale fabrique familiale de balances.\n\nAlloC
+ iné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html\n
+ \nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.h
  tml
 CATEGORIES:Comédie
@@ -1469,14 +1489,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-310509@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 Everytime
-DESCRIPTION:Drame · 2h04min\n\nDe Sandra Wollner\n\nJessie est une adolesc
+DESCRIPTION:Drame · 1h59min\n\nDe Sandra Wollner\n\nJessie est une adolesc
  ente pleine de vie. Son seul problème est qu’elle partage sa chambre a
  vec sa petite sœur. Ella\, leur mère\, est débordée mais attentive. Q
  uand l’une des trois disparaît\, toute la famille est bouleversée et 
@@ -1652,27 +1672,6 @@ DESCRIPTION:Drame\n\nDe Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\
  éma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html
 CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000020647@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:🎬 L’Ordre Pourpre
-DESCRIPTION:Epouvante-horreur\, Thriller · 1h30min\n\nDe Thomas Ancora\n\n
- Un an après un bizutage qui a mal tourné\, un groupe d’étudiants se 
- retrouve pourchassé par un mystérieux tueur\, bien décidé à les déc
- imer un par un. Bienvenue dans l’ordre pourpre !\n\nAlloCiné : https:/
- /www.allocine.fr/film/fichefilm_gen_cfilm=1000020647.html\n\nSortie offic
- ielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020647.h
- tml
-CATEGORIES:Epouvante-horreur,Thriller
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -1971,18 +1970,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000018671@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Malika
-DESCRIPTION:Biopic\, Drame\n\nDe Mounia Meddour\n\nL'incroyable histoire vr
- aie de Malika Bellaribi\, la « diva des banlieues » : d'un bidonville d
- e Nanterre jusqu'au Théâtre du Châtelet.\n\nAlloCiné : https://www.al
- locine.fr/film/fichefilm_gen_cfilm=1000018671.html\n\nSortie officielle a
- u cinéma en France.
+DESCRIPTION:Biopic\, Drame\n\nDe Mounia Meddour\n\nL’incroyable histoire 
+ vraie de Malika Bellaribi\, la « diva des banlieues » : d’un bidonvil
+ le de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave ac
+ cident à l’enfance\, confrontée aux discriminations et à un drame in
+ time\, elle s’accroche à son rêve ambitieux : devenir…\n\nAlloCiné
+  : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html\n\nSo
+ rtie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.h
  tml
 CATEGORIES:Biopic,Drame
@@ -2140,21 +2141,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-312529@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Billie à la croisée des mondes
-DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique\n\nDe F
- awn Veerasunthorn\, Jason Hand\, Josie Trinidad\n\nAdolescente impulsive 
- et anticonformiste\, Billie est tout le contraire d’Alice - sa mère - 
- une femme prudente et réfléchie. Lorsque la jeune fille libère acciden
- tellement des pouvoirs magiques qu’elle ignorait\, elle se retrouve pro
- pulsée bien au-delà de son domicile\, vers un…\n\nAlloCiné : https:/
- /www.allocine.fr/film/fichefilm_gen_cfilm=312529.html\n\nSortie officiell
- e au cinéma en France.
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h49
+ min\n\nDe Fawn Veerasunthorn\, Jason Hand\, Josie Trinidad\n\nAdolescente
+  impulsive et anticonformiste\, Billie est tout le contraire d’Alice - 
+ sa mère - une femme prudente et réfléchie. Lorsque la jeune fille lib
+ ère accidentellement des pouvoirs magiques qu’elle ignorait\, elle se 
+ retrouve propulsée bien au-delà de son domicile\, vers un…\n\nAlloCin
+ é : https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html\n\nSort
+ ie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html
 CATEGORIES:Animation,Aventure,Comédie,Famille,Fantastique
 TRANSP:TRANSPARENT
@@ -2271,19 +2272,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000012306@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261017T054101Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 La libertad doble
-DESCRIPTION:Drame\n\nDe Lisandro Alonso\n\nMisael travaille seul. Muni de s
- a hache\, il abat des arbres dans la forêt. Une responsabilité inattend
- ue vient bouleverser sa vie\, et le rythme de ses journées disparaît pr
- ogressivement dans une nature où la raison humaine n’a plus de sens.\n
- \nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012306
- .html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Drame · 1h40min\n\nDe Lisandro Alonso\n\nMisael travaille seul
+ . Muni de sa hache\, il abat des arbres dans la forêt. Une responsabilit
+ é inattendue vient bouleverser sa vie\, et le rythme de ses journées di
+ sparaît progressivement dans une nature où la raison humaine n’a plus
+  de sens.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000012306.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012306.h
  tml
 CATEGORIES:Drame

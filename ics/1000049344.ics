@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000049344-2026-11-04@realalion.github.io
+DTSTAMP:20261017T054101Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 30 ans après... Mémoire d'une féria — sortie ciné
+DESCRIPTION:Documentaire · 1h47min\n\nLa Féria Pascale d'Arles fait parti
+ e de ces événements qui marquent profondément une ville et plusieurs g
+ énérations. En croisant images d'archives et témoignages contemporains
+ \, le film propose un voyage dans le temps où se mêlent nostalgie\, tra
+ nsmission et réflexion sur les…\n\nhttps://www.allocine.fr/film/fichef
+ ilm_gen_cfilm=1000049344.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

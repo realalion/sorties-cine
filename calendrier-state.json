@@ -145,7 +145,7 @@
   },
   "1000012306": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "La libertad doble",
@@ -153,7 +153,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "1h40min",
     "directors": [
      "Lisandro Alonso"
     ],
@@ -394,7 +394,7 @@
   },
   "1000016901": {
    "created": "20261008T064216Z",
-   "modified": "20261016T054238Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "Clayface",
@@ -409,7 +409,7 @@
      "James Watkins"
     ],
     "cast": [],
-    "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre, Matt se tourne vers un traitement expérimental qui lui…",
+    "synopsis": "Star hollywoodienne en pleine ascension, Matt Hagen se retrouve atrocement défiguré par un baron du crime. Il se tourne vers un traitement expérimental qui lui rend miraculeusement son apparence… mais altère profondément sa perception de la réalité.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.html"
    },
    "inFeed": true
@@ -497,7 +497,7 @@
   },
   "1000018671": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "Malika",
@@ -511,7 +511,7 @@
      "Mounia Meddour"
     ],
     "cast": [],
-    "synopsis": "L'incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : d'un bidonville de Nanterre jusqu'au Théâtre du Châtelet.",
+    "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : d’un bidonville de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux : devenir…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html"
    },
    "inFeed": true
@@ -642,7 +642,8 @@
     "synopsis": "Un an après un bizutage qui a mal tourné, un groupe d’étudiants se retrouve pourchassé par un mystérieux tueur, bien décidé à les décimer un par un. Bienvenue dans l’ordre pourpre !",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020647.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-17"
   },
   "1000020962": {
    "created": "20261008T064216Z",
@@ -1332,7 +1333,7 @@
   },
   "1000031925": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "Un bon patron",
@@ -1340,7 +1341,7 @@
     "genres": [
      "Comédie"
     ],
-    "duration": null,
+    "duration": "1h27min",
     "directors": [
      "Philippe de Chauveron"
     ],
@@ -1536,7 +1537,7 @@
   },
   "1000036109": {
    "created": "20261009T053154Z",
-   "modified": "20261010T052941Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "Le Printemps vint en riant",
@@ -1549,7 +1550,7 @@
      "Noha Adel"
     ],
     "cast": [],
-    "synopsis": "Au cœur du printemps, une saison pleine de renouveau et d'énergie vibrante, quatre histoires captivantes se déroulent. Cette période de joie cache aussi son côté sombre, révélant l'inattendu. Alors que les fleurs commencent à se faner, l'arrivée de l'automne apporte des…",
+    "synopsis": "Ce film est composé de cinq histoires courtes se déroulant au printemps, la saison la plus cruelle, qui libère les secrets, la colère, les chagrins et la férocité à chaque coup de feuille.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.html"
    },
    "inFeed": true
@@ -2263,6 +2264,26 @@
    },
    "inFeed": true
   },
+  "1000049344": {
+   "created": "20261017T054101Z",
+   "modified": "20261017T054101Z",
+   "sequence": 0,
+   "fields": {
+    "title": "30 ans après... Mémoire d'une féria",
+    "releaseDate": "2026-11-04",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "1h47min",
+    "directors": [
+     "Frédéric Bonnet"
+    ],
+    "cast": [],
+    "synopsis": "La Féria Pascale d'Arles fait partie de ces événements qui marquent profondément une ville et plusieurs générations. En croisant images d'archives et témoignages contemporains, le film propose un voyage dans le temps où se mêlent nostalgie, transmission et réflexion sur les…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html"
+   },
+   "inFeed": true
+  },
   "1000049510": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -2893,7 +2914,7 @@
   },
   "310509": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "Everytime",
@@ -2901,7 +2922,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": "2h04min",
+    "duration": "1h59min",
     "directors": [
      "Sandra Wollner"
     ],
@@ -2913,7 +2934,7 @@
   },
   "312529": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "Billie à la croisée des mondes",
@@ -2925,7 +2946,7 @@
      "Famille",
      "Fantastique"
     ],
-    "duration": null,
+    "duration": "1h49min",
     "directors": [
      "Fawn Veerasunthorn",
      "Jason Hand",
@@ -3027,7 +3048,7 @@
   },
   "315883": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "Klara et le soleil",
@@ -3037,12 +3058,12 @@
      "Drame",
      "Science Fiction"
     ],
-    "duration": "1h57min",
+    "duration": "1h56min",
     "directors": [
      "Taika Waititi"
     ],
     "cast": [],
-    "synopsis": "Lorsque Klara rencontre Josie, chacune perçoit immédiatement chez l'autre une âme soeur. Josie entretient une relation compliquée avec sa mère et toutes deux ont traversé de lourdes épreuves. Mais l'émerveillement sincère de Klara et sa loyauté sans faille commencent peu à…",
+    "synopsis": "Klara est une Amie Artificielle qui ne souhaite qu’une chose : trouver le foyer idéal. Lorsque Klara rencontre Josie, chacune perçoit immédiatement chez l’autre une âme sœur.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315883.html"
    },
    "inFeed": true
@@ -3343,7 +3364,7 @@
   },
   "37179": {
    "created": "20261008T064216Z",
-   "modified": "20261015T054330Z",
+   "modified": "20261017T054101Z",
    "sequence": 0,
    "fields": {
     "title": "Nadja",
@@ -3352,12 +3373,12 @@
      "Comédie",
      "Epouvante-horreur"
     ],
-    "duration": "1h33min",
+    "duration": "1h37min",
     "directors": [
      "Michael Almereyda"
     ],
     "cast": [],
-    "synopsis": "Après la mort de son père, le comte Dracula, Nadja, jeune vampire désenchantée, erre à travers New York, espérant que cette disparition la libérera enfin du poids d’une existence éternelle. En chemin, elle fait la rencontre de Lucy, une jeune femme perdue et mélancolique : un…",
+    "synopsis": "Après la mort de son père, le comte Dracula, Nadja, jeune vampire désenchantée, erre à travers New York, espérant que cette disparition la libérera enfin du poids d’une existence éternelle. En chemin, elle fait la rencontre de Lucy, une jeune femme perdue et mélancolique.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html"
    },
    "inFeed": true

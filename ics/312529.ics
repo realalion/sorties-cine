@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-312529-2026-11-25@realalion.github.io
-DTSTAMP:20261016T054238Z
+DTSTAMP:20261017T054101Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Billie à la croisée des mondes — sortie ciné
-DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique\n\nAdol
- escente impulsive et anticonformiste\, Billie est tout le contraire d’A
- lice - sa mère - une femme prudente et réfléchie. Lorsque la jeune fil
- le libère accidentellement des pouvoirs magiques qu’elle ignorait\, el
- le se retrouve propulsée bien au-delà de son domicile\, vers un…\n\nh
- ttps://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h49
+ min\n\nAdolescente impulsive et anticonformiste\, Billie est tout le cont
+ raire d’Alice - sa mère - une femme prudente et réfléchie. Lorsque l
+ a jeune fille libère accidentellement des pouvoirs magiques qu’elle ig
+ norait\, elle se retrouve propulsée bien au-delà de son domicile\, vers
+  un…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

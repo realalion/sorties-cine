@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:42:38+00:00",
+  "generatedAt": "2026-10-17T05:41:01+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -17,7 +17,7 @@
         "Thriller"
       ],
       "duration": "1h49min",
-      "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre, Matt se tourne vers un traitement expérimental qui lui…",
+      "synopsis": "Star hollywoodienne en pleine ascension, Matt Hagen se retrouve atrocement défiguré par un baron du crime. Il se tourne vers un traitement expérimental qui lui rend miraculeusement son apparence… mais altère profondément sa perception de la réalité.",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
       "directors": [
         "James Watkins"
@@ -51,8 +51,8 @@
         "Drame",
         "Science Fiction"
       ],
-      "duration": "1h57min",
-      "synopsis": "Lorsque Klara rencontre Josie, chacune perçoit immédiatement chez l'autre une âme soeur. Josie entretient une relation compliquée avec sa mère et toutes deux ont traversé de lourdes épreuves. Mais l'émerveillement sincère de Klara et sa loyauté sans faille commencent peu à…",
+      "duration": "1h56min",
+      "synopsis": "Klara est une Amie Artificielle qui ne souhaite qu’une chose : trouver le foyer idéal. Lorsque Klara rencontre Josie, chacune perçoit immédiatement chez l’autre une âme sœur.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1a/90/1a905b3bb5d95213775806d0b8b0b0fe.jpeg",
       "directors": [
         "Taika Waititi"
@@ -105,7 +105,7 @@
         "Drame"
       ],
       "duration": "1h36min",
-      "synopsis": "Au cœur du printemps, une saison pleine de renouveau et d'énergie vibrante, quatre histoires captivantes se déroulent. Cette période de joie cache aussi son côté sombre, révélant l'inattendu. Alors que les fleurs commencent à se faner, l'arrivée de l'automne apporte des…",
+      "synopsis": "Ce film est composé de cinq histoires courtes se déroulant au printemps, la saison la plus cruelle, qui libère les secrets, la colère, les chagrins et la férocité à chaque coup de feuille.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1f/24/1f246a70381c498abfd766c347a638f0.jpg",
       "directors": [
         "Noha Adel"
@@ -170,8 +170,8 @@
         "Comédie",
         "Epouvante-horreur"
       ],
-      "duration": "1h33min",
-      "synopsis": "Après la mort de son père, le comte Dracula, Nadja, jeune vampire désenchantée, erre à travers New York, espérant que cette disparition la libérera enfin du poids d’une existence éternelle. En chemin, elle fait la rencontre de Lucy, une jeune femme perdue et mélancolique : un…",
+      "duration": "1h37min",
+      "synopsis": "Après la mort de son père, le comte Dracula, Nadja, jeune vampire désenchantée, erre à travers New York, espérant que cette disparition la libérera enfin du poids d’une existence éternelle. En chemin, elle fait la rencontre de Lucy, une jeune femme perdue et mélancolique.",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/51/2d/512d696c77cbf0d310f68b488d3954ef.jpg",
       "directors": [
         "Michael Almereyda"
@@ -519,6 +519,22 @@
       "color": "#8d4f2a"
     },
     {
+      "id": "1000049344",
+      "title": "30 ans après... Mémoire d'une féria",
+      "releaseDate": "2026-11-04",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h47min",
+      "synopsis": "La Féria Pascale d'Arles fait partie de ces événements qui marquent profondément une ville et plusieurs générations. En croisant images d'archives et témoignages contemporains, le film propose un voyage dans le temps où se mêlent nostalgie, transmission et réflexion sur les…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/80/1c/801ce308ae5eedc8003a69eb51dfa2aa.jpg",
+      "directors": [
+        "Frédéric Bonnet"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html",
+      "color": "#ee0064"
+    },
+    {
       "id": "1000040300",
       "title": "Carlo Acutis, un saint pour notre temps",
       "releaseDate": "2026-11-04",
@@ -617,12 +633,12 @@
       ],
       "duration": "2h15min",
       "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus tard, un groupe de soldats et de vétérans doit s'unir…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/ff/73/ff734d5787d1387c4cee88f4a2cd46be.jpg",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/62/57/625799426a89e53445b5fb0b842cd241.jpg",
       "directors": [
         "Takashi Yamazaki"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html",
-      "color": "#004ca0"
+      "color": "#004fa1"
     },
     {
       "id": "1000027255",
@@ -781,7 +797,7 @@
       "genres": [
         "Comédie"
       ],
-      "duration": null,
+      "duration": "1h27min",
       "synopsis": "En quelques jours seulement, tout semble virer à la catastrophe pour Antoine Blanchet, héritier de l’ancestrale fabrique familiale de balances.",
       "poster": "https://fr.web.img3.acsta.net/c_310_420/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "directors": [
@@ -899,7 +915,7 @@
       "genres": [
         "Drame"
       ],
-      "duration": "2h04min",
+      "duration": "1h59min",
       "synopsis": "Jessie est une adolescente pleine de vie. Son seul problème est qu’elle partage sa chambre avec sa petite sœur. Ella, leur mère, est débordée mais attentive. Quand l’une des trois disparaît, toute la famille est bouleversée et cherche un coupable. Ella décide alors d’un…",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/df/d2/dfd2bedf88ca77fc9ae0afd7773cb53b.jpg",
       "directors": [
@@ -1044,23 +1060,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html",
       "color": "#00baca"
-    },
-    {
-      "id": "1000020647",
-      "title": "L’Ordre Pourpre",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Epouvante-horreur",
-        "Thriller"
-      ],
-      "duration": "1h30min",
-      "synopsis": "Un an après un bizutage qui a mal tourné, un groupe d’étudiants se retrouve pourchassé par un mystérieux tueur, bien décidé à les décimer un par un. Bienvenue dans l’ordre pourpre !",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [
-        "Thomas Ancora"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020647.html",
-      "color": "#e0e0e0"
     },
     {
       "id": "58916",
@@ -1306,7 +1305,7 @@
         "Drame"
       ],
       "duration": null,
-      "synopsis": "L'incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : d'un bidonville de Nanterre jusqu'au Théâtre du Châtelet.",
+      "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : d’un bidonville de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux : devenir…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/d0/42/d04283f67c32c0fa98b9e9a1d741de0f.jpg",
       "directors": [
         "Mounia Meddour"
@@ -1439,7 +1438,7 @@
         "Famille",
         "Fantastique"
       ],
-      "duration": null,
+      "duration": "1h49min",
       "synopsis": "Adolescente impulsive et anticonformiste, Billie est tout le contraire d’Alice - sa mère - une femme prudente et réfléchie. Lorsque la jeune fille libère accidentellement des pouvoirs magiques qu’elle ignorait, elle se retrouve propulsée bien au-delà de son domicile, vers un…",
       "poster": "https://fr.web.img3.acsta.net/c_310_420/img/3c/18/3c18971d723e0c30b15dd5183bb1192d.jpg",
       "directors": [
@@ -1475,7 +1474,7 @@
       ],
       "duration": "1h30min",
       "synopsis": "Bangui. Robert a 17 ans et rêve de faire carrière dans la musique. Mais il n'est pas un Centrafricain comme les autres. Il est un réfugié congolais. Lorsque ses parents sont arrêtés, il doit s'occuper seul de ses quatre jeunes frère et sœurs.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/6e/c4/6ec4af2e8a78ed2d4a26cb68bb913a4e.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/27/d1/27d1fc7fc7f29782118a7c970398c815.jpg",
       "directors": [
         "Rafiki Fariala"
       ],
@@ -1491,12 +1490,12 @@
       ],
       "duration": "1h47min",
       "synopsis": "Le jour de son départ à la retraite, Émile, professeur de lettres à Dieppe, donne à ses jeunes élèves un dernier cours sur la littérature et l’amour, les encourageant à devenir les poètes de leurs propres existences. Une fois rentré chez lui, Émile découvre que sa femme l’a…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/bf/20/bf20ce1d0a805b3c74f97b2c2198cf5c.jpg",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/38/58/3858f877d88532b0c1a8da62e26b8b2c.jpg",
       "directors": [
         "Martin Provost"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html",
-      "color": "#064e8c"
+      "color": "#005a97"
     },
     {
       "id": "1000028064",
@@ -1541,7 +1540,7 @@
       "genres": [
         "Drame"
       ],
-      "duration": null,
+      "duration": "1h40min",
       "synopsis": "Misael travaille seul. Muni de sa hache, il abat des arbres dans la forêt. Une responsabilité inattendue vient bouleverser sa vie, et le rythme de ses journées disparaît progressivement dans une nature où la raison humaine n’a plus de sens.",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/58/74/5874c65b8e50b43ba5042841acb3a97a.jpg",
       "directors": [
@@ -1562,12 +1561,12 @@
       ],
       "duration": "1h11min",
       "synopsis": "La vie d’Ernest et Célestine est toujours pleine de surprises et de fantaisie : cuisiner de délicieuses charabiettes au miel, chercher le cadeau parfait ou encore préparer un spectacle de patinage… les deux complices ne s’ennuient jamais. Et au moment de préparer Noël, tout…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/bb/1e/bb1e2999f5a2305fa567bb78eb90bfdc.jpg",
       "directors": [
         "Aurélie Raphaël"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.html",
-      "color": "#e0e0e0"
+      "color": "#9d3e1e"
     },
     {
       "id": "1000037949",
@@ -1646,12 +1645,12 @@
       ],
       "duration": "1h55min",
       "synopsis": "Deux frères que tout oppose s’unissent pour une affaire douteuse liée à la mafia russe. Mais ce qui devait être une opportunité devient un cauchemar, mettant en péril leur famille, leur intégrité, et leur lien fraternel.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/1b/6d/1b6dc1a4bbc7a3ae72b48a29cff63b90.jpg",
       "directors": [
         "James Gray"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html",
-      "color": "#e0e0e0"
+      "color": "#9c3d29"
     },
     {
       "id": "1000027620",
@@ -1860,12 +1859,12 @@
       ],
       "duration": "1h19min",
       "synopsis": "Le réalisateur du film « À BICYCLETTE ! », Mathias Mlekuz, embarque son ami Philippe pour une toute nouvelle aventure singulière à travers la France : accompagner Manolo, le fils cadet qui a pour projet de recueillir les 500 parrainages pour se lancer dans la campagne…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/a0/e8/a0e83fc0d61d682325a16f9a00a9f354.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/f8/25/f825b352d6167e959bf9e1ff5c54f681.jpg",
       "directors": [
         "Mathias Mlekuz"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044336.html",
-      "color": "#1f50a1"
+      "color": "#00b2f8"
     },
     {
       "id": "1000024935",

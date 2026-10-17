@@ -5,14 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000018671-2026-11-18@realalion.github.io
-DTSTAMP:20261016T054238Z
+DTSTAMP:20261017T054101Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Malika — sortie ciné
-DESCRIPTION:Biopic\, Drame\n\nL'incroyable histoire vraie de Malika Bellari
- bi\, la « diva des banlieues » : d'un bidonville de Nanterre jusqu'au T
- héâtre du Châtelet.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfil
- m=1000018671.html
+DESCRIPTION:Biopic\, Drame\n\nL’incroyable histoire vraie de Malika Bella
+ ribi\, la « diva des banlieues » : d’un bidonville de Nanterre jusqu
+ ’au Théâtre du Châtelet. Victime d’un grave accident à l’enfanc
+ e\, confrontée aux discriminations et à un drame intime\, elle s’accr
+ oche à son rêve ambitieux : devenir…\n\nhttps://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000018671.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000012306-2026-11-25@realalion.github.io
-DTSTAMP:20261016T054238Z
+DTSTAMP:20261017T054101Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 La libertad doble — sortie ciné
-DESCRIPTION:Drame\n\nMisael travaille seul. Muni de sa hache\, il abat des 
- arbres dans la forêt. Une responsabilité inattendue vient bouleverser s
- a vie\, et le rythme de ses journées disparaît progressivement dans une
-  nature où la raison humaine n’a plus de sens.\n\nhttps://www.allocine
- .fr/film/fichefilm_gen_cfilm=1000012306.html
+DESCRIPTION:Drame · 1h40min\n\nMisael travaille seul. Muni de sa hache\, i
+ l abat des arbres dans la forêt. Une responsabilité inattendue vient bo
+ uleverser sa vie\, et le rythme de ses journées disparaît progressiveme
+ nt dans une nature où la raison humaine n’a plus de sens.\n\nhttps://w
+ ww.allocine.fr/film/fichefilm_gen_cfilm=1000012306.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012306.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
