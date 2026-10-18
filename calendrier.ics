@@ -669,16 +669,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000051317@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261018T054117Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261018T054117Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 Ardèche
 DESCRIPTION:Documentaire · 1h30min\n\nDe Gabriel Campina\, John Dauvin\n\n
- AlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.h
- tml\n\nSortie officielle au cinéma en France.
+ L'Ardèche se dévoile dans ses pierres\, ses vallées encaissées\, ses 
+ villages et ses gorges spectaculaires. Sur les routes de ce département 
+ montagneux\, John et Gabriel partent à la rencontre de celles et ceux qu
+ i entretiennent un lien particulier avec cette terre.\n\nAlloCiné : http
+ s://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html\n\nSortie of
+ ficielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.h
  tml
 CATEGORIES:Documentaire
@@ -747,27 +751,6 @@ DESCRIPTION:Drame · 1h48min\n\nDe Nicolangelo Gelormini\n\nÀ cinquante an
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028073.h
  tml
 CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-307252@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:🎬 Las paredes hablan
-DESCRIPTION:Documentaire · 1h15min\n\nDe Carlos Saura\n\nLe documentaire d
- e Saura est centré sur les origines de l'art et sa relation avec les ten
- dances les plus avant-gardistes. Le film dépeint l'évolution et la rela
- tion de l'art avec le mur comme toile de création\, depuis les première
- s révolutions graphiques des grottes…\n\nAlloCiné : https://www.alloc
- ine.fr/film/fichefilm_gen_cfilm=307252.html\n\nSortie officielle au ciné
- ma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=307252.html
-CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

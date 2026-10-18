@@ -5,12 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000051317-2026-10-28@realalion.github.io
-DTSTAMP:20261017T054101Z
+DTSTAMP:20261018T054117Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 Ardèche — sortie ciné
-DESCRIPTION:Documentaire · 1h30min\n\nhttps://www.allocine.fr/film/fichefi
- lm_gen_cfilm=1000051317.html
+DESCRIPTION:Documentaire · 1h30min\n\nL'Ardèche se dévoile dans ses pier
+ res\, ses vallées encaissées\, ses villages et ses gorges spectaculaire
+ s. Sur les routes de ce département montagneux\, John et Gabriel partent
+  à la rencontre de celles et ceux qui entretiennent un lien particulier 
+ avec cette terre.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100
+ 0051317.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
