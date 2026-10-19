@@ -1493,6 +1493,24 @@
    },
    "inFeed": true
   },
+  "1000034882": {
+   "created": "20261019T071228Z",
+   "modified": "20261019T071228Z",
+   "sequence": 0,
+   "fields": {
+    "title": "River",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Épouvante-horreur"
+    ],
+    "duration": null,
+    "directors": [],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034882.html"
+   },
+   "inFeed": true
+  },
   "1000035013": {
    "created": "20261008T064216Z",
    "modified": "20261010T052941Z",
