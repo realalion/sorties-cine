@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T05:44:09+00:00",
+  "generatedAt": "2026-10-20T05:43:46+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-10-21",
   "to": "2026-12-16",
-  "count": 141,
+  "count": 140,
   "films": [
     {
       "id": "1000016901",
@@ -137,7 +137,7 @@
         "Documentaire"
       ],
       "duration": "1h27min",
-      "synopsis": "Vétéran de la guerre du Vietnam, Al Moon vit en solitaire sur les terres de sa tribu, en Californie du Nord. À mesure que la violence et les destructions écologiques s’abattent sur la réserve, d’anciennes angoisses refont surface. Al n’a plus le choix : il doit prendre la…",
+      "synopsis": "Vétéran de la guerre du Vietnam, Al Moon vit en solitaire sur les terres de sa tribu, en Californie du Nord. À mesure que d’anciennes angoisses refont surface, Al n’a plus le choix : il doit prendre la route pour affronter ce qui le hante, et retrouver les hommes de son…",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/c5/93/c593d18fc84cc17edb521a018bc4a4bf.jpg",
       "directors": [
         "Isabelle Ingold",
@@ -232,20 +232,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026725.html",
       "color": "#187690"
-    },
-    {
-      "id": "1000018229",
-      "title": "Untitled Event Animation Studiocanal Movie",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Animation"
-      ],
-      "duration": null,
-      "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018229.html",
-      "color": "#e0e0e0"
     },
     {
       "id": "322884",
@@ -1106,12 +1092,12 @@
       ],
       "duration": "1h46min",
       "synopsis": "1970, le tout premier match de football féminin espagnol organisé par un jeune entraîneur, stupéfait par le talent et la passion d’un groupe de jeunes filles.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/6a/65/6a65633cab082f0fbdfdac1fe5704c5a.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/8d/83/8d83a48361975803f2fd8f9eb6359c2b.jpg",
       "directors": [
         "Marta Díaz de Lope Díaz"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020962.html",
-      "color": "#9a3e34"
+      "color": "#a1483a"
     },
     {
       "id": "316136",
@@ -1290,12 +1276,12 @@
       ],
       "duration": null,
       "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : d’un bidonville de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux : devenir…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/d0/42/d04283f67c32c0fa98b9e9a1d741de0f.jpg",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/40/75/40755e7f3312dc2311b37a66bc94fe81.jpg",
       "directors": [
         "Mounia Meddour"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html",
-      "color": "#e40c13"
+      "color": "#e40a13"
     },
     {
       "id": "1000021751",

@@ -452,7 +452,8 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018229.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-20"
   },
   "1000018371": {
    "created": "20261008T064216Z",
@@ -993,7 +994,7 @@
   },
   "1000026766": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261020T054346Z",
    "sequence": 0,
    "fields": {
     "title": "Les Recommencements",
@@ -1007,7 +1008,7 @@
      "Vivianne Perelmuter"
     ],
     "cast": [],
-    "synopsis": "Vétéran de la guerre du Vietnam, Al Moon vit en solitaire sur les terres de sa tribu, en Californie du Nord. À mesure que la violence et les destructions écologiques s’abattent sur la réserve, d’anciennes angoisses refont surface. Al n’a plus le choix : il doit prendre la…",
+    "synopsis": "Vétéran de la guerre du Vietnam, Al Moon vit en solitaire sur les terres de sa tribu, en Californie du Nord. À mesure que d’anciennes angoisses refont surface, Al n’a plus le choix : il doit prendre la route pour affronter ce qui le hante, et retrouver les hommes de son…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026766.html"
    },
    "inFeed": true

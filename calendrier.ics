@@ -500,20 +500,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000026766@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261020T054346Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261020T054346Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎬 Les Recommencements
 DESCRIPTION:Documentaire · 1h27min\n\nDe Isabelle Ingold\, Vivianne Perelm
  uter\n\nVétéran de la guerre du Vietnam\, Al Moon vit en solitaire sur 
- les terres de sa tribu\, en Californie du Nord. À mesure que la violence
-  et les destructions écologiques s’abattent sur la réserve\, d’anci
- ennes angoisses refont surface. Al n’a plus le choix : il doit prendre 
- la…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=100
- 0026766.html\n\nSortie officielle au cinéma en France.
+ les terres de sa tribu\, en Californie du Nord. À mesure que d’ancienn
+ es angoisses refont surface\, Al n’a plus le choix : il doit prendre la
+  route pour affronter ce qui le hante\, et retrouver les hommes de son…
+ \n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=10000267
+ 66.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026766.h
  tml
 CATEGORIES:Documentaire
@@ -625,23 +625,6 @@ DESCRIPTION:Comédie dramatique\n\nDe Robert Guédiguian\n\nJuliette\, 30 a
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026725.h
  tml
 CATEGORIES:Comédie dramatique
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000018229@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🎬 Untitled Event Animation Studiocanal Movie
-DESCRIPTION:Animation\n\nAlloCiné : https://www.allocine.fr/film/fichefilm
- _gen_cfilm=1000018229.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018229.h
- tml
-CATEGORIES:Animation
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
