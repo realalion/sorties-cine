@@ -844,20 +844,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000027716@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261021T054336Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261021T054336Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🎬 Ozzy & Black Sabbath : Back to the Beginning
 DESCRIPTION:Concert\, Documentaire · 2h27min\n\nDe Benjamin Wainwright-Pea
- rce\n\nOzzy & Black Sabbath : Back to the Beginning revient sur un moment
-  marquant de l’histoire de la musique : l’ultime performance d’Ozzy
-  Osbourne\, un adieu historique à ses fans au stade de Villa Park\, dans
-  sa ville natale de Birmingham\, filmé seulement 17 jours avant sa…\n\
- nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.
- html\n\nSortie officielle au cinéma en France.
+ rce\, Tim Van Someren\n\nOzzy & Black Sabbath : Back to the Beginning rev
+ ient sur un moment marquant de l’histoire de la musique : l’ultime pe
+ rformance d’Ozzy Osbourne\, un adieu historique à ses fans au stade de
+  Villa Park\, dans sa ville natale de Birmingham\, filmé seulement 17 jo
+ urs avant sa…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen
+ _cfilm=1000027716.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.h
  tml
 CATEGORIES:Concert,Documentaire
@@ -1957,6 +1957,27 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000040428@realalion.github.io
+DTSTAMP:20261021T054336Z
+CREATED:20261021T054336Z
+LAST-MODIFIED:20261021T054336Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Meeting The Buddha
+DESCRIPTION:Documentaire · 2h24min\n\nMeeting The Buddha est un documentai
+ re sur la vie de Rangjung Rigpé Dorjé (XVIe Karmapa) et de son élève 
+ Ole Nydahl devenu lama\, ayant perpétué la transmission vivante de la l
+ ignée Karma Kagyu et la création de 600 centres bouddhistes tibétains 
+ en occident.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000040428.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.h
+ tml
+CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-1000021751@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -2516,23 +2537,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000021740@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261021T054336Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261021T054336Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Behemoth!
-DESCRIPTION:Drame\n\nDe Tony Gilroy\n\nVioloncelliste de talent\, Alex Seri
- an revient à Los Angeles\, après vingt années passées sur les routes.
-  La musique\, qui a toujours été le fil conducteur de son existence\, u
- ne force aussi omniprésente que dévorante\, entraîne Alex dans une ave
- nture qui le changera à jamais.\n\nAlloCiné : https://www.allocine.fr/f
- ilm/fichefilm_gen_cfilm=1000021740.html\n\nSortie officielle au cinéma e
- n France.
+DESCRIPTION:Drame\, Musical · 2h07min\n\nDe Tony Gilroy\n\nVioloncelliste 
+ de talent\, Alex Serian revient à Los Angeles\, après vingt années pas
+ sées sur les routes. La musique\, qui a toujours été le fil conducteur
+  de son existence\, une force aussi omniprésente que dévorante\, entra
+ îne Alex dans une aventure qui le changera à jamais.\n\nAlloCiné : htt
+ ps://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html\n\nSortie o
+ fficielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.h
  tml
-CATEGORIES:Drame
+CATEGORIES:Drame,Musical
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -2755,28 +2776,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000027308@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:🎬 Vesna
-DESCRIPTION:Drame · 1h33min\n\nDe Rostislav Kirpičenko\n\nEn Ukraine occu
- pée\, les Russes interdisent d’enterrer les civils ukrainiens exécut
- és. Andryï\, prêtre de 35 ans\, voit son église transformée en morgu
- e. Contraint d'y stocker les corps avant leur disparition en fosses commu
- nes\, il résiste en secret : il identifie les morts et…\n\nAlloCiné :
-  https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html\n\nSort
- ie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-312651@realalion.github.io
 DTSTAMP:20261014T054257Z
 CREATED:20261008T064216Z
@@ -2924,14 +2923,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-204864@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261021T054336Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261021T054336Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 Le Chat chapeauté
-DESCRIPTION:Animation\, Aventure\, Comédie · 1h45min\n\nDe Alessandro Car
+DESCRIPTION:Animation\, Aventure\, Comédie · 1h54min\n\nDe Alessandro Car
  loni\, Erica Rivinoja\n\nLe Chat se voit confier sa mission la plus diffi
  cile jusqu'à présent... aider deux frères et sœurs qui ont du mal à 
  s'installer dans une nouvelle ville.\n\nAlloCiné : https://www.allocine.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:43:46+00:00",
+  "generatedAt": "2026-10-21T05:43:36+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -418,7 +418,8 @@
       "synopsis": "Ozzy & Black Sabbath : Back to the Beginning revient sur un moment marquant de l’histoire de la musique : l’ultime performance d’Ozzy Osbourne, un adieu historique à ses fans au stade de Villa Park, dans sa ville natale de Birmingham, filmé seulement 17 jours avant sa…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/45/33/45334ae21bf74c2f22a7beb7a05dfae3.jpg",
       "directors": [
-        "Benjamin Wainwright-Pearce"
+        "Benjamin Wainwright-Pearce",
+        "Tim Van Someren"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html",
       "color": "#9e54ac"
@@ -1284,6 +1285,20 @@
       "color": "#e40a13"
     },
     {
+      "id": "1000040428",
+      "title": "Meeting The Buddha",
+      "releaseDate": "2026-11-18",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "2h24min",
+      "synopsis": "Meeting The Buddha est un documentaire sur la vie de Rangjung Rigpé Dorjé (XVIe Karmapa) et de son élève Ole Nydahl devenu lama, ayant perpétué la transmission vivante de la lignée Karma Kagyu et la création de 600 centres bouddhistes tibétains en occident.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html",
+      "color": "#e0e0e0"
+    },
+    {
       "id": "1000021751",
       "title": "Ohong Village",
       "releaseDate": "2026-11-18",
@@ -1512,12 +1527,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Misael travaille seul. Muni de sa hache, il abat des arbres dans la forêt. Une responsabilité inattendue vient bouleverser sa vie, et le rythme de ses journées disparaît progressivement dans une nature où la raison humaine n’a plus de sens.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/58/74/5874c65b8e50b43ba5042841acb3a97a.jpg",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/94/3d/943dbe6e743568aa646d57789f2903d4.jpg",
       "directors": [
         "Lisandro Alonso"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012306.html",
-      "color": "#7a6523"
+      "color": "#f9a200"
     },
     {
       "id": "1000041096",
@@ -1727,9 +1742,10 @@
       "title": "Behemoth!",
       "releaseDate": "2026-12-02",
       "genres": [
-        "Drame"
+        "Drame",
+        "Musical"
       ],
-      "duration": null,
+      "duration": "2h07min",
       "synopsis": "Violoncelliste de talent, Alex Serian revient à Los Angeles, après vingt années passées sur les routes. La musique, qui a toujours été le fil conducteur de son existence, une force aussi omniprésente que dévorante, entraîne Alex dans une aventure qui le changera à jamais.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/04/c6/04c6f17e27090a68e7fac6287b0fda02.jpg",
       "directors": [
@@ -1901,22 +1917,6 @@
       "color": "#ff4903"
     },
     {
-      "id": "1000027308",
-      "title": "Vesna",
-      "releaseDate": "2026-12-02",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h33min",
-      "synopsis": "En Ukraine occupée, les Russes interdisent d’enterrer les civils ukrainiens exécutés. Andryï, prêtre de 35 ans, voit son église transformée en morgue. Contraint d'y stocker les corps avant leur disparition en fosses communes, il résiste en secret : il identifie les morts et…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/22/a7/22a7f1cf5ab8b2522cbb3dd693641077.jpg",
-      "directors": [
-        "Rostislav Kirpičenko"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html",
-      "color": "#787f8a"
-    },
-    {
       "id": "312651",
       "title": "Violent Night 2",
       "releaseDate": "2026-12-02",
@@ -2041,7 +2041,7 @@
         "Aventure",
         "Comédie"
       ],
-      "duration": "1h45min",
+      "duration": "1h54min",
       "synopsis": "Le Chat se voit confier sa mission la plus difficile jusqu'à présent... aider deux frères et sœurs qui ont du mal à s'installer dans une nouvelle ville.",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/8c/df/8cdf9a29af5057fae2b92fd675917010.jpg",
       "directors": [

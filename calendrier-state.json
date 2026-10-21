@@ -668,15 +668,16 @@
   },
   "1000021740": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261021T054336Z",
    "sequence": 0,
    "fields": {
     "title": "Behemoth!",
     "releaseDate": "2026-12-02",
     "genres": [
-     "Drame"
+     "Drame",
+     "Musical"
     ],
-    "duration": null,
+    "duration": "2h07min",
     "directors": [
      "Tony Gilroy"
     ],
@@ -1071,7 +1072,8 @@
     "synopsis": "En Ukraine occupée, les Russes interdisent d’enterrer les civils ukrainiens exécutés. Andryï, prêtre de 35 ans, voit son église transformée en morgue. Contraint d'y stocker les corps avant leur disparition en fosses communes, il résiste en secret : il identifie les morts et…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-21"
   },
   "1000027620": {
    "created": "20261008T064216Z",
@@ -1095,7 +1097,7 @@
   },
   "1000027716": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261021T054336Z",
    "sequence": 0,
    "fields": {
     "title": "Ozzy & Black Sabbath : Back to the Beginning",
@@ -1106,7 +1108,8 @@
     ],
     "duration": "2h27min",
     "directors": [
-     "Benjamin Wainwright-Pearce"
+     "Benjamin Wainwright-Pearce",
+     "Tim Van Someren"
     ],
     "cast": [],
     "synopsis": "Ozzy & Black Sabbath : Back to the Beginning revient sur un moment marquant de l’histoire de la musique : l’ultime performance d’Ozzy Osbourne, un adieu historique à ses fans au stade de Villa Park, dans sa ville natale de Birmingham, filmé seulement 17 jours avant sa…",
@@ -1865,6 +1868,24 @@
     "cast": [],
     "synopsis": "La vie de saint Carlo Acutis, avec les témoignages inédits de ses proches.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040300.html"
+   },
+   "inFeed": true
+  },
+  "1000040428": {
+   "created": "20261021T054336Z",
+   "modified": "20261021T054336Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Meeting The Buddha",
+    "releaseDate": "2026-11-18",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "2h24min",
+    "directors": [],
+    "cast": [],
+    "synopsis": "Meeting The Buddha est un documentaire sur la vie de Rangjung Rigpé Dorjé (XVIe Karmapa) et de son élève Ole Nydahl devenu lama, ayant perpétué la transmission vivante de la lignée Karma Kagyu et la création de 600 centres bouddhistes tibétains en occident.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html"
    },
    "inFeed": true
   },
@@ -2637,7 +2658,7 @@
   },
   "204864": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261021T054336Z",
    "sequence": 0,
    "fields": {
     "title": "Le Chat chapeauté",
@@ -2647,7 +2668,7 @@
      "Aventure",
      "Comédie"
     ],
-    "duration": "1h45min",
+    "duration": "1h54min",
     "directors": [
      "Alessandro Carloni",
      "Erica Rivinoja"
