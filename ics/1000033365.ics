@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000033365-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Un cœur fidèle — sortie ciné
+DESCRIPTION:Drame · 1h39min\n\nUne adolescente part vivre chez sa grand-m
+ ère avec sa mère à la suite du divorce de ses parents.\n\nhttps://www.
+ allocine.fr/film/fichefilm_gen_cfilm=1000033365.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

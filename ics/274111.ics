@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-274111-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Jumanji : Bienvenue dans notre monde — sortie ciné
+DESCRIPTION:Action\, Aventure\, Comédie\n\nNos héros pensaient avoir déf
+ initivement laissés derrière eux les jungles imprévisibles de Jumanji.
+  Mais le jeu a évolué : il s'affranchit désormais de sa console pour e
+ nvahir le monde réel\, semant le chaos sur son passage.\n\nhttps://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=274111.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

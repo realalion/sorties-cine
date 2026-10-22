@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000053016-2026-12-16@realalion.github.io
-DTSTAMP:20261021T054336Z
+DTSTAMP:20261022T054313Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Là où l'herbe est plus verte — sortie ciné
 DESCRIPTION:Documentaire\n\nSylvain est un agriculteur qui considère le bi
- o comme un retour en arrière. En s’immergeant dans son quotidien\, cel
- ui d’un homme confronté aux transformations de son métier\, aux contr
- aintes économiques\, le film cherche à comprendre ce qui le guide dans 
- sa pratique\, comme ses…\n\nhttps://www.allocine.fr/film/fichefilm_gen_
- cfilm=1000053016.html
+ o comme un retour en arrière.En nous immergeant dans son quotidien\, cel
+ ui d’un homme confronté aux transformations de son métier\, le film c
+ herche à le comprendre.Il raconte non sans poésie la complexité et les
+  contradictions du…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000053016.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053016.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

@@ -1936,41 +1936,42 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000018671@realalion.github.io
-DTSTAMP:20261017T054101Z
+DTSTAMP:20261022T054313Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261017T054101Z
+LAST-MODIFIED:20261022T054313Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Malika
-DESCRIPTION:Biopic\, Drame\n\nDe Mounia Meddour\n\nL’incroyable histoire 
- vraie de Malika Bellaribi\, la « diva des banlieues » : d’un bidonvil
- le de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave ac
- cident à l’enfance\, confrontée aux discriminations et à un drame in
- time\, elle s’accroche à son rêve ambitieux : devenir…\n\nAlloCiné
-  : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html\n\nSo
- rtie officielle au cinéma en France.
+DESCRIPTION:Biopic · 1h26min\n\nDe Mounia Meddour\n\nL’incroyable histoi
+ re vraie de Malika Bellaribi\, la « diva des banlieues » : d’un bidon
+ ville de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave
+  accident à l’enfance\, confrontée aux discriminations et à un drame
+  intime\, elle s’accroche à son rêve ambitieux : devenir…\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html\n\
+ nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.h
  tml
-CATEGORIES:Biopic,Drame
+CATEGORIES:Biopic
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000040428@realalion.github.io
-DTSTAMP:20261021T054336Z
+DTSTAMP:20261022T054313Z
 CREATED:20261021T054336Z
-LAST-MODIFIED:20261021T054336Z
+LAST-MODIFIED:20261022T054313Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Meeting The Buddha
-DESCRIPTION:Documentaire · 2h24min\n\nMeeting The Buddha est un documentai
- re sur la vie de Rangjung Rigpé Dorjé (XVIe Karmapa) et de son élève 
- Ole Nydahl devenu lama\, ayant perpétué la transmission vivante de la l
- ignée Karma Kagyu et la création de 600 centres bouddhistes tibétains 
- en occident.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cf
- ilm=1000040428.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Documentaire · 2h24min\n\nDe Marta György-Kessler\n\nMeeting 
+ The Buddha est un documentaire sur la vie de Rangjung Rigpé Dorjé (XVIe
+  Karmapa) et de son élève Ole Nydahl devenu lama\, ayant perpétué la 
+ transmission vivante de la lignée Karma Kagyu et la création de 600 cen
+ tres bouddhistes tibétains en occident.\n\nAlloCiné : https://www.alloc
+ ine.fr/film/fichefilm_gen_cfilm=1000040428.html\n\nSortie officielle au c
+ inéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.h
  tml
 CATEGORIES:Documentaire
@@ -3233,20 +3234,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000053016@realalion.github.io
-DTSTAMP:20261015T054330Z
+DTSTAMP:20261022T054313Z
 CREATED:20261015T054330Z
-LAST-MODIFIED:20261015T054330Z
+LAST-MODIFIED:20261022T054313Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Là où l'herbe est plus verte
 DESCRIPTION:Documentaire\n\nDe Coco Tassel\n\nSylvain est un agriculteur qu
- i considère le bio comme un retour en arrière. En s’immergeant dans s
+ i considère le bio comme un retour en arrière.En nous immergeant dans s
  on quotidien\, celui d’un homme confronté aux transformations de son m
- étier\, aux contraintes économiques\, le film cherche à comprendre ce 
- qui le guide dans sa pratique\, comme ses…\n\nAlloCiné : https://www.a
- llocine.fr/film/fichefilm_gen_cfilm=1000053016.html\n\nSortie officielle 
- au cinéma en France.
+ étier\, le film cherche à le comprendre.Il raconte non sans poésie la 
+ complexité et les contradictions du…\n\nAlloCiné : https://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=1000053016.html\n\nSortie officielle au ci
+ néma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053016.h
  tml
 CATEGORIES:Documentaire
@@ -3298,22 +3299,245 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-309190@realalion.github.io
-DTSTAMP:20261015T054330Z
+DTSTAMP:20261022T054313Z
 CREATED:20261015T054330Z
-LAST-MODIFIED:20261015T054330Z
+LAST-MODIFIED:20261022T054313Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Six mois dans la maison rose et bleue
-DESCRIPTION:Divers · 1h44min\n\nDe Bruno Santamaría Razo\n\nMexico\, déb
- ut des années 90. Bruno grandit dans une famille joyeuse et insouciante.
-  Le jour de ses onze ans\, il apprend que son père est malade. Trente an
- s plus tard\, Bruno filme. Il cherche à se souvenir de ces six mois dans
-  la maison rose et bleue de son enfance.\n\nAlloCiné : https://www.alloc
- ine.fr/film/fichefilm_gen_cfilm=309190.html\n\nSortie officielle au ciné
- ma en France.
+DESCRIPTION:Drame · 1h44min\n\nDe Bruno Santamaría Razo\n\nMexico\, débu
+ t des années 90. Bruno grandit dans une famille joyeuse et insouciante. 
+ Le jour de ses onze ans\, il apprend que son père est malade. Trente ans
+  plus tard\, Bruno filme. Il cherche à se souvenir de ces six mois dans 
+ la maison rose et bleue de son enfance.\n\nAlloCiné : https://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=309190.html\n\nSortie officielle au ciném
+ a en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=309190.html
-CATEGORIES:Divers
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000004507@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Angry Birds - La grande envolée
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\n\nDe John Rice\n\nEn
+  cette période de fêtes de fin d’année\, un Angry Bird va devoir rel
+ ever son plus grand défi : survivre à la paternité… tout en sauvant 
+ le monde !\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfil
+ m=1000004507.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004507.h
+ tml
+CATEGORIES:Animation,Aventure,Comédie,Famille
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000002678@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 I Play Rocky
+DESCRIPTION:Biopic · 2h08min\n\nDe Peter Farrelly\n\nL'incroyable histoire
+  vraie d'un acteur inconnu\, animé par une conviction inébranlable : il
+  n'était pas seulement destiné à écrire Rocky\, il était destiné à
+  être Rocky Balboa.\n\nAlloCiné : https://www.allocine.fr/film/fichefil
+ m_gen_cfilm=1000002678.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002678.h
+ tml
+CATEGORIES:Biopic
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-274111@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Jumanji : Bienvenue dans notre monde
+DESCRIPTION:Action\, Aventure\, Comédie\n\nDe Jake Kasdan\n\nNos héros pe
+ nsaient avoir définitivement laissés derrière eux les jungles imprévi
+ sibles de Jumanji. Mais le jeu a évolué : il s'affranchit désormais de
+  sa console pour envahir le monde réel\, semant le chaos sur son passage
+ .\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.
+ html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html
+CATEGORIES:Action,Aventure,Comédie
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-18065@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 La Beauté du monde
+DESCRIPTION:Comédie dramatique · 53min\n\nDe Yves Caumon\n\nA travers l'h
+ istoire de Suzanne\, qui s'isole a la campagne\, mais supporte difficilem
+ ent la solitude\, réflexion sur l’énigme de la vie et de la création
+ .\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.h
+ tml\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.html
+CATEGORIES:Comédie dramatique
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-326180@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Les Carnets d'Ozu
+DESCRIPTION:Documentaire · 2h17min\n\nDe Daniel Raim\n\nTokyo\, au début 
+ du XXe siècle. Enfant à la santé fragile et cinéphile précoce\, ché
+ ri par ses parents\, le jeune Yasujiro Ozu entre à la Shochiku – à le
+ ur grande déception – pour assouvir sa passion du cinéma en tournant 
+ des comédies muettes\, tout en façonnant un regard d’une…\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=326180.html\n\nSor
+ tie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=326180.html
+CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000017272@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Roma Elastica
+DESCRIPTION:Drame · 1h47min\n\nDe Bertrand Mandico\n\nMarion Cotillard inc
+ arne une star de cinéma à bout de souffle épaulée par sa fidèle maqu
+ illeuse campée par Noémie Merlant devant la caméra de Bertrand Mandico
+  pour un hommage ébouriffant au Cinecitta des années 80.\n\nAlloCiné :
+  https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html\n\nSort
+ ie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-35360@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Soins et beauté
+DESCRIPTION:Drame · 43min\n\nDe Alejandra Rojo\n\nMum\, vieille réfugiée
+  latino-américaine au passé obscur\, tient une boutique de manucure ave
+ c l'aide de ses deux filles. Ce n'est que la partie visible de son travai
+ l\, l'arrière boutique étant le théâtre d'une étrange école clandes
+ tine...\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=3
+ 5360.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=35360.html
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000016431@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Solo Mamma
+DESCRIPTION:Drame · 1h40min\n\nDe Janicke Askevold\n\nÉdith\, journaliste
+  et mère célibataire\, voit son quotidien bouleversé lorsqu'elle déco
+ uvre l'identité du donneur à l'origine de la naissance de son fils : Ni
+ els\, créateur de jeux vidéo à succès. Troublée par les comportement
+ s de son enfant et ce qu'il pourrait avoir hérité\,…\n\nAlloCiné : h
+ ttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000016431.html\n\nSortie
+  officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016431.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000039482@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 The Education Of Jane Cumming
+DESCRIPTION:Drame · 1h54min\n\nDe Sophie Heldman\n\nÉdimbourg\, 1810. Deu
+ x enseignantes voient leur vie basculer lorsqu'une de leurs élèves les 
+ accuse d'entretenir une liaison amoureuse.\n\nAlloCiné : https://www.all
+ ocine.fr/film/fichefilm_gen_cfilm=1000039482.html\n\nSortie officielle au
+  cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039482.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000033365@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Un cœur fidèle
+DESCRIPTION:Drame · 1h39min\n\nDe Júlia De Paz Solvas\n\nUne adolescente 
+ part vivre chez sa grand-mère avec sa mère à la suite du divorce de se
+ s parents.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfil
+ m=1000033365.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-294374@realalion.github.io
+DTSTAMP:20261022T054313Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261022T054313Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Une famille de Singapour
+DESCRIPTION:Comédie dramatique · 2h37min\n\nDe Anthony Chen\n\nSingapour\
+ , aujourd’hui. Junyang\, 21 ans\, est amoureux d’une jeune fille timi
+ de et rêve sa vie sans accomplir grand-chose. Son père\, un veuf qui tr
+ availle dur pour les faire vivre\, courtise une femme exubérante. Ensemb
+ le\, les deux générations devront cohabiter et réinventer…\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html\n\nSor
+ tie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html
+CATEGORIES:Comédie dramatique
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

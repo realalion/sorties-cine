@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000004507-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Angry Birds - La grande envolée — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\n\nEn cette période 
+ de fêtes de fin d’année\, un Angry Bird va devoir relever son plus gr
+ and défi : survivre à la paternité… tout en sauvant le monde !\n\nht
+ tps://www.allocine.fr/film/fichefilm_gen_cfilm=1000004507.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004507.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

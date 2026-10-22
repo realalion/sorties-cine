@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039482-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 The Education Of Jane Cumming — sortie ciné
+DESCRIPTION:Drame · 1h54min\n\nÉdimbourg\, 1810. Deux enseignantes voient
+  leur vie basculer lorsqu'une de leurs élèves les accuse d'entretenir u
+ ne liaison amoureuse.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000039482.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039482.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

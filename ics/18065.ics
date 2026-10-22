@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-18065-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 La Beauté du monde — sortie ciné
+DESCRIPTION:Comédie dramatique · 53min\n\nA travers l'histoire de Suzanne
+ \, qui s'isole a la campagne\, mais supporte difficilement la solitude\, 
+ réflexion sur l’énigme de la vie et de la création.\n\nhttps://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=18065.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000017272-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Roma Elastica — sortie ciné
+DESCRIPTION:Drame · 1h47min\n\nMarion Cotillard incarne une star de ciném
+ a à bout de souffle épaulée par sa fidèle maquilleuse campée par No
+ émie Merlant devant la caméra de Bertrand Mandico pour un hommage ébou
+ riffant au Cinecitta des années 80.\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000017272.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

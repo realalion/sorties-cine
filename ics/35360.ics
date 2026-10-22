@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-35360-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Soins et beauté — sortie ciné
+DESCRIPTION:Drame · 43min\n\nMum\, vieille réfugiée latino-américaine a
+ u passé obscur\, tient une boutique de manucure avec l'aide de ses deux 
+ filles. Ce n'est que la partie visible de son travail\, l'arrière boutiq
+ ue étant le théâtre d'une étrange école clandestine...\n\nhttps://ww
+ w.allocine.fr/film/fichefilm_gen_cfilm=35360.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=35360.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

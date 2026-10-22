@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-309190-2026-12-16@realalion.github.io
-DTSTAMP:20261021T054336Z
+DTSTAMP:20261022T054313Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Six mois dans la maison rose et bleue — sortie ciné
-DESCRIPTION:Divers · 1h44min\n\nMexico\, début des années 90. Bruno gran
- dit dans une famille joyeuse et insouciante. Le jour de ses onze ans\, il
-  apprend que son père est malade. Trente ans plus tard\, Bruno filme. Il
-  cherche à se souvenir de ces six mois dans la maison rose et bleue de s
- on enfance.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=309190.ht
- ml
+DESCRIPTION:Drame · 1h44min\n\nMexico\, début des années 90. Bruno grand
+ it dans une famille joyeuse et insouciante. Le jour de ses onze ans\, il 
+ apprend que son père est malade. Trente ans plus tard\, Bruno filme. Il 
+ cherche à se souvenir de ces six mois dans la maison rose et bleue de so
+ n enfance.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=309190.htm
+ l
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=309190.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

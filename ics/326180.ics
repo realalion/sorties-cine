@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-326180-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Les Carnets d'Ozu — sortie ciné
+DESCRIPTION:Documentaire · 2h17min\n\nTokyo\, au début du XXe siècle. En
+ fant à la santé fragile et cinéphile précoce\, chéri par ses parents
+ \, le jeune Yasujiro Ozu entre à la Shochiku – à leur grande décepti
+ on – pour assouvir sa passion du cinéma en tournant des comédies muet
+ tes\, tout en façonnant un regard d’une…\n\nhttps://www.allocine.fr/
+ film/fichefilm_gen_cfilm=326180.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=326180.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

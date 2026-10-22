@@ -1,258 +1,12 @@
 {
-  "generatedAt": "2026-10-21T05:43:36+00:00",
+  "generatedAt": "2026-10-22T05:43:13+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
-  "from": "2026-10-21",
-  "to": "2026-12-16",
-  "count": 140,
+  "from": "2026-10-28",
+  "to": "2026-12-23",
+  "count": 137,
   "films": [
-    {
-      "id": "1000016901",
-      "title": "Clayface",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Drame",
-        "Epouvante-horreur",
-        "Thriller"
-      ],
-      "duration": "1h49min",
-      "synopsis": "Star hollywoodienne en pleine ascension, Matt Hagen se retrouve atrocement défiguré par un baron du crime. Il se tourne vers un traitement expérimental qui lui rend miraculeusement son apparence… mais altère profondément sa perception de la réalité.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
-      "directors": [
-        "James Watkins"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.html",
-      "color": "#fc0e00"
-    },
-    {
-      "id": "1000018384",
-      "title": "Karma",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Drame",
-        "Thriller"
-      ],
-      "duration": "2h20min",
-      "synopsis": "Dans un village au nord de l’Espagne, Jeanne tente de reconstruire sa vie avec Daniel, qui ne connaît rien de son passé trouble. Un jour, Mateo, le filleul de Jeanne âgé de six ans, disparaît mystérieusement… Afin d’échapper à la police qui la soupçonne rapidement, Jeanne se…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
-      "directors": [
-        "Guillaume Canet"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html",
-      "color": "#b55a46"
-    },
-    {
-      "id": "315883",
-      "title": "Klara et le soleil",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Comédie",
-        "Drame",
-        "Science Fiction"
-      ],
-      "duration": "1h56min",
-      "synopsis": "Klara est une Amie Artificielle qui ne souhaite qu’une chose : trouver le foyer idéal. Lorsque Klara rencontre Josie, chacune perçoit immédiatement chez l’autre une âme sœur.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1a/90/1a905b3bb5d95213775806d0b8b0b0fe.jpeg",
-      "directors": [
-        "Taika Waititi"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315883.html",
-      "color": "#ea9f28"
-    },
-    {
-      "id": "296642",
-      "title": "L'île des souvenirs",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Animation",
-        "Aventure",
-        "Comédie",
-        "Famille"
-      ],
-      "duration": "1h48min",
-      "synopsis": "Tandis qu’elles fêtent leur dernière soirée ensemble, deux meilleures amies tombent sur un portail mystérieux qui les emmène sur l’île fantastique de Nakali, peuplée de créatures féeriques et mythologiques, tout droit sorties des contes philippins de leur enfance.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
-      "directors": [
-        "Joel Crawford",
-        "Januel P. Mercado"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html",
-      "color": "#5e2eae"
-    },
-    {
-      "id": "318225",
-      "title": "La Gradiva",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Comédie",
-        "Drame"
-      ],
-      "duration": "2h25min",
-      "synopsis": "Un groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre, ils se laissent submerger par le désir et la colère jusqu’à s’y…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/23/a7/23a7c2106f6141b87e1381da3beaf635.jpg",
-      "directors": [
-        "Marine Atlan"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318225.html",
-      "color": "#a33f6f"
-    },
-    {
-      "id": "1000036109",
-      "title": "Le Printemps vint en riant",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h36min",
-      "synopsis": "Ce film est composé de cinq histoires courtes se déroulant au printemps, la saison la plus cruelle, qui libère les secrets, la colère, les chagrins et la férocité à chaque coup de feuille.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1f/24/1f246a70381c498abfd766c347a638f0.jpg",
-      "directors": [
-        "Noha Adel"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.html",
-      "color": "#ed8614"
-    },
-    {
-      "id": "1000030383",
-      "title": "Le Roi du Game",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Comédie"
-      ],
-      "duration": null,
-      "synopsis": "Alexandre est prêt à tout pour renouer avec sa fille. Quitte à infiltrer une équipe de bras cassés dans un univers de jeu médiéval-fantastique. Cette quête improbable pourrait bien le ramener à ses propres rêves oubliés...",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/21/11/211184243b4ab7c37127ace9ced2e939.jpg",
-      "directors": [
-        "Eric Judor"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030383.html",
-      "color": "#006f6f"
-    },
-    {
-      "id": "1000026766",
-      "title": "Les Recommencements",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h27min",
-      "synopsis": "Vétéran de la guerre du Vietnam, Al Moon vit en solitaire sur les terres de sa tribu, en Californie du Nord. À mesure que d’anciennes angoisses refont surface, Al n’a plus le choix : il doit prendre la route pour affronter ce qui le hante, et retrouver les hommes de son…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/c5/93/c593d18fc84cc17edb521a018bc4a4bf.jpg",
-      "directors": [
-        "Isabelle Ingold",
-        "Vivianne Perelmuter"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026766.html",
-      "color": "#a2511c"
-    },
-    {
-      "id": "1000043220",
-      "title": "Marie Madeleine",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Comédie dramatique"
-      ],
-      "duration": "1h44min",
-      "synopsis": "À Jacmel, en Haïti, la mer, les églises et les esprits façonnent la vie. Marie Madeleine est une femme libre. Elle vit de la prostitution et traverse les nuits sans se soumettre aux règles de ceux qui sauvent les âmes. Sa route croise celle de Joseph, un jeune évangéliste.…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/3c/93/3c933da5bda613a5d56df5eedc51278e.jpg",
-      "directors": [
-        "Gessica Généus"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043220.html",
-      "color": "#fd790d"
-    },
-    {
-      "id": "37179",
-      "title": "Nadja",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Comédie",
-        "Epouvante-horreur"
-      ],
-      "duration": "1h37min",
-      "synopsis": "Après la mort de son père, le comte Dracula, Nadja, jeune vampire désenchantée, erre à travers New York, espérant que cette disparition la libérera enfin du poids d’une existence éternelle. En chemin, elle fait la rencontre de Lucy, une jeune femme perdue et mélancolique.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/51/2d/512d696c77cbf0d310f68b488d3954ef.jpg",
-      "directors": [
-        "Michael Almereyda"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html",
-      "color": "#f60402"
-    },
-    {
-      "id": "13069",
-      "title": "Peking Opera Blues",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Action",
-        "Comédie",
-        "Romance"
-      ],
-      "duration": "1h45min",
-      "synopsis": "Peu de temps après l’instauration de la République de Chine, le pays est soumis à un contrôle militaire, et disputé par différents groupes. Tsao Wan est la fille d’un seigneur de guerre, mais elle appartient secrètement à un groupe de révolutionnaires.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/4d/06/4d062448985180822f2f296ea6f9f68a.jpg",
-      "directors": [
-        "Tsui Hark"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=13069.html",
-      "color": "#d62f49"
-    },
-    {
-      "id": "1000024131",
-      "title": "Shaun le Mouton : La Bêêête d'Halloween",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Animation",
-        "Aventure",
-        "Comédie",
-        "Famille"
-      ],
-      "duration": "1h20min",
-      "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
-      "directors": [
-        "Steve Cox",
-        "Matthew Walker"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024131.html",
-      "color": "#ff8f00"
-    },
-    {
-      "id": "1000026725",
-      "title": "Une femme aujourd’hui",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Comédie dramatique"
-      ],
-      "duration": null,
-      "synopsis": "Juliette, 30 ans, semble avoir tout pour elle : un poste prestigieux dans la finance, une belle maison, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/92/7f/927fd5891c142dc643f5851ba85d8393.jpg",
-      "directors": [
-        "Robert Guédiguian"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026725.html",
-      "color": "#187690"
-    },
-    {
-      "id": "322884",
-      "title": "Wicker",
-      "releaseDate": "2026-10-21",
-      "genres": [
-        "Comédie",
-        "Drame",
-        "Fantastique",
-        "Romance"
-      ],
-      "duration": "1h45min",
-      "synopsis": "Mise au ban de son village, une pêcheuse solitaire commande au vannier local un mari en osier. Cet époux improbable se révèle doté d’une sensibilité et de talents qui dépassent toutes ses attentes. À son contact, elle découvre un désir insoupçonné et s’éprend véritablement de…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/ab/60/ab608b1c170d26c4f05010e93cdcb0ac.jpg",
-      "directors": [
-        "Alex Huston Fischer",
-        "Eleanor Wilson"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=322884.html",
-      "color": "#326b6d"
-    },
     {
       "id": "1000051317",
       "title": "Ardèche",
@@ -1272,10 +1026,9 @@
       "title": "Malika",
       "releaseDate": "2026-11-18",
       "genres": [
-        "Biopic",
-        "Drame"
+        "Biopic"
       ],
-      "duration": null,
+      "duration": "1h26min",
       "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : d’un bidonville de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux : devenir…",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/40/75/40755e7f3312dc2311b37a66bc94fe81.jpg",
       "directors": [
@@ -1294,7 +1047,9 @@
       "duration": "2h24min",
       "synopsis": "Meeting The Buddha est un documentaire sur la vie de Rangjung Rigpé Dorjé (XVIe Karmapa) et de son élève Ole Nydahl devenu lama, ayant perpétué la transmission vivante de la lignée Karma Kagyu et la création de 600 centres bouddhistes tibétains en occident.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [],
+      "directors": [
+        "Marta György-Kessler"
+      ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html",
       "color": "#e0e0e0"
     },
@@ -1355,12 +1110,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "Lettonie, 1964. Ulya, une adolescente mesurant près de deux mètres, grandit dans une ferme isolée. Sa taille hors norme inquiète sa famille. Elle est envoyée à Riga pour intégrer une équipe renommée de basket-ball. Confrontée à sa taille et à des questionnements sur son…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/75/a6/75a63720f83664fb2c8d3e6378cc1254.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/a6/15/a615219c778a4c61d3cd95a7fb4f2271.jpg",
       "directors": [
         "Viesturs Kairiss"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028480.html",
-      "color": "#bc5053"
+      "color": "#bd4d4e"
     },
     {
       "id": "1000028451",
@@ -2292,7 +2047,7 @@
         "Documentaire"
       ],
       "duration": null,
-      "synopsis": "Sylvain est un agriculteur qui considère le bio comme un retour en arrière. En s’immergeant dans son quotidien, celui d’un homme confronté aux transformations de son métier, aux contraintes économiques, le film cherche à comprendre ce qui le guide dans sa pratique, comme ses…",
+      "synopsis": "Sylvain est un agriculteur qui considère le bio comme un retour en arrière.En nous immergeant dans son quotidien, celui d’un homme confronté aux transformations de son métier, le film cherche à le comprendre.Il raconte non sans poésie la complexité et les contradictions du…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/63/4c/634c5b95768e69016fdf52008e9352d1.jpg",
       "directors": [
         "Coco Tassel"
@@ -2340,7 +2095,7 @@
       "title": "Six mois dans la maison rose et bleue",
       "releaseDate": "2026-12-16",
       "genres": [
-        "Divers"
+        "Drame"
       ],
       "duration": "1h44min",
       "synopsis": "Mexico, début des années 90. Bruno grandit dans une famille joyeuse et insouciante. Le jour de ses onze ans, il apprend que son père est malade. Trente ans plus tard, Bruno filme. Il cherche à se souvenir de ces six mois dans la maison rose et bleue de son enfance.",
@@ -2350,6 +2105,187 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=309190.html",
       "color": "#716843"
+    },
+    {
+      "id": "1000004507",
+      "title": "Angry Birds - La grande envolée",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Comédie",
+        "Famille"
+      ],
+      "duration": null,
+      "synopsis": "En cette période de fêtes de fin d’année, un Angry Bird va devoir relever son plus grand défi : survivre à la paternité… tout en sauvant le monde !",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/a9/97/a997c76544a3d83bfdb4a59cdd4db7d9.jpg",
+      "directors": [
+        "John Rice"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004507.html",
+      "color": "#ff7100"
+    },
+    {
+      "id": "1000002678",
+      "title": "I Play Rocky",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Biopic"
+      ],
+      "duration": "2h08min",
+      "synopsis": "L'incroyable histoire vraie d'un acteur inconnu, animé par une conviction inébranlable : il n'était pas seulement destiné à écrire Rocky, il était destiné à être Rocky Balboa.",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/d7/4d/d74d169d42564055bbcb94bfc61f14e3.jpg",
+      "directors": [
+        "Peter Farrelly"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002678.html",
+      "color": "#50515a"
+    },
+    {
+      "id": "274111",
+      "title": "Jumanji : Bienvenue dans notre monde",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ],
+      "duration": null,
+      "synopsis": "Nos héros pensaient avoir définitivement laissés derrière eux les jungles imprévisibles de Jumanji. Mais le jeu a évolué : il s'affranchit désormais de sa console pour envahir le monde réel, semant le chaos sur son passage.",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/8f/d2/8fd2d54639fd2a862bd73520a13f4070.jpg",
+      "directors": [
+        "Jake Kasdan"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html",
+      "color": "#8b3e43"
+    },
+    {
+      "id": "18065",
+      "title": "La Beauté du monde",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "duration": "53min",
+      "synopsis": "A travers l'histoire de Suzanne, qui s'isole a la campagne, mais supporte difficilement la solitude, réflexion sur l’énigme de la vie et de la création.",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/medias/nmedia/images/affiches/041709.jpg",
+      "directors": [
+        "Yves Caumon"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.html",
+      "color": "#4e7125"
+    },
+    {
+      "id": "326180",
+      "title": "Les Carnets d'Ozu",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "2h17min",
+      "synopsis": "Tokyo, au début du XXe siècle. Enfant à la santé fragile et cinéphile précoce, chéri par ses parents, le jeune Yasujiro Ozu entre à la Shochiku – à leur grande déception – pour assouvir sa passion du cinéma en tournant des comédies muettes, tout en façonnant un regard d’une…",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/3d/b1/3db17f875ea90c6b70275ce976dd5b57.jpg",
+      "directors": [
+        "Daniel Raim"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326180.html",
+      "color": "#847d7a"
+    },
+    {
+      "id": "1000017272",
+      "title": "Roma Elastica",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h47min",
+      "synopsis": "Marion Cotillard incarne une star de cinéma à bout de souffle épaulée par sa fidèle maquilleuse campée par Noémie Merlant devant la caméra de Bertrand Mandico pour un hommage ébouriffant au Cinecitta des années 80.",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/c5/c3/c5c35409692391f96b55ee12aabd921f.jpg",
+      "directors": [
+        "Bertrand Mandico"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html",
+      "color": "#74690a"
+    },
+    {
+      "id": "35360",
+      "title": "Soins et beauté",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "43min",
+      "synopsis": "Mum, vieille réfugiée latino-américaine au passé obscur, tient une boutique de manucure avec l'aide de ses deux filles. Ce n'est que la partie visible de son travail, l'arrière boutique étant le théâtre d'une étrange école clandestine...",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Alejandra Rojo"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=35360.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "1000016431",
+      "title": "Solo Mamma",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h40min",
+      "synopsis": "Édith, journaliste et mère célibataire, voit son quotidien bouleversé lorsqu'elle découvre l'identité du donneur à l'origine de la naissance de son fils : Niels, créateur de jeux vidéo à succès. Troublée par les comportements de son enfant et ce qu'il pourrait avoir hérité,…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/07/1e/071e454af592be40e369a03f2b2bd0e3.jpg",
+      "directors": [
+        "Janicke Askevold"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016431.html",
+      "color": "#c35e4b"
+    },
+    {
+      "id": "1000039482",
+      "title": "The Education Of Jane Cumming",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h54min",
+      "synopsis": "Édimbourg, 1810. Deux enseignantes voient leur vie basculer lorsqu'une de leurs élèves les accuse d'entretenir une liaison amoureuse.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/fa/74/fa74a414819f062d47a7e4557351ce0f.jpg",
+      "directors": [
+        "Sophie Heldman"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039482.html",
+      "color": "#71475a"
+    },
+    {
+      "id": "1000033365",
+      "title": "Un cœur fidèle",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h39min",
+      "synopsis": "Une adolescente part vivre chez sa grand-mère avec sa mère à la suite du divorce de ses parents.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Júlia De Paz Solvas"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "294374",
+      "title": "Une famille de Singapour",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "duration": "2h37min",
+      "synopsis": "Singapour, aujourd’hui. Junyang, 21 ans, est amoureux d’une jeune fille timide et rêve sa vie sans accomplir grand-chose. Son père, un veuf qui travaille dur pour les faire vivre, courtise une femme exubérante. Ensemble, les deux générations devront cohabiter et réinventer…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/50/d6/50d69c8413c032b690454fca5aa236e6.jpg",
+      "directors": [
+        "Anthony Chen"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html",
+      "color": "#25a9b4"
     }
   ]
 }

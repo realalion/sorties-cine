@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000016431-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Solo Mamma — sortie ciné
+DESCRIPTION:Drame · 1h40min\n\nÉdith\, journaliste et mère célibataire\
+ , voit son quotidien bouleversé lorsqu'elle découvre l'identité du don
+ neur à l'origine de la naissance de son fils : Niels\, créateur de jeux
+  vidéo à succès. Troublée par les comportements de son enfant et ce q
+ u'il pourrait avoir hérité\,…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000016431.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016431.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

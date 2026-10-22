@@ -20,6 +20,26 @@
    },
    "inFeed": true
   },
+  "1000002678": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "I Play Rocky",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Biopic"
+    ],
+    "duration": "2h08min",
+    "directors": [
+     "Peter Farrelly"
+    ],
+    "cast": [],
+    "synopsis": "L'incroyable histoire vraie d'un acteur inconnu, animé par une conviction inébranlable : il n'était pas seulement destiné à écrire Rocky, il était destiné à être Rocky Balboa.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002678.html"
+   },
+   "inFeed": true
+  },
   "1000003266": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -57,6 +77,29 @@
     "cast": [],
     "synopsis": "Le jour de son départ à la retraite, Émile, professeur de lettres à Dieppe, donne à ses jeunes élèves un dernier cours sur la littérature et l’amour, les encourageant à devenir les poètes de leurs propres existences. Une fois rentré chez lui, Émile découvre que sa femme l’a…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html"
+   },
+   "inFeed": true
+  },
+  "1000004507": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Angry Birds - La grande envolée",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Animation",
+     "Aventure",
+     "Comédie",
+     "Famille"
+    ],
+    "duration": null,
+    "directors": [
+     "John Rice"
+    ],
+    "cast": [],
+    "synopsis": "En cette période de fêtes de fin d’année, un Angry Bird va devoir relever son plus grand défi : survivre à la paternité… tout en sauvant le monde !",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004507.html"
    },
    "inFeed": true
   },
@@ -372,6 +415,26 @@
    },
    "inFeed": true
   },
+  "1000016431": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Solo Mamma",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h40min",
+    "directors": [
+     "Janicke Askevold"
+    ],
+    "cast": [],
+    "synopsis": "Édith, journaliste et mère célibataire, voit son quotidien bouleversé lorsqu'elle découvre l'identité du donneur à l'origine de la naissance de son fils : Niels, créateur de jeux vidéo à succès. Troublée par les comportements de son enfant et ce qu'il pourrait avoir hérité,…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016431.html"
+   },
+   "inFeed": true
+  },
   "1000016814": {
    "created": "20261008T064216Z",
    "modified": "20261014T054257Z",
@@ -433,6 +496,26 @@
     "cast": [],
     "synopsis": "Le jeune soldat Pierre veut faire ses preuves sur le front pendant la Première Guerre mondiale. Derrière les lignes, il rencontre Francis, chargé de remonter le moral des troupes.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html"
+   },
+   "inFeed": true
+  },
+  "1000017272": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Roma Elastica",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h47min",
+    "directors": [
+     "Bertrand Mandico"
+    ],
+    "cast": [],
+    "synopsis": "Marion Cotillard incarne une star de cinéma à bout de souffle épaulée par sa fidèle maquilleuse campée par Noémie Merlant devant la caméra de Bertrand Mandico pour un hommage ébouriffant au Cinecitta des années 80.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html"
    },
    "inFeed": true
   },
@@ -498,16 +581,15 @@
   },
   "1000018671": {
    "created": "20261008T064216Z",
-   "modified": "20261017T054101Z",
+   "modified": "20261022T054313Z",
    "sequence": 0,
    "fields": {
     "title": "Malika",
     "releaseDate": "2026-11-18",
     "genres": [
-     "Biopic",
-     "Drame"
+     "Biopic"
     ],
-    "duration": null,
+    "duration": "1h26min",
     "directors": [
      "Mounia Meddour"
     ],
@@ -1435,6 +1517,26 @@
    },
    "inFeed": true
   },
+  "1000033365": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Un cœur fidèle",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h39min",
+    "directors": [
+     "Júlia De Paz Solvas"
+    ],
+    "cast": [],
+    "synopsis": "Une adolescente part vivre chez sa grand-mère avec sa mère à la suite du divorce de ses parents.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html"
+   },
+   "inFeed": true
+  },
   "1000033620": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -1811,6 +1913,26 @@
    },
    "inFeed": true
   },
+  "1000039482": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "The Education Of Jane Cumming",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h54min",
+    "directors": [
+     "Sophie Heldman"
+    ],
+    "cast": [],
+    "synopsis": "Édimbourg, 1810. Deux enseignantes voient leur vie basculer lorsqu'une de leurs élèves les accuse d'entretenir une liaison amoureuse.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039482.html"
+   },
+   "inFeed": true
+  },
   "1000039483": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -1873,7 +1995,7 @@
   },
   "1000040428": {
    "created": "20261021T054336Z",
-   "modified": "20261021T054336Z",
+   "modified": "20261022T054313Z",
    "sequence": 0,
    "fields": {
     "title": "Meeting The Buddha",
@@ -1882,7 +2004,9 @@
      "Documentaire"
     ],
     "duration": "2h24min",
-    "directors": [],
+    "directors": [
+     "Marta György-Kessler"
+    ],
     "cast": [],
     "synopsis": "Meeting The Buddha est un documentaire sur la vie de Rangjung Rigpé Dorjé (XVIe Karmapa) et de son élève Ole Nydahl devenu lama, ayant perpétué la transmission vivante de la lignée Karma Kagyu et la création de 600 centres bouddhistes tibétains en occident.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html"
@@ -2596,7 +2720,7 @@
   },
   "1000053016": {
    "created": "20261015T054330Z",
-   "modified": "20261015T054330Z",
+   "modified": "20261022T054313Z",
    "sequence": 0,
    "fields": {
     "title": "Là où l'herbe est plus verte",
@@ -2609,7 +2733,7 @@
      "Coco Tassel"
     ],
     "cast": [],
-    "synopsis": "Sylvain est un agriculteur qui considère le bio comme un retour en arrière. En s’immergeant dans son quotidien, celui d’un homme confronté aux transformations de son métier, aux contraintes économiques, le film cherche à comprendre ce qui le guide dans sa pratique, comme ses…",
+    "synopsis": "Sylvain est un agriculteur qui considère le bio comme un retour en arrière.En nous immergeant dans son quotidien, celui d’un homme confronté aux transformations de son métier, le film cherche à le comprendre.Il raconte non sans poésie la complexité et les contradictions du…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053016.html"
    },
    "inFeed": true
@@ -2653,6 +2777,26 @@
     "cast": [],
     "synopsis": "Peu de temps après l’instauration de la République de Chine, le pays est soumis à un contrôle militaire, et disputé par différents groupes. Tsao Wan est la fille d’un seigneur de guerre, mais elle appartient secrètement à un groupe de révolutionnaires.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=13069.html"
+   },
+   "inFeed": true
+  },
+  "18065": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "La Beauté du monde",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Comédie dramatique"
+    ],
+    "duration": "53min",
+    "directors": [
+     "Yves Caumon"
+    ],
+    "cast": [],
+    "synopsis": "A travers l'histoire de Suzanne, qui s'isole a la campagne, mais supporte difficilement la solitude, réflexion sur l’énigme de la vie et de la création.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.html"
    },
    "inFeed": true
   },
@@ -2721,6 +2865,28 @@
    },
    "inFeed": true
   },
+  "274111": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Jumanji : Bienvenue dans notre monde",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Action",
+     "Aventure",
+     "Comédie"
+    ],
+    "duration": null,
+    "directors": [
+     "Jake Kasdan"
+    ],
+    "cast": [],
+    "synopsis": "Nos héros pensaient avoir définitivement laissés derrière eux les jungles imprévisibles de Jumanji. Mais le jeu a évolué : il s'affranchit désormais de sa console pour envahir le monde réel, semant le chaos sur son passage.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html"
+   },
+   "inFeed": true
+  },
   "275256": {
    "created": "20261015T054330Z",
    "modified": "20261015T054330Z",
@@ -2762,6 +2928,26 @@
     "cast": [],
     "synopsis": "Marina de Van bataille avec ses relations sentimentales, sa propre image et sa nudité à une époque où les applis de rencontres et les échanges en ligne sont légion…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=281367.html"
+   },
+   "inFeed": true
+  },
+  "294374": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Une famille de Singapour",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Comédie dramatique"
+    ],
+    "duration": "2h37min",
+    "directors": [
+     "Anthony Chen"
+    ],
+    "cast": [],
+    "synopsis": "Singapour, aujourd’hui. Junyang, 21 ans, est amoureux d’une jeune fille timide et rêve sa vie sans accomplir grand-chose. Son père, un veuf qui travaille dur pour les faire vivre, courtise une femme exubérante. Ensemble, les deux générations devront cohabiter et réinventer…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html"
    },
    "inFeed": true
   },
@@ -2914,13 +3100,13 @@
   },
   "309190": {
    "created": "20261015T054330Z",
-   "modified": "20261015T054330Z",
+   "modified": "20261022T054313Z",
    "sequence": 0,
    "fields": {
     "title": "Six mois dans la maison rose et bleue",
     "releaseDate": "2026-12-16",
     "genres": [
-     "Divers"
+     "Drame"
     ],
     "duration": "1h44min",
     "directors": [
@@ -3362,6 +3548,26 @@
    },
    "inFeed": true
   },
+  "326180": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Les Carnets d'Ozu",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "2h17min",
+    "directors": [
+     "Daniel Raim"
+    ],
+    "cast": [],
+    "synopsis": "Tokyo, au début du XXe siècle. Enfant à la santé fragile et cinéphile précoce, chéri par ses parents, le jeune Yasujiro Ozu entre à la Shochiku – à leur grande déception – pour assouvir sa passion du cinéma en tournant des comédies muettes, tout en façonnant un regard d’une…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326180.html"
+   },
+   "inFeed": true
+  },
   "327394": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -3400,6 +3606,26 @@
     "cast": [],
     "synopsis": "Tommy, jeune délinquant insouciant et impulsif naviguant entre fêtes alcoolisées et violences incontrôlables, se réveille un matin enchaîné dans la cave d’une maison. Il est à la merci de ses occupants, une étrange famille qui s’est donnée pour mission de le remettre dans le…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328439.html"
+   },
+   "inFeed": true
+  },
+  "35360": {
+   "created": "20261022T054313Z",
+   "modified": "20261022T054313Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Soins et beauté",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "43min",
+    "directors": [
+     "Alejandra Rojo"
+    ],
+    "cast": [],
+    "synopsis": "Mum, vieille réfugiée latino-américaine au passé obscur, tient une boutique de manucure avec l'aide de ses deux filles. Ce n'est que la partie visible de son travail, l'arrière boutique étant le théâtre d'une étrange école clandestine...",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=35360.html"
    },
    "inFeed": true
   },

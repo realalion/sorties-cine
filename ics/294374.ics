@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-294374-2026-12-23@realalion.github.io
+DTSTAMP:20261022T054313Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Une famille de Singapour — sortie ciné
+DESCRIPTION:Comédie dramatique · 2h37min\n\nSingapour\, aujourd’hui. Ju
+ nyang\, 21 ans\, est amoureux d’une jeune fille timide et rêve sa vie 
+ sans accomplir grand-chose. Son père\, un veuf qui travaille dur pour le
+ s faire vivre\, courtise une femme exubérante. Ensemble\, les deux gén
+ érations devront cohabiter et réinventer…\n\nhttps://www.allocine.fr/
+ film/fichefilm_gen_cfilm=294374.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
