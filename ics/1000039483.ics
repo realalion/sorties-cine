@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000039483-2026-11-11@realalion.github.io
-DTSTAMP:20261022T054313Z
+DTSTAMP:20261023T054335Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 Il faut brûler Maman — sortie ciné
-DESCRIPTION:Comédie\n\nDans une famille de croque-morts\, deux sœurs et u
- n frère se retrouvent pour les funérailles de leur mère. Le personnel 
- étant en grève\, ils doivent accomplir le protocole funéraire par eux-
- mêmes. Comment s’accorder pour brûler Maman ?\n\nhttps://www.allocine
- .fr/film/fichefilm_gen_cfilm=1000039483.html
+DESCRIPTION:Comédie · 1h21min\n\nDans une famille de croque-morts\, deux 
+ sœurs et un frère se retrouvent pour les funérailles de leur mère. Le
+  personnel étant en grève\, ils doivent accomplir le protocole funérai
+ re par eux-mêmes. Comment s’accorder pour brûler Maman ?\n\nhttps://w
+ ww.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

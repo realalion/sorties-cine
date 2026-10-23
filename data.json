@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:43:13+00:00",
+  "generatedAt": "2026-10-23T05:43:34+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -691,7 +691,7 @@
       "genres": [
         "Comédie"
       ],
-      "duration": null,
+      "duration": "1h21min",
       "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
       "directors": [
@@ -1029,7 +1029,7 @@
         "Biopic"
       ],
       "duration": "1h26min",
-      "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : d’un bidonville de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux : devenir…",
+      "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : du bidonville de Nanterre jusqu’aux plus grandes scènes de l’Opéra. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux…",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/40/75/40755e7f3312dc2311b37a66bc94fe81.jpg",
       "directors": [
         "Mounia Meddour"
@@ -1417,12 +1417,12 @@
       ],
       "duration": "1h28min",
       "synopsis": "Le destin de deux sœurs experte de la fabrication d’une bière ancestrale de Finlande. Leur autre sœur se marie et leur demande de faire 100 litres de bières pour son mariage. Mais les deux brasseuses boivent les 100 litres et se réveillent avec une terrible gueule de bois et…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/b8/2d/b82d2df60263b9c7e140806505f7bd9d.jpg",
       "directors": [
         "Teemu Nikki"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012542.html",
-      "color": "#e0e0e0"
+      "color": "#edab3d"
     },
     {
       "id": "327394",
@@ -1584,12 +1584,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Boca Chica, Texas. Ce hameau vit au rythme du bruit des vagues. Mais des changements irréversibles bouleversent cette contrée sauvage. L’ombre qui se profile au-dessus de la plage est celle de la fusée de 50 étages de SpaceX, d’Elon Musk, en attente d’être lancée dans…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/04/28/04289891948023bbdf6ba4a8b5483743.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/44/fd/44fdb2229ec5e21f1481da3dfa2519a2.jpg",
       "directors": [
         "Julien Elie"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026311.html",
-      "color": "#868991"
+      "color": "#8c8c8c"
     },
     {
       "id": "1000044336",
@@ -1929,7 +1929,7 @@
         "Famille",
         "Fantastique"
       ],
-      "duration": "2h12min",
+      "duration": "2h10min",
       "synopsis": "Prue, une jeune fille courageuse, part à la recherche de son petit frère, enlevé et retenu dans la forêt interdite peuplée de créatures enchantées, d’alliés inattendus et d’adversaires redoutables. Ce qui débute comme une quête intime se transforme rapidement en une aventure…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/eb/7b/eb7bc0115e792026f287c2f9bbc08faf.jpg",
       "directors": [

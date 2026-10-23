@@ -581,7 +581,7 @@
   },
   "1000018671": {
    "created": "20261008T064216Z",
-   "modified": "20261022T054313Z",
+   "modified": "20261023T054335Z",
    "sequence": 0,
    "fields": {
     "title": "Malika",
@@ -594,7 +594,7 @@
      "Mounia Meddour"
     ],
     "cast": [],
-    "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : d’un bidonville de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux : devenir…",
+    "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : du bidonville de Nanterre jusqu’aux plus grandes scènes de l’Opéra. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html"
    },
    "inFeed": true
@@ -1935,7 +1935,7 @@
   },
   "1000039483": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261023T054335Z",
    "sequence": 0,
    "fields": {
     "title": "Il faut brûler Maman",
@@ -1943,7 +1943,7 @@
     "genres": [
      "Comédie"
     ],
-    "duration": null,
+    "duration": "1h21min",
     "directors": [
      "Albert Dupontel"
     ],
@@ -2971,7 +2971,7 @@
   },
   "296439": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261023T054335Z",
    "sequence": 0,
    "fields": {
     "title": "Wildwood la prophétie de la forêt",
@@ -2982,7 +2982,7 @@
      "Famille",
      "Fantastique"
     ],
-    "duration": "2h12min",
+    "duration": "2h10min",
     "directors": [
      "Travis Knight"
     ],

@@ -1519,19 +1519,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000039483@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261023T054335Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261023T054335Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 Il faut brûler Maman
-DESCRIPTION:Comédie\n\nDe Albert Dupontel\n\nDans une famille de croque-mo
- rts\, deux sœurs et un frère se retrouvent pour les funérailles de leu
- r mère. Le personnel étant en grève\, ils doivent accomplir le protoco
- le funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?\n
- \nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483
- .html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Comédie · 1h21min\n\nDe Albert Dupontel\n\nDans une famille d
+ e croque-morts\, deux sœurs et un frère se retrouvent pour les funérai
+ lles de leur mère. Le personnel étant en grève\, ils doivent accomplir
+  le protocole funéraire par eux-mêmes. Comment s’accorder pour brûle
+ r Maman ?\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000039483.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.h
  tml
 CATEGORIES:Comédie
@@ -1936,20 +1936,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000018671@realalion.github.io
-DTSTAMP:20261022T054313Z
+DTSTAMP:20261023T054335Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261022T054313Z
+LAST-MODIFIED:20261023T054335Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Malika
 DESCRIPTION:Biopic · 1h26min\n\nDe Mounia Meddour\n\nL’incroyable histoi
- re vraie de Malika Bellaribi\, la « diva des banlieues » : d’un bidon
- ville de Nanterre jusqu’au Théâtre du Châtelet. Victime d’un grave
-  accident à l’enfance\, confrontée aux discriminations et à un drame
-  intime\, elle s’accroche à son rêve ambitieux : devenir…\n\nAlloCi
- né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html\n\
- nSortie officielle au cinéma en France.
+ re vraie de Malika Bellaribi\, la « diva des banlieues » : du bidonvill
+ e de Nanterre jusqu’aux plus grandes scènes de l’Opéra. Victime d
+ ’un grave accident à l’enfance\, confrontée aux discriminations et 
+ à un drame intime\, elle s’accroche à son rêve ambitieux…\n\nAlloC
+ iné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html\n
+ \nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.h
  tml
 CATEGORIES:Biopic
@@ -3092,14 +3092,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-296439@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261023T054335Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261023T054335Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 Wildwood la prophétie de la forêt
-DESCRIPTION:Animation\, Aventure\, Famille\, Fantastique · 2h12min\n\nDe T
+DESCRIPTION:Animation\, Aventure\, Famille\, Fantastique · 2h10min\n\nDe T
  ravis Knight\n\nPrue\, une jeune fille courageuse\, part à la recherche 
  de son petit frère\, enlevé et retenu dans la forêt interdite peuplée
   de créatures enchantées\, d’alliés inattendus et d’adversaires re
