@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:43:34+00:00",
+  "generatedAt": "2026-10-24T05:43:43+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -84,7 +84,7 @@
         "Romance"
       ],
       "duration": "2h14min",
-      "synopsis": "Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris. Alors qu’elle répète l'Orpheus, un opéra maudit qui aurait été composé par le Fantôme de l'Opéra, elle tombe amoureuse d'un mystérieux pianiste. A l’approche de la première…",
+      "synopsis": "Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris. Alors qu’elle répète l'Orpheus, un opéra maudit qui aurait été composé par le Fantôme de l'Opéra, elle tombe amoureuse d'un mystérieux pianiste.",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "directors": [
         "Alexandre Castagnetti"
@@ -1248,12 +1248,12 @@
       ],
       "duration": null,
       "synopsis": "Sacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraîné depuis toujours par son père, ils rêvent ensemble de décrocher leur premier grand titre à Paris. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sacha devra faire face à un autre défi :…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/fb/17/fb17a27e5a8a96636829883fb0fd6b1c.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/11/a6/11a6a85afebfcb2a1afc709b8fb52794.jpg",
       "directors": [
         "Pierre-Ange Carlotti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html",
-      "color": "#8b4a2a"
+      "color": "#00a4f4"
     },
     {
       "id": "1000052290",
@@ -1566,7 +1566,7 @@
         "Drame",
         "Thriller"
       ],
-      "duration": null,
+      "duration": "1h35min",
       "synopsis": "Lièvre pour un champion de course de fond qui ne cesse de l’humilier, Ian se lance dans une course clandestine où des centaines de participants courent jusqu’à l’épuisement. À la clé, une somme qui pourrait changer la vie de sa famille. Dans un jeu où s’arrêter mène à la…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/be/a8/bea8dcc0e123da343924bfd28fdc48aa.jpg",
       "directors": [
@@ -1863,12 +1863,12 @@
       ],
       "duration": "1h43min",
       "synopsis": "La vidéo virale d’une artiste bulgare de 8 ans, prodige de la peinture, circule sur Internet. Ce phénomène attire l’attention d’un collectionneur. Mihail sera dépêché sur place pour évaluer la valeur de la production de la jeune fille. Il devra retourner pour la première fois…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/44/75/44755bef3beda54d74988e52bb4bfdc3.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/25/6c/256c2443d87a7b9e0444cc7bbc757aac.jpg",
       "directors": [
         "Geneviève Dulude-De Celles"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012486.html",
-      "color": "#a45831"
+      "color": "#b24f32"
     },
     {
       "id": "1000046828",
@@ -2263,7 +2263,7 @@
         "Drame"
       ],
       "duration": "1h39min",
-      "synopsis": "Une adolescente part vivre chez sa grand-mère avec sa mère à la suite du divorce de ses parents.",
+      "synopsis": "Depuis qu’une ordonnance d’éloignement a été prononcée contre son père, Carmela, 12 ans, ne peut le voir que dans un centre de médiation sociale, sous surveillance. Lui qu’elle adore, voire l’idolâtre, est accusé de violences contre sa mère qui a demandé le divorce. Prise…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
       "directors": [
         "Júlia De Paz Solvas"

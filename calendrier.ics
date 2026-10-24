@@ -739,9 +739,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000019622@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261024T054343Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261024T054343Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
@@ -750,9 +750,9 @@ DESCRIPTION:Drame\, Fantastique\, Romance · 2h14min\n\nDe Alexandre Castag
  netti\n\nDans le Paris d'aujourd'hui\, Anastasia\, jeune danseuse\, intè
  gre le prestigieux Opéra de Paris. Alors qu’elle répète l'Orpheus\, 
  un opéra maudit qui aurait été composé par le Fantôme de l'Opéra\, 
- elle tombe amoureuse d'un mystérieux pianiste. A l’approche de la prem
- ière…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=
- 1000019622.html\n\nSortie officielle au cinéma en France.
+ elle tombe amoureuse d'un mystérieux pianiste.\n\nAlloCiné : https://ww
+ w.allocine.fr/film/fichefilm_gen_cfilm=1000019622.html\n\nSortie officiel
+ le au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019622.h
  tml
 CATEGORIES:Drame,Fantastique,Romance
@@ -2624,20 +2624,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000014166@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261024T054343Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261024T054343Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Le Lièvre
-DESCRIPTION:Drame\, Thriller\n\nDe Gonzague Legout\n\nLièvre pour un champ
- ion de course de fond qui ne cesse de l’humilier\, Ian se lance dans un
- e course clandestine où des centaines de participants courent jusqu’à
-  l’épuisement. À la clé\, une somme qui pourrait changer la vie de s
- a famille. Dans un jeu où s’arrêter mène à la…\n\nAlloCiné : htt
- ps://www.allocine.fr/film/fichefilm_gen_cfilm=1000014166.html\n\nSortie o
- fficielle au cinéma en France.
+DESCRIPTION:Drame\, Thriller · 1h35min\n\nDe Gonzague Legout\n\nLièvre po
+ ur un champion de course de fond qui ne cesse de l’humilier\, Ian se la
+ nce dans une course clandestine où des centaines de participants courent
+  jusqu’à l’épuisement. À la clé\, une somme qui pourrait changer 
+ la vie de sa famille. Dans un jeu où s’arrêter mène à la…\n\nAllo
+ Ciné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014166.html\
+ n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014166.h
  tml
 CATEGORIES:Drame,Thriller
@@ -3503,17 +3503,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000033365@realalion.github.io
-DTSTAMP:20261022T054313Z
+DTSTAMP:20261024T054343Z
 CREATED:20261022T054313Z
-LAST-MODIFIED:20261022T054313Z
+LAST-MODIFIED:20261024T054343Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 Un cœur fidèle
-DESCRIPTION:Drame · 1h39min\n\nDe Júlia De Paz Solvas\n\nUne adolescente 
- part vivre chez sa grand-mère avec sa mère à la suite du divorce de se
- s parents.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfil
- m=1000033365.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Drame · 1h39min\n\nDe Júlia De Paz Solvas\n\nDepuis qu’une 
+ ordonnance d’éloignement a été prononcée contre son père\, Carmela
+ \, 12 ans\, ne peut le voir que dans un centre de médiation sociale\, so
+ us surveillance. Lui qu’elle adore\, voire l’idolâtre\, est accusé 
+ de violences contre sa mère qui a demandé le divorce. Prise…\n\nAlloC
+ iné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html\n
+ \nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.h
  tml
 CATEGORIES:Drame

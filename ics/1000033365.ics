@@ -5,13 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000033365-2026-12-23@realalion.github.io
-DTSTAMP:20261023T054335Z
+DTSTAMP:20261024T054343Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 Un cœur fidèle — sortie ciné
-DESCRIPTION:Drame · 1h39min\n\nUne adolescente part vivre chez sa grand-m
- ère avec sa mère à la suite du divorce de ses parents.\n\nhttps://www.
- allocine.fr/film/fichefilm_gen_cfilm=1000033365.html
+DESCRIPTION:Drame · 1h39min\n\nDepuis qu’une ordonnance d’éloignement
+  a été prononcée contre son père\, Carmela\, 12 ans\, ne peut le voir
+  que dans un centre de médiation sociale\, sous surveillance. Lui qu’e
+ lle adore\, voire l’idolâtre\, est accusé de violences contre sa mèr
+ e qui a demandé le divorce. Prise…\n\nhttps://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000033365.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
