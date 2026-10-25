@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:43:43+00:00",
+  "generatedAt": "2026-10-25T05:41:52+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -25,6 +25,22 @@
       "color": "#975c11"
     },
     {
+      "id": "1000054419",
+      "title": "Consortium",
+      "releaseDate": "2026-10-28",
+      "genres": [
+        "Thriller"
+      ],
+      "duration": "15min",
+      "synopsis": "Ludwig décroche un poste de livreur chez la mystérieuse société Consortium. Zéro infos sur le contenu des colis, secret professionnel oblige. La mission n’est pas simple. Que cache vraiment Consortium ?",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/76/e9/76e9ff1dcf6f997f6d8a95b9bf50195b.jpg",
+      "directors": [
+        "Ayden Casse"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054419.html",
+      "color": "#746d5f"
+    },
+    {
       "id": "314882",
       "title": "Hope",
       "releaseDate": "2026-10-28",
@@ -35,12 +51,12 @@
       ],
       "duration": "2h37min",
       "synopsis": "Au poste de police de Hope, Bum-seok et Sung-ae se démènent pour défendre leur village à la population vieillissante. Pendant ce temps, Sung-ki et ses amis partent à la poursuite de la bête dans la montagne mais se retrouvent eux-mêmes pris pour cible.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/38/a2/38a2a671c24ae8b51364a08de550605c.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/37/eb/37eb88a0ce51e0295cac6fca4884a609.jpg",
       "directors": [
         "Na Hong-jin"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314882.html",
-      "color": "#647ba1"
+      "color": "#db0020"
     },
     {
       "id": "1000033620",
@@ -1821,22 +1837,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html",
       "color": "#6f909d"
-    },
-    {
-      "id": "1000047524",
-      "title": "Le Temps des animaux",
-      "releaseDate": "2026-12-09",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h24min",
-      "synopsis": "Depuis l’enfance, Vincent Chabloz nourrit une passion profonde pour Derborence, une vallée des Alpes, majestueuse et marquée par son histoire. Le cinéaste animalier nous invite à découvrir ce territoire exceptionnel à travers ceux qui l’habitent toute l’année : renards,…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/33/cb/33cb07eeac11e9158927bfbd2d41c9dd.jpg",
-      "directors": [
-        "Vincent Chabloz"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047524.html",
-      "color": "#b0a23e"
     },
     {
       "id": "1000033622",

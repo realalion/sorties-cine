@@ -2364,7 +2364,8 @@
     "synopsis": "Depuis l’enfance, Vincent Chabloz nourrit une passion profonde pour Derborence, une vallée des Alpes, majestueuse et marquée par son histoire. Le cinéaste animalier nous invite à découvrir ce territoire exceptionnel à travers ceux qui l’habitent toute l’année : renards,…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047524.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-25"
   },
   "1000048020": {
    "created": "20261008T064216Z",
@@ -2755,6 +2756,26 @@
     "cast": [],
     "synopsis": "Ils et elles ont traversé un siècle de bouleversements. À travers leurs souvenirs, leurs épreuves et leur regard sur le monde d’aujourd’hui, « Centenaires » donne la parole à des femmes et des hommes de plus de 100 ans. Un film sur la mémoire, la transmission et la réalité du…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html"
+   },
+   "inFeed": true
+  },
+  "1000054419": {
+   "created": "20261025T054152Z",
+   "modified": "20261025T054152Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Consortium",
+    "releaseDate": "2026-10-28",
+    "genres": [
+     "Thriller"
+    ],
+    "duration": "15min",
+    "directors": [
+     "Ayden Casse"
+    ],
+    "cast": [],
+    "synopsis": "Ludwig décroche un poste de livreur chez la mystérieuse société Consortium. Zéro infos sur le contenu des colis, secret professionnel oblige. La mission n’est pas simple. Que cache vraiment Consortium ?",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054419.html"
    },
    "inFeed": true
   },

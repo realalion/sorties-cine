@@ -673,6 +673,27 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000054419@realalion.github.io
+DTSTAMP:20261025T054152Z
+CREATED:20261025T054152Z
+LAST-MODIFIED:20261025T054152Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎬 Consortium
+DESCRIPTION:Thriller · 15min\n\nDe Ayden Casse\n\nLudwig décroche un post
+ e de livreur chez la mystérieuse société Consortium. Zéro infos sur l
+ e contenu des colis\, secret professionnel oblige. La mission n’est pas
+  simple. Que cache vraiment Consortium ?\n\nAlloCiné : https://www.alloc
+ ine.fr/film/fichefilm_gen_cfilm=1000054419.html\n\nSortie officielle au c
+ inéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054419.h
+ tml
+CATEGORIES:Thriller
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-314882@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -2958,28 +2979,6 @@ DESCRIPTION:Drame · 2h02min\n\nDe Kai Stänicke\n\nAprès 14 ans\, Hein re
  e au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html
 CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000047524@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:🎬 Le Temps des animaux
-DESCRIPTION:Documentaire · 1h24min\n\nDe Vincent Chabloz\n\nDepuis l’enf
- ance\, Vincent Chabloz nourrit une passion profonde pour Derborence\, une
-  vallée des Alpes\, majestueuse et marquée par son histoire. Le cinéas
- te animalier nous invite à découvrir ce territoire exceptionnel à trav
- ers ceux qui l’habitent toute l’année : renards\,…\n\nAlloCiné : 
- https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047524.html\n\nSorti
- e officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047524.h
- tml
-CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
