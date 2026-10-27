@@ -393,6 +393,24 @@
    },
    "inFeed": true
   },
+  "1000014608": {
+   "created": "20261027T071725Z",
+   "modified": "20261027T071725Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Molepeople",
+    "releaseDate": "2027-08-25",
+    "genres": [
+     "Épouvante-horreur"
+    ],
+    "duration": null,
+    "directors": [],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014608.html"
+   },
+   "inFeed": true
+  },
   "1000016226": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
