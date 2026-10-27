@@ -1519,14 +1519,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000041856@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261027T054439Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261027T054439Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 George Michael: The Faith Tour
-DESCRIPTION:Concert\, Documentaire\, Musical · 1h53min\n\nDe Andy Morahan\
+DESCRIPTION:Concert\, Documentaire\, Musical · 1h54min\n\nDe Andy Morahan\
  , David Austin\n\nUn long métrage restauré et remasterisé à partir d
  ’images longtemps considérées comme perdues\, tournées au célèbre 
  Palais Omnisports de Paris-Bercy lors de l’étape européenne du Faith 
@@ -1664,14 +1664,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-58916@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261027T054439Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261027T054439Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 Pierre ou les ambiguïtés
-DESCRIPTION:Drame\, Romance · 3h00min\n\nDe Leos Carax\n\nD'après Pierre 
+DESCRIPTION:Drame\, Romance · 2h49min\n\nDe Leos Carax\n\nD'après Pierre 
  ou les Ambiguïtés de Herman Melville.\n\nAlloCiné : https://www.alloci
  ne.fr/film/fichefilm_gen_cfilm=58916.html\n\nSortie officielle au cinéma
   en France.
@@ -2389,14 +2389,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000016814@realalion.github.io
-DTSTAMP:20261014T054257Z
+DTSTAMP:20261027T054439Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261014T054257Z
+LAST-MODIFIED:20261027T054439Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Comédie · 1h45min\n\nDe John Hamburg\n\nUn nouveau film de la
+DESCRIPTION:Comédie · 1h46min\n\nDe John Hamburg\n\nUn nouveau film de la
   franchise Mon beau-père et moi.\n\nAlloCiné : https://www.allocine.fr/
  film/fichefilm_gen_cfilm=1000016814.html\n\nSortie officielle au cinéma 
  en France.
@@ -3215,16 +3215,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000050663@realalion.github.io
-DTSTAMP:20261015T054330Z
+DTSTAMP:20261027T054439Z
 CREATED:20261015T054330Z
-LAST-MODIFIED:20261015T054330Z
+LAST-MODIFIED:20261027T054439Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Le Facteur Humain
-DESCRIPTION:Divers\n\nDe Nicolas Saada\n\nAlloCiné : https://www.allocine.
- fr/film/fichefilm_gen_cfilm=1000050663.html\n\nSortie officielle au ciné
- ma en France.
+DESCRIPTION:Divers · 1h04min\n\nDe Nicolas Saada\n\nAlloCiné : https://ww
+ w.allocine.fr/film/fichefilm_gen_cfilm=1000050663.html\n\nSortie officiel
+ le au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050663.h
  tml
 CATEGORIES:Divers
@@ -3378,34 +3378,15 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-18065@realalion.github.io
-DTSTAMP:20261022T054313Z
-CREATED:20261022T054313Z
-LAST-MODIFIED:20261022T054313Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:🎬 La Beauté du monde
-DESCRIPTION:Comédie dramatique · 53min\n\nDe Yves Caumon\n\nA travers l'h
- istoire de Suzanne\, qui s'isole a la campagne\, mais supporte difficilem
- ent la solitude\, réflexion sur l’énigme de la vie et de la création
- .\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.h
- tml\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.html
-CATEGORIES:Comédie dramatique
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-326180@realalion.github.io
-DTSTAMP:20261022T054313Z
+DTSTAMP:20261027T054439Z
 CREATED:20261022T054313Z
-LAST-MODIFIED:20261022T054313Z
+LAST-MODIFIED:20261027T054439Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 Les Carnets d'Ozu
-DESCRIPTION:Documentaire · 2h17min\n\nDe Daniel Raim\n\nTokyo\, au début 
+DESCRIPTION:Documentaire · 2h20min\n\nDe Daniel Raim\n\nTokyo\, au début 
  du XXe siècle. Enfant à la santé fragile et cinéphile précoce\, ché
  ri par ses parents\, le jeune Yasujiro Ozu entre à la Shochiku – à le
  ur grande déception – pour assouvir sa passion du cinéma en tournant 
@@ -3434,26 +3415,6 @@ DESCRIPTION:Drame · 1h47min\n\nDe Bertrand Mandico\n\nMarion Cotillard inc
  ie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.h
  tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-35360@realalion.github.io
-DTSTAMP:20261022T054313Z
-CREATED:20261022T054313Z
-LAST-MODIFIED:20261022T054313Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:🎬 Soins et beauté
-DESCRIPTION:Drame · 43min\n\nDe Alejandra Rojo\n\nMum\, vieille réfugiée
-  latino-américaine au passé obscur\, tient une boutique de manucure ave
- c l'aide de ses deux filles. Ce n'est que la partie visible de son travai
- l\, l'arrière boutique étant le théâtre d'une étrange école clandes
- tine...\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=3
- 5360.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=35360.html
 CATEGORIES:Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3502,14 +3463,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000033365@realalion.github.io
-DTSTAMP:20261024T054343Z
+DTSTAMP:20261027T054439Z
 CREATED:20261022T054313Z
-LAST-MODIFIED:20261024T054343Z
+LAST-MODIFIED:20261027T054439Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 Un cœur fidèle
-DESCRIPTION:Drame · 1h39min\n\nDe Júlia De Paz Solvas\n\nDepuis qu’une 
+DESCRIPTION:Drame · 1h43min\n\nDe Júlia De Paz Solvas\n\nDepuis qu’une 
  ordonnance d’éloignement a été prononcée contre son père\, Carmela
  \, 12 ans\, ne peut le voir que dans un centre de médiation sociale\, so
  us surveillance. Lui qu’elle adore\, voire l’idolâtre\, est accusé 

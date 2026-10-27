@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T05:46:57+00:00",
+  "generatedAt": "2026-10-27T05:44:39+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-10-28",
   "to": "2026-12-23",
-  "count": 137,
+  "count": 135,
   "films": [
     {
       "id": "1000051317",
@@ -690,7 +690,7 @@
         "Documentaire",
         "Musical"
       ],
-      "duration": "1h53min",
+      "duration": "1h54min",
       "synopsis": "Un long métrage restauré et remasterisé à partir d’images longtemps considérées comme perdues, tournées au célèbre Palais Omnisports de Paris-Bercy lors de l’étape européenne du Faith Tour en 1988.",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/12/fe/12fe0f3e44f1496bc60393eaf07d35f8.jpg",
       "directors": [
@@ -810,7 +810,7 @@
         "Drame",
         "Romance"
       ],
-      "duration": "3h00min",
+      "duration": "2h49min",
       "synopsis": "D'après Pierre ou les Ambiguïtés de Herman Melville.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/78/06/780603cd9a66c7b52c335b79393468f3.jpg",
       "directors": [
@@ -1012,12 +1012,12 @@
       ],
       "duration": "1h45min",
       "synopsis": "Dans un royaume imaginaire d’Europe, la Reine Régina, cruelle et impitoyable, doit épouser le Prince Wolfram, noceur et libertin notoire. Un jour, à la tête de son régiment, le prince croise un groupe de jeunes nonnes qui s’en retournent au pensionnat. Il remarque…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/da/66/da66f5ef8efc8be3853d905996950753.jpg",
       "directors": [
         "Erich Von Stroheim"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=780.html",
-      "color": "#e0e0e0"
+      "color": "#8c8c8c"
     },
     {
       "id": "1000017168",
@@ -1381,7 +1381,7 @@
       "genres": [
         "Comédie"
       ],
-      "duration": "1h45min",
+      "duration": "1h46min",
       "synopsis": "Un nouveau film de la franchise Mon beau-père et moi.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/e7/b2/e7b2d3047feb71205387d7e2b34d02a2.jpg",
       "directors": [
@@ -1680,12 +1680,12 @@
       ],
       "duration": "1h50min",
       "synopsis": "Sur le point de se séparer de sa compagne avec qui il vit à Nancy, Léo, 49 ans, apprend la mort de son père biologique qu’il n’a jamais connu. Dans l’attente d’un rendez-vous avec un notaire en Italie, il passe quelques jours à Paris où il a vécu plus jeune. De discussions…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/e2/f7/e2f7edadcc3fd9c49187dd4948399b96.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/6d/9f/6d9fa130d4f69259a5b7534fb748d186.jpg",
       "directors": [
         "Nicolas Pariser"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031015.html",
-      "color": "#ff4903"
+      "color": "#e90c09"
     },
     {
       "id": "312651",
@@ -2030,14 +2030,14 @@
       "genres": [
         "Divers"
       ],
-      "duration": null,
+      "duration": "1h04min",
       "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/f9/90/f990b9b0ed05e2a9e00ca0786b86d045.jpg",
       "directors": [
         "Nicolas Saada"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050663.html",
-      "color": "#e0e0e0"
+      "color": "#900000"
     },
     {
       "id": "1000053016",
@@ -2160,29 +2160,13 @@
       "color": "#8b3e43"
     },
     {
-      "id": "18065",
-      "title": "La Beauté du monde",
-      "releaseDate": "2026-12-23",
-      "genres": [
-        "Comédie dramatique"
-      ],
-      "duration": "53min",
-      "synopsis": "A travers l'histoire de Suzanne, qui s'isole a la campagne, mais supporte difficilement la solitude, réflexion sur l’énigme de la vie et de la création.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/medias/nmedia/images/affiches/041709.jpg",
-      "directors": [
-        "Yves Caumon"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.html",
-      "color": "#4e7125"
-    },
-    {
       "id": "326180",
       "title": "Les Carnets d'Ozu",
       "releaseDate": "2026-12-23",
       "genres": [
         "Documentaire"
       ],
-      "duration": "2h17min",
+      "duration": "2h20min",
       "synopsis": "Tokyo, au début du XXe siècle. Enfant à la santé fragile et cinéphile précoce, chéri par ses parents, le jeune Yasujiro Ozu entre à la Shochiku – à leur grande déception – pour assouvir sa passion du cinéma en tournant des comédies muettes, tout en façonnant un regard d’une…",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/3d/b1/3db17f875ea90c6b70275ce976dd5b57.jpg",
       "directors": [
@@ -2206,22 +2190,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html",
       "color": "#74690a"
-    },
-    {
-      "id": "35360",
-      "title": "Soins et beauté",
-      "releaseDate": "2026-12-23",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "43min",
-      "synopsis": "Mum, vieille réfugiée latino-américaine au passé obscur, tient une boutique de manucure avec l'aide de ses deux filles. Ce n'est que la partie visible de son travail, l'arrière boutique étant le théâtre d'une étrange école clandestine...",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [
-        "Alejandra Rojo"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=35360.html",
-      "color": "#e0e0e0"
     },
     {
       "id": "1000016431",
@@ -2262,7 +2230,7 @@
       "genres": [
         "Drame"
       ],
-      "duration": "1h39min",
+      "duration": "1h43min",
       "synopsis": "Depuis qu’une ordonnance d’éloignement a été prononcée contre son père, Carmela, 12 ans, ne peut le voir que dans un centre de médiation sociale, sous surveillance. Lui qu’elle adore, voire l’idolâtre, est accusé de violences contre sa mère qui a demandé le divorce. Prise…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
       "directors": [

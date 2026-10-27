@@ -437,7 +437,7 @@
   },
   "1000016814": {
    "created": "20261008T064216Z",
-   "modified": "20261014T054257Z",
+   "modified": "20261027T054439Z",
    "sequence": 0,
    "fields": {
     "title": "Mon beau-père, ma belle-fille et moi",
@@ -445,7 +445,7 @@
     "genres": [
      "Comédie"
     ],
-    "duration": "1h45min",
+    "duration": "1h46min",
     "directors": [
      "John Hamburg"
     ],
@@ -1519,7 +1519,7 @@
   },
   "1000033365": {
    "created": "20261022T054313Z",
-   "modified": "20261024T054343Z",
+   "modified": "20261027T054439Z",
    "sequence": 0,
    "fields": {
     "title": "Un cœur fidèle",
@@ -1527,7 +1527,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": "1h39min",
+    "duration": "1h43min",
     "directors": [
      "Júlia De Paz Solvas"
     ],
@@ -2058,7 +2058,7 @@
   },
   "1000041856": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261027T054439Z",
    "sequence": 0,
    "fields": {
     "title": "George Michael: The Faith Tour",
@@ -2068,7 +2068,7 @@
      "Documentaire",
      "Musical"
     ],
-    "duration": "1h53min",
+    "duration": "1h54min",
     "directors": [
      "Andy Morahan",
      "David Austin"
@@ -2475,7 +2475,7 @@
   },
   "1000050663": {
    "created": "20261015T054330Z",
-   "modified": "20261015T054330Z",
+   "modified": "20261027T054439Z",
    "sequence": 0,
    "fields": {
     "title": "Le Facteur Humain",
@@ -2483,7 +2483,7 @@
     "genres": [
      "Divers"
     ],
-    "duration": null,
+    "duration": "1h04min",
     "directors": [
      "Nicolas Saada"
     ],
@@ -2819,7 +2819,8 @@
     "synopsis": "A travers l'histoire de Suzanne, qui s'isole a la campagne, mais supporte difficilement la solitude, réflexion sur l’énigme de la vie et de la création.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=18065.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-27"
   },
   "204864": {
    "created": "20261008T064216Z",
@@ -3571,7 +3572,7 @@
   },
   "326180": {
    "created": "20261022T054313Z",
-   "modified": "20261022T054313Z",
+   "modified": "20261027T054439Z",
    "sequence": 0,
    "fields": {
     "title": "Les Carnets d'Ozu",
@@ -3579,7 +3580,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": "2h17min",
+    "duration": "2h20min",
     "directors": [
      "Daniel Raim"
     ],
@@ -3648,7 +3649,8 @@
     "synopsis": "Mum, vieille réfugiée latino-américaine au passé obscur, tient une boutique de manucure avec l'aide de ses deux filles. Ce n'est que la partie visible de son travail, l'arrière boutique étant le théâtre d'une étrange école clandestine...",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=35360.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-27"
   },
   "37179": {
    "created": "20261008T064216Z",
@@ -3673,7 +3675,7 @@
   },
   "58916": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261027T054439Z",
    "sequence": 0,
    "fields": {
     "title": "Pierre ou les ambiguïtés",
@@ -3682,7 +3684,7 @@
      "Drame",
      "Romance"
     ],
-    "duration": "3h00min",
+    "duration": "2h49min",
     "directors": [
      "Leos Carax"
     ],
