@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000032465-2026-12-16@realalion.github.io
+DTSTAMP:20261028T055256Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Linka Linka — sortie ciné
+DESCRIPTION:Drame · 1h40min\n\nUne réalisatrice revient à Lhassa pour to
+ urner un film sur son enfance. Le temps d’une nuit\, entre disputes ave
+ c son père et rencontre avec la jeune femme qui a inspiré son personnag
+ e\, l’été oublié de sa mémoire refait surface.\n\nhttps://www.alloc
+ ine.fr/film/fichefilm_gen_cfilm=1000032465.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032465.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

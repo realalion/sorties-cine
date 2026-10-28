@@ -867,6 +867,28 @@
    },
    "inFeed": true
   },
+  "1000022734": {
+   "created": "20261028T055256Z",
+   "modified": "20261028T055256Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Mouse",
+    "releaseDate": "2026-12-23",
+    "genres": [
+     "Comédie",
+     "Drame"
+    ],
+    "duration": "2h00min",
+    "directors": [
+     "Alex Thompson",
+     "Kelly O'Sullivan"
+    ],
+    "cast": [],
+    "synopsis": "Deux meilleures amies Minnie et Callie voient leur relation être bouleversée à la veille de leur dernière année d'études.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022734.html"
+   },
+   "inFeed": true
+  },
   "1000022995": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -1494,6 +1516,26 @@
     "cast": [],
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html"
+   },
+   "inFeed": true
+  },
+  "1000032465": {
+   "created": "20261028T055256Z",
+   "modified": "20261028T055256Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Linka Linka",
+    "releaseDate": "2026-12-16",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h40min",
+    "directors": [
+     "Kangdrun"
+    ],
+    "cast": [],
+    "synopsis": "Une réalisatrice revient à Lhassa pour tourner un film sur son enfance. Le temps d’une nuit, entre disputes avec son père et rencontre avec la jeune femme qui a inspiré son personnage, l’été oublié de sa mémoire refait surface.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032465.html"
    },
    "inFeed": true
   },
@@ -2550,7 +2592,8 @@
     "synopsis": "L'Ardèche se dévoile dans ses pierres, ses vallées encaissées, ses villages et ses gorges spectaculaires. Sur les routes de ce département montagneux, John et Gabriel partent à la rencontre de celles et ceux qui entretiennent un lien particulier avec cette terre.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-28"
   },
   "1000051511": {
    "created": "20261008T064216Z",
@@ -2655,7 +2698,7 @@
   },
   "1000051859": {
    "created": "20261008T064216Z",
-   "modified": "20261009T053154Z",
+   "modified": "20261028T055256Z",
    "sequence": 0,
    "fields": {
     "title": "Peppa fête Noël",
@@ -2663,7 +2706,7 @@
     "genres": [
      "Animation"
     ],
-    "duration": "50min",
+    "duration": "58min",
     "directors": [
      "Mark Baker",
      "Neville Astley"
@@ -3399,7 +3442,7 @@
   },
   "319971": {
    "created": "20261015T054330Z",
-   "modified": "20261015T054330Z",
+   "modified": "20261028T055256Z",
    "sequence": 0,
    "fields": {
     "title": "Carmen, l’oiseau rebelle",
@@ -3407,7 +3450,7 @@
     "genres": [
      "Animation"
     ],
-    "duration": "1h26min",
+    "duration": "1h30min",
     "directors": [
      "Sébastien Laudenbach"
     ],

@@ -1,29 +1,12 @@
 {
-  "generatedAt": "2026-10-27T07:17:25+00:00",
+  "generatedAt": "2026-10-28T05:52:56+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-10-28",
   "to": "2026-12-23",
-  "count": 135,
+  "count": 136,
   "films": [
-    {
-      "id": "1000051317",
-      "title": "Ardèche",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h30min",
-      "synopsis": "L'Ardèche se dévoile dans ses pierres, ses vallées encaissées, ses villages et ses gorges spectaculaires. Sur les routes de ce département montagneux, John et Gabriel partent à la rencontre de celles et ceux qui entretiennent un lien particulier avec cette terre.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/59/13/5913edafafed34af96aaf66b53a8f2aa.jpg",
-      "directors": [
-        "Gabriel Campina",
-        "John Dauvin"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html",
-      "color": "#975c11"
-    },
     {
       "id": "1000054419",
       "title": "Consortium",
@@ -504,7 +487,7 @@
       "genres": [
         "Animation"
       ],
-      "duration": "50min",
+      "duration": "58min",
       "synopsis": "Retrouvez Peppa et toute sa famille au cinéma pour une grande fête de Noël pleine de surprises et d’aventures hivernales. Une sélection de nouveaux épisodes et d'épisodes incontournables de la série à découvrir avec vos proches !",
       "poster": "https://fr.web.img3.acsta.net/c_310_420/img/60/99/6099fc0962b069b0b087541354161411.jpg",
       "directors": [
@@ -1963,7 +1946,7 @@
       "genres": [
         "Animation"
       ],
-      "duration": "1h26min",
+      "duration": "1h30min",
       "synopsis": "Dans les ruelles de Séville, Salva, Belén et leur bande de gamins des rues vont affronter tous les dangers pour éloigner la menace qui plane sur Carmen, jeune femme libre et flamboyante. Le destin de Carmen, oiseau rebelle, est entre leurs mains.",
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/82/96/82969ffb61835e6d309161ec46daf0b9.jpg",
       "directors": [
@@ -2038,6 +2021,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050663.html",
       "color": "#900000"
+    },
+    {
+      "id": "1000032465",
+      "title": "Linka Linka",
+      "releaseDate": "2026-12-16",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h40min",
+      "synopsis": "Une réalisatrice revient à Lhassa pour tourner un film sur son enfance. Le temps d’une nuit, entre disputes avec son père et rencontre avec la jeune femme qui a inspiré son personnage, l’été oublié de sa mémoire refait surface.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Kangdrun"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032465.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000053016",
@@ -2174,6 +2173,24 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326180.html",
       "color": "#847d7a"
+    },
+    {
+      "id": "1000022734",
+      "title": "Mouse",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "duration": "2h00min",
+      "synopsis": "Deux meilleures amies Minnie et Callie voient leur relation être bouleversée à la veille de leur dernière année d'études.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Alex Thompson",
+        "Kelly O'Sullivan"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022734.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000017272",
