@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000036259-2026-12-30@realalion.github.io
+DTSTAMP:20261029T055410Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 The Liberation of Rita Cooper — sortie ciné
+DESCRIPTION:Thriller · 2h04min\n\nAnnées 80\, New Jersey.Malmenée par un
+  quotidien épuisant et un passé traumatique\, Rita découvre enfin la s
+ érénité en rencontrant la fascinante Ricky\, à la tête d’une commu
+ nauté de femmes. Guidée par leurs croyances sectaires\, Rita se laisse 
+ doucement séduire. Mais lorsque ses…\n\nhttps://www.allocine.fr/film/f
+ ichefilm_gen_cfilm=1000036259.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -224,7 +224,8 @@
     "synopsis": "Anna, 18 ans, demande l’aide médicale à mourir. Elle décide de se laisser quinze jours pour accomplir son souhait de revoir ses demi-sœurs avant de s’éteindre. Séparées par le procès de leur père quatre ans auparavant, les trois sœurs révèlent leurs forces individuelles et…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012312.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000012316": {
    "created": "20261008T064216Z",
@@ -307,7 +308,8 @@
     "synopsis": "Mochy est un jeune chien au grand cœur… mais il n’a pas un physique facile… Ça ne l’empêche pas d’avoir un rêve : participer au concours du plus beau chien.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000014166": {
    "created": "20261008T064216Z",
@@ -408,6 +410,28 @@
     "cast": [],
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014608.html"
+   },
+   "inFeed": true
+  },
+  "1000014942": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Tie Man",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Action",
+     "Comédie",
+     "Epouvante-horreur"
+    ],
+    "duration": "1h39min",
+    "directors": [
+     "Rémi Fréchette"
+    ],
+    "cast": [],
+    "synopsis": "La policière Marjolaine Coppola cherche à retrouver sa sœur qui s’est faite enlevée le même soir que leurs parents se sont fait assassiner. Les responsables travailleraient pour Franz DeMann, l’homme d’affaires mégalomane qui tente de devenir maire de la grande ville qu’est…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.html"
    },
    "inFeed": true
   },
@@ -635,7 +659,8 @@
     "synopsis": "Alors qu’elle est au sommet de sa carrière musicale, Maja vacille et voit ses ambitions s’interrompre brutalement. Elle se réfugie chez sa mère, enseignante à Oslo, qui lui décroche un poste de surveillante dans son lycée. Loin de la scène, Maja commence lentement à retrouver…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019091.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000019282": {
    "created": "20261008T064216Z",
@@ -809,11 +834,11 @@
   },
   "1000021762": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261029T055410Z",
+   "sequence": 1,
    "fields": {
     "title": "Rédemptions",
-    "releaseDate": "2026-12-02",
+    "releaseDate": "2026-12-16",
     "genres": [
      "Drame"
     ],
@@ -822,7 +847,7 @@
      "Luc Picard"
     ],
     "cast": [],
-    "synopsis": "Marcel, un tueur à gages à la retraite, est forcé de reprendre du service et de commettre deux meurtres à Montréal. Ce faisant, il initie, sans le savoir, une suite d’événements fortuits qui finiront par mettre en danger la vie de sa propre fille à Paris.",
+    "synopsis": "Lorsque Marcel est contraint d'accepter une dernière mission, il déclenche une chaine d’évènements qui bouleverse plusieurs vies. De Montréal à Paris, chacun devra trouver le courage d'aimer, de pardonner et, peut-être, de se racheter.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html"
    },
    "inFeed": true
@@ -845,7 +870,8 @@
     "synopsis": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants, dans un monde de plus en plus instable.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000022460": {
    "created": "20261015T054330Z",
@@ -886,6 +912,26 @@
     "cast": [],
     "synopsis": "Deux meilleures amies Minnie et Callie voient leur relation être bouleversée à la veille de leur dernière année d'études.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022734.html"
+   },
+   "inFeed": true
+  },
+  "1000022811": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "The Last Pickpocket in New York",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Thriller"
+    ],
+    "duration": "1h28min",
+    "directors": [
+     "Noah Segan"
+    ],
+    "cast": [],
+    "synopsis": "Harry est le dernier pickpocket de New York. Un jour, il dérobe une mystérieuse clef USB à un jeune mafieux et se retrouve pris en chasse par une dangereuse organisation criminelle…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022811.html"
    },
    "inFeed": true
   },
@@ -948,7 +994,8 @@
     "synopsis": "MALFAISANTE nous entraine dans l’univers de la très jeune Bela, dont le quotidien se détériore de jour en jour en raison de la relation qu’elle entretient, au cœur de sa propre maison, avec une entité malveillante qui ressemble étrangement à sa propre mère.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023068.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000023399": {
    "created": "20261008T064216Z",
@@ -987,6 +1034,26 @@
     "cast": [],
     "synopsis": "Margot débute son internat aux urgences, où elle peine à s’adapter. Très vite, elle fait face à des patients de son âge aux symptômes inexpliqués. La récurrence de ces cas exceptionnels l’interroge, d’autant qu’elle observe, sur son propre corps, des manifestations de plus en…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023600.html"
+   },
+   "inFeed": true
+  },
+  "1000023667": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "The Baltimorons - Noël à Baltimore",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Comédie"
+    ],
+    "duration": "1h40min",
+    "directors": [
+     "Jay Duplass"
+    ],
+    "cast": [],
+    "synopsis": "Le veille de Noël, Cliff, humoriste qui se relève doucement d’une grosse dépression, se casse une dent. Il se rend chez Didi, dentiste de garde et fraîchement divorcée. Par un concours de circonstances, leur rencontre se transforme en odyssée urbaine dans les rues glacées de…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html"
    },
    "inFeed": true
   },
@@ -1072,6 +1139,27 @@
     "cast": [],
     "synopsis": "Lily, jeune romancière en devenir, procrastine à l'approche de l'obtention de son diplôme. À mesure que les frontières entre les rêves de Lily, sa réalité et le roman qu'elle écrit commencent à se brouiller, elle devra affronter ses peurs les plus profondes — et décider si…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025551.html"
+   },
+   "inFeed": true
+  },
+  "1000026193": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Les Cœurs affamés",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Comédie",
+     "Romance"
+    ],
+    "duration": "1h43min",
+    "directors": [
+     "Nanni Moretti"
+    ],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html"
    },
    "inFeed": true
   },
@@ -1299,7 +1387,8 @@
     "synopsis": "Profondément émouvant et d’une force tranquille, ce film poignant traite de la perte au milieu de l'enfer et de la préservation de l’identité dans les moments sombres. Une carte dessinée à la craie, esquissée, les contours de Gaza et rien d’autre que des mots : neuf réfugiés…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028085.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000028361": {
    "created": "20261008T064216Z",
@@ -1474,6 +1563,26 @@
     "cast": [],
     "synopsis": "En quelques jours seulement, tout semble virer à la catastrophe pour Antoine Blanchet, héritier de l’ancestrale fabrique familiale de balances.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html"
+   },
+   "inFeed": true
+  },
+  "1000031926": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Avis de tempête",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Comédie"
+    ],
+    "duration": null,
+    "directors": [
+     "Ludovic Bernard"
+    ],
+    "cast": [],
+    "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis. À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par De Gaulle, entame la traversée. Mais voilà, en plein milieu de…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html"
    },
    "inFeed": true
   },
@@ -1696,7 +1805,8 @@
     "synopsis": "Deux jeunes hommes découvrent que les portes d’un temple local sont des antiquités précieuses. Séduits par la tentation de l’argent facile, ils commettent un vol audacieux. Mais la situation dérape lorsqu’ils se retrouvent impliqués dans une série d’événements violents, avec…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000035928": {
    "created": "20261008T064216Z",
@@ -1736,6 +1846,66 @@
     "cast": [],
     "synopsis": "Ce film est composé de cinq histoires courtes se déroulant au printemps, la saison la plus cruelle, qui libère les secrets, la colère, les chagrins et la férocité à chaque coup de feuille.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.html"
+   },
+   "inFeed": true
+  },
+  "1000036227": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "L’Homme qui s’envola",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Thriller"
+    ],
+    "duration": null,
+    "directors": [
+     "Olivier Ducray"
+    ],
+    "cast": [],
+    "synopsis": "Quand Paul Chardonnet, riche et charismatique entrepreneur meurt dans le crash de son jet privé, sa veuve Sarah se retrouve brutalement seule à la tête de l’empire familial. Mais pour cette mère de trois enfants, la situation s'aggrave encore avec l'arrivée de François…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.html"
+   },
+   "inFeed": true
+  },
+  "1000036259": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "The Liberation of Rita Cooper",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Thriller"
+    ],
+    "duration": "2h04min",
+    "directors": [
+     "Guy Nattiv"
+    ],
+    "cast": [],
+    "synopsis": "Années 80, New Jersey.Malmenée par un quotidien épuisant et un passé traumatique, Rita découvre enfin la sérénité en rencontrant la fascinante Ricky, à la tête d’une communauté de femmes. Guidée par leurs croyances sectaires, Rita se laisse doucement séduire. Mais lorsque ses…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html"
+   },
+   "inFeed": true
+  },
+  "1000036365": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Un Monde entre nous",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Animation"
+    ],
+    "duration": "1h57min",
+    "directors": [
+     "Kohei Kadowaki"
+    ],
+    "cast": [],
+    "synopsis": "Tsubasa et Gyotaro, deux jeunes garçons de huit ans, deviennent inséparables. Isolés dans leur petit monde, ils partagent des moments inoubliables. Mais en grandissant, leur relation bascule, jusqu’à un incident qui les sépare brutalement.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.html"
    },
    "inFeed": true
   },
@@ -1795,7 +1965,8 @@
     "synopsis": "Paul élève seul sa fille Agathe dans un village soudé autour de sa paroisse. Lorsqu’un prêtre annonce l’arrivée de migrants africains, la communauté se divise.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036827.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000036932": {
    "created": "20261008T064216Z",
@@ -1971,7 +2142,8 @@
     "synopsis": "Suite à son récent divorce, une grande actrice coréenne retourne sur le devant de la scène douze ans après sa dernière apparition à l’écran. À l’occasion de la sortie du film, elle s’entretient successivement avec trois jeunes journalistes...",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000039482": {
    "created": "20261022T054313Z",
@@ -2136,6 +2308,26 @@
     "cast": [],
     "synopsis": "Un long métrage restauré et remasterisé à partir d’images longtemps considérées comme perdues, tournées au célèbre Palais Omnisports de Paris-Bercy lors de l’étape européenne du Faith Tour en 1988.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041856.html"
+   },
+   "inFeed": true
+  },
+  "1000042575": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "9 Temples vers le ciel",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "2h20min",
+    "directors": [
+     "Sompot Chidgasornpongse"
+    ],
+    "cast": [],
+    "synopsis": "Un fils, une mère, leur famille et 9 temples. Le temps d’une journée, un pèlerinage qui raconte le cycle des saisons de la vie.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042575.html"
    },
    "inFeed": true
   },
@@ -2404,7 +2596,8 @@
     "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement, Lyes, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à le…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000047524": {
    "created": "20261008T064216Z",
@@ -2444,6 +2637,26 @@
     "cast": [],
     "synopsis": "Un gardien a disparu lors de sa première nuit dans un ancien hôpital psychiatrique. Les images de vidéosurveillance montrent des incidents inexplicables qui continuent de déconcerter les enquêteurs.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048020.html"
+   },
+   "inFeed": true
+  },
+  "1000048761": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Les Filles d'Abraham",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h33min",
+    "directors": [
+     "Hanaël El Yousfi"
+    ],
+    "cast": [],
+    "synopsis": "Après plusieurs années de rupture, Myriam, jeune femme de culture musulmane qui grandit à Marseille, renoue durant les vacances d’été avec Eva, issue d’une famille juive. Ensemble, elles vivent leur jeunesse hors des cadres imposés. Mais cet été d’insouciance se fissure…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048761.html"
    },
    "inFeed": true
   },
@@ -2487,7 +2700,8 @@
     "synopsis": "France 2026 : vivre sans emploi, ça peut arriver, mais sans aucun revenu… comment dire ? Votée en décembre 2023, la loi Plein emploi conditionne l'allocation du RSA au fait d'exercer 15 heures d'activités hebdomadaires. Fortement troublés par cette idée que puissent être…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048944.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000049344": {
    "created": "20261017T054101Z",
@@ -2575,7 +2789,7 @@
   },
   "1000051317": {
    "created": "20261008T064216Z",
-   "modified": "20261028T072107Z",
+   "modified": "20261029T055410Z",
    "sequence": 1,
    "fields": {
     "title": "Ardèche",
@@ -2589,7 +2803,7 @@
      "John Dauvin"
     ],
     "cast": [],
-    "synopsis": "L'Ardèche se dévoile dans ses pierres, ses vallées encaissées, ses villages et ses gorges spectaculaires. Sur les routes de ce département montagneux, John et Gabriel partent à la rencontre de celles et ceux qui entretiennent un lien particulier avec cette terre.",
+    "synopsis": "Nés au Brésil et en Inde mais devenus Ardéchois de cœur, John et Gabriel parcourent les routes du département à la rencontre de celles et ceux qui l’habitent, autour d’une question aussi intime qu’universelle : qu’est-ce qui fait qu’un endroit devient chez soi ?",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html"
    },
    "inFeed": true
@@ -2634,6 +2848,27 @@
    },
    "inFeed": true
   },
+  "1000051707": {
+   "created": "20261029T055410Z",
+   "modified": "20261029T055410Z",
+   "sequence": 0,
+   "fields": {
+    "title": "You Can See Everything",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "2h54min",
+    "directors": [
+     "Nathan Fielder",
+     "Lance Oppenheim"
+    ],
+    "cast": [],
+    "synopsis": "Trente-quatre jours avant son incarcération, la célèbre fondatrice de Theranos, Elizabeth Holmes, invite une équipe de tournage sceptique à documenter ses moindres faits et gestes. Ce qui commence comme un portrait intime devient un voyage époustouflant de trois ans.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051707.html"
+   },
+   "inFeed": true
+  },
   "1000051724": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -2652,7 +2887,8 @@
     "synopsis": "Eté 1976, en pleine canicule, dans cette enquête aux allures de comédie, nous plongeons dans un petit village du Périgord, où une gendarmette respecte la hiérarchie militaire avec une intelligence et une subtilité de féministe, des ados bien dans leur époque, et un commandant…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051724.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "1000051742": {
    "created": "20261008T064216Z",
@@ -3053,7 +3289,7 @@
   },
   "296439": {
    "created": "20261008T064216Z",
-   "modified": "20261023T054335Z",
+   "modified": "20261029T055410Z",
    "sequence": 0,
    "fields": {
     "title": "Wildwood la prophétie de la forêt",
@@ -3064,7 +3300,7 @@
      "Famille",
      "Fantastique"
     ],
-    "duration": "2h10min",
+    "duration": "2h11min",
     "directors": [
      "Travis Knight"
     ],
@@ -3353,7 +3589,8 @@
     "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mêlent poings, destin et fureur. Mais derrière cette…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314939.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "315883": {
    "created": "20261008T064216Z",
@@ -3437,7 +3674,8 @@
     "synopsis": "Au large de la côte californienne, Jay Gardiner part à la recherche de la dépouille de son père récemment disparu. Alors qu’il sonde les fonds marins, le jeune plongeur se retrouve soudainement avalé par un énorme cachalot.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "319971": {
    "created": "20261015T054330Z",
@@ -3477,7 +3715,8 @@
     "synopsis": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche... et tombe. Il est obligé de porter un corset pour filer droit.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "322884": {
    "created": "20261008T064216Z",
@@ -3628,7 +3867,8 @@
     "synopsis": "Libéré après 19 ans de bagne pour le vol d’un pain, Jean Valjean décide de changer de vie et de faire le bien autour de lui. Sous une fausse identité, il devient avec le temps un notable respecté de tous. Mais son passé le rattrape...",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326160.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-10-29"
   },
   "326180": {
    "created": "20261022T054313Z",

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000031926-2026-12-30@realalion.github.io
+DTSTAMP:20261029T055410Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 Avis de tempête — sortie ciné
+DESCRIPTION:Comédie\n\nPour apaiser des relations explosives\, la France d
+ écide de prêter La Joconde\, trésor national\, aux États-Unis. À bor
+ d du tout nouveau paquebot France\, André Malraux\, fantasque ministre d
+ e la Culture missionné par De Gaulle\, entame la traversée. Mais voilà
+ \, en plein milieu de…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000031926.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

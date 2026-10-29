@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000051707-2026-12-30@realalion.github.io
+DTSTAMP:20261029T055410Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 You Can See Everything — sortie ciné
+DESCRIPTION:Documentaire · 2h54min\n\nTrente-quatre jours avant son incarc
+ ération\, la célèbre fondatrice de Theranos\, Elizabeth Holmes\, invit
+ e une équipe de tournage sceptique à documenter ses moindres faits et g
+ estes. Ce qui commence comme un portrait intime devient un voyage époust
+ ouflant de trois ans.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000051707.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051707.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

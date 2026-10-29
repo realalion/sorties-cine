@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000051317-2026-12-02@realalion.github.io
+DTSTAMP:20261029T055410Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎬 Ardèche — sortie ciné
+DESCRIPTION:Documentaire · 1h30min\n\nNés au Brésil et en Inde mais deve
+ nus Ardéchois de cœur\, John et Gabriel parcourent les routes du dépar
+ tement à la rencontre de celles et ceux qui l’habitent\, autour d’un
+ e question aussi intime qu’universelle : qu’est-ce qui fait qu’un e
+ ndroit devient chez soi ?\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=1000051317.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000014942-2026-12-30@realalion.github.io
+DTSTAMP:20261029T055410Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 Tie Man — sortie ciné
+DESCRIPTION:Action\, Comédie\, Epouvante-horreur · 1h39min\n\nLa policiè
+ re Marjolaine Coppola cherche à retrouver sa sœur qui s’est faite enl
+ evée le même soir que leurs parents se sont fait assassiner. Les respon
+ sables travailleraient pour Franz DeMann\, l’homme d’affaires mégalo
+ mane qui tente de devenir maire de la grande ville qu’est…\n\nhttps:/
+ /www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

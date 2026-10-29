@@ -1,247 +1,12 @@
 {
-  "generatedAt": "2026-10-28T05:52:56+00:00",
+  "generatedAt": "2026-10-29T05:54:10+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
-  "from": "2026-10-28",
-  "to": "2026-12-23",
-  "count": 136,
+  "from": "2026-11-04",
+  "to": "2026-12-30",
+  "count": 134,
   "films": [
-    {
-      "id": "1000054419",
-      "title": "Consortium",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Thriller"
-      ],
-      "duration": "15min",
-      "synopsis": "Ludwig décroche un poste de livreur chez la mystérieuse société Consortium. Zéro infos sur le contenu des colis, secret professionnel oblige. La mission n’est pas simple. Que cache vraiment Consortium ?",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/76/e9/76e9ff1dcf6f997f6d8a95b9bf50195b.jpg",
-      "directors": [
-        "Ayden Casse"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054419.html",
-      "color": "#746d5f"
-    },
-    {
-      "id": "314882",
-      "title": "Hope",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "duration": "2h37min",
-      "synopsis": "Au poste de police de Hope, Bum-seok et Sung-ae se démènent pour défendre leur village à la population vieillissante. Pendant ce temps, Sung-ki et ses amis partent à la poursuite de la bête dans la montagne mais se retrouvent eux-mêmes pris pour cible.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/37/eb/37eb88a0ce51e0295cac6fca4884a609.jpg",
-      "directors": [
-        "Na Hong-jin"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314882.html",
-      "color": "#db0020"
-    },
-    {
-      "id": "1000033620",
-      "title": "Irish Travellers",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h36min",
-      "synopsis": "Le long d'une route oubliée, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle, héritiers d'un mode de vie en sursis. Menacés d'expulsion, leur équilibre de…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/68/57/6857fdb3b89fdd00da7d32b5f2faea69.jpg",
-      "directors": [
-        "Alexander Murphy"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033620.html",
-      "color": "#b01d17"
-    },
-    {
-      "id": "1000028073",
-      "title": "La Tentazione",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h48min",
-      "synopsis": "À cinquante ans, Gioia est une enseignante qui vit encore chez ses parents, sous la coupe d'une mère autoritaire. Elle propose des cours particuliers à Alessio, un nouvel élève de son lycée. Quand ces deux solitudes se rencontrent, un poison silencieux se distille.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/83/a0/83a00e4f78bdcbcf16a62ddd2e95d79d.jpg",
-      "directors": [
-        "Nicolangelo Gelormini"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028073.html",
-      "color": "#5a5243"
-    },
-    {
-      "id": "1000019622",
-      "title": "Le Fantôme de l'Opéra",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Drame",
-        "Fantastique",
-        "Romance"
-      ],
-      "duration": "2h14min",
-      "synopsis": "Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris. Alors qu’elle répète l'Orpheus, un opéra maudit qui aurait été composé par le Fantôme de l'Opéra, elle tombe amoureuse d'un mystérieux pianiste.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
-      "directors": [
-        "Alexandre Castagnetti"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019622.html",
-      "color": "#aa6f3b"
-    },
-    {
-      "id": "1000012316",
-      "title": "Le Mystère Lucy Lost",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Animation",
-        "Aventure",
-        "Famille"
-      ],
-      "duration": "1h29min",
-      "synopsis": "Lucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/37/8b/378b27edb6f6e4af9118a32aa23bce23.jpg",
-      "directors": [
-        "Olivier Clert"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012316.html",
-      "color": "#ba6206"
-    },
-    {
-      "id": "1000000251",
-      "title": "Leaving Amerika",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h57min",
-      "synopsis": "Derrick vient de laisser son appartement et dort dans sa voiture. À presque 50 ans, épuisé de se débattre dans le labyrinthe ultralibéral et raciste des Etats-Unis, il décide de quitter son pays.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/49/73/497388e712816859f11cec9c06f01b36.jpg",
-      "directors": [
-        "Marie-Pierre Brêtas"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000251.html",
-      "color": "#f2a711"
-    },
-    {
-      "id": "281367",
-      "title": "Ma nudité ne sert à rien",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Documentaire",
-        "Drame"
-      ],
-      "duration": "1h25min",
-      "synopsis": "Marina de Van bataille avec ses relations sentimentales, sa propre image et sa nudité à une époque où les applis de rencontres et les échanges en ligne sont légion…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/5f/4d/5f4d7814a44f34d331548c06cae8a080.jpg",
-      "directors": [
-        "Marina De Van"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=281367.html",
-      "color": "#764320"
-    },
-    {
-      "id": "1000020311",
-      "title": "Moulin",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Drame",
-        "Historique"
-      ],
-      "duration": "2h14min",
-      "synopsis": "Juin 1943, Jean Moulin, chef de la Résistance, est arrêté alors qu'il tente de réunifier les forces de l’Armée Secrète. Interrogé par Klaus Barbie, le chef de la Gestapo de Lyon, Moulin est entraîné dans une confrontation implacable.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
-      "directors": [
-        "László Nemes"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020311.html",
-      "color": "#a43939"
-    },
-    {
-      "id": "1000027716",
-      "title": "Ozzy & Black Sabbath : Back to the Beginning",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Concert",
-        "Documentaire"
-      ],
-      "duration": "2h27min",
-      "synopsis": "Ozzy & Black Sabbath : Back to the Beginning revient sur un moment marquant de l’histoire de la musique : l’ultime performance d’Ozzy Osbourne, un adieu historique à ses fans au stade de Villa Park, dans sa ville natale de Birmingham, filmé seulement 17 jours avant sa…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/45/33/45334ae21bf74c2f22a7beb7a05dfae3.jpg",
-      "directors": [
-        "Benjamin Wainwright-Pearce",
-        "Tim Van Someren"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html",
-      "color": "#9e54ac"
-    },
-    {
-      "id": "1000051934",
-      "title": "Papa où t'es ?",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": null,
-      "synopsis": "À 27 ans, Nicolas n’a presque aucun souvenir de son enfance et n’a jamais connu son père. Séparé de sa mère à l’âge de trois ans, il a grandi placé entre familles d’accueil et foyers. Décidé à retrouver ce père qui l’a abandonné à la naissance, Nicolas récupère son dossier de…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/2d/5b/2d5be7939e2b342391de951db5694ca7.jpg",
-      "directors": [
-        "Basile Monnot",
-        "Samy Bouyssié"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051934.html",
-      "color": "#bb6b0b"
-    },
-    {
-      "id": "1000036515",
-      "title": "Quelques mots d'amour",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Comédie dramatique"
-      ],
-      "duration": "1h37min",
-      "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
-      "directors": [
-        "Rudi Rosenberg"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036515.html",
-      "color": "#ae5b00"
-    },
-    {
-      "id": "1000023600",
-      "title": "Sanguine",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Epouvante-horreur"
-      ],
-      "duration": "1h43min",
-      "synopsis": "Margot débute son internat aux urgences, où elle peine à s’adapter. Très vite, elle fait face à des patients de son âge aux symptômes inexpliqués. La récurrence de ces cas exceptionnels l’interroge, d’autant qu’elle observe, sur son propre corps, des manifestations de plus en…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/cb/93/cb93a3a86bd02e7b49e976435d28d3fb.jpg",
-      "directors": [
-        "Marion Le Corroller"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023600.html",
-      "color": "#912f17"
-    },
-    {
-      "id": "1000050930",
-      "title": "Supplique à nos fantômes",
-      "releaseDate": "2026-10-28",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h11min",
-      "synopsis": "Marqué par une enfance traumatique et une mère l’ayant fait vivre sous son emprise, le réalisateur Xavier Pestuggia entreprend de raconter son passé.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/f2/c6/f2c6030188bc083a0b5d77029f2c3e49.jpg",
-      "directors": [
-        "Xavier Pestuggia"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050930.html",
-      "color": "#8d4f2a"
-    },
     {
       "id": "1000049344",
       "title": "30 ans après... Mémoire d'une féria",
@@ -813,12 +578,12 @@
       ],
       "duration": null,
       "synopsis": "Pour changer son futur, Scrooge va revivre son passé.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/a1/9a/a19a001d790dac06946fd8302b10b1cc.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
       "directors": [
         "Ti West"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html",
-      "color": "#0a405e"
+      "color": "#930c0b"
     },
     {
       "id": "328439",
@@ -1440,6 +1205,23 @@
       "color": "#85482d"
     },
     {
+      "id": "1000051317",
+      "title": "Ardèche",
+      "releaseDate": "2026-12-02",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h30min",
+      "synopsis": "Nés au Brésil et en Inde mais devenus Ardéchois de cœur, John et Gabriel parcourent les routes du département à la rencontre de celles et ceux qui l’habitent, autour d’une question aussi intime qu’universelle : qu’est-ce qui fait qu’un endroit devient chez soi ?",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/49/10/491041b02b3d9be920efda36ce4499b4.jpg",
+      "directors": [
+        "Gabriel Campina",
+        "John Dauvin"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html",
+      "color": "#008dce"
+    },
+    {
       "id": "313265",
       "title": "Astérix - Le Royaume de Nubie",
       "releaseDate": "2026-12-02",
@@ -1639,22 +1421,6 @@
       "color": "#ff0077"
     },
     {
-      "id": "1000021762",
-      "title": "Rédemptions",
-      "releaseDate": "2026-12-02",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h54min",
-      "synopsis": "Marcel, un tueur à gages à la retraite, est forcé de reprendre du service et de commettre deux meurtres à Montréal. Ce faisant, il initie, sans le savoir, une suite d’événements fortuits qui finiront par mettre en danger la vie de sa propre fille à Paris.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [
-        "Luc Picard"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html",
-      "color": "#e0e0e0"
-    },
-    {
       "id": "1000031015",
       "title": "Un peu avant minuit",
       "releaseDate": "2026-12-02",
@@ -1814,12 +1580,12 @@
       ],
       "duration": "2h02min",
       "synopsis": "Après 14 ans, Hein revient dans son village insulaire, mais la communauté ne le reconnaît pas et exige un procès pour prouver son identité.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8a/2e/8a2e4f6e5dc4ec98b508c53d7ac5abe5.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0f/c1/0fc127a0062773cf4d264000b0919de5.jpg",
       "directors": [
         "Kai Stänicke"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html",
-      "color": "#6f909d"
+      "color": "#93684f"
     },
     {
       "id": "1000033622",
@@ -1895,7 +1661,7 @@
       ],
       "duration": "1h35min",
       "synopsis": "À travers cinq portraits de ses proches, autant de figures de résistance, Pegah Ahangarani trace le récit intime de sa vie. Puisant dans ses archives personnelles, vidéos familiales, images de manifestations, articles de presse et enregistrements sonores, elle traverse plus…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/33/2f/332fee3415881c60afdf11d8e6fa21aa.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/a1/bc/a1bc7d51b5df3f355526dcc70d247d39.jpg",
       "directors": [
         "Pegah Ahangarani"
       ],
@@ -1912,7 +1678,7 @@
         "Famille",
         "Fantastique"
       ],
-      "duration": "2h10min",
+      "duration": "2h11min",
       "synopsis": "Prue, une jeune fille courageuse, part à la recherche de son petit frère, enlevé et retenu dans la forêt interdite peuplée de créatures enchantées, d’alliés inattendus et d’adversaires redoutables. Ce qui débute comme une quête intime se transforme rapidement en une aventure…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/eb/7b/eb7bc0115e792026f287c2f9bbc08faf.jpg",
       "directors": [
@@ -2088,6 +1854,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.html",
       "color": "#e44416"
+    },
+    {
+      "id": "1000021762",
+      "title": "Rédemptions",
+      "releaseDate": "2026-12-16",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h54min",
+      "synopsis": "Lorsque Marcel est contraint d'accepter une dernière mission, il déclenche une chaine d’évènements qui bouleverse plusieurs vies. De Montréal à Paris, chacun devra trouver le courage d'aimer, de pardonner et, peut-être, de se racheter.",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ca/f6/caf6829b8d282da218f5d1069a299e4e.jpg",
+      "directors": [
+        "Luc Picard"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html",
+      "color": "#598cad"
     },
     {
       "id": "309190",
@@ -2271,6 +2053,186 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html",
       "color": "#25a9b4"
+    },
+    {
+      "id": "1000042575",
+      "title": "9 Temples vers le ciel",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "2h20min",
+      "synopsis": "Un fils, une mère, leur famille et 9 temples. Le temps d’une journée, un pèlerinage qui raconte le cycle des saisons de la vie.",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/f5/6e/f56e45c4ca4f4735d846212b2b54db4f.jpg",
+      "directors": [
+        "Sompot Chidgasornpongse"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042575.html",
+      "color": "#8f4b00"
+    },
+    {
+      "id": "1000031926",
+      "title": "Avis de tempête",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Comédie"
+      ],
+      "duration": null,
+      "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis. À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par De Gaulle, entame la traversée. Mais voilà, en plein milieu de…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/86/7c/867c07f507fc9594860b7539d33f99f9.jpg",
+      "directors": [
+        "Ludovic Bernard"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html",
+      "color": "#00b1f6"
+    },
+    {
+      "id": "1000026193",
+      "title": "Les Cœurs affamés",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "duration": "1h43min",
+      "synopsis": "",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Nanni Moretti"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "1000048761",
+      "title": "Les Filles d'Abraham",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h33min",
+      "synopsis": "Après plusieurs années de rupture, Myriam, jeune femme de culture musulmane qui grandit à Marseille, renoue durant les vacances d’été avec Eva, issue d’une famille juive. Ensemble, elles vivent leur jeunesse hors des cadres imposés. Mais cet été d’insouciance se fissure…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/a2/c5/a2c5589d3885f0bf8d41d7e14f054929.jpg",
+      "directors": [
+        "Hanaël El Yousfi"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048761.html",
+      "color": "#c25901"
+    },
+    {
+      "id": "1000036227",
+      "title": "L’Homme qui s’envola",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Thriller"
+      ],
+      "duration": null,
+      "synopsis": "Quand Paul Chardonnet, riche et charismatique entrepreneur meurt dans le crash de son jet privé, sa veuve Sarah se retrouve brutalement seule à la tête de l’empire familial. Mais pour cette mère de trois enfants, la situation s'aggrave encore avec l'arrivée de François…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Olivier Ducray"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "1000023667",
+      "title": "The Baltimorons - Noël à Baltimore",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Comédie"
+      ],
+      "duration": "1h40min",
+      "synopsis": "Le veille de Noël, Cliff, humoriste qui se relève doucement d’une grosse dépression, se casse une dent. Il se rend chez Didi, dentiste de garde et fraîchement divorcée. Par un concours de circonstances, leur rencontre se transforme en odyssée urbaine dans les rues glacées de…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/65/90/6590835cda207bef792d1eabd9428e6d.jpg",
+      "directors": [
+        "Jay Duplass"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html",
+      "color": "#0cadf6"
+    },
+    {
+      "id": "1000022811",
+      "title": "The Last Pickpocket in New York",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Thriller"
+      ],
+      "duration": "1h28min",
+      "synopsis": "Harry est le dernier pickpocket de New York. Un jour, il dérobe une mystérieuse clef USB à un jeune mafieux et se retrouve pris en chasse par une dangereuse organisation criminelle…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/1b/26/1b260c227ef3a119cf9e32b94a63c42d.jpg",
+      "directors": [
+        "Noah Segan"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022811.html",
+      "color": "#c8b50e"
+    },
+    {
+      "id": "1000036259",
+      "title": "The Liberation of Rita Cooper",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Thriller"
+      ],
+      "duration": "2h04min",
+      "synopsis": "Années 80, New Jersey.Malmenée par un quotidien épuisant et un passé traumatique, Rita découvre enfin la sérénité en rencontrant la fascinante Ricky, à la tête d’une communauté de femmes. Guidée par leurs croyances sectaires, Rita se laisse doucement séduire. Mais lorsque ses…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Guy Nattiv"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "1000014942",
+      "title": "Tie Man",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Epouvante-horreur"
+      ],
+      "duration": "1h39min",
+      "synopsis": "La policière Marjolaine Coppola cherche à retrouver sa sœur qui s’est faite enlevée le même soir que leurs parents se sont fait assassiner. Les responsables travailleraient pour Franz DeMann, l’homme d’affaires mégalomane qui tente de devenir maire de la grande ville qu’est…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Rémi Fréchette"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "1000036365",
+      "title": "Un Monde entre nous",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Animation"
+      ],
+      "duration": "1h57min",
+      "synopsis": "Tsubasa et Gyotaro, deux jeunes garçons de huit ans, deviennent inséparables. Isolés dans leur petit monde, ils partagent des moments inoubliables. Mais en grandissant, leur relation bascule, jusqu’à un incident qui les sépare brutalement.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/4b/80/4b80d2ea202a480020dc7f12813f75e8.jpg",
+      "directors": [
+        "Kohei Kadowaki"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.html",
+      "color": "#e69b13"
+    },
+    {
+      "id": "1000051707",
+      "title": "You Can See Everything",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "2h54min",
+      "synopsis": "Trente-quatre jours avant son incarcération, la célèbre fondatrice de Theranos, Elizabeth Holmes, invite une équipe de tournage sceptique à documenter ses moindres faits et gestes. Ce qui commence comme un portrait intime devient un voyage époustouflant de trois ans.",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/24/21/24216dfca28bf89cfc3405c2a3c790e0.jpg",
+      "directors": [
+        "Nathan Fielder",
+        "Lance Oppenheim"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051707.html",
+      "color": "#ac5926"
     }
   ]
 }

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000036365-2026-12-30@realalion.github.io
+DTSTAMP:20261029T055410Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 Un Monde entre nous — sortie ciné
+DESCRIPTION:Animation · 1h57min\n\nTsubasa et Gyotaro\, deux jeunes garço
+ ns de huit ans\, deviennent inséparables. Isolés dans leur petit monde\
+ , ils partagent des moments inoubliables. Mais en grandissant\, leur rela
+ tion bascule\, jusqu’à un incident qui les sépare brutalement.\n\nhtt
+ ps://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

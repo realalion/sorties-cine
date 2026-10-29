@@ -4,17 +4,16 @@ PRODID:-//Sorties Cine France//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sortie-cine-1000021762-2026-12-02@realalion.github.io
-DTSTAMP:20261028T055256Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
+UID:sortie-cine-1000021762-2026-12-16@realalion.github.io
+DTSTAMP:20261029T055410Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Rédemptions — sortie ciné
-DESCRIPTION:Drame · 1h54min\n\nMarcel\, un tueur à gages à la retraite\,
-  est forcé de reprendre du service et de commettre deux meurtres à Mont
- réal. Ce faisant\, il initie\, sans le savoir\, une suite d’événemen
- ts fortuits qui finiront par mettre en danger la vie de sa propre fille 
- à Paris.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.
- html
+DESCRIPTION:Drame · 1h54min\n\nLorsque Marcel est contraint d'accepter une
+  dernière mission\, il déclenche une chaine d’évènements qui boulev
+ erse plusieurs vies. De Montréal à Paris\, chacun devra trouver le cour
+ age d'aimer\, de pardonner et\, peut-être\, de se racheter.\n\nhttps://w
+ ww.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

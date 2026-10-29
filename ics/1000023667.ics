@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000023667-2026-12-30@realalion.github.io
+DTSTAMP:20261029T055410Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 The Baltimorons - Noël à Baltimore — sortie ciné
+DESCRIPTION:Comédie · 1h40min\n\nLe veille de Noël\, Cliff\, humoriste q
+ ui se relève doucement d’une grosse dépression\, se casse une dent. I
+ l se rend chez Didi\, dentiste de garde et fraîchement divorcée. Par un
+  concours de circonstances\, leur rencontre se transforme en odyssée urb
+ aine dans les rues glacées de…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000023667.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

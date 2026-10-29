@@ -11,346 +11,6 @@ X-APPLE-CALENDAR-COLOR:#E8458B
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:sortie-cine-318791@realalion.github.io
-DTSTAMP:20261014T054257Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261014T054257Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Englouti
-DESCRIPTION:Thriller · 1h46min\n\nDe Brian Duffield\n\nAu large de la côt
- e californienne\, Jay Gardiner part à la recherche de la dépouille de s
- on père récemment disparu. Alors qu’il sonde les fonds marins\, le je
- une plongeur se retrouve soudainement avalé par un énorme cachalot.\n\n
- AlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html\
- n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=318791.html
-CATEGORIES:Thriller
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000036827@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Il était une fois le printemps
-DESCRIPTION:Drame · 1h40min\n\nDe Cheyenne Carron\n\nPaul élève seul sa 
- fille Agathe dans un village soudé autour de sa paroisse. Lorsqu’un pr
- être annonce l’arrivée de migrants africains\, la communauté se divi
- se.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=10000
- 36827.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036827.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000048944@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Je veux bien
-DESCRIPTION:Documentaire · 1h11min\n\nDe Boris Claret\, Isabelle Dario\, V
- incent Glenn\n\nFrance 2026 : vivre sans emploi\, ça peut arriver\, mais
-  sans aucun revenu… comment dire ? Votée en décembre 2023\, la loi Pl
- ein emploi conditionne l'allocation du RSA au fait d'exercer 15 heures d'
- activités hebdomadaires. Fortement troublés par cette idée que puissen
- t être…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfil
- m=1000048944.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048944.h
- tml
-CATEGORIES:Documentaire
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000035013@realalion.github.io
-DTSTAMP:20261010T052941Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261010T052941Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 La Porte des dieux
-DESCRIPTION:Drame\, Thriller · 2h12min\n\nDe Toon Wang\n\nDeux jeunes homm
- es découvrent que les portes d’un temple local sont des antiquités pr
- écieuses. Séduits par la tentation de l’argent facile\, ils commetten
- t un vol audacieux. Mais la situation dérape lorsqu’ils se retrouvent 
- impliqués dans une série d’événements violents\, avec…\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.html\n\n
- Sortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.h
- tml
-CATEGORIES:Drame,Thriller
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-321790@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Le Corset
-DESCRIPTION:Animation · 1h30min\n\nDe Louis Clichy\n\nDans une ferme au c
- œur de la Beauce\, Christophe\, 11 ans\, règle ses pas sur ceux de son 
- père. Mais à l’école\, à la maison\, sur le tracteur\, Christophe p
- enche... et tombe. Il est obligé de porter un corset pour filer droit.\n
- \nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.htm
- l\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=321790.html
-CATEGORIES:Animation
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000039457@realalion.github.io
-DTSTAMP:20261010T052941Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261010T052941Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Le Jour de son retour
-DESCRIPTION:Drame · 1h25min\n\nDe Hong Sang-soo\n\nSuite à son récent di
- vorce\, une grande actrice coréenne retourne sur le devant de la scène 
- douze ans après sa dernière apparition à l’écran. À l’occasion d
- e la sortie du film\, elle s’entretient successivement avec trois jeune
- s journalistes...\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_g
- en_cfilm=1000039457.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039457.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-326160@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Les Misérables
-DESCRIPTION:Drame\, Historique · 2h56min\n\nDe Fred Cavayé\n\nLibéré ap
- rès 19 ans de bagne pour le vol d’un pain\, Jean Valjean décide de ch
- anger de vie et de faire le bien autour de lui. Sous une fausse identité
- \, il devient avec le temps un notable respecté de tous. Mais son passé
-  le rattrape...\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen
- _cfilm=326160.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=326160.html
-CATEGORIES:Drame,Historique
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000019091@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Low Expectations
-DESCRIPTION:Drame · 1h45min\n\nDe Eivind Landsvik\n\nAlors qu’elle est a
- u sommet de sa carrière musicale\, Maja vacille et voit ses ambitions s
- ’interrompre brutalement. Elle se réfugie chez sa mère\, enseignante 
- à Oslo\, qui lui décroche un poste de surveillante dans son lycée. Loi
- n de la scène\, Maja commence lentement à retrouver…\n\nAlloCiné : h
- ttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000019091.html\n\nSortie
-  officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019091.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000051724@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Mais qui a tué Marcel ? Un été 76
-DESCRIPTION:Divers · 1h57min\n\nDe Jean-Marc Merlent\n\nEté 1976\, en ple
- ine canicule\, dans cette enquête aux allures de comédie\, nous plongeo
- ns dans un petit village du Périgord\, où une gendarmette respecte la h
- iérarchie militaire avec une intelligence et une subtilité de féminist
- e\, des ados bien dans leur époque\, et un commandant…\n\nAlloCiné : 
- https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051724.html\n\nSorti
- e officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051724.h
- tml
-CATEGORIES:Divers
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000023068@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Malfaisante
-DESCRIPTION:Epouvante-horreur · 1h34min\n\nDe Rob Savage\n\nMALFAISANTE no
- us entraine dans l’univers de la très jeune Bela\, dont le quotidien s
- e détériore de jour en jour en raison de la relation qu’elle entretie
- nt\, au cœur de sa propre maison\, avec une entité malveillante qui res
- semble étrangement à sa propre mère.\n\nAlloCiné : https://www.alloci
- ne.fr/film/fichefilm_gen_cfilm=1000023068.html\n\nSortie officielle au ci
- néma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023068.h
- tml
-CATEGORIES:Epouvante-horreur
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000022205@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Minotaure
-DESCRIPTION:Drame · 2h20min\n\nDe Andreï Zviaguintsev\n\nRussie\, 2022. G
- leb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fi
- ls dans une ville de province. Il se retrouve confronté à des problème
- s professionnels croissants\, dans un monde de plus en plus instable.\n\n
- AlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.h
- tml\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000013643@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Mochy
-DESCRIPTION:Animation · 1h25min\n\nDe Jérémie Degruson\, Yanis Belaid\n\
- nMochy est un jeune chien au grand cœur… mais il n’a pas un physique
-  facile… Ça ne l’empêche pas d’avoir un rêve : participer au con
- cours du plus beau chien.\n\nAlloCiné : https://www.allocine.fr/film/fic
- hefilm_gen_cfilm=1000013643.html\n\nSortie officielle au cinéma en Franc
- e.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.h
- tml
-CATEGORIES:Animation
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000012312@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Où vont les âmes
-DESCRIPTION:Drame · 2h01min\n\nDe Brigitte Poupart\n\nAnna\, 18 ans\, dema
- nde l’aide médicale à mourir. Elle décide de se laisser quinze jours
-  pour accomplir son souhait de revoir ses demi-sœurs avant de s’étein
- dre. Séparées par le procès de leur père quatre ans auparavant\, les 
- trois sœurs révèlent leurs forces individuelles et…\n\nAlloCiné : h
- ttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000012312.html\n\nSortie
-  officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012312.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000047512@realalion.github.io
-DTSTAMP:20261010T052941Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261010T052941Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Petite Casbah
-DESCRIPTION:Animation\, Famille · 1h24min\n\nDe Antoine Colomb\n\nAlgérie
- \, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère 
- Malek à Alger. Suite à une altercation au marché\, il se fait arrêter
-  par la police et Khadidja se retrouve seule. Heureusement\, Lyes\, Ahmed
-  et Philippe vont tout mettre en œuvre pour l’aider à le…\n\nAlloCi
- né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.html\n\
- nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047512.h
- tml
-CATEGORIES:Animation,Famille
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000028085@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Qui vit encore
-DESCRIPTION:Documentaire · 1h54min\n\nDe Nicolas Wadimoff\n\nProfondément
-  émouvant et d’une force tranquille\, ce film poignant traite de la pe
- rte au milieu de l'enfer et de la préservation de l’identité dans les
-  moments sombres. Une carte dessinée à la craie\, esquissée\, les cont
- ours de Gaza et rien d’autre que des mots : neuf réfugiés…\n\nAlloC
- iné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028085.html\n
- \nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028085.h
- tml
-CATEGORIES:Documentaire
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-314939@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🎬 Street Fighter
-DESCRIPTION:Action\, Arts Martiaux · 2h00min\n\nDe Kitao Sakurai\n\nEn 199
- 3\, Ryu et Ken Masters\, deux Street Fighters autrefois inséparables\, s
- ont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrut
- e pour le prochain World Warrior Tournament : un affrontement brutal où 
- se mêlent poings\, destin et fureur. Mais derrière cette…\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=314939.html\n\nSort
- ie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=314939.html
-CATEGORIES:Action,Arts Martiaux
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-1000016901@realalion.github.io
 DTSTAMP:20261017T054101Z
 CREATED:20261008T064216Z
@@ -2472,20 +2132,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000051317@realalion.github.io
-DTSTAMP:20261028T072107Z
+DTSTAMP:20261029T055410Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261028T072107Z
+LAST-MODIFIED:20261029T055410Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Ardèche
 DESCRIPTION:Documentaire · 1h30min\n\nDe Gabriel Campina\, John Dauvin\n\n
- L'Ardèche se dévoile dans ses pierres\, ses vallées encaissées\, ses 
- villages et ses gorges spectaculaires. Sur les routes de ce département 
- montagneux\, John et Gabriel partent à la rencontre de celles et ceux qu
- i entretiennent un lien particulier avec cette terre.\n\nAlloCiné : http
- s://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html\n\nSortie of
- ficielle au cinéma en France.
+ Nés au Brésil et en Inde mais devenus Ardéchois de cœur\, John et Gab
+ riel parcourent les routes du département à la rencontre de celles et c
+ eux qui l’habitent\, autour d’une question aussi intime qu’universe
+ lle : qu’est-ce qui fait qu’un endroit devient chez soi ?\n\nAlloCin
+ é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html\n\n
+ Sortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.h
  tml
 CATEGORIES:Documentaire
@@ -2750,28 +2410,6 @@ DESCRIPTION:Documentaire · 1h35min\n\nDe Irene Bailo Carramiñana\n\nEn 20
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023399.h
  tml
 CATEGORIES:Documentaire
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000021762@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:🎬 Rédemptions
-DESCRIPTION:Drame · 1h54min\n\nDe Luc Picard\n\nMarcel\, un tueur à gages
-  à la retraite\, est forcé de reprendre du service et de commettre deux
-  meurtres à Montréal. Ce faisant\, il initie\, sans le savoir\, une sui
- te d’événements fortuits qui finiront par mettre en danger la vie de 
- sa propre fille à Paris.\n\nAlloCiné : https://www.allocine.fr/film/fic
- hefilm_gen_cfilm=1000021762.html\n\nSortie officielle au cinéma en Franc
- e.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.h
- tml
-CATEGORIES:Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -3091,14 +2729,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-296439@realalion.github.io
-DTSTAMP:20261023T054335Z
+DTSTAMP:20261029T055410Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261023T054335Z
+LAST-MODIFIED:20261029T055410Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 Wildwood la prophétie de la forêt
-DESCRIPTION:Animation\, Aventure\, Famille\, Fantastique · 2h10min\n\nDe T
+DESCRIPTION:Animation\, Aventure\, Famille\, Fantastique · 2h11min\n\nDe T
  ravis Knight\n\nPrue\, une jeune fille courageuse\, part à la recherche 
  de son petit frère\, enlevé et retenu dans la forêt interdite peuplée
   de créatures enchantées\, d’alliés inattendus et d’adversaires re
@@ -3312,6 +2950,27 @@ DESCRIPTION:Drame · 1h48min\n\nDe Rabah Ameur-Zaïmeche\n\nSlimane\, un vi
  https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.html\n\nSorti
  e officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000021762@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261008T064216Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Rédemptions
+DESCRIPTION:Drame · 1h54min\n\nDe Luc Picard\n\nLorsque Marcel est contrai
+ nt d'accepter une dernière mission\, il déclenche une chaine d’évèn
+ ements qui bouleverse plusieurs vies. De Montréal à Paris\, chacun devr
+ a trouver le courage d'aimer\, de pardonner et\, peut-être\, de se rache
+ ter.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000
+ 021762.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.h
  tml
 CATEGORIES:Drame
 TRANSP:TRANSPARENT
@@ -3542,6 +3201,239 @@ DESCRIPTION:Comédie dramatique · 2h37min\n\nDe Anthony Chen\n\nSingapour\
  tie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html
 CATEGORIES:Comédie dramatique
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000042575@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 9 Temples vers le ciel
+DESCRIPTION:Drame · 2h20min\n\nDe Sompot Chidgasornpongse\n\nUn fils\, une
+  mère\, leur famille et 9 temples. Le temps d’une journée\, un pèler
+ inage qui raconte le cycle des saisons de la vie.\n\nAlloCiné : https://
+ www.allocine.fr/film/fichefilm_gen_cfilm=1000042575.html\n\nSortie offici
+ elle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042575.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000031926@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 Avis de tempête
+DESCRIPTION:Comédie\n\nDe Ludovic Bernard\n\nPour apaiser des relations ex
+ plosives\, la France décide de prêter La Joconde\, trésor national\, a
+ ux États-Unis. À bord du tout nouveau paquebot France\, André Malraux\
+ , fantasque ministre de la Culture missionné par De Gaulle\, entame la t
+ raversée. Mais voilà\, en plein milieu de…\n\nAlloCiné : https://www
+ .allocine.fr/film/fichefilm_gen_cfilm=1000031926.html\n\nSortie officiell
+ e au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.h
+ tml
+CATEGORIES:Comédie
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000026193@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 Les Cœurs affamés
+DESCRIPTION:Comédie\, Romance · 1h43min\n\nDe Nanni Moretti\n\nAlloCiné 
+ : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html\n\nSor
+ tie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.h
+ tml
+CATEGORIES:Comédie,Romance
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000048761@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 Les Filles d'Abraham
+DESCRIPTION:Drame · 1h33min\n\nDe Hanaël El Yousfi\n\nAprès plusieurs an
+ nées de rupture\, Myriam\, jeune femme de culture musulmane qui grandit 
+ à Marseille\, renoue durant les vacances d’été avec Eva\, issue d’
+ une famille juive. Ensemble\, elles vivent leur jeunesse hors des cadres 
+ imposés. Mais cet été d’insouciance se fissure…\n\nAlloCiné : htt
+ ps://www.allocine.fr/film/fichefilm_gen_cfilm=1000048761.html\n\nSortie o
+ fficielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048761.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000036227@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 L’Homme qui s’envola
+DESCRIPTION:Thriller\n\nDe Olivier Ducray\n\nQuand Paul Chardonnet\, riche 
+ et charismatique entrepreneur meurt dans le crash de son jet privé\, sa 
+ veuve Sarah se retrouve brutalement seule à la tête de l’empire famil
+ ial. Mais pour cette mère de trois enfants\, la situation s'aggrave enco
+ re avec l'arrivée de François…\n\nAlloCiné : https://www.allocine.fr
+ /film/fichefilm_gen_cfilm=1000036227.html\n\nSortie officielle au cinéma
+  en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.h
+ tml
+CATEGORIES:Thriller
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000023667@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 The Baltimorons - Noël à Baltimore
+DESCRIPTION:Comédie · 1h40min\n\nDe Jay Duplass\n\nLe veille de Noël\, C
+ liff\, humoriste qui se relève doucement d’une grosse dépression\, se
+  casse une dent. Il se rend chez Didi\, dentiste de garde et fraîchement
+  divorcée. Par un concours de circonstances\, leur rencontre se transfor
+ me en odyssée urbaine dans les rues glacées de…\n\nAlloCiné : https:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html\n\nSortie offi
+ cielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.h
+ tml
+CATEGORIES:Comédie
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000022811@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 The Last Pickpocket in New York
+DESCRIPTION:Thriller · 1h28min\n\nDe Noah Segan\n\nHarry est le dernier pi
+ ckpocket de New York. Un jour\, il dérobe une mystérieuse clef USB à u
+ n jeune mafieux et se retrouve pris en chasse par une dangereuse organisa
+ tion criminelle…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_
+ gen_cfilm=1000022811.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022811.h
+ tml
+CATEGORIES:Thriller
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000036259@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 The Liberation of Rita Cooper
+DESCRIPTION:Thriller · 2h04min\n\nDe Guy Nattiv\n\nAnnées 80\, New Jersey
+ .Malmenée par un quotidien épuisant et un passé traumatique\, Rita dé
+ couvre enfin la sérénité en rencontrant la fascinante Ricky\, à la t
+ ête d’une communauté de femmes. Guidée par leurs croyances sectaires
+ \, Rita se laisse doucement séduire. Mais lorsque ses…\n\nAlloCiné : 
+ https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html\n\nSorti
+ e officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.h
+ tml
+CATEGORIES:Thriller
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000014942@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 Tie Man
+DESCRIPTION:Action\, Comédie\, Epouvante-horreur · 1h39min\n\nDe Rémi Fr
+ échette\n\nLa policière Marjolaine Coppola cherche à retrouver sa sœu
+ r qui s’est faite enlevée le même soir que leurs parents se sont fait
+  assassiner. Les responsables travailleraient pour Franz DeMann\, l’hom
+ me d’affaires mégalomane qui tente de devenir maire de la grande ville
+  qu’est…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000014942.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.h
+ tml
+CATEGORIES:Action,Comédie,Epouvante-horreur
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000036365@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 Un Monde entre nous
+DESCRIPTION:Animation · 1h57min\n\nDe Kohei Kadowaki\n\nTsubasa et Gyotaro
+ \, deux jeunes garçons de huit ans\, deviennent inséparables. Isolés d
+ ans leur petit monde\, ils partagent des moments inoubliables. Mais en gr
+ andissant\, leur relation bascule\, jusqu’à un incident qui les sépar
+ e brutalement.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000036365.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.h
+ tml
+CATEGORIES:Animation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000051707@realalion.github.io
+DTSTAMP:20261029T055410Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261029T055410Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 You Can See Everything
+DESCRIPTION:Documentaire · 2h54min\n\nDe Nathan Fielder\, Lance Oppenheim\
+ n\nTrente-quatre jours avant son incarcération\, la célèbre fondatrice
+  de Theranos\, Elizabeth Holmes\, invite une équipe de tournage sceptiqu
+ e à documenter ses moindres faits et gestes. Ce qui commence comme un po
+ rtrait intime devient un voyage époustouflant de trois ans.\n\nAlloCiné
+  : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051707.html\n\nSo
+ rtie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051707.h
+ tml
+CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
