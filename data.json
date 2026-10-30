@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:54:10+00:00",
+  "generatedAt": "2026-10-30T05:55:10+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -220,7 +220,7 @@
       "genres": [
         "Documentaire"
       ],
-      "duration": "1h28min",
+      "duration": "1h34min",
       "synopsis": "Nichée à 1 600 mètres d’altitude dans le minuscule hameau de La Gurraz (35 habitants), en Haute Tarentaise, se trouve la plus petite école de France : huit élèves, de la maternelle au CM2, un seul lieu de savoir et de vie. Le film s’invite dans la vie de ces enfants, de leur…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/54/a7/54a7b09464573f6df8a94e9ca2cd629e.jpg",
       "directors": [
@@ -952,22 +952,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html",
       "color": "#00beff"
-    },
-    {
-      "id": "1000028361",
-      "title": "Classe Libre",
-      "releaseDate": "2026-11-25",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h33min",
-      "synopsis": "Ils ont une vingtaine d’années et veulent devenir acteurs. Pendant deux ans, seize apprentis comédiens ont joué, ri et douté ensemble. Maintenant, ils préparent leur dernier spectacle avant de se lancer dans l'inconnu, rêvant du même destin que leurs prédécesseurs.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/37/12/371289343b55c76e989264613ffff9e5.jpg",
-      "directors": [
-        "Ambroise Sabbagh"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html",
-      "color": "#c02c33"
     },
     {
       "id": "1000043822",
@@ -1722,6 +1706,22 @@
       "color": "#f27a0a"
     },
     {
+      "id": "1000028361",
+      "title": "Classe Libre",
+      "releaseDate": "2026-12-16",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h33min",
+      "synopsis": "Ils ont une vingtaine d’années et veulent devenir acteurs. Pendant deux ans, seize apprentis comédiens ont joué, ri et douté ensemble. Maintenant, ils préparent leur dernier spectacle avant de se lancer dans l'inconnu, rêvant du même destin que leurs prédécesseurs.",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/1b/e0/1be0f2e5289112861afb8bc15a0ca505.jpg",
+      "directors": [
+        "Ambroise Sabbagh"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html",
+      "color": "#b7282f"
+    },
+    {
       "id": "324508",
       "title": "Dune : Troisième partie",
       "releaseDate": "2026-12-16",
@@ -1880,12 +1880,12 @@
       ],
       "duration": "1h44min",
       "synopsis": "Mexico, début des années 90. Bruno grandit dans une famille joyeuse et insouciante. Le jour de ses onze ans, il apprend que son père est malade. Trente ans plus tard, Bruno filme. Il cherche à se souvenir de ces six mois dans la maison rose et bleue de son enfance.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/ed/18/ed18004f2fc9ea6f212b6dc4dda863d8.jpg",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/6b/d9/6bd93256457432107371cdf052514815.jpg",
       "directors": [
         "Bruno Santamaría Razo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=309190.html",
-      "color": "#716843"
+      "color": "#a34a22"
     },
     {
       "id": "1000004507",
@@ -1933,12 +1933,12 @@
       ],
       "duration": null,
       "synopsis": "Nos héros pensaient avoir définitivement laissés derrière eux les jungles imprévisibles de Jumanji. Mais le jeu a évolué : il s'affranchit désormais de sa console pour envahir le monde réel, semant le chaos sur son passage.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/8f/d2/8fd2d54639fd2a862bd73520a13f4070.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/22/8f/228f67224e6ed8c4b53925421847d4e0.jpg",
       "directors": [
         "Jake Kasdan"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html",
-      "color": "#8b3e43"
+      "color": "#a46b1d"
     },
     {
       "id": "326180",

@@ -875,14 +875,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000005161@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261030T055510Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261030T055510Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 Ma toute petite école
-DESCRIPTION:Documentaire · 1h28min\n\nDe Pascal Plisson\n\nNichée à 1 60
+DESCRIPTION:Documentaire · 1h34min\n\nDe Pascal Plisson\n\nNichée à 1 60
  0 mètres d’altitude dans le minuscule hameau de La Gurraz (35 habitant
  s)\, en Haute Tarentaise\, se trouve la plus petite école de France : hu
  it élèves\, de la maternelle au CM2\, un seul lieu de savoir et de vie.
@@ -1805,28 +1805,6 @@ DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h49
  ie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html
 CATEGORIES:Animation,Aventure,Comédie,Famille,Fantastique
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000028361@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:🎬 Classe Libre
-DESCRIPTION:Documentaire · 1h33min\n\nDe Ambroise Sabbagh\n\nIls ont une v
- ingtaine d’années et veulent devenir acteurs. Pendant deux ans\, seize
-  apprentis comédiens ont joué\, ri et douté ensemble. Maintenant\, ils
-  préparent leur dernier spectacle avant de se lancer dans l'inconnu\, r
- êvant du même destin que leurs prédécesseurs.\n\nAlloCiné : https://
- www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html\n\nSortie offici
- elle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.h
- tml
-CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -2784,6 +2762,28 @@ DESCRIPTION:Animation · 1h30min\n\nDe Sébastien Laudenbach\n\nDans les ru
  efilm_gen_cfilm=319971.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=319971.html
 CATEGORIES:Animation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000028361@realalion.github.io
+DTSTAMP:20261030T055510Z
+CREATED:20261008T064216Z
+LAST-MODIFIED:20261030T055510Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🎬 Classe Libre
+DESCRIPTION:Documentaire · 1h33min\n\nDe Ambroise Sabbagh\n\nIls ont une v
+ ingtaine d’années et veulent devenir acteurs. Pendant deux ans\, seize
+  apprentis comédiens ont joué\, ri et douté ensemble. Maintenant\, ils
+  préparent leur dernier spectacle avant de se lancer dans l'inconnu\, r
+ êvant du même destin que leurs prédécesseurs.\n\nAlloCiné : https://
+ www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html\n\nSortie offici
+ elle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.h
+ tml
+CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

@@ -128,7 +128,7 @@
   },
   "1000005161": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261030T055510Z",
    "sequence": 0,
    "fields": {
     "title": "Ma toute petite école",
@@ -136,7 +136,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": "1h28min",
+    "duration": "1h34min",
     "directors": [
      "Pascal Plisson"
     ],
@@ -1392,11 +1392,11 @@
   },
   "1000028361": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261030T055510Z",
+   "sequence": 1,
    "fields": {
     "title": "Classe Libre",
-    "releaseDate": "2026-11-25",
+    "releaseDate": "2026-12-16",
     "genres": [
      "Documentaire"
     ],

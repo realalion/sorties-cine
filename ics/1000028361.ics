@@ -4,10 +4,10 @@ PRODID:-//Sorties Cine France//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sortie-cine-1000028361-2026-11-25@realalion.github.io
-DTSTAMP:20261029T055410Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
+UID:sortie-cine-1000028361-2026-12-16@realalion.github.io
+DTSTAMP:20261030T055510Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Classe Libre — sortie ciné
 DESCRIPTION:Documentaire · 1h33min\n\nIls ont une vingtaine d’années et
   veulent devenir acteurs. Pendant deux ans\, seize apprentis comédiens o
