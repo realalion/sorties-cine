@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T05:55:10+00:00",
+  "generatedAt": "2026-10-31T05:50:16+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-11-04",
   "to": "2026-12-30",
-  "count": 134,
+  "count": 136,
   "films": [
     {
       "id": "1000049344",
@@ -390,12 +390,12 @@
       ],
       "duration": "2h01min",
       "synopsis": "Une équipe de braqueurs filme ses hold-up en direct et devient viral. Mais leur célébrité grandissante attire l'attention d'un agent du FBI et d'une ingénieure informatique déterminés à les arrêter. Alors que cet improbable duo se rapproche dangereusement d’eux, le gang…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/5e/58/5e586c6aeee4bdaf8eed1b76f740bdf5.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/12/bb/12bb4f199e78e6b5d5d1bcbcbe702acb.jpg",
       "directors": [
         "David Leitch"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020289.html",
-      "color": "#62f000"
+      "color": "#ffe000"
     },
     {
       "id": "310509",
@@ -933,7 +933,7 @@
     },
     {
       "id": "312529",
-      "title": "Billie à la croisée des mondes",
+      "title": "Billie, à la croisée des mondes",
       "releaseDate": "2026-11-25",
       "genres": [
         "Animation",
@@ -944,14 +944,14 @@
       ],
       "duration": "1h49min",
       "synopsis": "Adolescente impulsive et anticonformiste, Billie est tout le contraire d’Alice - sa mère - une femme prudente et réfléchie. Lorsque la jeune fille libère accidentellement des pouvoirs magiques qu’elle ignorait, elle se retrouve propulsée bien au-delà de son domicile, vers un…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/3c/18/3c18971d723e0c30b15dd5183bb1192d.jpg",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/e1/e2/e1e26762a29dabe9fec6d1bf189bb4fa.jpg",
       "directors": [
         "Fawn Veerasunthorn",
         "Jason Hand",
         "Josie Trinidad"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html",
-      "color": "#00beff"
+      "color": "#00bbff"
     },
     {
       "id": "1000043822",
@@ -1002,6 +1002,24 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html",
       "color": "#00a4f4"
+    },
+    {
+      "id": "1000054743",
+      "title": "Fractures - mémoire et souvenir",
+      "releaseDate": "2026-11-25",
+      "genres": [
+        "Divers"
+      ],
+      "duration": "1h23min",
+      "synopsis": "",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Jérôme Lévy",
+        "Eduardo Carretié",
+        "Raphaël Jouzeau"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054743.html",
+      "color": "#e0e0e0"
     },
     {
       "id": "1000052290",
@@ -1283,12 +1301,12 @@
       ],
       "duration": null,
       "synopsis": "Claude, 76 ans, aussi charmant qu’irresponsable, est mis à la porte par sa (quatrième) femme. Il se retrouve alors en garde alternée chez ses enfants, qu'il a pourtant évité toute sa vie. Cette cohabitation explosive et improbable pourrait bien, contre toute attente, recoller…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/b7/f6/b7f650930a6305c714ac9650be38bc4c.jpg",
       "directors": [
         "Clément Michel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html",
-      "color": "#e0e0e0"
+      "color": "#c28211"
     },
     {
       "id": "302095",
@@ -1380,13 +1398,13 @@
         "Documentaire"
       ],
       "duration": "1h23min",
-      "synopsis": "\" L’Antenne est à nous \" est une émission de télévision locale financée par le Département de Seine-Saint-Denis et diffusée entre 1986 et 1994. Dans ces mêmes années, une ligne de tramway est implantée dans le département, cinquante ans après la disparition de ce mode de…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/d2/6d/d26d4a76dc4c564ed82ee90c72989cda.jpg",
+      "synopsis": "Années 1980 : en Seine-Saint-Denis, c'est le grand retour du tramway !« L'Antenne est à nous », une émission de télévision locale financée par le Département, sonde l'opinion publique... quitte à la fabriquer.Quarante ans plus tard, plongée dans les rushes de l'émission à la…",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/22/96/2296db26306d15e926f17bd97698562d.jpg",
       "directors": [
         "Mehdi Benallal"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html",
-      "color": "#a19464"
+      "color": "#00b9f8"
     },
     {
       "id": "1000023399",
@@ -1462,12 +1480,12 @@
       ],
       "duration": "1h26min",
       "synopsis": "L’été de leurs dix-huit ans, Emile, Paul, Hascoët et Léo partent à Barcelone, la Mecque du skateboard, pour leurs premières vacances entre potes. Dix ans plus tard, ils s’appellent et se refont le film.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/03/05/030588ae8fce59e28a5e74296d110494.jpg",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/88/66/8866808996baf1b9aec3e55d6f2bd1d0.jpg",
       "directors": [
         "Paul Nouhet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html",
-      "color": "#7e372c"
+      "color": "#ead700"
     },
     {
       "id": "1000018371",
@@ -1556,22 +1574,6 @@
       "color": "#00abd7"
     },
     {
-      "id": "324671",
-      "title": "Le Procès",
-      "releaseDate": "2026-12-09",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "2h02min",
-      "synopsis": "Après 14 ans, Hein revient dans son village insulaire, mais la communauté ne le reconnaît pas et exige un procès pour prouver son identité.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0f/c1/0fc127a0062773cf4d264000b0919de5.jpg",
-      "directors": [
-        "Kai Stänicke"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html",
-      "color": "#93684f"
-    },
-    {
       "id": "1000033622",
       "title": "Mariage au goût d'orange",
       "releaseDate": "2026-12-09",
@@ -1580,12 +1582,12 @@
       ],
       "duration": "1h55min",
       "synopsis": "La fratrie Puig comprend sept enfants. Et c’est aujourd’hui qu’on marie le petit dernier : Jacques. Nous sommes en mars 1978 dans les faubourgs de Nantes. Le père n’assiste pas aux noces, il a été banni de la famille. Les frères et les sœurs eux sont tous là, heureux de se…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/79/ab/79ab831a878a7b39acef5300bf4768a8.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/e4/65/e46560836364159c235fce3ee157efa4.jpg",
       "directors": [
         "Christophe Honoré"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033622.html",
-      "color": "#714536"
+      "color": "#a81f2e"
     },
     {
       "id": "1000012486",
@@ -1714,12 +1716,12 @@
       ],
       "duration": "1h33min",
       "synopsis": "Ils ont une vingtaine d’années et veulent devenir acteurs. Pendant deux ans, seize apprentis comédiens ont joué, ri et douté ensemble. Maintenant, ils préparent leur dernier spectacle avant de se lancer dans l'inconnu, rêvant du même destin que leurs prédécesseurs.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/1b/e0/1be0f2e5289112861afb8bc15a0ca505.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/95/39/9539dda44514f15fb62f43c906f9f799.jpg",
       "directors": [
         "Ambroise Sabbagh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html",
-      "color": "#b7282f"
+      "color": "#b3262c"
     },
     {
       "id": "324508",
@@ -1939,6 +1941,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html",
       "color": "#a46b1d"
+    },
+    {
+      "id": "324671",
+      "title": "Le Procès",
+      "releaseDate": "2026-12-23",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "2h02min",
+      "synopsis": "Après 14 ans, Hein revient dans son village insulaire, mais la communauté ne le reconnaît pas et exige un procès pour prouver son identité.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0f/c1/0fc127a0062773cf4d264000b0919de5.jpg",
+      "directors": [
+        "Kai Stänicke"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html",
+      "color": "#93684f"
     },
     {
       "id": "326180",
@@ -2216,6 +2234,24 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.html",
       "color": "#e69b13"
+    },
+    {
+      "id": "1000022458",
+      "title": "White Snail",
+      "releaseDate": "2026-12-30",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "duration": "1h55min",
+      "synopsis": "Une mannequin biélorusse rêvant d’une carrière en Chine est attirée par un homme mystérieux et solitaire qui travaille de nuit dans une morgue. Cette rencontre bouleverse son rapport à son corps, sa beauté et sa mortalité.",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/7f/bd/7fbdf1c0b687fc82be3b35bc482d6392.jpg",
+      "directors": [
+        "Elsa Kremser",
+        "Levin Peter"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022458.html",
+      "color": "#f70087"
     },
     {
       "id": "1000051707",

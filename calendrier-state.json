@@ -873,6 +873,28 @@
    "inFeed": false,
    "removedOn": "2026-10-29"
   },
+  "1000022458": {
+   "created": "20261031T055016Z",
+   "modified": "20261031T055016Z",
+   "sequence": 0,
+   "fields": {
+    "title": "White Snail",
+    "releaseDate": "2026-12-30",
+    "genres": [
+     "Drame",
+     "Romance"
+    ],
+    "duration": "1h55min",
+    "directors": [
+     "Elsa Kremser",
+     "Levin Peter"
+    ],
+    "cast": [],
+    "synopsis": "Une mannequin biélorusse rêvant d’une carrière en Chine est attirée par un homme mystérieux et solitaire qui travaille de nuit dans une morgue. Cette rencontre bouleverse son rapport à son corps, sa beauté et sa mortalité.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022458.html"
+   },
+   "inFeed": true
+  },
   "1000022460": {
    "created": "20261015T054330Z",
    "modified": "20261015T054330Z",
@@ -1104,7 +1126,7 @@
   },
   "1000024935": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261031T055016Z",
    "sequence": 0,
    "fields": {
     "title": "Opération tramway",
@@ -1117,7 +1139,7 @@
      "Mehdi Benallal"
     ],
     "cast": [],
-    "synopsis": "\" L’Antenne est à nous \" est une émission de télévision locale financée par le Département de Seine-Saint-Denis et diffusée entre 1986 et 1994. Dans ces mêmes années, une ligne de tramway est implantée dans le département, cinquante ans après la disparition de ce mode de…",
+    "synopsis": "Années 1980 : en Seine-Saint-Denis, c'est le grand retour du tramway !« L'Antenne est à nous », une émission de télévision locale financée par le Département, sonde l'opinion publique... quitte à la fabriquer.Quarante ans plus tard, plongée dans les rushes de l'émission à la…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html"
    },
    "inFeed": true
@@ -3075,6 +3097,28 @@
    },
    "inFeed": true
   },
+  "1000054743": {
+   "created": "20261031T055016Z",
+   "modified": "20261031T055016Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Fractures - mémoire et souvenir",
+    "releaseDate": "2026-11-25",
+    "genres": [
+     "Divers"
+    ],
+    "duration": "1h23min",
+    "directors": [
+     "Jérôme Lévy",
+     "Eduardo Carretié",
+     "Raphaël Jouzeau"
+    ],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054743.html"
+   },
+   "inFeed": true
+  },
   "13069": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -3479,10 +3523,10 @@
   },
   "312529": {
    "created": "20261008T064216Z",
-   "modified": "20261017T054101Z",
+   "modified": "20261031T055016Z",
    "sequence": 0,
    "fields": {
-    "title": "Billie à la croisée des mondes",
+    "title": "Billie, à la croisée des mondes",
     "releaseDate": "2026-11-25",
     "genres": [
      "Animation",
@@ -3830,11 +3874,11 @@
   },
   "324671": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261031T055016Z",
+   "sequence": 1,
    "fields": {
     "title": "Le Procès",
-    "releaseDate": "2026-12-09",
+    "releaseDate": "2026-12-23",
     "genres": [
      "Drame"
     ],

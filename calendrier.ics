@@ -1788,13 +1788,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-312529@realalion.github.io
-DTSTAMP:20261017T054101Z
+DTSTAMP:20261031T055016Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261017T054101Z
+LAST-MODIFIED:20261031T055016Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:🎬 Billie à la croisée des mondes
+SUMMARY:🎬 Billie\, à la croisée des mondes
 DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h49
  min\n\nDe Fawn Veerasunthorn\, Jason Hand\, Josie Trinidad\n\nAdolescente
   impulsive et anticonformiste\, Billie est tout le contraire d’Alice - 
@@ -1870,6 +1870,24 @@ DESCRIPTION:Drame\, Romance\, Thriller\n\nDe Pierre-Ange Carlotti\n\nSacha
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.h
  tml
 CATEGORIES:Drame,Romance,Thriller
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000054743@realalion.github.io
+DTSTAMP:20261031T055016Z
+CREATED:20261031T055016Z
+LAST-MODIFIED:20261031T055016Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Fractures - mémoire et souvenir
+DESCRIPTION:Divers · 1h23min\n\nDe Jérôme Lévy\, Eduardo Carretié\, Ra
+ phaël Jouzeau\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000054743.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054743.h
+ tml
+CATEGORIES:Divers
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -2349,20 +2367,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000024935@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261031T055016Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261031T055016Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Opération tramway
-DESCRIPTION:Documentaire · 1h23min\n\nDe Mehdi Benallal\n\n" L’Antenne e
- st à nous " est une émission de télévision locale financée par le D
- épartement de Seine-Saint-Denis et diffusée entre 1986 et 1994. Dans ce
- s mêmes années\, une ligne de tramway est implantée dans le départeme
- nt\, cinquante ans après la disparition de ce mode de…\n\nAlloCiné : 
- https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html\n\nSorti
- e officielle au cinéma en France.
+DESCRIPTION:Documentaire · 1h23min\n\nDe Mehdi Benallal\n\nAnnées 1980 : 
+ en Seine-Saint-Denis\, c'est le grand retour du tramway !« L'Antenne est
+  à nous »\, une émission de télévision locale financée par le Dépa
+ rtement\, sonde l'opinion publique... quitte à la fabriquer.Quarante ans
+  plus tard\, plongée dans les rushes de l'émission à la…\n\nAlloCin
+ é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html\n\n
+ Sortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.h
  tml
 CATEGORIES:Documentaire
@@ -2576,25 +2594,6 @@ DESCRIPTION:Animation\, Aventure\, Comédie · 1h54min\n\nDe Alessandro Car
  n France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=204864.html
 CATEGORIES:Animation,Aventure,Comédie
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-324671@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:🎬 Le Procès
-DESCRIPTION:Drame · 2h02min\n\nDe Kai Stänicke\n\nAprès 14 ans\, Hein re
- vient dans son village insulaire\, mais la communauté ne le reconnaît p
- as et exige un procès pour prouver son identité.\n\nAlloCiné : https:/
- /www.allocine.fr/film/fichefilm_gen_cfilm=324671.html\n\nSortie officiell
- e au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html
-CATEGORIES:Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -3058,6 +3057,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-324671@realalion.github.io
+DTSTAMP:20261031T055016Z
+CREATED:20261008T064216Z
+LAST-MODIFIED:20261031T055016Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 Le Procès
+DESCRIPTION:Drame · 2h02min\n\nDe Kai Stänicke\n\nAprès 14 ans\, Hein re
+ vient dans son village insulaire\, mais la communauté ne le reconnaît p
+ as et exige un procès pour prouver son identité.\n\nAlloCiné : https:/
+ /www.allocine.fr/film/fichefilm_gen_cfilm=324671.html\n\nSortie officiell
+ e au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-326180@realalion.github.io
 DTSTAMP:20261027T054439Z
 CREATED:20261022T054313Z
@@ -3412,6 +3430,27 @@ DESCRIPTION:Animation · 1h57min\n\nDe Kohei Kadowaki\n\nTsubasa et Gyotaro
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.h
  tml
 CATEGORIES:Animation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000022458@realalion.github.io
+DTSTAMP:20261031T055016Z
+CREATED:20261031T055016Z
+LAST-MODIFIED:20261031T055016Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎬 White Snail
+DESCRIPTION:Drame\, Romance · 1h55min\n\nDe Elsa Kremser\, Levin Peter\n\n
+ Une mannequin biélorusse rêvant d’une carrière en Chine est attirée
+  par un homme mystérieux et solitaire qui travaille de nuit dans une mor
+ gue. Cette rencontre bouleverse son rapport à son corps\, sa beauté et 
+ sa mortalité.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000022458.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022458.h
+ tml
+CATEGORIES:Drame,Romance
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

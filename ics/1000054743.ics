@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000054743-2026-11-25@realalion.github.io
+DTSTAMP:20261031T055016Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🎬 Fractures - mémoire et souvenir — sortie ciné
+DESCRIPTION:Divers · 1h23min\n\nhttps://www.allocine.fr/film/fichefilm_gen
+ _cfilm=1000054743.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054743.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

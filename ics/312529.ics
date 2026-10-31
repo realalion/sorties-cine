@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-312529-2026-11-25@realalion.github.io
-DTSTAMP:20261030T055510Z
+DTSTAMP:20261031T055016Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:🎬 Billie à la croisée des mondes — sortie ciné
+SUMMARY:🎬 Billie\, à la croisée des mondes — sortie ciné
 DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h49
  min\n\nAdolescente impulsive et anticonformiste\, Billie est tout le cont
  raire d’Alice - sa mère - une femme prudente et réfléchie. Lorsque l
