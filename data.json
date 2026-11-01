@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:50:16+00:00",
+  "generatedAt": "2026-11-01T05:53:57+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -252,7 +252,7 @@
       "genres": [
         "Animation"
       ],
-      "duration": "58min",
+      "duration": "49min",
       "synopsis": "Retrouvez Peppa et toute sa famille au cinéma pour une grande fête de Noël pleine de surprises et d’aventures hivernales. Une sélection de nouveaux épisodes et d'épisodes incontournables de la série à découvrir avec vos proches !",
       "poster": "https://fr.web.img3.acsta.net/c_310_420/img/60/99/6099fc0962b069b0b087541354161411.jpg",
       "directors": [
@@ -810,12 +810,12 @@
       ],
       "duration": "2h24min",
       "synopsis": "Meeting The Buddha est un documentaire sur la vie de Rangjung Rigpé Dorjé (XVIe Karmapa) et de son élève Ole Nydahl devenu lama, ayant perpétué la transmission vivante de la lignée Karma Kagyu et la création de 600 centres bouddhistes tibétains en occident.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/14/86/1486a23fe06376a99d50502e0d2d3502.jpg",
       "directors": [
         "Marta György-Kessler"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html",
-      "color": "#e0e0e0"
+      "color": "#8d372c"
     },
     {
       "id": "1000021751",

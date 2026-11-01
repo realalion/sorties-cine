@@ -919,14 +919,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000051859@realalion.github.io
-DTSTAMP:20261028T055256Z
+DTSTAMP:20261101T055357Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261028T055256Z
+LAST-MODIFIED:20261101T055357Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 Peppa fête Noël
-DESCRIPTION:Animation · 58min\n\nDe Mark Baker\, Neville Astley\n\nRetrouv
+DESCRIPTION:Animation · 49min\n\nDe Mark Baker\, Neville Astley\n\nRetrouv
  ez Peppa et toute sa famille au cinéma pour une grande fête de Noël pl
  eine de surprises et d’aventures hivernales. Une sélection de nouveaux
   épisodes et d'épisodes incontournables de la série à découvrir avec
