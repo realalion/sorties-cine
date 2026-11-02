@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-324536-2026-11-04@realalion.github.io
+DTSTAMP:20261102T061322Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎬 Aro Berria — sortie ciné
+DESCRIPTION:Drame\, Historique · 1h42min\n\nMai 1978\, c’est la fin de l
+ ’Espagne franquiste\, et l’effervescence d’une transition vers la d
+ émocratie se fait sentir. Dans la banlieue de San Sebastian\, un groupe 
+ de jeunes ouvriers en lutte contre un accord métallurgique s'électrise.
+  Leur action étant finalement un échec\,…\n\nhttps://www.allocine.fr/
+ film/fichefilm_gen_cfilm=324536.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=324536.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

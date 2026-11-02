@@ -2144,7 +2144,8 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038770.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-02"
   },
   "1000039457": {
    "created": "20261008T064216Z",
@@ -3849,6 +3850,27 @@
     "cast": [],
     "synopsis": "Près de vingt ans après avoir pris le contrôle de l’Empire, Paul Atréides règne désormais en empereur impitoyable. Alors que d’anciens alliés refont surface, que de nouvelles menaces émergent et que la trahison rôde à chaque instant, Paul doit affronter les conséquences de la…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html"
+   },
+   "inFeed": true
+  },
+  "324536": {
+   "created": "20261102T061322Z",
+   "modified": "20261102T061322Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Aro Berria",
+    "releaseDate": "2026-11-04",
+    "genres": [
+     "Drame",
+     "Historique"
+    ],
+    "duration": "1h42min",
+    "directors": [
+     "Irati Gorostidi Agirretxe"
+    ],
+    "cast": [],
+    "synopsis": "Mai 1978, c’est la fin de l’Espagne franquiste, et l’effervescence d’une transition vers la démocratie se fait sentir. Dans la banlieue de San Sebastian, un groupe de jeunes ouvriers en lutte contre un accord métallurgique s'électrise. Leur action étant finalement un échec,…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324536.html"
    },
    "inFeed": true
   },

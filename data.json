@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T05:53:57+00:00",
+  "generatedAt": "2026-11-02T06:13:22+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -22,6 +22,23 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html",
       "color": "#ee0064"
+    },
+    {
+      "id": "324536",
+      "title": "Aro Berria",
+      "releaseDate": "2026-11-04",
+      "genres": [
+        "Drame",
+        "Historique"
+      ],
+      "duration": "1h42min",
+      "synopsis": "Mai 1978, c’est la fin de l’Espagne franquiste, et l’effervescence d’une transition vers la démocratie se fait sentir. Dans la banlieue de San Sebastian, un groupe de jeunes ouvriers en lutte contre un accord métallurgique s'électrise. Leur action étant finalement un échec,…",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/d1/93/d193bd8d74a2118da6f76c8a3e1e4084.jpg",
+      "directors": [
+        "Irati Gorostidi Agirretxe"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324536.html",
+      "color": "#e92311"
     },
     {
       "id": "1000040300",
@@ -81,20 +98,6 @@
       "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8d/76/8d76e28dde8b463ab39e241de1e03492.png",
       "directors": [],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038769.html",
-      "color": "#ff7c27"
-    },
-    {
-      "id": "1000038770",
-      "title": "Coup de coeur surprise Jeune Public -3- AFCAE Novembre 2026",
-      "releaseDate": "2026-11-04",
-      "genres": [
-        "Divers"
-      ],
-      "duration": "1h30min",
-      "synopsis": "",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8d/76/8d76e28dde8b463ab39e241de1e03492.png",
-      "directors": [],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038770.html",
       "color": "#ff7c27"
     },
     {
