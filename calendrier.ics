@@ -1323,17 +1323,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000034007@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261103T060221Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261103T060221Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 Scrooge
-DESCRIPTION:Aventure\, Drame\, Fantastique\n\nDe Ti West\n\nPour changer so
- n futur\, Scrooge va revivre son passé.\n\nAlloCiné : https://www.alloc
- ine.fr/film/fichefilm_gen_cfilm=1000034007.html\n\nSortie officielle au c
- inéma en France.
+DESCRIPTION:Aventure\, Drame\, Fantastique · 1h55min\n\nDe Ti West\n\nPour
+  changer son futur\, Scrooge va revivre son passé.\n\nAlloCiné : https:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html\n\nSortie offi
+ cielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.h
  tml
 CATEGORIES:Aventure,Drame,Fantastique
@@ -1490,20 +1490,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000004528@realalion.github.io
-DTSTAMP:20261015T054330Z
+DTSTAMP:20261103T060221Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261015T054330Z
+LAST-MODIFIED:20261103T060221Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Hunger Games : Lever de soleil sur la moisson
-DESCRIPTION:Action\, Aventure\, Drame\, Science Fiction\n\nDe Francis Lawre
- nce\n\nAlors que le jour se lève sur les 50e Hunger Games annuels\, la p
- eur s'empare des districts de Panem. Cette année\, en l'honneur du Quart
- er Quell\, deux fois plus de tributs seront tirés au sort. Dans le Distr
- ict 12\, Haymitch Abernathy essaie de ne pas trop penser à ses chances.
- …\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=10000
- 04528.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Action\, Aventure\, Drame\, Science Fiction · 2h38min\n\nDe Fr
+ ancis Lawrence\n\nAlors que le jour se lève sur les 50e Hunger Games ann
+ uels\, la peur s'empare des districts de Panem. Cette année\, en l'honne
+ ur du Quarter Quell\, deux fois plus de tributs seront tirés au sort. Da
+ ns le District 12\, Haymitch Abernathy essaie de ne pas trop penser à se
+ s chances.…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_c
+ film=1000004528.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.h
  tml
 CATEGORIES:Action,Aventure,Drame,Science Fiction
@@ -1663,28 +1663,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000032798@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:🎬 Peleliu : Guerre au paradis
-DESCRIPTION:Animation · 1h44min\n\nDe Goro Kuji\n\nJapon\, 1944. 10 000 so
- ldats japonais débarquent sur l'île de Peleliu. Tamaru\, un aspirant ma
- ngaka de 21 ans est enrôlé malgré lui dans le conflit\, tout comme Yos
- hiki avec qui il va se lier d'amitié. Ensemble\, ils s'accrochent à la 
- vie au coeur de cette guerre d'usure. Isolés…\n\nAlloCiné : https://w
- ww.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html\n\nSortie officie
- lle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.h
- tml
-CATEGORIES:Animation
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-1000052544@realalion.github.io
 DTSTAMP:20261008T064216Z
 CREATED:20261008T064216Z
@@ -1721,6 +1699,28 @@ DESCRIPTION:Drame · 1h42min\n\nDe Viesturs Kairiss\n\nLettonie\, 1964. Uly
  www.allocine.fr/film/fichefilm_gen_cfilm=1000028480.html\n\nSortie offici
  elle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028480.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000020268@realalion.github.io
+DTSTAMP:20261103T060221Z
+CREATED:20261103T060221Z
+LAST-MODIFIED:20261103T060221Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Une femme comme Eva
+DESCRIPTION:Drame · 1h43min\n\nDe Nouchka van Brakel\n\nMalheureuse dans s
+ on mariage\, Eva rencontre en France Liliane\, une femme indépendante vi
+ vant en communauté et dont elle tombe amoureuse. À son retour aux Pays-
+ Bas\, elle décide de quitter son mari tout en souhaitant conserver la ga
+ rde de ses deux enfants.\n\nAlloCiné : https://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000020268.html\n\nSortie officielle au cinéma en France
+ .
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020268.h
  tml
 CATEGORIES:Drame
 TRANSP:TRANSPARENT

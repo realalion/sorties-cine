@@ -105,7 +105,7 @@
   },
   "1000004528": {
    "created": "20261008T064216Z",
-   "modified": "20261015T054330Z",
+   "modified": "20261103T060221Z",
    "sequence": 0,
    "fields": {
     "title": "Hunger Games : Lever de soleil sur la moisson",
@@ -116,7 +116,7 @@
      "Drame",
      "Science Fiction"
     ],
-    "duration": null,
+    "duration": "2h38min",
     "directors": [
      "Francis Lawrence"
     ],
@@ -703,6 +703,26 @@
     "cast": [],
     "synopsis": "Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris. Alors qu’elle répète l'Orpheus, un opéra maudit qui aurait été composé par le Fantôme de l'Opéra, elle tombe amoureuse d'un mystérieux pianiste.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019622.html"
+   },
+   "inFeed": true
+  },
+  "1000020268": {
+   "created": "20261103T060221Z",
+   "modified": "20261103T060221Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Une femme comme Eva",
+    "releaseDate": "2026-11-18",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h43min",
+    "directors": [
+     "Nouchka van Brakel"
+    ],
+    "cast": [],
+    "synopsis": "Malheureuse dans son mariage, Eva rencontre en France Liliane, une femme indépendante vivant en communauté et dont elle tombe amoureuse. À son retour aux Pays-Bas, elle décide de quitter son mari tout en souhaitant conserver la garde de ses deux enfants.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020268.html"
    },
    "inFeed": true
   },
@@ -1688,7 +1708,8 @@
     "synopsis": "Japon, 1944. 10 000 soldats japonais débarquent sur l'île de Peleliu. Tamaru, un aspirant mangaka de 21 ans est enrôlé malgré lui dans le conflit, tout comme Yoshiki avec qui il va se lier d'amitié. Ensemble, ils s'accrochent à la vie au coeur de cette guerre d'usure. Isolés…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-03"
   },
   "1000033019": {
    "created": "20261012T073847Z",
@@ -1770,7 +1791,7 @@
   },
   "1000034007": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261103T060221Z",
    "sequence": 0,
    "fields": {
     "title": "Scrooge",
@@ -1780,7 +1801,7 @@
      "Drame",
      "Fantastique"
     ],
-    "duration": null,
+    "duration": "1h55min",
     "directors": [
      "Ti West"
     ],

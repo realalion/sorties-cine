@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000034007-2026-11-11@realalion.github.io
-DTSTAMP:20261102T061322Z
+DTSTAMP:20261103T060221Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 Scrooge — sortie ciné
-DESCRIPTION:Aventure\, Drame\, Fantastique\n\nPour changer son futur\, Scro
- oge va revivre son passé.\n\nhttps://www.allocine.fr/film/fichefilm_gen_
- cfilm=1000034007.html
+DESCRIPTION:Aventure\, Drame\, Fantastique · 1h55min\n\nPour changer son f
+ utur\, Scrooge va revivre son passé.\n\nhttps://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000034007.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
