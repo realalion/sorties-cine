@@ -753,20 +753,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000014492@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261104T060901Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261104T060901Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 Godzilla Minus Zero
-DESCRIPTION:Science Fiction · 2h15min\n\nDe Takashi Yamazaki\n\nJapon apr
- ès la Seconde Guerre mondiale\, Shikishima Koichi\, un ancien pilote kam
- ikaze survit à une rencontre avec Godzilla et souffre de symptômes de s
- tress post-traumatique. Lorsque la créature réapparaît des années plu
- s tard\, un groupe de soldats et de vétérans doit s'unir…\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html\n\n
- Sortie officielle au cinéma en France.
+DESCRIPTION:Science Fiction · 2h15min\n\nDe Takashi Yamazaki\n\nLa guerre 
+ a détruit le Japon. Godzilla a réduit ses ultimes espoirs à zéro. Deu
+ x ans ont passé. Alors que l’humanité commence enfin à renouer avec 
+ une paix difficilement acquise\, une nouvelle menace surgit et anéantit 
+ tout espoir en un instant.\n\nAlloCiné : https://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000014492.html\n\nSortie officielle au cinéma en Fran
+ ce.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.h
  tml
 CATEGORIES:Science Fiction
@@ -839,13 +839,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-272218@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261104T060901Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261104T060901Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:🎬 L’Arabe (The Arab)
+SUMMARY:🎬 L’Arabe
 DESCRIPTION:Drame · 1h46min\n\nDe Malek Bensmail\n\nDans l’Algérie des 
  années de plomb\, un jeune journaliste tente de faire émerger une parol
  e enfouie. C’est à Oran qu’il rencontre un retraité solitaire qui l
@@ -878,20 +878,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000005161@realalion.github.io
-DTSTAMP:20261030T055510Z
+DTSTAMP:20261104T060901Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261030T055510Z
+LAST-MODIFIED:20261104T060901Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎬 Ma toute petite école
-DESCRIPTION:Documentaire · 1h34min\n\nDe Pascal Plisson\n\nNichée à 1 60
+DESCRIPTION:Documentaire · 1h28min\n\nDe Pascal Plisson\n\nNichée à 1 60
  0 mètres d’altitude dans le minuscule hameau de La Gurraz (35 habitant
  s)\, en Haute Tarentaise\, se trouve la plus petite école de France : hu
  it élèves\, de la maternelle au CM2\, un seul lieu de savoir et de vie.
-  Le film s’invite dans la vie de ces enfants\, de leur…\n\nAlloCiné 
- : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html\n\nSor
- tie officielle au cinéma en France.
+ \n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=10000051
+ 61.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.h
  tml
 CATEGORIES:Documentaire
@@ -2240,14 +2239,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000038378@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261104T060901Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261104T060901Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Claude
-DESCRIPTION:Comédie\n\nDe Clément Michel\n\nClaude\, 76 ans\, aussi charm
+DESCRIPTION:Comédie\n\nDe Clément Michel\n\nClaude\, 75 ans\, aussi charm
  ant qu’irresponsable\, est mis à la porte par sa (quatrième) femme. I
  l se retrouve alors en garde alternée chez ses enfants\, qu'il a pourtan
  t évité toute sa vie. Cette cohabitation explosive et improbable pourra
@@ -3163,6 +3162,28 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000023667@realalion.github.io
+DTSTAMP:20261104T060901Z
+CREATED:20261029T055410Z
+LAST-MODIFIED:20261104T060901Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🎬 The Baltimorons - Noël à Baltimore
+DESCRIPTION:Comédie · 1h40min\n\nDe Jay Duplass\n\nLe veille de Noël\, C
+ liff\, humoriste qui se relève doucement d’une grosse dépression\, se
+  casse une dent. Il se rend chez Didi\, dentiste de garde et fraîchement
+  divorcée. Par un concours de circonstances\, leur rencontre se transfor
+ me en odyssée urbaine dans les rues glacées de…\n\nAlloCiné : https:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html\n\nSortie offi
+ cielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.h
+ tml
+CATEGORIES:Comédie
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-1000039482@realalion.github.io
 DTSTAMP:20261022T054313Z
 CREATED:20261022T054313Z
@@ -3326,28 +3347,6 @@ DESCRIPTION:Thriller\n\nDe Olivier Ducray\n\nQuand Paul Chardonnet\, riche
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.h
  tml
 CATEGORIES:Thriller
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000023667@realalion.github.io
-DTSTAMP:20261029T055410Z
-CREATED:20261029T055410Z
-LAST-MODIFIED:20261029T055410Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:🎬 The Baltimorons - Noël à Baltimore
-DESCRIPTION:Comédie · 1h40min\n\nDe Jay Duplass\n\nLe veille de Noël\, C
- liff\, humoriste qui se relève doucement d’une grosse dépression\, se
-  casse une dent. Il se rend chez Didi\, dentiste de garde et fraîchement
-  divorcée. Par un concours de circonstances\, leur rencontre se transfor
- me en odyssée urbaine dans les rues glacées de…\n\nAlloCiné : https:
- //www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html\n\nSortie offi
- cielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.h
- tml
-CATEGORIES:Comédie
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

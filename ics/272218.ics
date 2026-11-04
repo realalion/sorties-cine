@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-272218-2026-11-04@realalion.github.io
-DTSTAMP:20261103T060221Z
+DTSTAMP:20261104T060901Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:🎬 L’Arabe (The Arab) — sortie ciné
+SUMMARY:🎬 L’Arabe — sortie ciné
 DESCRIPTION:Drame · 1h46min\n\nDans l’Algérie des années de plomb\, un
   jeune journaliste tente de faire émerger une parole enfouie. C’est à
   Oran qu’il rencontre un retraité solitaire qui lui livre une histoire

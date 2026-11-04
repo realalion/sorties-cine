@@ -128,7 +128,7 @@
   },
   "1000005161": {
    "created": "20261008T064216Z",
-   "modified": "20261030T055510Z",
+   "modified": "20261104T060901Z",
    "sequence": 0,
    "fields": {
     "title": "Ma toute petite école",
@@ -136,12 +136,12 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": "1h34min",
+    "duration": "1h28min",
     "directors": [
      "Pascal Plisson"
     ],
     "cast": [],
-    "synopsis": "Nichée à 1 600 mètres d’altitude dans le minuscule hameau de La Gurraz (35 habitants), en Haute Tarentaise, se trouve la plus petite école de France : huit élèves, de la maternelle au CM2, un seul lieu de savoir et de vie. Le film s’invite dans la vie de ces enfants, de leur…",
+    "synopsis": "Nichée à 1 600 mètres d’altitude dans le minuscule hameau de La Gurraz (35 habitants), en Haute Tarentaise, se trouve la plus petite école de France : huit élèves, de la maternelle au CM2, un seul lieu de savoir et de vie.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html"
    },
    "inFeed": true
@@ -355,7 +355,7 @@
   },
   "1000014492": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261104T060901Z",
    "sequence": 0,
    "fields": {
     "title": "Godzilla Minus Zero",
@@ -368,7 +368,7 @@
      "Takashi Yamazaki"
     ],
     "cast": [],
-    "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus tard, un groupe de soldats et de vétérans doit s'unir…",
+    "synopsis": "La guerre a détruit le Japon. Godzilla a réduit ses ultimes espoirs à zéro. Deux ans ont passé. Alors que l’humanité commence enfin à renouer avec une paix difficilement acquise, une nouvelle menace surgit et anéantit tout espoir en un instant.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html"
    },
    "inFeed": true
@@ -1081,11 +1081,11 @@
   },
   "1000023667": {
    "created": "20261029T055410Z",
-   "modified": "20261029T055410Z",
-   "sequence": 0,
+   "modified": "20261104T060901Z",
+   "sequence": 1,
    "fields": {
     "title": "The Baltimorons - Noël à Baltimore",
-    "releaseDate": "2026-12-30",
+    "releaseDate": "2026-12-23",
     "genres": [
      "Comédie"
     ],
@@ -2095,7 +2095,7 @@
   },
   "1000038378": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261104T060901Z",
    "sequence": 0,
    "fields": {
     "title": "Claude",
@@ -2108,7 +2108,7 @@
      "Clément Michel"
     ],
     "cast": [],
-    "synopsis": "Claude, 76 ans, aussi charmant qu’irresponsable, est mis à la porte par sa (quatrième) femme. Il se retrouve alors en garde alternée chez ses enfants, qu'il a pourtant évité toute sa vie. Cette cohabitation explosive et improbable pourrait bien, contre toute attente, recoller…",
+    "synopsis": "Claude, 75 ans, aussi charmant qu’irresponsable, est mis à la porte par sa (quatrième) femme. Il se retrouve alors en garde alternée chez ses enfants, qu'il a pourtant évité toute sa vie. Cette cohabitation explosive et improbable pourrait bien, contre toute attente, recoller…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html"
    },
    "inFeed": true
@@ -3231,10 +3231,10 @@
   },
   "272218": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261104T060901Z",
    "sequence": 0,
    "fields": {
-    "title": "L’Arabe (The Arab)",
+    "title": "L’Arabe",
     "releaseDate": "2026-11-04",
     "genres": [
      "Drame"

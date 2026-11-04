@@ -4,10 +4,10 @@ PRODID:-//Sorties Cine France//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sortie-cine-1000023667-2026-12-30@realalion.github.io
-DTSTAMP:20261103T060221Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
+UID:sortie-cine-1000023667-2026-12-23@realalion.github.io
+DTSTAMP:20261104T060901Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 The Baltimorons - Noël à Baltimore — sortie ciné
 DESCRIPTION:Comédie · 1h40min\n\nLe veille de Noël\, Cliff\, humoriste q
  ui se relève doucement d’une grosse dépression\, se casse une dent. I
