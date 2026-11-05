@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000035477-2027-01-06@realalion.github.io
+DTSTAMP:20261105T061113Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🎬 Le Fils idéal — sortie ciné
+DESCRIPTION:Drame · 2h06min\n\nDans un futur proche\, Otone et son mari Ke
+ nsuke\, qui ont perdu leur enfant\, se voient proposer un robot humanoïd
+ e totalement identique à leur fils.\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000035477.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035477.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

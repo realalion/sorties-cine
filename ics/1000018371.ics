@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000018371-2026-12-09@realalion.github.io
-DTSTAMP:20261104T060901Z
+DTSTAMP:20261105T061113Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 Changer l'eau des fleurs — sortie ciné
-DESCRIPTION:Drame\n\nViolette\, la quarantaine\, est garde-cimetière dans 
- une petite ville de Bourgogne. Son quotidien est rythmé par les confiden
- ces des personnes de passage ou habitués du lieu\, qui viennent trouver 
- un peu de réconfort dans sa loge. Un jour\, elle reçoit la visite d'un 
- policier\,…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000018
- 371.html
+DESCRIPTION:Drame · 2h12min\n\nViolette\, la quarantaine\, est garde-cimet
+ ière dans une petite ville de Bourgogne. Son quotidien est rythmé par l
+ es confidences des personnes de passage ou habitués du lieu\, qui vienne
+ nt trouver un peu de réconfort dans sa loge. Un jour\, elle reçoit la v
+ isite d'un policier\,…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000018371.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

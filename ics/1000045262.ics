@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000045262-2027-01-06@realalion.github.io
+DTSTAMP:20261105T061113Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🎬 La Conscience politique — sortie ciné
+DESCRIPTION:Documentaire · 1h11min\n\nLa Conscience Politique identifie et
+  répond à la violence de nos institutions à travers l'œuvre du philos
+ ophe Geoffroy de Lagasnerie. Ce film est une invitation à la lutte\, pen
+ sée aux côtés d’Assa Traoré\, Edouard Louis\, Didier Eribon et d'au
+ tres alliés\, engagés pour ouvrir la…\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=1000045262.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045262.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

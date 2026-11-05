@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000018576-2027-01-06@realalion.github.io
+DTSTAMP:20261105T061113Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🎬 How to be normal — sortie ciné
+DESCRIPTION:Drame · 1h42min\n\nÀ peine sortie d’un séjour en psychiatr
+ ie\, Pia retourne vivre chez ses parents pour reconstruire sa vie. Entre 
+ ses différents emplois\, ses peines de cœur\, ses médicaments et la st
+ igmatisation\, elle se retrouve plongée dans un monde qui part en vrille
+  et qui lui semble aussi…\n\nhttps://www.allocine.fr/film/fichefilm_gen
+ _cfilm=1000018576.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018576.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
