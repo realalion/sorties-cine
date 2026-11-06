@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000022255-2026-11-18@realalion.github.io
+DTSTAMP:20261106T071827Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Arsa — sortie ciné
+DESCRIPTION:Drame · 1h34min\n\nArsa a environ dix-huit ans. Belle\, introv
+ ertie et sauvage\, elle vit seule dans une cabane délabrée qui surplomb
+ e la mer\, quelque part à l’extrémité d’une île. Elle évolue ave
+ c assurance dans ce paysage\, où elle s’est construit un monde suspend
+ u. Les roseaux marquent la…\n\nhttps://www.allocine.fr/film/fichefilm_g
+ en_cfilm=1000022255.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022255.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -5,13 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000037196-2027-01-06@realalion.github.io
-DTSTAMP:20261105T061113Z
+DTSTAMP:20261106T071827Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:🎬 If I Go — sortie ciné
-DESCRIPTION:Drame · 1h35min\n\nLil Ant\, 12 ans\, commence à voir des vis
- ions spectrales\, de garçons flottant dans son quartier.\n\nhttps://www.
- allocine.fr/film/fichefilm_gen_cfilm=1000037196.html
+DESCRIPTION:Drame · 1h35min\n\nDu haut de ses douze ans\, Lil Ant trans­f
+ orme son quar­tier popu­laire\, situé sous un cou­loir aérien de l
+ ’aéroport de Los Angeles\, en une mytho­lo­gie vivante où les siens
+  deviennent des dieux et le ciel un bal­let inces­sant de départs. En 
+ quête d’un lien avec son père\,…\n\nhttps://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000037196.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037196.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

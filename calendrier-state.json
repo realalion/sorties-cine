@@ -956,6 +956,26 @@
    "inFeed": false,
    "removedOn": "2026-10-29"
   },
+  "1000022255": {
+   "created": "20261106T071827Z",
+   "modified": "20261106T071827Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Arsa",
+    "releaseDate": "2026-11-18",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h34min",
+    "directors": [
+     "Masbedo"
+    ],
+    "cast": [],
+    "synopsis": "Arsa a environ dix-huit ans. Belle, introvertie et sauvage, elle vit seule dans une cabane délabrée qui surplombe la mer, quelque part à l’extrémité d’une île. Elle évolue avec assurance dans ce paysage, où elle s’est construit un monde suspendu. Les roseaux marquent la…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022255.html"
+   },
+   "inFeed": true
+  },
   "1000022458": {
    "created": "20261031T055016Z",
    "modified": "20261031T055016Z",
@@ -2201,7 +2221,7 @@
   },
   "1000037196": {
    "created": "20261105T061113Z",
-   "modified": "20261105T061113Z",
+   "modified": "20261106T071827Z",
    "sequence": 0,
    "fields": {
     "title": "If I Go",
@@ -2214,7 +2234,7 @@
      "Walter Thompson-Hernández"
     ],
     "cast": [],
-    "synopsis": "Lil Ant, 12 ans, commence à voir des visions spectrales, de garçons flottant dans son quartier.",
+    "synopsis": "Du haut de ses douze ans, Lil Ant trans­forme son quar­tier popu­laire, situé sous un cou­loir aérien de l’aéroport de Los Angeles, en une mytho­lo­gie vivante où les siens deviennent des dieux et le ciel un bal­let inces­sant de départs. En quête d’un lien avec son père,…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037196.html"
    },
    "inFeed": true
@@ -3022,13 +3042,14 @@
   },
   "1000050663": {
    "created": "20261015T054330Z",
-   "modified": "20261027T054439Z",
+   "modified": "20261106T071827Z",
    "sequence": 0,
    "fields": {
     "title": "Le Facteur Humain",
     "releaseDate": "2026-12-16",
     "genres": [
-     "Divers"
+     "Science Fiction",
+     "Thriller"
     ],
     "duration": "1h04min",
     "directors": [
