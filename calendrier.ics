@@ -922,20 +922,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000019282@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261107T114413Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261107T114413Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎬 Izolyatsia
-DESCRIPTION:Documentaire\, Drame\, Historique · 1h15min\n\nDe Igor Minaiev
- \n\nDans les années 1950\, l'usine « Isolation » à Donetsk est un cen
- tre industriel majeur du Donbass\, un des fleurons du communisme. A la ch
- ute de l'Union soviétique\, Isolation est reconvertie en un prestigieux 
- centre d'art contemporain et accueille des artistes du monde entier.\n\nA
- lloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.ht
- ml\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Documentaire\, Drame\, Historique · 1h15min\n\nDe Igor Minaev\
+ n\nDans les années 1950\, l'usine « Isolation » à Donetsk est un cent
+ re industriel majeur du Donbass\, un des fleurons du communisme. A la chu
+ te de l'Union soviétique\, Isolation est reconvertie en un prestigieux c
+ entre d'art contemporain et accueille des artistes du monde entier.\n\nAl
+ loCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.htm
+ l\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.h
  tml
 CATEGORIES:Documentaire,Drame,Historique
@@ -2004,19 +2004,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000031164@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261107T114413Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261107T114413Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Fatherland
 DESCRIPTION:Drame · 1h22min\n\nDe Pawel Pawlikowski\n\nEn 1949\, Thomas Ma
- nn\, lauréat du prix Nobel de littérature\, retourne pour la première 
- fois en Allemagne depuis la fin de la guerre\, accompagné de sa fille Er
- ika\, actrice\, écrivain et pilote de rallye.\n\nAlloCiné : https://www
- .allocine.fr/film/fichefilm_gen_cfilm=1000031164.html\n\nSortie officiell
- e au cinéma en France.
+ nn (Hanns Zischler)\, lauréat du prix Nobel de littérature\, retourne p
+ our la première fois en Allemagne depuis la fin de la guerre\, accompagn
+ é de sa fille Erika (Sandra Hüller)\, actrice\, écrivain et pilote de 
+ rallye. Au volant d'une Buick noire\, ils…\n\nAlloCiné : https://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=1000031164.html\n\nSortie officielle 
+ au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.h
  tml
 CATEGORIES:Drame

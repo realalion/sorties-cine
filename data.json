@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T07:22:09+00:00",
+  "generatedAt": "2026-11-07T11:44:13+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -169,7 +169,7 @@
       "synopsis": "Dans les années 1950, l'usine « Isolation » à Donetsk est un centre industriel majeur du Donbass, un des fleurons du communisme. A la chute de l'Union soviétique, Isolation est reconvertie en un prestigieux centre d'art contemporain et accueille des artistes du monde entier.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/c6/e3/c6e39f3075f80c8b10e63ddee4c372e7.jpg",
       "directors": [
-        "Igor Minaiev"
+        "Igor Minaev"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html",
       "color": "#b0a714"
@@ -1025,7 +1025,7 @@
         "Drame"
       ],
       "duration": "1h22min",
-      "synopsis": "En 1949, Thomas Mann, lauréat du prix Nobel de littérature, retourne pour la première fois en Allemagne depuis la fin de la guerre, accompagné de sa fille Erika, actrice, écrivain et pilote de rallye.",
+      "synopsis": "En 1949, Thomas Mann (Hanns Zischler), lauréat du prix Nobel de littérature, retourne pour la première fois en Allemagne depuis la fin de la guerre, accompagné de sa fille Erika (Sandra Hüller), actrice, écrivain et pilote de rallye. Au volant d'une Buick noire, ils…",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/7f/46/7f464f4f65963547a0178df4eb1ea0f1.jpg",
       "directors": [
         "Pawel Pawlikowski"
@@ -1339,12 +1339,12 @@
       ],
       "duration": "1h35min",
       "synopsis": "À travers cinq portraits de ses proches, autant de figures de résistance, Pegah Ahangarani trace le récit intime de sa vie. Puisant dans ses archives personnelles, vidéos familiales, images de manifestations, articles de presse et enregistrements sonores, elle traverse plus…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/a1/bc/a1bc7d51b5df3f355526dcc70d247d39.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/2f/4a/2f4a801bc21ffa2e04fff94596881901.jpg",
       "directors": [
         "Pegah Ahangarani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043825.html",
-      "color": "#e53832"
+      "color": "#e53732"
     },
     {
       "id": "296439",
