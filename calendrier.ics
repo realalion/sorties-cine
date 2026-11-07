@@ -3052,20 +3052,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000036227@realalion.github.io
-DTSTAMP:20261029T055410Z
+DTSTAMP:20261107T072209Z
 CREATED:20261029T055410Z
-LAST-MODIFIED:20261029T055410Z
+LAST-MODIFIED:20261107T072209Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 L’Homme qui s’envola
 DESCRIPTION:Thriller\n\nDe Olivier Ducray\n\nQuand Paul Chardonnet\, riche 
- et charismatique entrepreneur meurt dans le crash de son jet privé\, sa 
- veuve Sarah se retrouve brutalement seule à la tête de l’empire famil
- ial. Mais pour cette mère de trois enfants\, la situation s'aggrave enco
- re avec l'arrivée de François…\n\nAlloCiné : https://www.allocine.fr
- /film/fichefilm_gen_cfilm=1000036227.html\n\nSortie officielle au cinéma
-  en France.
+ et charismatique entrepreneur\, meurt dans le crash de son jet privé\, s
+ a veuve Sarah se retrouve brutalement seule à la tête de l’empire fam
+ ilial. Mais pour cette mère de trois enfants\, la situation s'aggrave en
+ core avec l'arrivée de François…\n\nAlloCiné : https://www.allocine.
+ fr/film/fichefilm_gen_cfilm=1000036227.html\n\nSortie officielle au ciné
+ ma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.h
  tml
 CATEGORIES:Thriller
@@ -3087,28 +3087,6 @@ DESCRIPTION:Thriller · 1h28min\n\nDe Noah Segan\n\nHarry est le dernier pi
  tion criminelle…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_
  gen_cfilm=1000022811.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022811.h
- tml
-CATEGORIES:Thriller
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000036259@realalion.github.io
-DTSTAMP:20261029T055410Z
-CREATED:20261029T055410Z
-LAST-MODIFIED:20261029T055410Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:🎬 The Liberation of Rita Cooper
-DESCRIPTION:Thriller · 2h04min\n\nDe Guy Nattiv\n\nAnnées 80\, New Jersey
- .Malmenée par un quotidien épuisant et un passé traumatique\, Rita dé
- couvre enfin la sérénité en rencontrant la fascinante Ricky\, à la t
- ête d’une communauté de femmes. Guidée par leurs croyances sectaires
- \, Rita se laisse doucement séduire. Mais lorsque ses…\n\nAlloCiné : 
- https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html\n\nSorti
- e officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.h
  tml
 CATEGORIES:Thriller
 TRANSP:TRANSPARENT

@@ -2062,7 +2062,7 @@
   },
   "1000036227": {
    "created": "20261029T055410Z",
-   "modified": "20261029T055410Z",
+   "modified": "20261107T072209Z",
    "sequence": 0,
    "fields": {
     "title": "L’Homme qui s’envola",
@@ -2075,7 +2075,7 @@
      "Olivier Ducray"
     ],
     "cast": [],
-    "synopsis": "Quand Paul Chardonnet, riche et charismatique entrepreneur meurt dans le crash de son jet privé, sa veuve Sarah se retrouve brutalement seule à la tête de l’empire familial. Mais pour cette mère de trois enfants, la situation s'aggrave encore avec l'arrivée de François…",
+    "synopsis": "Quand Paul Chardonnet, riche et charismatique entrepreneur, meurt dans le crash de son jet privé, sa veuve Sarah se retrouve brutalement seule à la tête de l’empire familial. Mais pour cette mère de trois enfants, la situation s'aggrave encore avec l'arrivée de François…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.html"
    },
    "inFeed": true
@@ -2098,7 +2098,8 @@
     "synopsis": "Années 80, New Jersey.Malmenée par un quotidien épuisant et un passé traumatique, Rita découvre enfin la sérénité en rencontrant la fascinante Ricky, à la tête d’une communauté de femmes. Guidée par leurs croyances sectaires, Rita se laisse doucement séduire. Mais lorsque ses…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-07"
   },
   "1000036365": {
    "created": "20261029T055410Z",

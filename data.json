@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-06T12:57:35+00:00",
+  "generatedAt": "2026-11-07T07:22:09+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-11-11",
   "to": "2027-01-06",
-  "count": 129,
+  "count": 128,
   "films": [
     {
       "id": "1000040172",
@@ -1339,12 +1339,12 @@
       ],
       "duration": "1h35min",
       "synopsis": "À travers cinq portraits de ses proches, autant de figures de résistance, Pegah Ahangarani trace le récit intime de sa vie. Puisant dans ses archives personnelles, vidéos familiales, images de manifestations, articles de presse et enregistrements sonores, elle traverse plus…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/2f/4a/2f4a801bc21ffa2e04fff94596881901.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/a1/bc/a1bc7d51b5df3f355526dcc70d247d39.jpg",
       "directors": [
         "Pegah Ahangarani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043825.html",
-      "color": "#e53732"
+      "color": "#e53832"
     },
     {
       "id": "296439",
@@ -1854,13 +1854,13 @@
         "Thriller"
       ],
       "duration": null,
-      "synopsis": "Quand Paul Chardonnet, riche et charismatique entrepreneur meurt dans le crash de son jet privé, sa veuve Sarah se retrouve brutalement seule à la tête de l’empire familial. Mais pour cette mère de trois enfants, la situation s'aggrave encore avec l'arrivée de François…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "synopsis": "Quand Paul Chardonnet, riche et charismatique entrepreneur, meurt dans le crash de son jet privé, sa veuve Sarah se retrouve brutalement seule à la tête de l’empire familial. Mais pour cette mère de trois enfants, la situation s'aggrave encore avec l'arrivée de François…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/8b/ca/8bca462d9e107ceacccff8e106e52baa.jpg",
       "directors": [
         "Olivier Ducray"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.html",
-      "color": "#e0e0e0"
+      "color": "#7e5e48"
     },
     {
       "id": "1000022811",
@@ -1877,22 +1877,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022811.html",
       "color": "#cec911"
-    },
-    {
-      "id": "1000036259",
-      "title": "The Liberation of Rita Cooper",
-      "releaseDate": "2026-12-30",
-      "genres": [
-        "Thriller"
-      ],
-      "duration": "2h04min",
-      "synopsis": "Années 80, New Jersey.Malmenée par un quotidien épuisant et un passé traumatique, Rita découvre enfin la sérénité en rencontrant la fascinante Ricky, à la tête d’une communauté de femmes. Guidée par leurs croyances sectaires, Rita se laisse doucement séduire. Mais lorsque ses…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [
-        "Guy Nattiv"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html",
-      "color": "#e0e0e0"
     },
     {
       "id": "1000014942",
