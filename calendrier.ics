@@ -1682,15 +1682,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000037949@realalion.github.io
-DTSTAMP:20261015T054330Z
+DTSTAMP:20261110T132839Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261015T054330Z
+LAST-MODIFIED:20261110T132839Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Le Sabre des gardiens
-DESCRIPTION:Action\, Arts Martiaux\, Historique · 2h06min\n\nDe Woo-Ping Y
- uen\n\nFin de la dynastie Sui\, vers l’an 600\, en Chine. Dao Ma\, anci
+DESCRIPTION:Action\, Arts Martiaux\, Historique · 2h06min\n\nDe Yuen Woo-P
+ ing\n\nFin de la dynastie Sui\, vers l’an 600\, en Chine. Dao Ma\, anci
  en soldat devenu chasseur de primes\, accepte d’escorter un mystérieux
   personnage masqué jusqu’à Chang’an\, afin de s’acquitter d’une
   dette envers son vénérable ami\, le chef du Clan Mo. Le passager se r
@@ -3397,17 +3397,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000029498@realalion.github.io
-DTSTAMP:20261105T061113Z
+DTSTAMP:20261110T132839Z
 CREATED:20261105T061113Z
-LAST-MODIFIED:20261105T061113Z
+LAST-MODIFIED:20261110T132839Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:🎬 Tabloïd
-DESCRIPTION:Drame · 1h56min\n\nDe Danny Boyle\n\nL'ascension du magnat des
-  médias Rupert Murdoch.\n\nAlloCiné : https://www.allocine.fr/film/fich
- efilm_gen_cfilm=1000029498.html\n\nSortie officielle au cinéma en France
- .
+DESCRIPTION:Drame · 1h56min\n\nDe Danny Boyle\n\nLondres\, 1969. Le magnat
+  Rupert Murdoch rachète un tabloïd en perte de vitesse et recrute le je
+ une rédacteur en chef Larry Lamb pour en faire le quotidien le plus lu d
+ u pays.​ Avec une équipe de journalistes aussi talentueux qu'indésira
+ bles\, ils vont déclencher une révolution…\n\nAlloCiné : https://www
+ .allocine.fr/film/fichefilm_gen_cfilm=1000029498.html\n\nSortie officiell
+ e au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.h
  tml
 CATEGORIES:Drame

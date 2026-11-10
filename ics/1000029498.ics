@@ -5,13 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000029498-2027-01-06@realalion.github.io
-DTSTAMP:20261109T135445Z
+DTSTAMP:20261110T132839Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:🎬 Tabloïd — sortie ciné
-DESCRIPTION:Drame · 1h56min\n\nL'ascension du magnat des médias Rupert Mu
- rdoch.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.htm
- l
+DESCRIPTION:Drame · 1h56min\n\nLondres\, 1969. Le magnat Rupert Murdoch ra
+ chète un tabloïd en perte de vitesse et recrute le jeune rédacteur en 
+ chef Larry Lamb pour en faire le quotidien le plus lu du pays.​ Avec un
+ e équipe de journalistes aussi talentueux qu'indésirables\, ils vont d
+ éclencher une révolution…\n\nhttps://www.allocine.fr/film/fichefilm_g
+ en_cfilm=1000029498.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
