@@ -685,7 +685,7 @@
   },
   "1000018715": {
    "created": "20261105T061113Z",
-   "modified": "20261105T061113Z",
+   "modified": "20261111T071954Z",
    "sequence": 0,
    "fields": {
     "title": "Werwulf : La Bête Maudite",
@@ -694,7 +694,7 @@
      "Epouvante-horreur",
      "Historique"
     ],
-    "duration": null,
+    "duration": "2h00min",
     "directors": [
      "Robert Eggers"
     ],
@@ -897,7 +897,7 @@
   },
   "1000021751": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261111T071954Z",
    "sequence": 0,
    "fields": {
     "title": "Ohong Village",
@@ -910,7 +910,7 @@
      "Lim Lungyin"
     ],
     "cast": [],
-    "synopsis": "Dans le coin le plus reculé du sud de Taïwan, un village côtier en déclin se prépare pour un nouveau carnaval en l'honneur du dieu de la mer. Sheng, qui a quitté le village pour la capitale Taipei il y a des années, revient, surjouant sa réussite économique. Son père méprise…",
+    "synopsis": "Un village côtier au bord du déclin, se prépare à célébrer le dieu de la mer.Un jeune homme, qui était parti à la capitale, revient au village, surjouant sa réussite. Il retrouve son père, ostréiculteur obstiné resté fidèle à sa terre, ainsi que son ami d’enfance, qui envie…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021751.html"
    },
    "inFeed": true

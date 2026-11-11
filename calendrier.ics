@@ -1363,20 +1363,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000021751@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261111T071954Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261111T071954Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Ohong Village
-DESCRIPTION:Drame · 1h31min\n\nDe Lim Lungyin\n\nDans le coin le plus recu
- lé du sud de Taïwan\, un village côtier en déclin se prépare pour un
-  nouveau carnaval en l'honneur du dieu de la mer. Sheng\, qui a quitté l
- e village pour la capitale Taipei il y a des années\, revient\, surjouan
- t sa réussite économique. Son père méprise…\n\nAlloCiné : https://
- www.allocine.fr/film/fichefilm_gen_cfilm=1000021751.html\n\nSortie offici
- elle au cinéma en France.
+DESCRIPTION:Drame · 1h31min\n\nDe Lim Lungyin\n\nUn village côtier au bor
+ d du déclin\, se prépare à célébrer le dieu de la mer.Un jeune homme
+ \, qui était parti à la capitale\, revient au village\, surjouant sa r
+ éussite. Il retrouve son père\, ostréiculteur obstiné resté fidèle 
+ à sa terre\, ainsi que son ami d’enfance\, qui envie…\n\nAlloCiné :
+  https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021751.html\n\nSort
+ ie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021751.h
  tml
 CATEGORIES:Drame
@@ -3419,18 +3419,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000018715@realalion.github.io
-DTSTAMP:20261105T061113Z
+DTSTAMP:20261111T071954Z
 CREATED:20261105T061113Z
-LAST-MODIFIED:20261105T061113Z
+LAST-MODIFIED:20261111T071954Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:🎬 Werwulf : La Bête Maudite
-DESCRIPTION:Epouvante-horreur\, Historique\n\nDe Robert Eggers\n\nUne plong
- ée sombre et envoûtante dans un univers où la dévotion se heurte à l
- a damnation\, et où les ténèbres qui habitent les hommes finissent par
-  se révéler.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_
- cfilm=1000018715.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Epouvante-horreur\, Historique · 2h00min\n\nDe Robert Eggers\n
+ \nUne plongée sombre et envoûtante dans un univers où la dévotion se 
+ heurte à la damnation\, et où les ténèbres qui habitent les hommes fi
+ nissent par se révéler.\n\nAlloCiné : https://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000018715.html\n\nSortie officielle au cinéma en Franc
+ e.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018715.h
  tml
 CATEGORIES:Epouvante-horreur,Historique
