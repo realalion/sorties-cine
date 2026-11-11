@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-11T07:19:54+00:00",
+  "generatedAt": "2026-11-11T12:44:14+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-11-11",
   "to": "2027-01-06",
-  "count": 128,
+  "count": 127,
   "films": [
     {
       "id": "1000040172",
@@ -1668,24 +1668,6 @@
       "color": "#847d7a"
     },
     {
-      "id": "1000022734",
-      "title": "Mouse",
-      "releaseDate": "2026-12-23",
-      "genres": [
-        "Comédie",
-        "Drame"
-      ],
-      "duration": "2h00min",
-      "synopsis": "Deux meilleures amies Minnie et Callie voient leur relation être bouleversée à la veille de leur dernière année d'études.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
-      "directors": [
-        "Alex Thompson",
-        "Kelly O'Sullivan"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022734.html",
-      "color": "#e0e0e0"
-    },
-    {
       "id": "1000017272",
       "title": "Roma Elastica",
       "releaseDate": "2026-12-23",
@@ -1741,7 +1723,7 @@
         "Drame"
       ],
       "duration": "1h54min",
-      "synopsis": "Édimbourg, 1810. Deux enseignantes voient leur vie basculer lorsqu'une de leurs élèves les accuse d'entretenir une liaison amoureuse.",
+      "synopsis": "Édimbourg, 1810. Jane Pirie et Marianne Woods, deux enseignantes, se lancent dans l’aventure d’une vie indépendante à deux et ouvrent un pensionnat pour jeunes filles. L’arrivée de Jane Cumming, adolescente métisse venue des Indes, bouleverse leur fragile équilibre.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/fa/74/fa74a414819f062d47a7e4557351ce0f.jpg",
       "directors": [
         "Sophie Heldman"
@@ -1853,7 +1835,7 @@
       "genres": [
         "Thriller"
       ],
-      "duration": null,
+      "duration": "1h37min",
       "synopsis": "Quand Paul Chardonnet, riche et charismatique entrepreneur, meurt dans le crash de son jet privé, sa veuve Sarah se retrouve brutalement seule à la tête de l’empire familial. Mais pour cette mère de trois enfants, la situation s'aggrave encore avec l'arrivée de François…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/8b/ca/8bca462d9e107ceacccff8e106e52baa.jpg",
       "directors": [
@@ -1869,7 +1851,7 @@
       "genres": [
         "Thriller"
       ],
-      "duration": "1h28min",
+      "duration": "1h29min",
       "synopsis": "Harry est le dernier pickpocket de New York. Un jour, il dérobe une mystérieuse clef USB à un jeune mafieux et se retrouve pris en chasse par une dangereuse organisation criminelle…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/86/5e/865e07afd33e1d6f2aede0414620f15d.jpg",
       "directors": [

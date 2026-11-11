@@ -1038,11 +1038,12 @@
     "synopsis": "Deux meilleures amies Minnie et Callie voient leur relation être bouleversée à la veille de leur dernière année d'études.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022734.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-11"
   },
   "1000022811": {
    "created": "20261029T055410Z",
-   "modified": "20261029T055410Z",
+   "modified": "20261111T124414Z",
    "sequence": 0,
    "fields": {
     "title": "The Last Pickpocket in New York",
@@ -1050,7 +1051,7 @@
     "genres": [
      "Thriller"
     ],
-    "duration": "1h28min",
+    "duration": "1h29min",
     "directors": [
      "Noah Segan"
     ],
@@ -2062,7 +2063,7 @@
   },
   "1000036227": {
    "created": "20261029T055410Z",
-   "modified": "20261107T072209Z",
+   "modified": "20261111T124414Z",
    "sequence": 0,
    "fields": {
     "title": "L’Homme qui s’envola",
@@ -2070,7 +2071,7 @@
     "genres": [
      "Thriller"
     ],
-    "duration": null,
+    "duration": "1h37min",
     "directors": [
      "Olivier Ducray"
     ],
@@ -2400,7 +2401,7 @@
   },
   "1000039482": {
    "created": "20261022T054313Z",
-   "modified": "20261022T054313Z",
+   "modified": "20261111T124414Z",
    "sequence": 0,
    "fields": {
     "title": "The Education Of Jane Cumming",
@@ -2413,7 +2414,7 @@
      "Sophie Heldman"
     ],
     "cast": [],
-    "synopsis": "Édimbourg, 1810. Deux enseignantes voient leur vie basculer lorsqu'une de leurs élèves les accuse d'entretenir une liaison amoureuse.",
+    "synopsis": "Édimbourg, 1810. Jane Pirie et Marianne Woods, deux enseignantes, se lancent dans l’aventure d’une vie indépendante à deux et ouvrent un pensionnat pour jeunes filles. L’arrivée de Jane Cumming, adolescente métisse venue des Indes, bouleverse leur fragile équilibre.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039482.html"
    },
    "inFeed": true

@@ -2822,26 +2822,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000022734@realalion.github.io
-DTSTAMP:20261028T055256Z
-CREATED:20261028T055256Z
-LAST-MODIFIED:20261028T055256Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:🎬 Mouse
-DESCRIPTION:Comédie\, Drame · 2h00min\n\nDe Alex Thompson\, Kelly O'Sulli
- van\n\nDeux meilleures amies Minnie et Callie voient leur relation être 
- bouleversée à la veille de leur dernière année d'études.\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022734.html\n\n
- Sortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022734.h
- tml
-CATEGORIES:Comédie,Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-1000017272@realalion.github.io
 DTSTAMP:20261022T054313Z
 CREATED:20261022T054313Z
@@ -2908,16 +2888,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000039482@realalion.github.io
-DTSTAMP:20261022T054313Z
+DTSTAMP:20261111T124414Z
 CREATED:20261022T054313Z
-LAST-MODIFIED:20261022T054313Z
+LAST-MODIFIED:20261111T124414Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 The Education Of Jane Cumming
-DESCRIPTION:Drame · 1h54min\n\nDe Sophie Heldman\n\nÉdimbourg\, 1810. Deu
- x enseignantes voient leur vie basculer lorsqu'une de leurs élèves les 
- accuse d'entretenir une liaison amoureuse.\n\nAlloCiné : https://www.all
+DESCRIPTION:Drame · 1h54min\n\nDe Sophie Heldman\n\nÉdimbourg\, 1810. Jan
+ e Pirie et Marianne Woods\, deux enseignantes\, se lancent dans l’avent
+ ure d’une vie indépendante à deux et ouvrent un pensionnat pour jeune
+ s filles. L’arrivée de Jane Cumming\, adolescente métisse venue des I
+ ndes\, bouleverse leur fragile équilibre.\n\nAlloCiné : https://www.all
  ocine.fr/film/fichefilm_gen_cfilm=1000039482.html\n\nSortie officielle au
   cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039482.h
@@ -3053,20 +3035,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000036227@realalion.github.io
-DTSTAMP:20261107T072209Z
+DTSTAMP:20261111T124414Z
 CREATED:20261029T055410Z
-LAST-MODIFIED:20261107T072209Z
+LAST-MODIFIED:20261111T124414Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 L’Homme qui s’envola
-DESCRIPTION:Thriller\n\nDe Olivier Ducray\n\nQuand Paul Chardonnet\, riche 
- et charismatique entrepreneur\, meurt dans le crash de son jet privé\, s
- a veuve Sarah se retrouve brutalement seule à la tête de l’empire fam
- ilial. Mais pour cette mère de trois enfants\, la situation s'aggrave en
- core avec l'arrivée de François…\n\nAlloCiné : https://www.allocine.
- fr/film/fichefilm_gen_cfilm=1000036227.html\n\nSortie officielle au ciné
- ma en France.
+DESCRIPTION:Thriller · 1h37min\n\nDe Olivier Ducray\n\nQuand Paul Chardonn
+ et\, riche et charismatique entrepreneur\, meurt dans le crash de son jet
+  privé\, sa veuve Sarah se retrouve brutalement seule à la tête de l
+ ’empire familial. Mais pour cette mère de trois enfants\, la situation
+  s'aggrave encore avec l'arrivée de François…\n\nAlloCiné : https://
+ www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.html\n\nSortie offici
+ elle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.h
  tml
 CATEGORIES:Thriller
@@ -3075,14 +3057,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000022811@realalion.github.io
-DTSTAMP:20261029T055410Z
+DTSTAMP:20261111T124414Z
 CREATED:20261029T055410Z
-LAST-MODIFIED:20261029T055410Z
+LAST-MODIFIED:20261111T124414Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 The Last Pickpocket in New York
-DESCRIPTION:Thriller · 1h28min\n\nDe Noah Segan\n\nHarry est le dernier pi
+DESCRIPTION:Thriller · 1h29min\n\nDe Noah Segan\n\nHarry est le dernier pi
  ckpocket de New York. Un jour\, il dérobe une mystérieuse clef USB à u
  n jeune mafieux et se retrouve pris en chasse par une dangereuse organisa
  tion criminelle…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_
