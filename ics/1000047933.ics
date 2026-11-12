@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000047933-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 Popi ou l'état sauvage — sortie ciné
+DESCRIPTION:Documentaire · 1h20min\n\nAu cœur de la forêt tropicale de B
+ ornéo\, Popi\, une bébé orang-outan\, est recueillie dans un centre de
+  réhabilitation où elle est élevée par des soigneurs. A mesure qu’e
+ lle grandit\, ils lui apprennent à se détacher des humains pour retourn
+ er à l’état sauvage. Mais autour du…\n\nhttps://www.allocine.fr/fil
+ m/fichefilm_gen_cfilm=1000047933.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047933.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

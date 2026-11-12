@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000049433-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 Everest: The Other Side — sortie ciné
+DESCRIPTION:Documentaire · 1h55min\n\nL'ascension de l'Everest.\n\nhttps:/
+ /www.allocine.fr/film/fichefilm_gen_cfilm=1000049433.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049433.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

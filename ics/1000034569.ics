@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000034569-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 De ce feu là — sortie ciné
+DESCRIPTION:Documentaire · 1h21min\n\nSans logement à San Francisco\, Daw
+ n et Tony trouvent du réconfort auprès de Miss Terry qui\, après une v
+ ie dans la rue\, anime des groupes de soutien à l'église Glide.\n\nhttp
+ s://www.allocine.fr/film/fichefilm_gen_cfilm=1000034569.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034569.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

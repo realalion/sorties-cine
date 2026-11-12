@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000015811-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 Mona — sortie ciné
+DESCRIPTION:Comédie · 1h45min\n\nLorsque Mona Friedman décroche un petit
+  rôle dans un théâtre de quartier\, cette femme au foyer discrète et 
+ effacée découvre un espace où\, pour la première fois\, elle peut exi
+ ster pleinement. Elle se prend au jeu avec une intensité inattendue\, ju
+ squ’à transformer ce petit rôle…\n\nhttps://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000015811.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015811.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

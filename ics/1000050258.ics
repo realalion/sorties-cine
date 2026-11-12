@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000050258-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 Chronique d'une pension de famille — sortie ciné
+DESCRIPTION:Documentaire · 1h38min\n\nChronique d'une pension de famille r
+ aconte comment retrouver un chez-soi ouvre peu à peu le chemin vers les 
+ autres. Pendant plus d'une année\, François Havez a partagé le quotidi
+ en des habitants de cette pension de famille à Nevers. Entre repas et f
+ êtes\, échanges et…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfi
+ lm=1000050258.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050258.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

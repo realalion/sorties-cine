@@ -1,299 +1,12 @@
 {
-  "generatedAt": "2026-11-11T12:44:14+00:00",
+  "generatedAt": "2026-11-12T07:21:28+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
-  "from": "2026-11-11",
-  "to": "2027-01-06",
-  "count": 127,
+  "from": "2026-11-18",
+  "to": "2027-01-13",
+  "count": 130,
   "films": [
-    {
-      "id": "1000040172",
-      "title": "15/18",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h44min",
-      "synopsis": "Lucia, 17 ans, est amenée par la police dans une unité de soins pédopsychiatriques de l’hôpital public. Ici tous les patients ont entre 15 et 18 ans. Lucia connaît l’endroit, elle y a fait de nombreux séjours. Elle retrouve son amie Eloïse, en hospitalisation longue durée,…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/04/a4/04a4c539c199c806d48c2f2e4eaf6607.jpg",
-      "directors": [
-        "Cédric Kahn"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040172.html",
-      "color": "#e8c20d"
-    },
-    {
-      "id": "1000037363",
-      "title": "Ce qui nous mène à toi",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Drame"
-      ],
-      "duration": null,
-      "synopsis": "Charlie et Hicham, la trentaine, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est confronté à l’infécondité. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans, entre espoirs et déceptions, ils vont mettre leur…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0a/18/0a18acf83e57e18b7826971f3720dfc4.jpg",
-      "directors": [
-        "Khalil Cherti"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037363.html",
-      "color": "#823900"
-    },
-    {
-      "id": "1000053702",
-      "title": "Centenaires",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h51min",
-      "synopsis": "Ils et elles ont traversé un siècle de bouleversements. À travers leurs souvenirs, leurs épreuves et leur regard sur le monde d’aujourd’hui, « Centenaires » donne la parole à des femmes et des hommes de plus de 100 ans. Un film sur la mémoire, la transmission et la réalité du…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/c7/56/c756953e67b722cefb27316706220282.jpg",
-      "directors": [
-        "Guillaume Descave"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html",
-      "color": "#7b787c"
-    },
-    {
-      "id": "1000020289",
-      "title": "Comment braquer une banque",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Action",
-        "Policier",
-        "Thriller"
-      ],
-      "duration": "2h01min",
-      "synopsis": "Une équipe de braqueurs filme ses hold-up en direct et devient viral. Mais leur célébrité grandissante attire l'attention d'un agent du FBI et d'une ingénieure informatique déterminés à les arrêter. Alors que cet improbable duo se rapproche dangereusement d’eux, le gang…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/12/bb/12bb4f199e78e6b5d5d1bcbcbe702acb.jpg",
-      "directors": [
-        "David Leitch"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020289.html",
-      "color": "#ffe000"
-    },
-    {
-      "id": "310509",
-      "title": "Everytime",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h59min",
-      "synopsis": "Jessie est une adolescente pleine de vie. Son seul problème est qu’elle partage sa chambre avec sa petite sœur. Ella, leur mère, est débordée mais attentive. Quand l’une des trois disparaît, toute la famille est bouleversée et cherche un coupable. Ella décide alors d’un…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/df/d2/dfd2bedf88ca77fc9ae0afd7773cb53b.jpg",
-      "directors": [
-        "Sandra Wollner"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310509.html",
-      "color": "#007c8d"
-    },
-    {
-      "id": "1000040446",
-      "title": "Face à face",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h24min",
-      "synopsis": "Fabienne Langlois, conseillère d'insertion et de probation au Centre National d’Évaluation, doit déterminer si Antoine Martineau, détenu pour le meurtre de sa femme, peut obtenir une libération conditionnelle. Entre mutisme, paranoïa et zones d’ombre, elle plonge dans…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/fa/0a/fa0a0d5d947a0fd8fa095219777db6e1.jpg",
-      "directors": [
-        "Florian Hessique"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040446.html",
-      "color": "#003b60"
-    },
-    {
-      "id": "1000041856",
-      "title": "George Michael: The Faith Tour",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Concert",
-        "Documentaire",
-        "Musical"
-      ],
-      "duration": "1h54min",
-      "synopsis": "Un long métrage restauré et remasterisé à partir d’images longtemps considérées comme perdues, tournées au célèbre Palais Omnisports de Paris-Bercy lors de l’étape européenne du Faith Tour en 1988.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/12/fe/12fe0f3e44f1496bc60393eaf07d35f8.jpg",
-      "directors": [
-        "Andy Morahan",
-        "David Austin"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041856.html",
-      "color": "#b17431"
-    },
-    {
-      "id": "1000039483",
-      "title": "Il faut brûler Maman",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Comédie"
-      ],
-      "duration": "1h21min",
-      "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
-      "directors": [
-        "Albert Dupontel"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html",
-      "color": "#ff0000"
-    },
-    {
-      "id": "1000048020",
-      "title": "Infirmary",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Epouvante-horreur"
-      ],
-      "duration": "1h27min",
-      "synopsis": "Un gardien a disparu lors de sa première nuit dans un ancien hôpital psychiatrique. Les images de vidéosurveillance montrent des incidents inexplicables qui continuent de déconcerter les enquêteurs.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/65/97/6597b4d07ce512c9eebe240fc67babd7.jpg",
-      "directors": [
-        "Nicholas Pineda"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048020.html",
-      "color": "#a41717"
-    },
-    {
-      "id": "1000019282",
-      "title": "Izolyatsia",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Documentaire",
-        "Drame",
-        "Historique"
-      ],
-      "duration": "1h15min",
-      "synopsis": "Dans les années 1950, l'usine « Isolation » à Donetsk est un centre industriel majeur du Donbass, un des fleurons du communisme. A la chute de l'Union soviétique, Isolation est reconvertie en un prestigieux centre d'art contemporain et accueille des artistes du monde entier.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/c6/e3/c6e39f3075f80c8b10e63ddee4c372e7.jpg",
-      "directors": [
-        "Igor Minaev"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html",
-      "color": "#b0a714"
-    },
-    {
-      "id": "310503",
-      "title": "L'Âge d'Or",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Drame",
-        "Historique"
-      ],
-      "duration": "1h53min",
-      "synopsis": "La vie hors-norme de Jeanne Lavaur n’appartient qu’à elle-même. Elle traverse le XXème siècle et défie son destin, depuis son enfance dans la boucherie de ses parents jusqu’à son rêve de devenir comtesse. D’une guerre à l’autre, du Paris des années folles au Brésil, son…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/71/de/71de9133eec5b0baa90d1b47a127e8ce.jpg",
-      "directors": [
-        "Bérenger Thouin"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310503.html",
-      "color": "#bb874d"
-    },
-    {
-      "id": "1000032461",
-      "title": "Le Merveilleux hiver de Tom le chat",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Animation",
-        "Aventure"
-      ],
-      "duration": "1h02min",
-      "synopsis": "",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/6b/d2/6bd2b136aed81bd08e3175d2dd0d5bf5.jpg",
-      "directors": [
-        "Joost Van Den Bosch",
-        "Erick Verkerk"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html",
-      "color": "#ae7c5b"
-    },
-    {
-      "id": "323956",
-      "title": "Les Yeux Verts",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Drame"
-      ],
-      "duration": null,
-      "synopsis": "Chaya, 11 ans, vit avec sa famille dans les Landes, au bord de l’océan. A l’annonce de leur expulsion, son grand frère Nour sombre dans un sommeil profond et mystérieux. Chaya va tout faire pour le réveiller, jusqu’à plonger dans ses rêves pour le retrouver.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/86/01/8601759cd1a3d711410025558f077884.jpg",
-      "directors": [
-        "Fanny Liatard",
-        "Jérémy Trouilh"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html",
-      "color": "#00baca"
-    },
-    {
-      "id": "58916",
-      "title": "Pierre ou les ambiguïtés",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Drame",
-        "Romance"
-      ],
-      "duration": "2h49min",
-      "synopsis": "D'après Pierre ou les Ambiguïtés de Herman Melville.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/78/06/780603cd9a66c7b52c335b79393468f3.jpg",
-      "directors": [
-        "Leos Carax"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=58916.html",
-      "color": "#f93f00"
-    },
-    {
-      "id": "1000034007",
-      "title": "Scrooge",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Aventure",
-        "Drame",
-        "Fantastique"
-      ],
-      "duration": "1h56min",
-      "synopsis": "Pour changer son futur, Scrooge va revivre son passé.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
-      "directors": [
-        "Ti West"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html",
-      "color": "#930c0b"
-    },
-    {
-      "id": "328439",
-      "title": "The Good Boy",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Drame",
-        "Thriller"
-      ],
-      "duration": "1h50min",
-      "synopsis": "Tommy, jeune délinquant insouciant et impulsif naviguant entre fêtes alcoolisées et violences incontrôlables, se réveille un matin enchaîné dans la cave d’une maison. Il est à la merci de ses occupants, une étrange famille qui s’est donnée pour mission de le remettre dans le…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/0a/84/0a8485857cf1aa83b1752823760f3284.jpg",
-      "directors": [
-        "Jan Komasa"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328439.html",
-      "color": "#8c583c"
-    },
-    {
-      "id": "1000020962",
-      "title": "À jamais les premières",
-      "releaseDate": "2026-11-11",
-      "genres": [
-        "Comédie dramatique"
-      ],
-      "duration": "1h46min",
-      "synopsis": "1970, le tout premier match de football féminin espagnol organisé par un jeune entraîneur, stupéfait par le talent et la passion d’un groupe de jeunes filles.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/8d/83/8d83a48361975803f2fd8f9eb6359c2b.jpg",
-      "directors": [
-        "Marta Díaz de Lope Díaz"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020962.html",
-      "color": "#a1483a"
-    },
     {
       "id": "1000022255",
       "title": "Arsa",
@@ -2122,6 +1835,332 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018715.html",
       "color": "#7d8c8a"
+    },
+    {
+      "id": "1000049862",
+      "title": "Abracadabra",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h40min",
+      "synopsis": "Ulysse élève son fils Max dans le hangar d’une base aérienne désaffectée, à coups de bricolage et de promesses. Mais Max a quinze ans, il en a assez des plans qui tombent à l’eau et décide en secret d’aller vivre chez sa mère. Pour le retenir, Ulysse tente un dernier coup :…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Mathieu Cesar"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049862.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "1000015051",
+      "title": "Année Zéro",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ],
+      "duration": "1h55min",
+      "synopsis": "Un empire qui vacille. Un souverain rongé par la peur. Une étoile qui se lève au-dessus de Bethléem.",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/61/66/61664bedafb43e72fd3763e64b4f25be.jpg",
+      "directors": [
+        "Alejandro Monteverde"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015051.html",
+      "color": "#024957"
+    },
+    {
+      "id": "1000051801",
+      "title": "Autostop",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Comédie dramatique",
+        "Documentaire"
+      ],
+      "duration": "1h01min",
+      "synopsis": "Floriane rejoue avec deux comédiens ses rencontres en autostop, enregistrées au fil des ans. Entre documentaire et fiction.",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/75/b3/75b3d026fbf470cf8f79ea7a7b568fd7.jpg",
+      "directors": [
+        "Roman Hüben"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051801.html",
+      "color": "#ffea00"
+    },
+    {
+      "id": "312915",
+      "title": "Call Me Queen",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h45min",
+      "synopsis": "Années 90 à Nairobi. Queen, figure respectée de sa communauté, fait face aux ravages du sida. Sa rencontre avec une journaliste irlandaise donne naissance à une amitié inattendue qui les rassemble dans le combat pour un accès plus juste aux médicaments.",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/60/ce/60cedda444ce2e65c1bd140b9788f83e.jpg",
+      "directors": [
+        "Emily Atef"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312915.html",
+      "color": "#ea4b1d"
+    },
+    {
+      "id": "315018",
+      "title": "Chercheurs",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h49min",
+      "synopsis": "Agathe, 23 ans, chimiste brillante et passionnée, rejoint un prestigieux laboratoire parisien pour sa thèse. Son rêve de devenir une grande chercheuse est en passe de devenir réalité mais elle va devoir composer avec une directrice de thèse toxique et des collègues hostiles.…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0b/ef/0bef7e6a3218afb556b7ac4fafe543b4.jpg",
+      "directors": [
+        "Aurélien Peilloux"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315018.html",
+      "color": "#9d6c40"
+    },
+    {
+      "id": "1000050258",
+      "title": "Chronique d'une pension de famille",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h38min",
+      "synopsis": "Chronique d'une pension de famille raconte comment retrouver un chez-soi ouvre peu à peu le chemin vers les autres. Pendant plus d'une année, François Havez a partagé le quotidien des habitants de cette pension de famille à Nevers. Entre repas et fêtes, échanges et…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8c/98/8c98ae2bb02d93e40f4f4558a5ecba63.jpg",
+      "directors": [
+        "François Havez"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050258.html",
+      "color": "#ffa500"
+    },
+    {
+      "id": "1000034569",
+      "title": "De ce feu là",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h21min",
+      "synopsis": "Sans logement à San Francisco, Dawn et Tony trouvent du réconfort auprès de Miss Terry qui, après une vie dans la rue, anime des groupes de soutien à l'église Glide.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/32/d0/32d0f5705d33132f2cf2860d009ce62a.jpg",
+      "directors": [
+        "Laetitia Jacquart",
+        "Corinne Sullivan"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034569.html",
+      "color": "#ff9200"
+    },
+    {
+      "id": "1000049433",
+      "title": "Everest: The Other Side",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h55min",
+      "synopsis": "L'ascension de l'Everest.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Jimmy Chin (III)",
+        "Elizabeth Chai Vasarhelyi"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049433.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "325279",
+      "title": "Fantasy",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h39min",
+      "synopsis": "Slovénie. Mihrije, Sina et Jasna sont trois amies inséparables d’une vingtaine d'années. Chacune à leur façon, elles refusent de se conformer au système patriarcal dans lequel elles ont grandi. Lorsqu'elles rencontrent Fantasy, une femme libre et transgenre, leur monde…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/79/39/793900731500468d53e92b65b2769f2e.jpg",
+      "directors": [
+        "Kukla Kesherović"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325279.html",
+      "color": "#aa270e"
+    },
+    {
+      "id": "1000023776",
+      "title": "Gentle Monster",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h55min",
+      "synopsis": "Lucy et Philip sont heureux, ils viennent d’emménager avec leur fils dans une maison de campagne près de Munich. Un matin, leur vie bascule lorsque la police se présente à leur domicile pour arrêter Philip et saisir ses ordinateurs.",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/71/3b/713b6a3810de16ef0d5524d2e99a0953.jpg",
+      "directors": [
+        "Marie Kreutzer"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023776.html",
+      "color": "#ce4927"
+    },
+    {
+      "id": "327810",
+      "title": "Gibier",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Thriller"
+      ],
+      "duration": "1h38min",
+      "synopsis": "De jeunes activistes infiltrent un abattoir qu’ils soupçonnent de maltraitance animale. Alors qu'ils récupèrent leurs caméras dissimulées quelques jours plus tôt, ils sont surpris par les vigiles. Le patron et ses complices se lancent à leur poursuite…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/b6/f8/b6f86557ebb75f6e2225e887aab7d39f.jpg",
+      "directors": [
+        "Abel Ferry"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327810.html",
+      "color": "#7e4328"
+    },
+    {
+      "id": "1000033616",
+      "title": "Gilles United",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Comédie"
+      ],
+      "duration": "1h33min",
+      "synopsis": "Gilles Le Diben, 41 ans, supervise des démarrages en côte sur les routes de Bretagne. Jusqu’au jour où sa femme Marie, directrice de l'auto-école pour laquelle il travaille sans passion est contrainte de le licencier, et finit par le quitter. Mais Gilles ne va pas se laisser…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/11/a7/11a72538e17a8ff2d816b9e555a7419a.jpg",
+      "directors": [
+        "Grégoire Ludig"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033616.html",
+      "color": "#226480"
+    },
+    {
+      "id": "119263",
+      "title": "Jean Cocteau",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h34min",
+      "synopsis": "Des années avant que la célébrité ne soit considérée comme une forme d’art à part entière, Jean Cocteau, considérait sa vie artistique comme un mélange d'obscurité et de célébrité.",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/c8/bf/c8bf7460628b9dea3798c8d32d57e558.jpg",
+      "directors": [
+        "Lisa Immordino Vreeland"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=119263.html",
+      "color": "#8b8b8b"
+    },
+    {
+      "id": "1000024109",
+      "title": "Le Faux Soir",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Comédie",
+        "Historique"
+      ],
+      "duration": "2h12min",
+      "synopsis": "1943. Les Nazis occupent la Belgique et font du quotidien national Le Soir leur outil de propagande. Alors qu’il est interdit de commémorer le 11 novembre, un groupe de résistants a une idée folle : et si, pour remonter le moral des Belges, ils parvenaient à imprimer une…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/a5/a4/a5a4d6dc634565dcbd1bebcd51108405.jpg",
+      "directors": [
+        "Michaël R. Roskam"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024109.html",
+      "color": "#81453a"
+    },
+    {
+      "id": "316022",
+      "title": "Lords of War",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Thriller"
+      ],
+      "duration": "1h40min",
+      "synopsis": "Le trafiquant d'armes, Yuri Orlov, découvre qu'il a un fils, Anton. Ce dernier est en train de constituer une armée de mercenaires pour combattre les conflits au Moyen-Orient.",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/ec/ba/ecbaec0943b4ab9f0e9836e8226be59c.jpg",
+      "directors": [
+        "Andrew Niccol"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316022.html",
+      "color": "#c15515"
+    },
+    {
+      "id": "1000048256",
+      "title": "L’Apocalypse a déjà eu lieu",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "54min",
+      "synopsis": "2018. Dans la « Nouvelle-Grande-Russie » de Vladimir Poutine, des bulldozers menacent les cités de garages, villes clandestines qui se développèrent dans l’effondrement de l’URSS. Ici vivent les survivants de cette apocalypse : les Garagniki. Avec eux, nous remontons le temps…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/8c/b6/8cb62c9b54389af39ccd0e4bf72831c5.jpg",
+      "directors": [
+        "Stany Cambot"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048256.html",
+      "color": "#367674"
+    },
+    {
+      "id": "1000015811",
+      "title": "Mona",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Comédie"
+      ],
+      "duration": "1h45min",
+      "synopsis": "Lorsque Mona Friedman décroche un petit rôle dans un théâtre de quartier, cette femme au foyer discrète et effacée découvre un espace où, pour la première fois, elle peut exister pleinement. Elle se prend au jeu avec une intensité inattendue, jusqu’à transformer ce petit rôle…",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/98/2d/982d2aa6f17e3abd04fbb30b54c8e694.jpg",
+      "directors": [
+        "Jesse Eisenberg"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015811.html",
+      "color": "#7b4029"
+    },
+    {
+      "id": "1000047933",
+      "title": "Popi ou l'état sauvage",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h20min",
+      "synopsis": "Au cœur de la forêt tropicale de Bornéo, Popi, une bébé orang-outan, est recueillie dans un centre de réhabilitation où elle est élevée par des soigneurs. A mesure qu’elle grandit, ils lui apprennent à se détacher des humains pour retourner à l’état sauvage. Mais autour du…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/5a/e0/5ae079b5cce59f447c7e06c0ec8c1c9e.jpg",
+      "directors": [
+        "Audrey Bauduin"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047933.html",
+      "color": "#86874e"
+    },
+    {
+      "id": "1000052052",
+      "title": "Un soupir dans la nuit",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Expérimental",
+        "Thriller"
+      ],
+      "duration": "1h30min",
+      "synopsis": "Prisonnier de ses pulsions, un tueur silencieux et méticuleux s'enfonce dans une solitude profonde. Chaque geste est un combat intime pour maîtriser l'incontrôlable. Il arpente un chemin insidieux où chaque victime devient une obsession.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/90/ae/90ae7388b8dd431db84ef04b9eca0c3c.jpg",
+      "directors": [
+        "Edouard Pradel De Lamaze"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052052.html",
+      "color": "#bd7e5f"
+    },
+    {
+      "id": "1000029139",
+      "title": "Viva",
+      "releaseDate": "2027-01-13",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "duration": "1h53min",
+      "synopsis": "Nora, 40 ans fait un retour fracassant dans sa vie ! Sa carrière décolle, son mari, Tom, est plus amoureux que jamais, mais Max est beaucoup trop séduisant … Cette renaissance la détourne d’un combat qu’elle pensait gagné.",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/e4/c3/e4c3289a38fd5f704d83e2c986e7b619.jpg",
+      "directors": [
+        "Aina Clotet"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029139.html",
+      "color": "#ed1203"
     }
   ]
 }

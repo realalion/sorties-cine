@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000033616-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 Gilles United — sortie ciné
+DESCRIPTION:Comédie · 1h33min\n\nGilles Le Diben\, 41 ans\, supervise des
+  démarrages en côte sur les routes de Bretagne. Jusqu’au jour où sa 
+ femme Marie\, directrice de l'auto-école pour laquelle il travaille sans
+  passion est contrainte de le licencier\, et finit par le quitter. Mais G
+ illes ne va pas se laisser…\n\nhttps://www.allocine.fr/film/fichefilm_g
+ en_cfilm=1000033616.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033616.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

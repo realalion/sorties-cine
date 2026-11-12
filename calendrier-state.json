@@ -18,7 +18,8 @@
     "synopsis": "Derrick vient de laisser son appartement et dort dans sa voiture. À presque 50 ans, épuisé de se débattre dans le labyrinthe ultralibéral et raciste des Etats-Unis, il décide de quitter son pays.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000251.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000002678": {
    "created": "20261022T054313Z",
@@ -247,7 +248,8 @@
     "synopsis": "Lucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012316.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000012486": {
    "created": "20261008T064216Z",
@@ -432,6 +434,47 @@
     "cast": [],
     "synopsis": "La policière Marjolaine Coppola cherche à retrouver sa sœur qui s’est faite enlevée le même soir que leurs parents se sont fait assassiner. Les responsables travailleraient pour Franz DeMann, l’homme d’affaires mégalomane qui tente de devenir maire de la grande ville qu’est…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.html"
+   },
+   "inFeed": true
+  },
+  "1000015051": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Année Zéro",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Drame",
+     "Thriller"
+    ],
+    "duration": "1h55min",
+    "directors": [
+     "Alejandro Monteverde"
+    ],
+    "cast": [],
+    "synopsis": "Un empire qui vacille. Un souverain rongé par la peur. Une étoile qui se lève au-dessus de Bethléem.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015051.html"
+   },
+   "inFeed": true
+  },
+  "1000015811": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Mona",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Comédie"
+    ],
+    "duration": "1h45min",
+    "directors": [
+     "Jesse Eisenberg"
+    ],
+    "cast": [],
+    "synopsis": "Lorsque Mona Friedman décroche un petit rôle dans un théâtre de quartier, cette femme au foyer discrète et effacée découvre un espace où, pour la première fois, elle peut exister pleinement. Elle se prend au jeu avec une intensité inattendue, jusqu’à transformer ce petit rôle…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015811.html"
    },
    "inFeed": true
   },
@@ -767,7 +810,8 @@
     "synopsis": "Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris. Alors qu’elle répète l'Orpheus, un opéra maudit qui aurait été composé par le Fantôme de l'Opéra, elle tombe amoureuse d'un mystérieux pianiste.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019622.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000020268": {
    "created": "20261103T060221Z",
@@ -830,7 +874,8 @@
     "synopsis": "Juin 1943, Jean Moulin, chef de la Résistance, est arrêté alors qu'il tente de réunifier les forces de l’Armée Secrète. Interrogé par Klaus Barbie, le chef de la Gestapo de Lyon, Moulin est entraîné dans une confrontation implacable.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020311.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000020647": {
    "created": "20261008T064216Z",
@@ -1161,7 +1206,8 @@
     "synopsis": "Margot débute son internat aux urgences, où elle peine à s’adapter. Très vite, elle fait face à des patients de son âge aux symptômes inexpliqués. La récurrence de ces cas exceptionnels l’interroge, d’autant qu’elle observe, sur son propre corps, des manifestations de plus en…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023600.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000023667": {
    "created": "20261029T055410Z",
@@ -1180,6 +1226,47 @@
     "cast": [],
     "synopsis": "Le veille de Noël, Cliff, humoriste qui se relève doucement d’une grosse dépression, se casse une dent. Il se rend chez Didi, dentiste de garde et fraîchement divorcée. Par un concours de circonstances, leur rencontre se transforme en odyssée urbaine dans les rues glacées de…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html"
+   },
+   "inFeed": true
+  },
+  "1000023776": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Gentle Monster",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h55min",
+    "directors": [
+     "Marie Kreutzer"
+    ],
+    "cast": [],
+    "synopsis": "Lucy et Philip sont heureux, ils viennent d’emménager avec leur fils dans une maison de campagne près de Munich. Un matin, leur vie bascule lorsque la police se présente à leur domicile pour arrêter Philip et saisir ses ordinateurs.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023776.html"
+   },
+   "inFeed": true
+  },
+  "1000024109": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Le Faux Soir",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Comédie",
+     "Historique"
+    ],
+    "duration": "2h12min",
+    "directors": [
+     "Michaël R. Roskam"
+    ],
+    "cast": [],
+    "synopsis": "1943. Les Nazis occupent la Belgique et font du quotidien national Le Soir leur outil de propagande. Alors qu’il est interdit de commémorer le 11 novembre, un groupe de résistants a une idée folle : et si, pour remonter le moral des Belges, ils parvenaient à imprimer une…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024109.html"
    },
    "inFeed": true
   },
@@ -1454,7 +1541,8 @@
     "synopsis": "Ozzy & Black Sabbath : Back to the Beginning revient sur un moment marquant de l’histoire de la musique : l’ultime performance d’Ozzy Osbourne, un adieu historique à ses fans au stade de Villa Park, dans sa ville natale de Birmingham, filmé seulement 17 jours avant sa…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000028064": {
    "created": "20261008T064216Z",
@@ -1496,7 +1584,8 @@
     "synopsis": "À cinquante ans, Gioia est une enseignante qui vit encore chez ses parents, sous la coupe d'une mère autoritaire. Elle propose des cours particuliers à Alessio, un nouvel élève de son lycée. Quand ces deux solitudes se rencontrent, un poison silencieux se distille.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028073.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000028085": {
    "created": "20261008T064216Z",
@@ -1616,6 +1705,26 @@
     "cast": [],
     "synopsis": "À l’aube de ses 50 ans, Nacer Belkacem peut être satisfait de sa vie : père de famille aimant, époux attentionné et bienveillant, travail stable, implication dans sa communauté et jolie petite maison de banlieue. Au contact des riches parents d'élèves de l'école où vont ses…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028959.html"
+   },
+   "inFeed": true
+  },
+  "1000029139": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Viva",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Comédie dramatique"
+    ],
+    "duration": "1h53min",
+    "directors": [
+     "Aina Clotet"
+    ],
+    "cast": [],
+    "synopsis": "Nora, 40 ans fait un retour fracassant dans sa vie ! Sa carrière décolle, son mari, Tom, est plus amoureux que jamais, mais Max est beaucoup trop séduisant … Cette renaissance la détourne d’un combat qu’elle pensait gagné.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029139.html"
    },
    "inFeed": true
   },
@@ -1897,6 +2006,26 @@
    },
    "inFeed": true
   },
+  "1000033616": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Gilles United",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Comédie"
+    ],
+    "duration": "1h33min",
+    "directors": [
+     "Grégoire Ludig"
+    ],
+    "cast": [],
+    "synopsis": "Gilles Le Diben, 41 ans, supervise des démarrages en côte sur les routes de Bretagne. Jusqu’au jour où sa femme Marie, directrice de l'auto-école pour laquelle il travaille sans passion est contrainte de le licencier, et finit par le quitter. Mais Gilles ne va pas se laisser…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033616.html"
+   },
+   "inFeed": true
+  },
   "1000033620": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -1915,7 +2044,8 @@
     "synopsis": "Le long d'une route oubliée, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle, héritiers d'un mode de vie en sursis. Menacés d'expulsion, leur équilibre de…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033620.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000033622": {
    "created": "20261008T064216Z",
@@ -1956,6 +2086,27 @@
     "cast": [],
     "synopsis": "Pour changer son futur, Scrooge va revivre son passé.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html"
+   },
+   "inFeed": true
+  },
+  "1000034569": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "De ce feu là",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "1h21min",
+    "directors": [
+     "Laetitia Jacquart",
+     "Corinne Sullivan"
+    ],
+    "cast": [],
+    "synopsis": "Sans logement à San Francisco, Dawn et Tony trouvent du réconfort auprès de Miss Terry qui, après une vie dans la rue, anime des groupes de soutien à l'église Glide.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034569.html"
    },
    "inFeed": true
   },
@@ -2140,7 +2291,8 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036515.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000036756": {
    "created": "20261012T073847Z",
@@ -2915,6 +3067,26 @@
    "inFeed": false,
    "removedOn": "2026-10-25"
   },
+  "1000047933": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Popi ou l'état sauvage",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "1h20min",
+    "directors": [
+     "Audrey Bauduin"
+    ],
+    "cast": [],
+    "synopsis": "Au cœur de la forêt tropicale de Bornéo, Popi, une bébé orang-outan, est recueillie dans un centre de réhabilitation où elle est élevée par des soigneurs. A mesure qu’elle grandit, ils lui apprennent à se détacher des humains pour retourner à l’état sauvage. Mais autour du…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047933.html"
+   },
+   "inFeed": true
+  },
   "1000048020": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -2932,6 +3104,26 @@
     "cast": [],
     "synopsis": "Un gardien a disparu lors de sa première nuit dans un ancien hôpital psychiatrique. Les images de vidéosurveillance montrent des incidents inexplicables qui continuent de déconcerter les enquêteurs.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048020.html"
+   },
+   "inFeed": true
+  },
+  "1000048256": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "L’Apocalypse a déjà eu lieu",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "54min",
+    "directors": [
+     "Stany Cambot"
+    ],
+    "cast": [],
+    "synopsis": "2018. Dans la « Nouvelle-Grande-Russie » de Vladimir Poutine, des bulldozers menacent les cités de garages, villes clandestines qui se développèrent dans l’effondrement de l’URSS. Ici vivent les survivants de cette apocalypse : les Garagniki. Avec eux, nous remontons le temps…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048256.html"
    },
    "inFeed": true
   },
@@ -3018,6 +3210,27 @@
    },
    "inFeed": true
   },
+  "1000049433": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Everest: The Other Side",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "1h55min",
+    "directors": [
+     "Jimmy Chin (III)",
+     "Elizabeth Chai Vasarhelyi"
+    ],
+    "cast": [],
+    "synopsis": "L'ascension de l'Everest.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049433.html"
+   },
+   "inFeed": true
+  },
   "1000049510": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -3039,6 +3252,46 @@
     "cast": [],
     "synopsis": "Et si les monstres d'aujourd'hui étaient moins imaginaires qu'ils n'y paraissent ? Des paysages transformés par le climat aux angoisses qui traversent nos sociétés, Zones troubles explore un fantastique profondément ancré dans notre époque. Quatre films où l'inexplicable…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html"
+   },
+   "inFeed": true
+  },
+  "1000049862": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Abracadabra",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h40min",
+    "directors": [
+     "Mathieu Cesar"
+    ],
+    "cast": [],
+    "synopsis": "Ulysse élève son fils Max dans le hangar d’une base aérienne désaffectée, à coups de bricolage et de promesses. Mais Max a quinze ans, il en a assez des plans qui tombent à l’eau et décide en secret d’aller vivre chez sa mère. Pour le retenir, Ulysse tente un dernier coup :…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049862.html"
+   },
+   "inFeed": true
+  },
+  "1000050258": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Chronique d'une pension de famille",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "1h38min",
+    "directors": [
+     "François Havez"
+    ],
+    "cast": [],
+    "synopsis": "Chronique d'une pension de famille raconte comment retrouver un chez-soi ouvre peu à peu le chemin vers les autres. Pendant plus d'une année, François Havez a partagé le quotidien des habitants de cette pension de famille à Nevers. Entre repas et fêtes, échanges et…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050258.html"
    },
    "inFeed": true
   },
@@ -3081,7 +3334,8 @@
     "synopsis": "Marqué par une enfance traumatique et une mère l’ayant fait vivre sous son emprise, le réalisateur Xavier Pestuggia entreprend de raconter son passé.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050930.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000051317": {
    "created": "20261008T064216Z",
@@ -3227,6 +3481,27 @@
    },
    "inFeed": true
   },
+  "1000051801": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Autostop",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Comédie dramatique",
+     "Documentaire"
+    ],
+    "duration": "1h01min",
+    "directors": [
+     "Roman Hüben"
+    ],
+    "cast": [],
+    "synopsis": "Floriane rejoue avec deux comédiens ses rencontres en autostop, enregistrées au fil des ans. Entre documentaire et fiction.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051801.html"
+   },
+   "inFeed": true
+  },
   "1000051859": {
    "created": "20261008T064216Z",
    "modified": "20261101T055357Z",
@@ -3266,6 +3541,28 @@
     "cast": [],
     "synopsis": "À 27 ans, Nicolas n’a presque aucun souvenir de son enfance et n’a jamais connu son père. Séparé de sa mère à l’âge de trois ans, il a grandi placé entre familles d’accueil et foyers. Décidé à retrouver ce père qui l’a abandonné à la naissance, Nicolas récupère son dossier de…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051934.html"
+   },
+   "inFeed": false,
+   "removedOn": "2026-11-12"
+  },
+  "1000052052": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Un soupir dans la nuit",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Expérimental",
+     "Thriller"
+    ],
+    "duration": "1h30min",
+    "directors": [
+     "Edouard Pradel De Lamaze"
+    ],
+    "cast": [],
+    "synopsis": "Prisonnier de ses pulsions, un tueur silencieux et méticuleux s'enfonce dans une solitude profonde. Chaque geste est un combat intime pour maîtriser l'incontrôlable. Il arpente un chemin insidieux où chaque victime devient une obsession.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052052.html"
    },
    "inFeed": true
   },
@@ -3369,7 +3666,8 @@
     "synopsis": "Ludwig décroche un poste de livreur chez la mystérieuse société Consortium. Zéro infos sur le contenu des colis, secret professionnel oblige. La mission n’est pas simple. Que cache vraiment Consortium ?",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054419.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "1000054743": {
    "created": "20261031T055016Z",
@@ -3390,6 +3688,26 @@
     "cast": [],
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054743.html"
+   },
+   "inFeed": true
+  },
+  "119263": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Jean Cocteau",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "1h34min",
+    "directors": [
+     "Lisa Immordino Vreeland"
+    ],
+    "cast": [],
+    "synopsis": "Des années avant que la célébrité ne soit considérée comme une forme d’art à part entière, Jean Cocteau, considérait sa vie artistique comme un mélange d'obscurité et de célébrité.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=119263.html"
    },
    "inFeed": true
   },
@@ -3566,7 +3884,8 @@
     "synopsis": "Marina de Van bataille avec ses relations sentimentales, sa propre image et sa nudité à une époque où les applis de rencontres et les échanges en ligne sont légion…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=281367.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "294374": {
    "created": "20261022T054313Z",
@@ -3865,6 +4184,26 @@
    },
    "inFeed": true
   },
+  "312915": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Call Me Queen",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h45min",
+    "directors": [
+     "Emily Atef"
+    ],
+    "cast": [],
+    "synopsis": "Années 90 à Nairobi. Queen, figure respectée de sa communauté, fait face aux ravages du sida. Sa rencontre avec une journaliste irlandaise donne naissance à une amitié inattendue qui les rassemble dans le combat pour un accès plus juste aux médicaments.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312915.html"
+   },
+   "inFeed": true
+  },
   "313265": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -3909,7 +4248,8 @@
     "synopsis": "Au poste de police de Hope, Bum-seok et Sung-ae se démènent pour défendre leur village à la population vieillissante. Pendant ce temps, Sung-ki et ses amis partent à la poursuite de la bête dans la montagne mais se retrouvent eux-mêmes pris pour cible.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314882.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-12"
   },
   "314939": {
    "created": "20261008T064216Z",
@@ -3933,6 +4273,26 @@
    "inFeed": false,
    "removedOn": "2026-10-29"
   },
+  "315018": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Chercheurs",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h49min",
+    "directors": [
+     "Aurélien Peilloux"
+    ],
+    "cast": [],
+    "synopsis": "Agathe, 23 ans, chimiste brillante et passionnée, rejoint un prestigieux laboratoire parisien pour sa thèse. Son rêve de devenir une grande chercheuse est en passe de devenir réalité mais elle va devoir composer avec une directrice de thèse toxique et des collègues hostiles.…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315018.html"
+   },
+   "inFeed": true
+  },
   "315883": {
    "created": "20261008T064216Z",
    "modified": "20261017T054101Z",
@@ -3955,6 +4315,26 @@
    },
    "inFeed": false,
    "removedOn": "2026-11-05"
+  },
+  "316022": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Lords of War",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Thriller"
+    ],
+    "duration": "1h40min",
+    "directors": [
+     "Andrew Niccol"
+    ],
+    "cast": [],
+    "synopsis": "Le trafiquant d'armes, Yuri Orlov, découvre qu'il a un fils, Anton. Ce dernier est en train de constituer une armée de mercenaires pour combattre les conflits au Moyen-Orient.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316022.html"
+   },
+   "inFeed": true
   },
   "316136": {
    "created": "20261008T064216Z",
@@ -4213,6 +4593,26 @@
    },
    "inFeed": true
   },
+  "325279": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Fantasy",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h39min",
+    "directors": [
+     "Kukla Kesherović"
+    ],
+    "cast": [],
+    "synopsis": "Slovénie. Mihrije, Sina et Jasna sont trois amies inséparables d’une vingtaine d'années. Chacune à leur façon, elles refusent de se conformer au système patriarcal dans lequel elles ont grandi. Lorsqu'elles rencontrent Fantasy, une femme libre et transgenre, leur monde…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325279.html"
+   },
+   "inFeed": true
+  },
   "326160": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -4272,6 +4672,26 @@
     "cast": [],
     "synopsis": "Professeur stagiaire, Ari s’effondre dans sa classe de maternelle lors d’une inspection académique. Pour son père qui l’héberge, c’est l’échec de trop : Ari doit partir. À fleur de peau et livré à lui-même, il retrouve alors celles et ceux qu’il a perdu(e)s de vue.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327394.html"
+   },
+   "inFeed": true
+  },
+  "327810": {
+   "created": "20261112T072128Z",
+   "modified": "20261112T072128Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Gibier",
+    "releaseDate": "2027-01-13",
+    "genres": [
+     "Thriller"
+    ],
+    "duration": "1h38min",
+    "directors": [
+     "Abel Ferry"
+    ],
+    "cast": [],
+    "synopsis": "De jeunes activistes infiltrent un abattoir qu’ils soupçonnent de maltraitance animale. Alors qu'ils récupèrent leurs caméras dissimulées quelques jours plus tôt, ils sont surpris par les vigiles. Le patron et ses complices se lancent à leur poursuite…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327810.html"
    },
    "inFeed": true
   },

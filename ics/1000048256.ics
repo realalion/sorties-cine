@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000048256-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 L’Apocalypse a déjà eu lieu — sortie ciné
+DESCRIPTION:Documentaire · 54min\n\n2018. Dans la « Nouvelle-Grande-Russi
+ e » de Vladimir Poutine\, des bulldozers menacent les cités de garages\
+ , villes clandestines qui se développèrent dans l’effondrement de l
+ ’URSS. Ici vivent les survivants de cette apocalypse : les Garagniki. A
+ vec eux\, nous remontons le temps…\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000048256.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048256.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

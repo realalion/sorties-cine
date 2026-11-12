@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000029139-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 Viva — sortie ciné
+DESCRIPTION:Comédie dramatique · 1h53min\n\nNora\, 40 ans fait un retour 
+ fracassant dans sa vie ! Sa carrière décolle\, son mari\, Tom\, est plu
+ s amoureux que jamais\, mais Max est beaucoup trop séduisant … Cette r
+ enaissance la détourne d’un combat qu’elle pensait gagné.\n\nhttps:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=1000029139.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029139.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

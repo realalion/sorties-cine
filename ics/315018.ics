@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-315018-2027-01-13@realalion.github.io
+DTSTAMP:20261112T072128Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎬 Chercheurs — sortie ciné
+DESCRIPTION:Drame · 1h49min\n\nAgathe\, 23 ans\, chimiste brillante et pas
+ sionnée\, rejoint un prestigieux laboratoire parisien pour sa thèse. So
+ n rêve de devenir une grande chercheuse est en passe de devenir réalit
+ é mais elle va devoir composer avec une directrice de thèse toxique et 
+ des collègues hostiles.…\n\nhttps://www.allocine.fr/film/fichefilm_gen
+ _cfilm=315018.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=315018.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
