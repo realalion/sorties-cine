@@ -1859,17 +1859,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-312651@realalion.github.io
-DTSTAMP:20261014T054257Z
+DTSTAMP:20261113T072058Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261014T054257Z
+LAST-MODIFIED:20261113T072058Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Violent Night 2
-DESCRIPTION:Action\, Comédie · 1h50min\n\nDe Tommy Wirkola\n\nSuite de Vi
- olent Night (2022) de Tommy Wirkola.\n\nAlloCiné : https://www.allocine.
- fr/film/fichefilm_gen_cfilm=312651.html\n\nSortie officielle au cinéma e
- n France.
+DESCRIPTION:Action\, Comédie · 1h50min\n\nDe Tommy Wirkola\n\nSi vous êt
+ es sages\, vous aurez des cadeaux du Père Noël.Si vous ne l’êtes pas
+ \, vous aurez ce que vous méritez.\n\nAlloCiné : https://www.allocine.f
+ r/film/fichefilm_gen_cfilm=312651.html\n\nSortie officielle au cinéma en
+  France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=312651.html
 CATEGORIES:Action,Comédie
 TRANSP:TRANSPARENT
