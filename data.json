@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T12:12:07+00:00",
+  "generatedAt": "2026-11-15T07:19:12+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-11-18",
   "to": "2027-01-13",
-  "count": 130,
+  "count": 129,
   "films": [
     {
       "id": "1000022255",
@@ -1785,23 +1785,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037190.html",
       "color": "#c58f16"
-    },
-    {
-      "id": "305524",
-      "title": "L’Affaire Klarsfeld",
-      "releaseDate": "2027-01-06",
-      "genres": [
-        "Animation"
-      ],
-      "duration": null,
-      "synopsis": "Années 60, Beate et Serge Klarsfeld parcourent le monde pour retrouver les auteurs de crimes contre l’humanité restés impunis après la Seconde Guerre mondiale. Leur enquête les mène jusqu’en Bolivie, où Klaus Barbie s’est exilé sous une fausse identité. Confrontés au silence…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/6f/16/6f16a1b55c211c759e9af18f41408a4d.jpg",
-      "directors": [
-        "Rupert Wyatt",
-        "Emilie Phuong"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=305524.html",
-      "color": "#4da9e3"
     },
     {
       "id": "1000029498",

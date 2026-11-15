@@ -3059,27 +3059,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-305524@realalion.github.io
-DTSTAMP:20261105T061113Z
-CREATED:20261105T061113Z
-LAST-MODIFIED:20261105T061113Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:🎬 L’Affaire Klarsfeld
-DESCRIPTION:Animation\n\nDe Rupert Wyatt\, Emilie Phuong\n\nAnnées 60\, Be
- ate et Serge Klarsfeld parcourent le monde pour retrouver les auteurs de 
- crimes contre l’humanité restés impunis après la Seconde Guerre mond
- iale. Leur enquête les mène jusqu’en Bolivie\, où Klaus Barbie s’e
- st exilé sous une fausse identité. Confrontés au silence…\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=305524.html\n\nSort
- ie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=305524.html
-CATEGORIES:Animation
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-1000029498@realalion.github.io
 DTSTAMP:20261110T132839Z
 CREATED:20261105T061113Z
