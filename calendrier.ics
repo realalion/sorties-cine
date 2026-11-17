@@ -805,20 +805,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-316136@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261117T072306Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261117T072306Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Camembert
-DESCRIPTION:Comédie\n\nDe Matthieu Rumani\, Nicolas Slomka\n\nStan\, trent
- enaire d’origine modeste\, rencontre pour la première fois la famille 
- de sa petite amie Cléo. Il découvre alors la tradition familiale : à c
- haque anniversaire de France\, l’impressionnante maîtresse de maison\,
-  on lance une partie de Trivial Pursuit ©. Il sait qu’il…\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html\n\nSort
- ie officielle au cinéma en France.
+DESCRIPTION:Comédie · 1h31min\n\nDe Matthieu Rumani\, Nicolas Slomka\n\nS
+ tan\, trentenaire d’origine modeste\, rencontre pour la première fois 
+ la famille de sa petite amie Cléo. Il découvre alors la tradition famil
+ iale : à chaque anniversaire de France\, l’impressionnante maîtresse 
+ de maison\, on lance une partie de Trivial Pursuit ©. Il sait qu’il…
+ \n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.h
+ tml\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html
 CATEGORIES:Comédie
 TRANSP:TRANSPARENT
@@ -2697,16 +2697,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000026193@realalion.github.io
-DTSTAMP:20261029T055410Z
+DTSTAMP:20261117T072306Z
 CREATED:20261029T055410Z
-LAST-MODIFIED:20261029T055410Z
+LAST-MODIFIED:20261117T072306Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 Les Cœurs affamés
-DESCRIPTION:Comédie\, Romance · 1h43min\n\nDe Nanni Moretti\n\nAlloCiné 
- : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html\n\nSor
- tie officielle au cinéma en France.
+DESCRIPTION:Comédie\, Romance · 1h43min\n\nDe Nanni Moretti\n\nEn plein m
+ atch de tennis\, Matteo voit surgir une inconnue en robe de mariée. Elle
+  échange quelques balles avec lui\, puis disparait aussi soudainement qu
+ ’elle est apparue.Matteo n’arrive pas à oublier cette brève et impr
+ obable rencontre.Pendant sept ans\, leurs vies suivent des…\n\nAlloCin
+ é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html\n\n
+ Sortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.h
  tml
 CATEGORIES:Comédie,Romance

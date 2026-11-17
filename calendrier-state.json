@@ -1358,7 +1358,7 @@
   },
   "1000026193": {
    "created": "20261029T055410Z",
-   "modified": "20261029T055410Z",
+   "modified": "20261117T072306Z",
    "sequence": 0,
    "fields": {
     "title": "Les Cœurs affamés",
@@ -1372,7 +1372,7 @@
      "Nanni Moretti"
     ],
     "cast": [],
-    "synopsis": "",
+    "synopsis": "En plein match de tennis, Matteo voit surgir une inconnue en robe de mariée. Elle échange quelques balles avec lui, puis disparait aussi soudainement qu’elle est apparue.Matteo n’arrive pas à oublier cette brève et improbable rencontre.Pendant sept ans, leurs vies suivent des…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html"
    },
    "inFeed": true
@@ -4339,7 +4339,7 @@
   },
   "316136": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261117T072306Z",
    "sequence": 0,
    "fields": {
     "title": "Camembert",
@@ -4347,7 +4347,7 @@
     "genres": [
      "Comédie"
     ],
-    "duration": null,
+    "duration": "1h31min",
     "directors": [
      "Matthieu Rumani",
      "Nicolas Slomka"

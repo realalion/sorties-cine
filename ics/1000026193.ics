@@ -5,12 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000026193-2026-12-30@realalion.github.io
-DTSTAMP:20261116T134001Z
+DTSTAMP:20261117T072306Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 Les Cœurs affamés — sortie ciné
-DESCRIPTION:Comédie\, Romance · 1h43min\n\nhttps://www.allocine.fr/film/f
- ichefilm_gen_cfilm=1000026193.html
+DESCRIPTION:Comédie\, Romance · 1h43min\n\nEn plein match de tennis\, Mat
+ teo voit surgir une inconnue en robe de mariée. Elle échange quelques b
+ alles avec lui\, puis disparait aussi soudainement qu’elle est apparue.
+ Matteo n’arrive pas à oublier cette brève et improbable rencontre.Pen
+ dant sept ans\, leurs vies suivent des…\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=1000026193.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

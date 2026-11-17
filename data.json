@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:40:01+00:00",
+  "generatedAt": "2026-11-17T07:23:06+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -30,7 +30,7 @@
       "genres": [
         "Comédie"
       ],
-      "duration": null,
+      "duration": "1h31min",
       "synopsis": "Stan, trentenaire d’origine modeste, rencontre pour la première fois la famille de sa petite amie Cléo. Il découvre alors la tradition familiale : à chaque anniversaire de France, l’impressionnante maîtresse de maison, on lance une partie de Trivial Pursuit ©. Il sait qu’il…",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/de/01/de019123ff2a620ecfc2c45bc743ab01.jpg",
       "directors": [
@@ -1052,12 +1052,12 @@
       ],
       "duration": "1h35min",
       "synopsis": "À travers cinq portraits de ses proches, autant de figures de résistance, Pegah Ahangarani trace le récit intime de sa vie. Puisant dans ses archives personnelles, vidéos familiales, images de manifestations, articles de presse et enregistrements sonores, elle traverse plus…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/2f/4a/2f4a801bc21ffa2e04fff94596881901.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/94/35/9435f8e0a5d0503bf784deded4d1dd3c.jpg",
       "directors": [
         "Pegah Ahangarani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043825.html",
-      "color": "#e53732"
+      "color": "#e53832"
     },
     {
       "id": "296439",
@@ -1517,13 +1517,13 @@
         "Romance"
       ],
       "duration": "1h43min",
-      "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "synopsis": "En plein match de tennis, Matteo voit surgir une inconnue en robe de mariée. Elle échange quelques balles avec lui, puis disparait aussi soudainement qu’elle est apparue.Matteo n’arrive pas à oublier cette brève et improbable rencontre.Pendant sept ans, leurs vies suivent des…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/f3/7e/f37eafb0c5cce96eccd95c1cf08dae61.jpg",
       "directors": [
         "Nanni Moretti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html",
-      "color": "#e0e0e0"
+      "color": "#964a02"
     },
     {
       "id": "1000048761",
