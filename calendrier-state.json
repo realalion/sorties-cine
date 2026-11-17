@@ -106,7 +106,7 @@
   },
   "1000004528": {
    "created": "20261008T064216Z",
-   "modified": "20261103T060221Z",
+   "modified": "20261117T142449Z",
    "sequence": 0,
    "fields": {
     "title": "Hunger Games : Lever de soleil sur la moisson",
@@ -122,7 +122,7 @@
      "Francis Lawrence"
     ],
     "cast": [],
-    "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymitch Abernathy essaie de ne pas trop penser à ses chances.…",
+    "synopsis": "Vingt-quatre ans avant les Jeux qui verront triompher Katniss Everdeen, Haymitch Abernathy, 16 ans, est tiré au sort pour participer aux 50ᵉ Hunger Games, les plus cruels jamais organisés.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html"
    },
    "inFeed": true
@@ -3691,6 +3691,26 @@
    },
    "inFeed": true
   },
+  "1000055601": {
+   "created": "20261117T142449Z",
+   "modified": "20261117T142449Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Nowhere",
+    "releaseDate": "2026-11-18",
+    "genres": [
+     "Thriller"
+    ],
+    "duration": "15min",
+    "directors": [
+     "Ayden Casse"
+    ],
+    "cast": [],
+    "synopsis": "Pourchasser par des hommes à qui, il doit de l'argent, Ryad dans sa course, demande sa route à un inconnu. Mais est-ce vraiment le bon chemin ?",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055601.html"
+   },
+   "inFeed": true
+  },
   "119263": {
    "created": "20261112T072128Z",
    "modified": "20261112T072128Z",
@@ -4207,7 +4227,7 @@
   },
   "313265": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261117T142449Z",
    "sequence": 0,
    "fields": {
     "title": "Astérix - Le Royaume de Nubie",
@@ -4219,7 +4239,7 @@
      "Famille",
      "Historique"
     ],
-    "duration": "1h28min",
+    "duration": "1h26min",
     "directors": [
      "Alexandre Heboyan"
     ],
@@ -4339,7 +4359,7 @@
   },
   "316136": {
    "created": "20261008T064216Z",
-   "modified": "20261117T072306Z",
+   "modified": "20261117T142449Z",
    "sequence": 0,
    "fields": {
     "title": "Camembert",
@@ -4353,7 +4373,7 @@
      "Nicolas Slomka"
     ],
     "cast": [],
-    "synopsis": "Stan, trentenaire d’origine modeste, rencontre pour la première fois la famille de sa petite amie Cléo. Il découvre alors la tradition familiale : à chaque anniversaire de France, l’impressionnante maîtresse de maison, on lance une partie de Trivial Pursuit ©. Il sait qu’il…",
+    "synopsis": "Stan rencontre pour la première fois la famille de sa petite amie Cléo. Il découvre alors la tradition familiale : à chaque anniversaire de France, l’impressionnante maîtresse de maison, on lance une partie de Trivial Pursuit ©.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html"
    },
    "inFeed": true

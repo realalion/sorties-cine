@@ -805,20 +805,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-316136@realalion.github.io
-DTSTAMP:20261117T072306Z
+DTSTAMP:20261117T142449Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261117T072306Z
+LAST-MODIFIED:20261117T142449Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Camembert
 DESCRIPTION:Comédie · 1h31min\n\nDe Matthieu Rumani\, Nicolas Slomka\n\nS
- tan\, trentenaire d’origine modeste\, rencontre pour la première fois 
- la famille de sa petite amie Cléo. Il découvre alors la tradition famil
- iale : à chaque anniversaire de France\, l’impressionnante maîtresse 
- de maison\, on lance une partie de Trivial Pursuit ©. Il sait qu’il…
- \n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.h
- tml\n\nSortie officielle au cinéma en France.
+ tan rencontre pour la première fois la famille de sa petite amie Cléo. 
+ Il découvre alors la tradition familiale : à chaque anniversaire de Fra
+ nce\, l’impressionnante maîtresse de maison\, on lance une partie de T
+ rivial Pursuit ©.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_
+ gen_cfilm=316136.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html
 CATEGORIES:Comédie
 TRANSP:TRANSPARENT
@@ -912,20 +911,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000004528@realalion.github.io
-DTSTAMP:20261103T060221Z
+DTSTAMP:20261117T142449Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261103T060221Z
+LAST-MODIFIED:20261117T142449Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🎬 Hunger Games : Lever de soleil sur la moisson
 DESCRIPTION:Action\, Aventure\, Drame\, Science Fiction · 2h38min\n\nDe Fr
- ancis Lawrence\n\nAlors que le jour se lève sur les 50e Hunger Games ann
- uels\, la peur s'empare des districts de Panem. Cette année\, en l'honne
- ur du Quarter Quell\, deux fois plus de tributs seront tirés au sort. Da
- ns le District 12\, Haymitch Abernathy essaie de ne pas trop penser à se
- s chances.…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_c
- film=1000004528.html\n\nSortie officielle au cinéma en France.
+ ancis Lawrence\n\nVingt-quatre ans avant les Jeux qui verront triompher K
+ atniss Everdeen\, Haymitch Abernathy\, 16 ans\, est tiré au sort pour pa
+ rticiper aux 50ᵉ Hunger Games\, les plus cruels jamais organisés.\n\nA
+ lloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.ht
+ ml\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.h
  tml
 CATEGORIES:Action,Aventure,Drame,Science Fiction
@@ -1059,6 +1057,26 @@ DESCRIPTION:Documentaire · 2h24min\n\nDe Marta György-Kessler\n\nMeeting
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.h
  tml
 CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000055601@realalion.github.io
+DTSTAMP:20261117T142449Z
+CREATED:20261117T142449Z
+LAST-MODIFIED:20261117T142449Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎬 Nowhere
+DESCRIPTION:Thriller · 15min\n\nDe Ayden Casse\n\nPourchasser par des homm
+ es à qui\, il doit de l'argent\, Ryad dans sa course\, demande sa route 
+ à un inconnu. Mais est-ce vraiment le bon chemin ?\n\nAlloCiné : https:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=1000055601.html\n\nSortie offi
+ cielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055601.h
+ tml
+CATEGORIES:Thriller
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -1575,14 +1593,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-313265@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261117T142449Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261117T142449Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Astérix - Le Royaume de Nubie
-DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Historique · 1h28m
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Historique · 1h26m
  in\n\nDe Alexandre Heboyan\n\nUn village d’irréductibles Gaulois rési
  ste encore et toujours à l’envahisseur… Mais pour combien de temps e
  ncore ? Un élixir de jouvence accidentellement versé dans la potion mag

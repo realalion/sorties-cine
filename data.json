@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T07:23:06+00:00",
+  "generatedAt": "2026-11-17T14:24:49+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-11-18",
   "to": "2027-01-13",
-  "count": 129,
+  "count": 130,
   "films": [
     {
       "id": "1000022255",
@@ -31,7 +31,7 @@
         "Comédie"
       ],
       "duration": "1h31min",
-      "synopsis": "Stan, trentenaire d’origine modeste, rencontre pour la première fois la famille de sa petite amie Cléo. Il découvre alors la tradition familiale : à chaque anniversaire de France, l’impressionnante maîtresse de maison, on lance une partie de Trivial Pursuit ©. Il sait qu’il…",
+      "synopsis": "Stan rencontre pour la première fois la famille de sa petite amie Cléo. Il découvre alors la tradition familiale : à chaque anniversaire de France, l’impressionnante maîtresse de maison, on lance une partie de Trivial Pursuit ©.",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/de/01/de019123ff2a620ecfc2c45bc743ab01.jpg",
       "directors": [
         "Matthieu Rumani",
@@ -115,7 +115,7 @@
         "Science Fiction"
       ],
       "duration": "2h38min",
-      "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymitch Abernathy essaie de ne pas trop penser à ses chances.…",
+      "synopsis": "Vingt-quatre ans avant les Jeux qui verront triompher Katniss Everdeen, Haymitch Abernathy, 16 ans, est tiré au sort pour participer aux 50ᵉ Hunger Games, les plus cruels jamais organisés.",
       "poster": "https://fr.web.img3.acsta.net/c_310_420/img/f1/24/f124e39fa139536fceb9005cab53fc04.jpg",
       "directors": [
         "Francis Lawrence"
@@ -221,6 +221,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html",
       "color": "#8d372c"
+    },
+    {
+      "id": "1000055601",
+      "title": "Nowhere",
+      "releaseDate": "2026-11-18",
+      "genres": [
+        "Thriller"
+      ],
+      "duration": "15min",
+      "synopsis": "Pourchasser par des hommes à qui, il doit de l'argent, Ryad dans sa course, demande sa route à un inconnu. Mais est-ce vraiment le bon chemin ?",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/db/05/db056def3d1346f7c3eebdc7fbd265fa.jpg",
+      "directors": [
+        "Ayden Casse"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055601.html",
+      "color": "#644e00"
     },
     {
       "id": "1000021751",
@@ -639,7 +655,7 @@
         "Famille",
         "Historique"
       ],
-      "duration": "1h28min",
+      "duration": "1h26min",
       "synopsis": "Un village d’irréductibles Gaulois résiste encore et toujours à l’envahisseur… Mais pour combien de temps encore ? Un élixir de jouvence accidentellement versé dans la potion magique a transformé tout le village en enfants ! Une seule solution pour Astérix et Obélix : voyager…",
       "poster": "https://fr.web.img3.acsta.net/c_310_420/img/5d/82/5d822abd6caebdff0b065a16e93b7f76.jpg",
       "directors": [
@@ -1105,12 +1121,12 @@
       ],
       "duration": "1h30min",
       "synopsis": "Dans les ruelles de Séville, Salva, Belén et leur bande de gamins des rues vont affronter tous les dangers pour éloigner la menace qui plane sur Carmen, jeune femme libre et flamboyante. Le destin de Carmen, oiseau rebelle, est entre leurs mains.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/82/96/82969ffb61835e6d309161ec46daf0b9.jpg",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/99/f5/99f561c6fd04c19f09b4622b4b71ee5a.jpg",
       "directors": [
         "Sébastien Laudenbach"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=319971.html",
-      "color": "#f27a0a"
+      "color": "#e07a10"
     },
     {
       "id": "1000028361",
