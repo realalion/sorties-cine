@@ -1916,22 +1916,22 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000044048@realalion.github.io
-DTSTAMP:20261014T054257Z
+DTSTAMP:20261118T072419Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261014T054257Z
+LAST-MODIFIED:20261118T072419Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 Barça Zou
-DESCRIPTION:Comédie dramatique · 1h26min\n\nDe Paul Nouhet\n\nL’été d
- e leurs dix-huit ans\, Emile\, Paul\, Hascoët et Léo partent à Barcelo
- ne\, la Mecque du skateboard\, pour leurs premières vacances entre potes
- . Dix ans plus tard\, ils s’appellent et se refont le film.\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html\n\n
- Sortie officielle au cinéma en France.
+DESCRIPTION:Comédie · 1h26min\n\nDe Paul Nouhet\n\nL’été de leurs dix
+ -huit ans\, Emile\, Paul\, Hascoët et Léo partent à Barcelone\, la Mec
+ que du skateboard\, pour leurs premières vacances entre potes. Dix ans p
+ lus tard\, ils s’appellent et se refont le film.\n\nAlloCiné : https:/
+ /www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html\n\nSortie offic
+ ielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.h
  tml
-CATEGORIES:Comédie dramatique
+CATEGORIES:Comédie
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

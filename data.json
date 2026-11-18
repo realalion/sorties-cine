@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:24:49+00:00",
+  "generatedAt": "2026-11-18T07:24:19+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -897,7 +897,7 @@
       "title": "Barça Zou",
       "releaseDate": "2026-12-09",
       "genres": [
-        "Comédie dramatique"
+        "Comédie"
       ],
       "duration": "1h26min",
       "synopsis": "L’été de leurs dix-huit ans, Emile, Paul, Hascoët et Léo partent à Barcelone, la Mecque du skateboard, pour leurs premières vacances entre potes. Dix ans plus tard, ils s’appellent et se refont le film.",
@@ -1650,13 +1650,13 @@
       ],
       "duration": "2h54min",
       "synopsis": "Trente-quatre jours avant son incarcération, la célèbre fondatrice de Theranos, Elizabeth Holmes, invite une équipe de tournage sceptique à documenter ses moindres faits et gestes. Ce qui commence comme un portrait intime devient un voyage époustouflant de trois ans.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/24/21/24216dfca28bf89cfc3405c2a3c790e0.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/b4/56/b45682ba461782651cb4202b9a1c41f6.jpg",
       "directors": [
         "Nathan Fielder",
         "Lance Oppenheim"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051707.html",
-      "color": "#ac5926"
+      "color": "#85534b"
     },
     {
       "id": "1000044050",
@@ -1795,12 +1795,12 @@
       ],
       "duration": null,
       "synopsis": "Dans un charmant village de campagne, Louise, la cinquantaine, revient seule dans sa maison natale pour la vider. Entre les retrouvailles avec ses amis d’enfance, la beauté de la nature, les passages de ses enfants et de son mari, et la complicité renaissante avec Marc, son…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/e4/fb/e4fbec388e315720d547887fa9791ed4.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/08/fd/08fd1e58bb2cd1ba9e2645b8999e5112.jpg",
       "directors": [
         "Stéphanie Pillonca"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037190.html",
-      "color": "#c58f16"
+      "color": "#db8e02"
     },
     {
       "id": "1000029498",

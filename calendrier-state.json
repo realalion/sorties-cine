@@ -2822,13 +2822,13 @@
   },
   "1000044048": {
    "created": "20261008T064216Z",
-   "modified": "20261014T054257Z",
+   "modified": "20261118T072419Z",
    "sequence": 1,
    "fields": {
     "title": "Barça Zou",
     "releaseDate": "2026-12-09",
     "genres": [
-     "Comédie dramatique"
+     "Comédie"
     ],
     "duration": "1h26min",
     "directors": [
