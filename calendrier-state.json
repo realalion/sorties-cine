@@ -377,7 +377,7 @@
   },
   "1000014559": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261118T135903Z",
    "sequence": 0,
    "fields": {
     "title": "Paper Tiger",
@@ -387,7 +387,7 @@
      "Policier",
      "Thriller"
     ],
-    "duration": "1h55min",
+    "duration": "1h54min",
     "directors": [
      "James Gray"
     ],
@@ -4160,7 +4160,7 @@
   },
   "312529": {
    "created": "20261008T064216Z",
-   "modified": "20261031T055016Z",
+   "modified": "20261118T135903Z",
    "sequence": 0,
    "fields": {
     "title": "Billie, à la croisée des mondes",
@@ -4172,7 +4172,7 @@
      "Famille",
      "Fantastique"
     ],
-    "duration": "1h49min",
+    "duration": "1h43min",
     "directors": [
      "Fawn Veerasunthorn",
      "Jason Hand",

@@ -1231,14 +1231,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-312529@realalion.github.io
-DTSTAMP:20261031T055016Z
+DTSTAMP:20261118T135903Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261031T055016Z
+LAST-MODIFIED:20261118T135903Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Billie\, à la croisée des mondes
-DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h49
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h43
  min\n\nDe Fawn Veerasunthorn\, Jason Hand\, Josie Trinidad\n\nAdolescente
   impulsive et anticonformiste\, Billie est tout le contraire d’Alice - 
  sa mère - une femme prudente et réfléchie. Lorsque la jeune fille lib
@@ -1485,14 +1485,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000014559@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261118T135903Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261118T135903Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Paper Tiger
-DESCRIPTION:Drame\, Policier\, Thriller · 1h55min\n\nDe James Gray\n\nDeux
+DESCRIPTION:Drame\, Policier\, Thriller · 1h54min\n\nDe James Gray\n\nDeux
   frères que tout oppose s’unissent pour une affaire douteuse liée à 
  la mafia russe. Mais ce qui devait être une opportunité devient un cauc
  hemar\, mettant en péril leur famille\, leur intégrité\, et leur lien 
