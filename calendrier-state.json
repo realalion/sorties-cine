@@ -1973,7 +1973,7 @@
   },
   "1000031926": {
    "created": "20261029T055410Z",
-   "modified": "20261119T071407Z",
+   "modified": "20261119T142703Z",
    "sequence": 0,
    "fields": {
     "title": "Avis de tempête",
@@ -1986,7 +1986,7 @@
      "Ludovic Bernard"
     ],
     "cast": [],
-    "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis.À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par le général de Gaulle, entame la traversée.Mais voilà, en plein…",
+    "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis. À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par De Gaulle, entame la traversée. Mais voilà, en plein milieu de…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html"
    },
    "inFeed": true
@@ -2093,8 +2093,8 @@
   },
   "1000033365": {
    "created": "20261022T054313Z",
-   "modified": "20261027T054439Z",
-   "sequence": 0,
+   "modified": "20261119T142703Z",
+   "sequence": 1,
    "fields": {
     "title": "Un cœur fidèle",
     "releaseDate": "2026-12-23",
@@ -2109,8 +2109,7 @@
     "synopsis": "Depuis qu’une ordonnance d’éloignement a été prononcée contre son père, Carmela, 12 ans, ne peut le voir que dans un centre de médiation sociale, sous surveillance. Lui qu’elle adore, voire l’idolâtre, est accusé de violences contre sa mère qui a demandé le divorce. Prise…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html"
    },
-   "inFeed": false,
-   "removedOn": "2026-11-19"
+   "inFeed": true
   },
   "1000033616": {
    "created": "20261112T072128Z",
