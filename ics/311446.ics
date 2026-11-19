@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-311446-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 Ceux qui tiennent la laisse — sortie ciné
+DESCRIPTION:Documentaire\n\nAu soir de la présidence d'Emmanuel Macron\, C
+ EUX QUI TIENNENT LA LAISSE dresse le bilan de la " Start-up Nation ". À 
+ travers l'ascension de Xavier Niel\, Patrick Drahi et d'une nouvelle gén
+ ération de milliardaires\, il enquête sur les liens entre argent\, poli
+ tique et médias\, et…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=311446.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=311446.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

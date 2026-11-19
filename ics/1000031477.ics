@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000031477-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 Aquí — sortie ciné
+DESCRIPTION:Drame\, Science Fiction · 3h23min\n\nDans un monde nouveau où
+  la mémoire a été effacée et la conformité imposée\, Simon décide 
+ de prendre sous sa responsabilité David\, un enfant curieux et insoumis.
+  Convaincu qu’il doit retrouver sa mère\, Simon part à sa recherche e
+ t rencontre Inés\, en qui il voit la mère idéale.…\n\nhttps://www.al
+ locine.fr/film/fichefilm_gen_cfilm=1000031477.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031477.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

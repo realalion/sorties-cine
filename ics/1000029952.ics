@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000029952-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 Lapin noir\, lapin blanc — sortie ciné
+DESCRIPTION:Drame · 2h19min\n\nLe tournage du remake d'une scène culte d'
+ une série iranienne prend une tournure angoissante lorsqu'il apparaît q
+ ue l'arme prévue n'est pas factice et chargée. Une mystérieuse jeune f
+ emme réclame une audition\, tandis que Sara\, rescapée d'un accident de
+  voiture\, découvre que…\n\nhttps://www.allocine.fr/film/fichefilm_gen
+ _cfilm=1000029952.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029952.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

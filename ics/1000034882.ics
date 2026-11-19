@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000034882-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 River — sortie ciné
+DESCRIPTION:Epouvante-horreur · 1h33min\n\nIl n’y a plus de soleil.Plus 
+ de moteur sur le bateau.Pas de réseau.Mais il y a quelqu’un sur la riv
+ e. À l’affût.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100
+ 0034882.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034882.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

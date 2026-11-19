@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044335-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 Un jeu dangereux — sortie ciné
+DESCRIPTION:Drame · 1h34min\n\nDans une villa d’été\, un couple marié
+  depuis vingt ans invite une jeune femme énigmatique. Entre désir\, jal
+ ousie et non-dits\, un jeu dangereux s’installe où chacun joue son rô
+ le. Leurs enfants\, à distance\, surveillent et s’inquiètent : qui jo
+ ue avec qui ? Leur mère est-elle…\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000044335.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044335.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

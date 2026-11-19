@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000034048-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 7h40 ce matin-là — sortie ciné
+DESCRIPTION:Comédie dramatique\n\nAutomne 2011. Un matin\, une femme arriv
+ e en lisière d’une ville de la Drôme. Un centre commercial\, un garag
+ e\, une cafétéria où elle se fait engager comme serveuse. Alice a pass
+ é vingt ans au Québec\, c’est ce qu’elle dit. Dans un garage voisin
+ \, elle se lie avec un jeune mécano…\n\nhttps://www.allocine.fr/film/f
+ ichefilm_gen_cfilm=1000034048.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

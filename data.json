@@ -1,341 +1,12 @@
 {
-  "generatedAt": "2026-11-18T13:59:03+00:00",
+  "generatedAt": "2026-11-19T07:14:07+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
-  "from": "2026-11-18",
-  "to": "2027-01-13",
-  "count": 130,
+  "from": "2026-11-25",
+  "to": "2027-01-20",
+  "count": 128,
   "films": [
-    {
-      "id": "1000022255",
-      "title": "Arsa",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h34min",
-      "synopsis": "Arsa a environ dix-huit ans. Belle, introvertie et sauvage, elle vit seule dans une cabane délabrée qui surplombe la mer, quelque part à l’extrémité d’une île. Elle évolue avec assurance dans ce paysage, où elle s’est construit un monde suspendu. Les roseaux marquent la…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/a1/84/a1849cdd924652510130d497a8cd5ac8.jpg",
-      "directors": [
-        "Masbedo"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022255.html",
-      "color": "#c47555"
-    },
-    {
-      "id": "316136",
-      "title": "Camembert",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Comédie"
-      ],
-      "duration": "1h31min",
-      "synopsis": "Stan rencontre pour la première fois la famille de sa petite amie Cléo. Il découvre alors la tradition familiale : à chaque anniversaire de France, l’impressionnante maîtresse de maison, on lance une partie de Trivial Pursuit ©.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/de/01/de019123ff2a620ecfc2c45bc743ab01.jpg",
-      "directors": [
-        "Matthieu Rumani",
-        "Nicolas Slomka"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html",
-      "color": "#bb181c"
-    },
-    {
-      "id": "1000048844",
-      "title": "City Exterminator",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Thriller"
-      ],
-      "duration": "1h28min",
-      "synopsis": "Nabil, un ingénieur ambitieux, a un projet totalitaire de métamorphoser la ville de Beyrouth. Il veut tout détruire pour la reconstruire et cela en implantant des bombes IA vitalistes dans les corps humains. Mais les choses ne se déroulent pas comme prévu lorsqu’il croise le…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/3a/15/3a155ae114d3eee24c1dcb28a81b7d85.jpg",
-      "directors": [
-        "Christophe Karabache"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048844.html",
-      "color": "#851b18"
-    },
-    {
-      "id": "1000051654",
-      "title": "Dernier coup de chapeau pour Capelito",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Animation"
-      ],
-      "duration": "40min",
-      "synopsis": "Après plusieurs épisodes au cinéma, Capelito s’apprête à tirer sa révérence. L’occasion pour lui de révéler, dans une ultime série de courts, plusieurs facettes de son personnage et, notamment, l’origine du curieux pouvoir de son nez magique.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/5b/92/5b922ce2d8e2a1dab18f3fceb6d537d2.jpg",
-      "directors": [
-        "Rodolfo Pastor"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051654.html",
-      "color": "#83330d"
-    },
-    {
-      "id": "1000010370",
-      "title": "Fais-moi un signe",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h45min",
-      "synopsis": "Enfant, Dai ne voyait pas la différence : avec ses parents sourds, tout était simple, empli d’amour et de complicité. Mais en grandissant, il découvre le poids du regard des autres et la force des mots – ceux qui échappent à son père et sa mère.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/81/ed/81ed92cc0bd75a723563370ece25db46.jpg",
-      "directors": [
-        "Mipo O"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010370.html",
-      "color": "#d82b15"
-    },
-    {
-      "id": "298873",
-      "title": "Gabin",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h45min",
-      "synopsis": "Dans le nord de la France, Gabin, le petit dernier de la famille Jourdel, est destiné à reprendre la boucherie de son père. Tiraillé entre loyauté familiale et envies d’échappées, il a d’autres rêves : dresser une vache de concours, devenir éleveur canin, sauver la ferme de…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/f4/f9/f4f9596241435673ee4b9e67ced5cbac.jpg",
-      "directors": [
-        "Maxence Voiseux"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298873.html",
-      "color": "#009bdc"
-    },
-    {
-      "id": "1000004528",
-      "title": "Hunger Games : Lever de soleil sur la moisson",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Drame",
-        "Science Fiction"
-      ],
-      "duration": "2h38min",
-      "synopsis": "Vingt-quatre ans avant les Jeux qui verront triompher Katniss Everdeen, Haymitch Abernathy, 16 ans, est tiré au sort pour participer aux 50ᵉ Hunger Games, les plus cruels jamais organisés.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/f1/24/f124e39fa139536fceb9005cab53fc04.jpg",
-      "directors": [
-        "Francis Lawrence"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
-      "color": "#b59545"
-    },
-    {
-      "id": "1000022995",
-      "title": "Jupiter",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame",
-        "Thriller"
-      ],
-      "duration": "1h27min",
-      "synopsis": "Fraîchement élu, le président Paul Archambault doit affronter une crise sans précédent : son homologue russe, cible d'un attentat, brandit un ultimatum nucléaire menaçant un allié de la France. Face au risque d'escalade militaire, le président réunit son état-major dans le…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/2f/ab/2fabb861ff01b7c43b24c0cdafb0931a.jpg",
-      "directors": [
-        "Alexandre Smia"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html",
-      "color": "#024f84"
-    },
-    {
-      "id": "1000032333",
-      "title": "La Montagne d'or",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "1h25min",
-      "synopsis": "La fièvre de l’or s’est emparée du Nord du Niger. En quête du métal précieux et malgré les risques, une armée de chercheurs d'or a pris d’assaut les sites d’intérêt. Tandis que les camps s’installent et se démantèlent au gré des rumeurs de nouvelles pistes, Moussa et ses…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/ba/40/ba40ea69269385ee27f94afe51b30fd6.jpg",
-      "directors": [
-        "Roland Edzard"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.html",
-      "color": "#c06d00"
-    },
-    {
-      "id": "780",
-      "title": "La Reine Kelly",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h45min",
-      "synopsis": "Dans un royaume imaginaire d’Europe, la Reine Régina, cruelle et impitoyable, doit épouser le Prince Wolfram, noceur et libertin notoire. Un jour, à la tête de son régiment, le prince croise un groupe de jeunes nonnes qui s’en retournent au pensionnat. Il remarque…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/da/66/da66f5ef8efc8be3853d905996950753.jpg",
-      "directors": [
-        "Erich Von Stroheim"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=780.html",
-      "color": "#8c8c8c"
-    },
-    {
-      "id": "1000017168",
-      "title": "Les Braves (Coward)",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame",
-        "Historique",
-        "Romance"
-      ],
-      "duration": "2h07min",
-      "synopsis": "Le jeune soldat Pierre veut faire ses preuves sur le front pendant la Première Guerre mondiale. Derrière les lignes, il rencontre Francis, chargé de remonter le moral des troupes.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/f9/87/f9878d8018f1c89eda8fd60351691840.jpg",
-      "directors": [
-        "Lukas Dhont"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html",
-      "color": "#803013"
-    },
-    {
-      "id": "1000018671",
-      "title": "Malika",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Biopic"
-      ],
-      "duration": "1h26min",
-      "synopsis": "L’incroyable histoire vraie de Malika Bellaribi, la « diva des banlieues » : du bidonville de Nanterre jusqu’aux plus grandes scènes de l’Opéra. Victime d’un grave accident à l’enfance, confrontée aux discriminations et à un drame intime, elle s’accroche à son rêve ambitieux…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/40/75/40755e7f3312dc2311b37a66bc94fe81.jpg",
-      "directors": [
-        "Mounia Meddour"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html",
-      "color": "#e40a13"
-    },
-    {
-      "id": "1000040428",
-      "title": "Meeting The Buddha",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": "2h24min",
-      "synopsis": "Meeting The Buddha est un documentaire sur la vie de Rangjung Rigpé Dorjé (XVIe Karmapa) et de son élève Ole Nydahl devenu lama, ayant perpétué la transmission vivante de la lignée Karma Kagyu et la création de 600 centres bouddhistes tibétains en occident.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/14/86/1486a23fe06376a99d50502e0d2d3502.jpg",
-      "directors": [
-        "Marta György-Kessler"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html",
-      "color": "#8d372c"
-    },
-    {
-      "id": "1000055601",
-      "title": "Nowhere",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Thriller"
-      ],
-      "duration": "15min",
-      "synopsis": "Pourchasser par des hommes à qui, il doit de l'argent, Ryad dans sa course, demande sa route à un inconnu. Mais est-ce vraiment le bon chemin ?",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/db/05/db056def3d1346f7c3eebdc7fbd265fa.jpg",
-      "directors": [
-        "Ayden Casse"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055601.html",
-      "color": "#644e00"
-    },
-    {
-      "id": "1000021751",
-      "title": "Ohong Village",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h31min",
-      "synopsis": "Un village côtier au bord du déclin, se prépare à célébrer le dieu de la mer.Un jeune homme, qui était parti à la capitale, revient au village, surjouant sa réussite. Il retrouve son père, ostréiculteur obstiné resté fidèle à sa terre, ainsi que son ami d’enfance, qui envie…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/48/50/485040ed94a01cc7ea776827ffd58bf3.jpg",
-      "directors": [
-        "Lim Lungyin"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021751.html",
-      "color": "#464e6c"
-    },
-    {
-      "id": "1000052544",
-      "title": "Tu ne jugeras point",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h42min",
-      "synopsis": "160 000 enfants victimes d’abus sexuels chaque année. Devant ce chiffre dramatique et l’absence totale de prévention, une femme décide d’ouvrir un lieu d’accueil pour pédophiles.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/df/e5/dfe565d15d6cee455a6bec9d72ff8522.jpg",
-      "directors": [
-        "Sabrina Nouchi"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052544.html",
-      "color": "#c96f00"
-    },
-    {
-      "id": "1000028480",
-      "title": "Ulya",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h42min",
-      "synopsis": "Lettonie, 1964. Ulya, une adolescente mesurant près de deux mètres, grandit dans une ferme isolée. Sa taille hors norme inquiète sa famille. Elle est envoyée à Riga pour intégrer une équipe renommée de basket-ball. Confrontée à sa taille et à des questionnements sur son…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/a6/15/a615219c778a4c61d3cd95a7fb4f2271.jpg",
-      "directors": [
-        "Viesturs Kairiss"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028480.html",
-      "color": "#bd4d4e"
-    },
-    {
-      "id": "1000020268",
-      "title": "Une femme comme Eva",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h43min",
-      "synopsis": "Malheureuse dans son mariage, Eva rencontre en France Liliane, une femme indépendante vivant en communauté et dont elle tombe amoureuse. À son retour aux Pays-Bas, elle décide de quitter son mari tout en souhaitant conserver la garde de ses deux enfants.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/47/c8/47c80ee0f39de2b104c8a8cc39800688.jpg",
-      "directors": [
-        "Nouchka van Brakel"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020268.html",
-      "color": "#cc262c"
-    },
-    {
-      "id": "1000028451",
-      "title": "Weed Eaters",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Comédie"
-      ],
-      "duration": "1h21min",
-      "synopsis": "Pour fêter le Nouvel An, quatre potes se retrouvent dans une grange au fin fond de la campagne néo-zélandaise. La soirée parfaite, grâce à un pot de weed volé au fermier du coin. Jusqu'à ce qu'ils découvrent que cette herbe provoque une irrésistible envie de chair humaine...",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/e2/8f/e28f3589f8192ca2d9f272f174a73d0b.jpg",
-      "directors": [
-        "Callum Devlin"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028451.html",
-      "color": "#812700"
-    },
-    {
-      "id": "1000046705",
-      "title": "À la poursuite de l’Affreunard",
-      "releaseDate": "2026-11-18",
-      "genres": [
-        "Animation",
-        "Famille"
-      ],
-      "duration": "44min",
-      "synopsis": "Un programme de 3 courts-métrages d’animation.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/35/4b/354bc7d7ff4fe73b99cf45ba32ac48a7.jpg",
-      "directors": [
-        "Benjamin Botella",
-        "Zoltan Horvath"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046705.html",
-      "color": "#ffbc00"
-    },
     {
       "id": "1000023042",
       "title": "3670",
@@ -738,7 +409,7 @@
         "Romance"
       ],
       "duration": "1h31min",
-      "synopsis": "Étienne est un chauffeur routier dévoué et passionné. Chevillé à la route chaque semaine, au détriment de sa vie affective, Étienne se contente de brèves entrevues sur des parkings avec des anonymes. Mais lorsqu'il rencontre Bartosz, un routier polonais, son cœur chavire.…",
+      "synopsis": "Étienne est routier. Accroché à la route, il réduit sa vie affective à des rencontres anonymes et éphémères sur des parkings. Quand il croise Bartosz, un camionneur polonais, sa solitude est bouleversée.",
       "poster": "https://fr.web.img5.acsta.net/c_310_420/img/0e/76/0e7668d9363d3f802f54dc5dd2e92ae3.jpg",
       "directors": [
         "Pierre Le Gall"
@@ -842,6 +513,24 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023399.html",
       "color": "#ff0077"
+    },
+    {
+      "id": "1000055612",
+      "title": "Spider-Man : Brand New Day - Version longue",
+      "releaseDate": "2026-12-02",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Science Fiction"
+      ],
+      "duration": "2h37min",
+      "synopsis": "C’est un tout nouveau jour pour Peter Parker. Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité. Mais le sentiment d’avoir été oublié par ses amis qui avancent désormais sans lui provoque un changement chez Peter qu’il n’est…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ba/3e/ba3e4b5cd714efedcfc48a661e55ba61.jpg",
+      "directors": [
+        "Destin Daniel Cretton"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055612.html",
+      "color": "#e70010"
     },
     {
       "id": "1000031015",
@@ -1405,12 +1094,12 @@
       ],
       "duration": "1h47min",
       "synopsis": "Marion Cotillard incarne une star de cinéma à bout de souffle épaulée par sa fidèle maquilleuse campée par Noémie Merlant devant la caméra de Bertrand Mandico pour un hommage ébouriffant au Cinecitta des années 80.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/c5/c3/c5c35409692391f96b55ee12aabd921f.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/60/d3/60d385f3e86b16a941027c3fe47f811d.jpg",
       "directors": [
         "Bertrand Mandico"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html",
-      "color": "#74690a"
+      "color": "#c8334b"
     },
     {
       "id": "1000016431",
@@ -1461,22 +1150,6 @@
       "color": "#71475a"
     },
     {
-      "id": "1000033365",
-      "title": "Un cœur fidèle",
-      "releaseDate": "2026-12-23",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h43min",
-      "synopsis": "Depuis qu’une ordonnance d’éloignement a été prononcée contre son père, Carmela, 12 ans, ne peut le voir que dans un centre de médiation sociale, sous surveillance. Lui qu’elle adore, voire l’idolâtre, est accusé de violences contre sa mère qui a demandé le divorce. Prise…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/5a/4e/5a4e092ab180dfe79b2dfc93d0274643.jpg",
-      "directors": [
-        "Júlia De Paz Solvas"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html",
-      "color": "#be6d32"
-    },
-    {
       "id": "294374",
       "title": "Une famille de Singapour",
       "releaseDate": "2026-12-23",
@@ -1516,13 +1189,13 @@
         "Comédie"
       ],
       "duration": null,
-      "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis. À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par De Gaulle, entame la traversée. Mais voilà, en plein milieu de…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/86/7c/867c07f507fc9594860b7539d33f99f9.jpg",
+      "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis.À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par le général de Gaulle, entame la traversée.Mais voilà, en plein…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ea/82/ea82a83d6de64982d08541efb4ae1ca5.jpg",
       "directors": [
         "Ludovic Bernard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html",
-      "color": "#00b1f6"
+      "color": "#00b1f5"
     },
     {
       "id": "1000026193",
@@ -2160,6 +1833,298 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029139.html",
       "color": "#ed1203"
+    },
+    {
+      "id": "1000034048",
+      "title": "7h40 ce matin-là",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "duration": null,
+      "synopsis": "Automne 2011. Un matin, une femme arrive en lisière d’une ville de la Drôme. Un centre commercial, un garage, une cafétéria où elle se fait engager comme serveuse. Alice a passé vingt ans au Québec, c’est ce qu’elle dit. Dans un garage voisin, elle se lie avec un jeune mécano…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Nicole Garcia"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "1000055255",
+      "title": "Albert-Claude Quemoun, une vie d'homéopathie",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": null,
+      "synopsis": "",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/3b/f1/3bf10dd4aea45ae28c7cece2c4ea3cf7.jpg",
+      "directors": [
+        "Fabien Moine"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.html",
+      "color": "#ad9756"
+    },
+    {
+      "id": "316461",
+      "title": "American Citizen",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Thriller"
+      ],
+      "duration": "1h41min",
+      "synopsis": "Jer­ry, père céli­ba­taire en rup­ture avec la socié­té, endoc­trine son fils Joe dans le mou­ve­ment des Citoyens Sou­ve­rains, com­po­sé d’ac­ti­vistes anti-gou­ver­ne­men­taux. À mesure que cette idéo­lo­gie les consume, père et fils se dirigent inexo­ra­ble­ment vers une…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ff/68/ff68b855b127482e7110334d47f9d52b.jpg",
+      "directors": [
+        "Christian Swegal"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316461.html",
+      "color": "#ff2c19"
+    },
+    {
+      "id": "1000031477",
+      "title": "Aquí",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Drame",
+        "Science Fiction"
+      ],
+      "duration": "3h23min",
+      "synopsis": "Dans un monde nouveau où la mémoire a été effacée et la conformité imposée, Simon décide de prendre sous sa responsabilité David, un enfant curieux et insoumis. Convaincu qu’il doit retrouver sa mère, Simon part à sa recherche et rencontre Inés, en qui il voit la mère idéale.…",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/57/c4/57c4d784239e4a623e8f8eb74c2ae8de.jpg",
+      "directors": [
+        "Tiago Guedes"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031477.html",
+      "color": "#c15219"
+    },
+    {
+      "id": "1000039330",
+      "title": "Bourreau des cœurs",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Comédie"
+      ],
+      "duration": null,
+      "synopsis": "Moussa est un arnaqueur professionnel, avec sa complice et petite amie de toujours, Tania. Leur méthode : la séduction. Pour leur prochain coup, ils doivent infiltrer le milieu de l’art pour dérober un précieux masque Dogon. Pour y parvenir, Moussa se rapproche d’Awa, une…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/08/b2/08b24e7e13ff05b2369df4a7e6c39f43.jpg",
+      "directors": [
+        "Carine May",
+        "Hakim Zouhani"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039330.html",
+      "color": "#356575"
+    },
+    {
+      "id": "311446",
+      "title": "Ceux qui tiennent la laisse",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": null,
+      "synopsis": "Au soir de la présidence d'Emmanuel Macron, CEUX QUI TIENNENT LA LAISSE dresse le bilan de la \" Start-up Nation \". À travers l'ascension de Xavier Niel, Patrick Drahi et d'une nouvelle génération de milliardaires, il enquête sur les liens entre argent, politique et médias, et…",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/4a/7e/4a7e8a99924250896da063e5c7aa5ee3.jpg",
+      "directors": [
+        "Gilles Balbastre"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=311446.html",
+      "color": "#fbab16"
+    },
+    {
+      "id": "1000044052",
+      "title": "Deux Vies, Trois Morts",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h43min",
+      "synopsis": "Trois mineurs survivent à l’effondrement d’une mine mais choisissent de se faire passer pour morts afin que leurs familles touchent une indemnisation. Contraints à une clandestinité absurde, entre tensions familiales et quête d’identité, ils traversent l’Iran jusqu’à Téhéran.…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/fe/cd/fecd6198a5a2e5ce7d60ccb610070fe4.jpg",
+      "directors": [
+        "Karim Lakzadeh"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html",
+      "color": "#ab7c3c"
+    },
+    {
+      "id": "1000052470",
+      "title": "La Lutte armée n'est pas un jeu d'enfant",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Divers"
+      ],
+      "duration": "1h05min",
+      "synopsis": "C’est l’histoire d’un gamin qui grandit à la fin du XXème siècle avec la certitude qu’un jour il reprendra le flambeau de la lutte armée. Il fera la révolution pour que se dessine un monde meilleur. Mais les choses ne se passent pas comme prévues... Aujourd’hui il regarde…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/6a/fc/6afc72a2075188b13cac79e39da083ba.jpg",
+      "directors": [
+        "Nicolas Réglat"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052470.html",
+      "color": "#4c5b59"
+    },
+    {
+      "id": "1000031060",
+      "title": "La Troisième nuit",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Drame",
+        "Historique"
+      ],
+      "duration": "1h40min",
+      "synopsis": "Août 1942. En pleine occupation, le gouvernement de Vichy organise une rafle massive de Juifs étrangers. Gilbert Lesage, jeune fonctionnaire au Service Social des Étrangers, est chargé d’organiser une commission de criblage pour statuer sur le sort des Juifs arrêtés, tandis…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/07/af/07af01917079707e5c569312e816fb00.jpg",
+      "directors": [
+        "Daniel Auteuil"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031060.html",
+      "color": "#3f7b4e"
+    },
+    {
+      "id": "1000029952",
+      "title": "Lapin noir, lapin blanc",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "2h19min",
+      "synopsis": "Le tournage du remake d'une scène culte d'une série iranienne prend une tournure angoissante lorsqu'il apparaît que l'arme prévue n'est pas factice et chargée. Une mystérieuse jeune femme réclame une audition, tandis que Sara, rescapée d'un accident de voiture, découvre que…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1f/2e/1f2e52da0a0cb5d2be4c6a1262eec878.jpg",
+      "directors": [
+        "Shahram Mokri"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029952.html",
+      "color": "#b16a2f"
+    },
+    {
+      "id": "1000023483",
+      "title": "Le Journal d’une femme de chambre",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "duration": "1h34min",
+      "synopsis": "Gianina, jeune roumaine, travaille comme employée de maison dans une famille bourgeoise bordelaise. Elle répète le soir avec une troupe de théâtre amateur le rôle d’une soubrette dans une adaptation du Journal d’une femme de chambre d’Octave Mirbeau. Au quotidien, elle…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/ce/c7/cec747386a30cfa8cd8396bfee2a4020.jpg",
+      "directors": [
+        "Radu Jude"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023483.html",
+      "color": "#ffa600"
+    },
+    {
+      "id": "1000047524",
+      "title": "Le Temps des animaux",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Documentaire"
+      ],
+      "duration": "1h24min",
+      "synopsis": "Depuis l’enfance, Vincent Chabloz nourrit une passion profonde pour Derborence, une vallée des Alpes, majestueuse et marquée par son histoire. Le cinéaste animalier nous invite à découvrir ce territoire exceptionnel à travers ceux qui l’habitent toute l’année : renards,…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/05/d7/05d79f45188c07199ea16210a67f28f4.jpg",
+      "directors": [
+        "Vincent Chabloz"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047524.html",
+      "color": "#ac9e3b"
+    },
+    {
+      "id": "1000054485",
+      "title": "Le coassement de la méduse",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Comédie"
+      ],
+      "duration": "1h42min",
+      "synopsis": "Bastia, années 80 : Pascal et Joséphine se marient. La fête révèle les secrets et les rancœurs des invités. Le père de la mariée, gangster disparu, serait de retour.",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "directors": [
+        "Gérard Guerrieri"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054485.html",
+      "color": "#e0e0e0"
+    },
+    {
+      "id": "1000000503",
+      "title": "Méli-Mélo",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Animation",
+        "Drame"
+      ],
+      "duration": "1h42min",
+      "synopsis": "San Francisco, fin des années 90. Sarah, jeune illustratrice, voit enfin ses premiers dessins publiés. Elle tombe amoureuse de Donimo et goûte à la liberté que sa petite ville natale ne lui a jamais offerte. Elle n’oublie pas ses parents, sa sœur et ses tantes, restés à…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/22/78/22789ac23bf9562622633a84335bb860.jpg",
+      "directors": [
+        "Leah Nelson"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000503.html",
+      "color": "#ecd68d"
+    },
+    {
+      "id": "1000032798",
+      "title": "Peleliu : Guerre au paradis",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Animation"
+      ],
+      "duration": "1h44min",
+      "synopsis": "Japon, 1944. 10 000 soldats japonais débarquent sur l'île de Peleliu. Tamaru, un aspirant mangaka de 21 ans est enrôlé malgré lui dans le conflit, tout comme Yoshiki avec qui il va se lier d'amitié. Ensemble, ils s'accrochent à la vie au coeur de cette guerre d'usure. Isolés…",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/47/bf/47bf36e60737dab0acd99992d6097b0c.jpeg",
+      "directors": [
+        "Goro Kuji"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html",
+      "color": "#4291ba"
+    },
+    {
+      "id": "1000034882",
+      "title": "River",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Epouvante-horreur"
+      ],
+      "duration": "1h33min",
+      "synopsis": "Il n’y a plus de soleil.Plus de moteur sur le bateau.Pas de réseau.Mais il y a quelqu’un sur la rive. À l’affût.",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/db/50/db50dda00f9369bf45a0b8789e461d9c.jpg",
+      "directors": [
+        "Joshua Giuliano"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034882.html",
+      "color": "#7e3700"
+    },
+    {
+      "id": "1000044335",
+      "title": "Un jeu dangereux",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h34min",
+      "synopsis": "Dans une villa d’été, un couple marié depuis vingt ans invite une jeune femme énigmatique. Entre désir, jalousie et non-dits, un jeu dangereux s’installe où chacun joue son rôle. Leurs enfants, à distance, surveillent et s’inquiètent : qui joue avec qui ? Leur mère est-elle…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/4e/44/4e4423f087a49d60e1b49ba17a8106e1.jpg",
+      "directors": [
+        "Karine Silla"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044335.html",
+      "color": "#96531c"
+    },
+    {
+      "id": "1000027308",
+      "title": "Vesna",
+      "releaseDate": "2027-01-20",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h33min",
+      "synopsis": "En Ukraine occupée, les Russes interdisent d’enterrer les civils ukrainiens exécutés. Andryï, prêtre de 35 ans, voit son église transformée en morgue. Contraint d'y stocker les corps avant leur disparition en fosses communes, il résiste en secret : il identifie les morts et…",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/22/a7/22a7f1cf5ab8b2522cbb3dd693641077.jpg",
+      "directors": [
+        "Rostislav Kirpičenko"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html",
+      "color": "#787f8a"
     }
   ]
 }

@@ -21,6 +21,27 @@
    "inFeed": false,
    "removedOn": "2026-11-12"
   },
+  "1000000503": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Méli-Mélo",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Animation",
+     "Drame"
+    ],
+    "duration": "1h42min",
+    "directors": [
+     "Leah Nelson"
+    ],
+    "cast": [],
+    "synopsis": "San Francisco, fin des années 90. Sarah, jeune illustratrice, voit enfin ses premiers dessins publiés. Elle tombe amoureuse de Donimo et goûte à la liberté que sa petite ville natale ne lui a jamais offerte. Elle n’oublie pas ses parents, sa sœur et ses tantes, restés à…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000503.html"
+   },
+   "inFeed": true
+  },
   "1000002678": {
    "created": "20261022T054313Z",
    "modified": "20261022T054313Z",
@@ -145,7 +166,8 @@
     "synopsis": "Nichée à 1 600 mètres d’altitude dans le minuscule hameau de La Gurraz (35 habitants), en Haute Tarentaise, se trouve la plus petite école de France : huit élèves, de la maternelle au CM2, un seul lieu de savoir et de vie.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000009924": {
    "created": "20261008T064216Z",
@@ -373,7 +395,8 @@
     "synopsis": "La guerre a détruit le Japon. Godzilla a réduit ses ultimes espoirs à zéro. Deux ans ont passé. Alors que l’humanité commence enfin à renouer avec une paix difficilement acquise, une nouvelle menace surgit et anéantit tout espoir en un instant.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000014559": {
    "created": "20261008T064216Z",
@@ -1188,6 +1211,26 @@
    },
    "inFeed": true
   },
+  "1000023483": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Le Journal d’une femme de chambre",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Comédie dramatique"
+    ],
+    "duration": "1h34min",
+    "directors": [
+     "Radu Jude"
+    ],
+    "cast": [],
+    "synopsis": "Gianina, jeune roumaine, travaille comme employée de maison dans une famille bourgeoise bordelaise. Elle répète le soir avec une troupe de théâtre amateur le rôle d’une soubrette dans une adaptation du Journal d’une femme de chambre d’Octave Mirbeau. Au quotidien, elle…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023483.html"
+   },
+   "inFeed": true
+  },
   "1000023600": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -1478,15 +1521,16 @@
     "synopsis": "Lia, basketteuse franco-rwandaise, est invitée à rejoindre l'équipe nationale du Rwanda pour le championnat d'Afrique. Ce retour dans le pays qu'elle a fui étant enfant ravive les souvenirs du passé et va profondément bouleverser sa vie.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027255.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000027308": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261119T071407Z",
+   "sequence": 1,
    "fields": {
     "title": "Vesna",
-    "releaseDate": "2026-12-02",
+    "releaseDate": "2027-01-20",
     "genres": [
      "Drame"
     ],
@@ -1498,8 +1542,7 @@
     "synopsis": "En Ukraine occupée, les Russes interdisent d’enterrer les civils ukrainiens exécutés. Andryï, prêtre de 35 ans, voit son église transformée en morgue. Contraint d'y stocker les corps avant leur disparition en fosses communes, il résiste en secret : il identifie les morts et…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html"
    },
-   "inFeed": false,
-   "removedOn": "2026-10-21"
+   "inFeed": true
   },
   "1000027620": {
    "created": "20261008T064216Z",
@@ -1766,6 +1809,26 @@
    },
    "inFeed": true
   },
+  "1000029952": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Lapin noir, lapin blanc",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "2h19min",
+    "directors": [
+     "Shahram Mokri"
+    ],
+    "cast": [],
+    "synopsis": "Le tournage du remake d'une scène culte d'une série iranienne prend une tournure angoissante lorsqu'il apparaît que l'arme prévue n'est pas factice et chargée. Une mystérieuse jeune femme réclame une audition, tandis que Sara, rescapée d'un accident de voiture, découvre que…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029952.html"
+   },
+   "inFeed": true
+  },
   "1000030383": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -1825,6 +1888,27 @@
    },
    "inFeed": true
   },
+  "1000031060": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "La Troisième nuit",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Drame",
+     "Historique"
+    ],
+    "duration": "1h40min",
+    "directors": [
+     "Daniel Auteuil"
+    ],
+    "cast": [],
+    "synopsis": "Août 1942. En pleine occupation, le gouvernement de Vichy organise une rafle massive de Juifs étrangers. Gilbert Lesage, jeune fonctionnaire au Service Social des Étrangers, est chargé d’organiser une commission de criblage pour statuer sur le sort des Juifs arrêtés, tandis…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031060.html"
+   },
+   "inFeed": true
+  },
   "1000031164": {
    "created": "20261008T064216Z",
    "modified": "20261107T114413Z",
@@ -1842,6 +1926,27 @@
     "cast": [],
     "synopsis": "En 1949, Thomas Mann (Hanns Zischler), lauréat du prix Nobel de littérature, retourne pour la première fois en Allemagne depuis la fin de la guerre, accompagné de sa fille Erika (Sandra Hüller), actrice, écrivain et pilote de rallye. Au volant d'une Buick noire, ils…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.html"
+   },
+   "inFeed": true
+  },
+  "1000031477": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Aquí",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Drame",
+     "Science Fiction"
+    ],
+    "duration": "3h23min",
+    "directors": [
+     "Tiago Guedes"
+    ],
+    "cast": [],
+    "synopsis": "Dans un monde nouveau où la mémoire a été effacée et la conformité imposée, Simon décide de prendre sous sa responsabilité David, un enfant curieux et insoumis. Convaincu qu’il doit retrouver sa mère, Simon part à sa recherche et rencontre Inés, en qui il voit la mère idéale.…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031477.html"
    },
    "inFeed": true
   },
@@ -1863,11 +1968,12 @@
     "synopsis": "En quelques jours seulement, tout semble virer à la catastrophe pour Antoine Blanchet, héritier de l’ancestrale fabrique familiale de balances.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000031926": {
    "created": "20261029T055410Z",
-   "modified": "20261029T055410Z",
+   "modified": "20261119T071407Z",
    "sequence": 0,
    "fields": {
     "title": "Avis de tempête",
@@ -1880,7 +1986,7 @@
      "Ludovic Bernard"
     ],
     "cast": [],
-    "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis. À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par De Gaulle, entame la traversée. Mais voilà, en plein milieu de…",
+    "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis.À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par le général de Gaulle, entame la traversée.Mais voilà, en plein…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html"
    },
    "inFeed": true
@@ -1949,11 +2055,11 @@
   },
   "1000032798": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261119T071407Z",
+   "sequence": 1,
    "fields": {
     "title": "Peleliu : Guerre au paradis",
-    "releaseDate": "2026-11-18",
+    "releaseDate": "2027-01-20",
     "genres": [
      "Animation"
     ],
@@ -1965,8 +2071,7 @@
     "synopsis": "Japon, 1944. 10 000 soldats japonais débarquent sur l'île de Peleliu. Tamaru, un aspirant mangaka de 21 ans est enrôlé malgré lui dans le conflit, tout comme Yoshiki avec qui il va se lier d'amitié. Ensemble, ils s'accrochent à la vie au coeur de cette guerre d'usure. Isolés…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html"
    },
-   "inFeed": false,
-   "removedOn": "2026-11-03"
+   "inFeed": true
   },
   "1000033019": {
    "created": "20261012T073847Z",
@@ -2004,7 +2109,8 @@
     "synopsis": "Depuis qu’une ordonnance d’éloignement a été prononcée contre son père, Carmela, 12 ans, ne peut le voir que dans un centre de médiation sociale, sous surveillance. Lui qu’elle adore, voire l’idolâtre, est accusé de violences contre sa mère qui a demandé le divorce. Prise…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000033616": {
    "created": "20261112T072128Z",
@@ -2089,6 +2195,26 @@
    },
    "inFeed": true
   },
+  "1000034048": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "7h40 ce matin-là",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Comédie dramatique"
+    ],
+    "duration": null,
+    "directors": [
+     "Nicole Garcia"
+    ],
+    "cast": [],
+    "synopsis": "Automne 2011. Un matin, une femme arrive en lisière d’une ville de la Drôme. Un centre commercial, un garage, une cafétéria où elle se fait engager comme serveuse. Alice a passé vingt ans au Québec, c’est ce qu’elle dit. Dans un garage voisin, elle se lie avec un jeune mécano…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.html"
+   },
+   "inFeed": true
+  },
   "1000034569": {
    "created": "20261112T072128Z",
    "modified": "20261112T072128Z",
@@ -2112,18 +2238,20 @@
   },
   "1000034882": {
    "created": "20261019T071228Z",
-   "modified": "20261019T071228Z",
+   "modified": "20261119T071407Z",
    "sequence": 0,
    "fields": {
     "title": "River",
     "releaseDate": "2027-01-20",
     "genres": [
-     "Épouvante-horreur"
+     "Epouvante-horreur"
     ],
-    "duration": null,
-    "directors": [],
+    "duration": "1h33min",
+    "directors": [
+     "Joshua Giuliano"
+    ],
     "cast": [],
-    "synopsis": "",
+    "synopsis": "Il n’y a plus de soleil.Plus de moteur sur le bateau.Pas de réseau.Mais il y a quelqu’un sur la rive. À l’affût.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034882.html"
    },
    "inFeed": true
@@ -2189,7 +2317,8 @@
     "synopsis": "Sarah (15 ans), drôle et discrète, voit son monde basculer quand des photos “sexy”, prises naïvement avec sa meilleure amie Chloé, fuitent au collège. Au centre du manège : Charles, meneur charismatique et cruel, qui fait la loi dans la classe et va faire de Sarah son bouc…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035928.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000036109": {
    "created": "20261009T053154Z",
@@ -2351,7 +2480,8 @@
     "synopsis": "Peter (Jordan Firstman), organisateur de soirées branchées à New York, mène une existence aussi effrénée qu’insouciante, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo, le fils de 10 ans dont il ignorait l'existence, frappe à sa porte. Dépassé par ce…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036932.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000037190": {
    "created": "20261105T061113Z",
@@ -2453,7 +2583,8 @@
     "synopsis": "Robert Elliott est un éminent psychanalyste. Il a une clientèle parisienne fortunée et anime des conférences un peu partout dans le monde. Il vit dans le Marais, dans un luxueux appartement. Il y a quelques temps de cela, il a été accusé d’être celui que les médias ont appelé…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038090.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000038378": {
    "created": "20261008T064216Z",
@@ -2491,7 +2622,8 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038768.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000038769": {
    "created": "20261016T054238Z",
@@ -2509,7 +2641,8 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038769.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000038770": {
    "created": "20261016T054238Z",
@@ -2529,6 +2662,27 @@
    },
    "inFeed": false,
    "removedOn": "2026-11-02"
+  },
+  "1000039330": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Bourreau des cœurs",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Comédie"
+    ],
+    "duration": null,
+    "directors": [
+     "Carine May",
+     "Hakim Zouhani"
+    ],
+    "cast": [],
+    "synopsis": "Moussa est un arnaqueur professionnel, avec sa complice et petite amie de toujours, Tania. Leur méthode : la séduction. Pour leur prochain coup, ils doivent infiltrer le milieu de l’art pour dérober un précieux masque Dogon. Pour y parvenir, Moussa se rapproche d’Awa, une…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039330.html"
+   },
+   "inFeed": true
   },
   "1000039457": {
    "created": "20261008T064216Z",
@@ -2629,7 +2783,8 @@
     "synopsis": "La vie de saint Carlo Acutis, avec les témoignages inédits de ses proches.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040300.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000040428": {
    "created": "20261021T054336Z",
@@ -2860,6 +3015,26 @@
    },
    "inFeed": true
   },
+  "1000044052": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Deux Vies, Trois Morts",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h43min",
+    "directors": [
+     "Karim Lakzadeh"
+    ],
+    "cast": [],
+    "synopsis": "Trois mineurs survivent à l’effondrement d’une mine mais choisissent de se faire passer pour morts afin que leurs familles touchent une indemnisation. Contraints à une clandestinité absurde, entre tensions familiales et quête d’identité, ils traversent l’Iran jusqu’à Téhéran.…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html"
+   },
+   "inFeed": true
+  },
   "1000044062": {
    "created": "20261008T064216Z",
    "modified": "20261013T053352Z",
@@ -2900,6 +3075,26 @@
    },
    "inFeed": false,
    "removedOn": "2026-10-13"
+  },
+  "1000044335": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Un jeu dangereux",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Drame"
+    ],
+    "duration": "1h34min",
+    "directors": [
+     "Karine Silla"
+    ],
+    "cast": [],
+    "synopsis": "Dans une villa d’été, un couple marié depuis vingt ans invite une jeune femme énigmatique. Entre désir, jalousie et non-dits, un jeu dangereux s’installe où chacun joue son rôle. Leurs enfants, à distance, surveillent et s’inquiètent : qui joue avec qui ? Leur mère est-elle…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044335.html"
+   },
+   "inFeed": true
   },
   "1000044336": {
    "created": "20261008T064216Z",
@@ -2959,7 +3154,8 @@
     "synopsis": "NOS ÂMES LIBRES est une invitation au sensible. Une aventure qui traverse le temps, les pays, les éléments, l’eau, la terre, la forme : une expédition qui interroge intimement notre rapport au vivant. De sa rencontre avec l'animal libre et sauvage, de ses plongées avec les…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046573.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000046705": {
    "created": "20261008T064216Z",
@@ -3048,11 +3244,11 @@
   },
   "1000047524": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
-   "sequence": 0,
+   "modified": "20261119T071407Z",
+   "sequence": 1,
    "fields": {
     "title": "Le Temps des animaux",
-    "releaseDate": "2026-12-09",
+    "releaseDate": "2027-01-20",
     "genres": [
      "Documentaire"
     ],
@@ -3064,8 +3260,7 @@
     "synopsis": "Depuis l’enfance, Vincent Chabloz nourrit une passion profonde pour Derborence, une vallée des Alpes, majestueuse et marquée par son histoire. Le cinéaste animalier nous invite à découvrir ce territoire exceptionnel à travers ceux qui l’habitent toute l’année : renards,…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047524.html"
    },
-   "inFeed": false,
-   "removedOn": "2026-10-25"
+   "inFeed": true
   },
   "1000047933": {
    "created": "20261112T072128Z",
@@ -3208,7 +3403,8 @@
     "synopsis": "La Féria Pascale d'Arles fait partie de ces événements qui marquent profondément une ville et plusieurs générations. En croisant images d'archives et témoignages contemporains, le film propose un voyage dans le temps où se mêlent nostalgie, transmission et réflexion sur les…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000049433": {
    "created": "20261112T072128Z",
@@ -3253,7 +3449,8 @@
     "synopsis": "Et si les monstres d'aujourd'hui étaient moins imaginaires qu'ils n'y paraissent ? Des paysages transformés par le climat aux angoisses qui traversent nos sociétés, Zones troubles explore un fantastique profondément ancré dans notre époque. Quatre films où l'inexplicable…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000049862": {
    "created": "20261112T072128Z",
@@ -3376,7 +3573,8 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000051654": {
    "created": "20261008T064216Z",
@@ -3459,7 +3657,8 @@
     "synopsis": "Dans les Alpes, nous découvrons l’histoire vraie d’une louve. Une plongée immersive dans le monde secret des loups, un hommage à leur résilience et à leur place fragile dans un écosystème qu’ils partagent avec nous.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051742.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000051781": {
    "created": "20261008T064216Z",
@@ -3521,7 +3720,8 @@
     "synopsis": "Retrouvez Peppa et toute sa famille au cinéma pour une grande fête de Noël pleine de surprises et d’aventures hivernales. Une sélection de nouveaux épisodes et d'épisodes incontournables de la série à découvrir avec vos proches !",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "1000051934": {
    "created": "20261008T064216Z",
@@ -3585,6 +3785,26 @@
     "cast": [],
     "synopsis": "Les monstres les plus attachants de la littérature jeunesse sont de retour sur grand écran ! Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052290.html"
+   },
+   "inFeed": true
+  },
+  "1000052470": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "La Lutte armée n'est pas un jeu d'enfant",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Divers"
+    ],
+    "duration": "1h05min",
+    "directors": [
+     "Nicolas Réglat"
+    ],
+    "cast": [],
+    "synopsis": "C’est l’histoire d’un gamin qui grandit à la fin du XXème siècle avec la certitude qu’un jour il reprendra le flambeau de la lutte armée. Il fera la révolution pour que se dessine un monde meilleur. Mais les choses ne se passent pas comme prévues... Aujourd’hui il regarde…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052470.html"
    },
    "inFeed": true
   },
@@ -3669,6 +3889,26 @@
    "inFeed": false,
    "removedOn": "2026-11-12"
   },
+  "1000054485": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Le coassement de la méduse",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Comédie"
+    ],
+    "duration": "1h42min",
+    "directors": [
+     "Gérard Guerrieri"
+    ],
+    "cast": [],
+    "synopsis": "Bastia, années 80 : Pascal et Joséphine se marient. La fête révèle les secrets et les rancœurs des invités. Le père de la mariée, gangster disparu, serait de retour.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054485.html"
+   },
+   "inFeed": true
+  },
   "1000054743": {
    "created": "20261031T055016Z",
    "modified": "20261031T055016Z",
@@ -3691,6 +3931,26 @@
    },
    "inFeed": true
   },
+  "1000055255": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Albert-Claude Quemoun, une vie d'homéopathie",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": null,
+    "directors": [
+     "Fabien Moine"
+    ],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.html"
+   },
+   "inFeed": true
+  },
   "1000055601": {
    "created": "20261117T142449Z",
    "modified": "20261117T142449Z",
@@ -3708,6 +3968,28 @@
     "cast": [],
     "synopsis": "Pourchasser par des hommes à qui, il doit de l'argent, Ryad dans sa course, demande sa route à un inconnu. Mais est-ce vraiment le bon chemin ?",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055601.html"
+   },
+   "inFeed": true
+  },
+  "1000055612": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Spider-Man : Brand New Day - Version longue",
+    "releaseDate": "2026-12-02",
+    "genres": [
+     "Action",
+     "Aventure",
+     "Science Fiction"
+    ],
+    "duration": "2h37min",
+    "directors": [
+     "Destin Daniel Cretton"
+    ],
+    "cast": [],
+    "synopsis": "C’est un tout nouveau jour pour Peter Parker. Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité. Mais le sentiment d’avoir été oublié par ses amis qui avancent désormais sans lui provoque un changement chez Peter qu’il n’est…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055612.html"
    },
    "inFeed": true
   },
@@ -3838,7 +4120,8 @@
     "synopsis": "Dans l’Algérie des années de plomb, un jeune journaliste tente de faire émerger une parole enfouie. C’est à Oran qu’il rencontre un retraité solitaire qui lui livre une histoire sidérante : il serait le frère de « l’Arabe » assassiné dans L’Étranger d’Albert Camus.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272218.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "274111": {
    "created": "20261022T054313Z",
@@ -4011,7 +4294,8 @@
     "synopsis": "Peu avant le coup d'État chilien de 1973, deux agents de la CIA, Chris et Lee, sont envoyés de Santiago vers l'île de Pâques par leur supérieur, MJ. Au milieu des statues emblématiques de l'île, tandis que ces partenaires de longue date sont confrontés à leur sombre passé et…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298024.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "298873": {
    "created": "20261008T064216Z",
@@ -4035,7 +4319,7 @@
   },
   "302095": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261119T071407Z",
    "sequence": 0,
    "fields": {
     "title": "Du fioul dans les artères",
@@ -4049,7 +4333,7 @@
      "Pierre Le Gall"
     ],
     "cast": [],
-    "synopsis": "Étienne est un chauffeur routier dévoué et passionné. Chevillé à la route chaque semaine, au détriment de sa vie affective, Étienne se contente de brèves entrevues sur des parkings avec des anonymes. Mais lorsqu'il rencontre Bartosz, un routier polonais, son cœur chavire.…",
+    "synopsis": "Étienne est routier. Accroché à la route, il réduit sa vie affective à des rencontres anonymes et éphémères sur des parkings. Quand il croise Bartosz, un camionneur polonais, sa solitude est bouleversée.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302095.html"
    },
    "inFeed": true
@@ -4155,6 +4439,26 @@
     "cast": [],
     "synopsis": "Jessie est une adolescente pleine de vie. Son seul problème est qu’elle partage sa chambre avec sa petite sœur. Ella, leur mère, est débordée mais attentive. Quand l’une des trois disparaît, toute la famille est bouleversée et cherche un coupable. Ella décide alors d’un…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310509.html"
+   },
+   "inFeed": true
+  },
+  "311446": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Ceux qui tiennent la laisse",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": null,
+    "directors": [
+     "Gilles Balbastre"
+    ],
+    "cast": [],
+    "synopsis": "Au soir de la présidence d'Emmanuel Macron, CEUX QUI TIENNENT LA LAISSE dresse le bilan de la \" Start-up Nation \". À travers l'ascension de Xavier Niel, Patrick Drahi et d'une nouvelle génération de milliardaires, il enquête sur les liens entre argent, politique et médias, et…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=311446.html"
    },
    "inFeed": true
   },
@@ -4378,6 +4682,26 @@
    },
    "inFeed": true
   },
+  "316461": {
+   "created": "20261119T071407Z",
+   "modified": "20261119T071407Z",
+   "sequence": 0,
+   "fields": {
+    "title": "American Citizen",
+    "releaseDate": "2027-01-20",
+    "genres": [
+     "Thriller"
+    ],
+    "duration": "1h41min",
+    "directors": [
+     "Christian Swegal"
+    ],
+    "cast": [],
+    "synopsis": "Jer­ry, père céli­ba­taire en rup­ture avec la socié­té, endoc­trine son fils Joe dans le mou­ve­ment des Citoyens Sou­ve­rains, com­po­sé d’ac­ti­vistes anti-gou­ver­ne­men­taux. À mesure que cette idéo­lo­gie les consume, père et fils se dirigent inexo­ra­ble­ment vers une…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316461.html"
+   },
+   "inFeed": true
+  },
   "318225": {
    "created": "20261008T064216Z",
    "modified": "20261008T064216Z",
@@ -4508,7 +4832,8 @@
     "synopsis": "Novembre 1972. Au tribunal de Bobigny, un procès hors norme secoue la France entière. Marie-Claire Chevalier, 16 ans, est accusée d’avoir avorté illégalement. À la barre, sa mère et toutes les femmes qui l’ont aidée. Leur avocate, Gisèle Halimi, fait un pari fou, insensé :…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323550.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "323956": {
    "created": "20261008T064216Z",
@@ -4572,7 +4897,8 @@
     "synopsis": "Mai 1978, c’est la fin de l’Espagne franquiste, et l’effervescence d’une transition vers la démocratie se fait sentir. Dans la banlieue de San Sebastian, un groupe de jeunes ouvriers en lutte contre un accord métallurgique s'électrise. Leur action étant finalement un échec,…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324536.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-19"
   },
   "324538": {
    "created": "20261016T054238Z",

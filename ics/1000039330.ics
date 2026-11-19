@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039330-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 Bourreau des cœurs — sortie ciné
+DESCRIPTION:Comédie\n\nMoussa est un arnaqueur professionnel\, avec sa com
+ plice et petite amie de toujours\, Tania. Leur méthode : la séduction. 
+ Pour leur prochain coup\, ils doivent infiltrer le milieu de l’art pour
+  dérober un précieux masque Dogon. Pour y parvenir\, Moussa se rapproch
+ e d’Awa\, une…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=10
+ 00039330.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039330.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

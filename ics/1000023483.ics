@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000023483-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 Le Journal d’une femme de chambre — sortie ciné
+DESCRIPTION:Comédie dramatique · 1h34min\n\nGianina\, jeune roumaine\, tr
+ availle comme employée de maison dans une famille bourgeoise bordelaise.
+  Elle répète le soir avec une troupe de théâtre amateur le rôle d’
+ une soubrette dans une adaptation du Journal d’une femme de chambre d
+ ’Octave Mirbeau. Au quotidien\, elle…\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=1000023483.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023483.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

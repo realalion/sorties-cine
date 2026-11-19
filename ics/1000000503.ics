@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000000503-2027-01-20@realalion.github.io
+DTSTAMP:20261119T071407Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 Méli-Mélo — sortie ciné
+DESCRIPTION:Animation\, Drame · 1h42min\n\nSan Francisco\, fin des années
+  90. Sarah\, jeune illustratrice\, voit enfin ses premiers dessins publi
+ és. Elle tombe amoureuse de Donimo et goûte à la liberté que sa petit
+ e ville natale ne lui a jamais offerte. Elle n’oublie pas ses parents\,
+  sa sœur et ses tantes\, restés à…\n\nhttps://www.allocine.fr/film/f
+ ichefilm_gen_cfilm=1000000503.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000503.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
