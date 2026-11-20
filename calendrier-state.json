@@ -1973,7 +1973,7 @@
   },
   "1000031926": {
    "created": "20261029T055410Z",
-   "modified": "20261119T142703Z",
+   "modified": "20261120T072305Z",
    "sequence": 0,
    "fields": {
     "title": "Avis de tempête",
@@ -1986,7 +1986,7 @@
      "Ludovic Bernard"
     ],
     "cast": [],
-    "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis. À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par De Gaulle, entame la traversée. Mais voilà, en plein milieu de…",
+    "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis.À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par le général de Gaulle, entame la traversée.Mais voilà, en plein…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html"
    },
    "inFeed": true
@@ -2093,11 +2093,11 @@
   },
   "1000033365": {
    "created": "20261022T054313Z",
-   "modified": "20261119T142703Z",
-   "sequence": 1,
+   "modified": "20261120T072305Z",
+   "sequence": 2,
    "fields": {
     "title": "Un cœur fidèle",
-    "releaseDate": "2026-12-23",
+    "releaseDate": "2027-01-06",
     "genres": [
      "Drame"
     ],
@@ -2956,7 +2956,7 @@
   },
   "1000043825": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261120T072305Z",
    "sequence": 0,
    "fields": {
     "title": "Viendra la révolution",
@@ -2964,7 +2964,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": "1h35min",
+    "duration": "1h46min",
     "directors": [
      "Pegah Ahangarani"
     ],

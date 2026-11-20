@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:27:03+00:00",
+  "generatedAt": "2026-11-20T07:23:05+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -755,7 +755,7 @@
       "genres": [
         "Documentaire"
       ],
-      "duration": "1h35min",
+      "duration": "1h46min",
       "synopsis": "À travers cinq portraits de ses proches, autant de figures de résistance, Pegah Ahangarani trace le récit intime de sa vie. Puisant dans ses archives personnelles, vidéos familiales, images de manifestations, articles de presse et enregistrements sonores, elle traverse plus…",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/94/35/9435f8e0a5d0503bf784deded4d1dd3c.jpg",
       "directors": [
@@ -1094,12 +1094,12 @@
       ],
       "duration": "1h47min",
       "synopsis": "Marion Cotillard incarne une star de cinéma à bout de souffle épaulée par sa fidèle maquilleuse campée par Noémie Merlant devant la caméra de Bertrand Mandico pour un hommage ébouriffant au Cinecitta des années 80.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/c5/c3/c5c35409692391f96b55ee12aabd921f.jpg",
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/60/d3/60d385f3e86b16a941027c3fe47f811d.jpg",
       "directors": [
         "Bertrand Mandico"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html",
-      "color": "#74690a"
+      "color": "#c8334b"
     },
     {
       "id": "1000016431",
@@ -1150,22 +1150,6 @@
       "color": "#71475a"
     },
     {
-      "id": "1000033365",
-      "title": "Un cœur fidèle",
-      "releaseDate": "2026-12-23",
-      "genres": [
-        "Drame"
-      ],
-      "duration": "1h43min",
-      "synopsis": "Depuis qu’une ordonnance d’éloignement a été prononcée contre son père, Carmela, 12 ans, ne peut le voir que dans un centre de médiation sociale, sous surveillance. Lui qu’elle adore, voire l’idolâtre, est accusé de violences contre sa mère qui a demandé le divorce. Prise…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/5a/4e/5a4e092ab180dfe79b2dfc93d0274643.jpg",
-      "directors": [
-        "Júlia De Paz Solvas"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html",
-      "color": "#be6d32"
-    },
-    {
       "id": "294374",
       "title": "Une famille de Singapour",
       "releaseDate": "2026-12-23",
@@ -1205,13 +1189,13 @@
         "Comédie"
       ],
       "duration": null,
-      "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis. À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par De Gaulle, entame la traversée. Mais voilà, en plein milieu de…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/86/7c/867c07f507fc9594860b7539d33f99f9.jpg",
+      "synopsis": "Pour apaiser des relations explosives, la France décide de prêter La Joconde, trésor national, aux États-Unis.À bord du tout nouveau paquebot France, André Malraux, fantasque ministre de la Culture missionné par le général de Gaulle, entame la traversée.Mais voilà, en plein…",
+      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ea/82/ea82a83d6de64982d08541efb4ae1ca5.jpg",
       "directors": [
         "Ludovic Bernard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html",
-      "color": "#00b1f6"
+      "color": "#00b1f5"
     },
     {
       "id": "1000026193",
@@ -1506,6 +1490,22 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.html",
       "color": "#ea0712"
+    },
+    {
+      "id": "1000033365",
+      "title": "Un cœur fidèle",
+      "releaseDate": "2027-01-06",
+      "genres": [
+        "Drame"
+      ],
+      "duration": "1h43min",
+      "synopsis": "Depuis qu’une ordonnance d’éloignement a été prononcée contre son père, Carmela, 12 ans, ne peut le voir que dans un centre de médiation sociale, sous surveillance. Lui qu’elle adore, voire l’idolâtre, est accusé de violences contre sa mère qui a demandé le divorce. Prise…",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/5a/4e/5a4e092ab180dfe79b2dfc93d0274643.jpg",
+      "directors": [
+        "Júlia De Paz Solvas"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html",
+      "color": "#be6d32"
     },
     {
       "id": "1000018715",

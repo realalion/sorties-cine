@@ -1733,14 +1733,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000043825@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261120T072305Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261120T072305Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 Viendra la révolution
-DESCRIPTION:Documentaire · 1h35min\n\nDe Pegah Ahangarani\n\nÀ travers ci
+DESCRIPTION:Documentaire · 1h46min\n\nDe Pegah Ahangarani\n\nÀ travers ci
  nq portraits de ses proches\, autant de figures de résistance\, Pegah Ah
  angarani trace le récit intime de sa vie. Puisant dans ses archives pers
  onnelles\, vidéos familiales\, images de manifestations\, articles de pr
@@ -2233,28 +2233,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000033365@realalion.github.io
-DTSTAMP:20261119T142703Z
-CREATED:20261022T054313Z
-LAST-MODIFIED:20261119T142703Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:🎬 Un cœur fidèle
-DESCRIPTION:Drame · 1h43min\n\nDe Júlia De Paz Solvas\n\nDepuis qu’une 
- ordonnance d’éloignement a été prononcée contre son père\, Carmela
- \, 12 ans\, ne peut le voir que dans un centre de médiation sociale\, so
- us surveillance. Lui qu’elle adore\, voire l’idolâtre\, est accusé 
- de violences contre sa mère qui a demandé le divorce. Prise…\n\nAlloC
- iné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html\n
- \nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-294374@realalion.github.io
 DTSTAMP:20261022T054313Z
 CREATED:20261022T054313Z
@@ -2297,20 +2275,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000031926@realalion.github.io
-DTSTAMP:20261119T142703Z
+DTSTAMP:20261120T072305Z
 CREATED:20261029T055410Z
-LAST-MODIFIED:20261119T142703Z
+LAST-MODIFIED:20261120T072305Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 Avis de tempête
 DESCRIPTION:Comédie\n\nDe Ludovic Bernard\n\nPour apaiser des relations ex
  plosives\, la France décide de prêter La Joconde\, trésor national\, a
- ux États-Unis. À bord du tout nouveau paquebot France\, André Malraux\
- , fantasque ministre de la Culture missionné par De Gaulle\, entame la t
- raversée. Mais voilà\, en plein milieu de…\n\nAlloCiné : https://www
- .allocine.fr/film/fichefilm_gen_cfilm=1000031926.html\n\nSortie officiell
- e au cinéma en France.
+ ux États-Unis.À bord du tout nouveau paquebot France\, André Malraux\,
+  fantasque ministre de la Culture missionné par le général de Gaulle\,
+  entame la traversée.Mais voilà\, en plein…\n\nAlloCiné : https://ww
+ w.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html\n\nSortie officiel
+ le au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.h
  tml
 CATEGORIES:Comédie
@@ -2701,6 +2679,28 @@ DESCRIPTION:Drame · 1h56min\n\nDe Danny Boyle\n\nLondres\, 1969. Le magnat
  .allocine.fr/film/fichefilm_gen_cfilm=1000029498.html\n\nSortie officiell
  e au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000033365@realalion.github.io
+DTSTAMP:20261120T072305Z
+CREATED:20261022T054313Z
+LAST-MODIFIED:20261120T072305Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🎬 Un cœur fidèle
+DESCRIPTION:Drame · 1h43min\n\nDe Júlia De Paz Solvas\n\nDepuis qu’une 
+ ordonnance d’éloignement a été prononcée contre son père\, Carmela
+ \, 12 ans\, ne peut le voir que dans un centre de médiation sociale\, so
+ us surveillance. Lui qu’elle adore\, voire l’idolâtre\, est accusé 
+ de violences contre sa mère qui a demandé le divorce. Prise…\n\nAlloC
+ iné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html\n
+ \nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.h
  tml
 CATEGORIES:Drame
 TRANSP:TRANSPARENT
