@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000017272-2026-12-23@realalion.github.io
-DTSTAMP:20261120T072305Z
+DTSTAMP:20261120T140129Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 Roma Elastica — sortie ciné
-DESCRIPTION:Drame · 1h47min\n\nMarion Cotillard incarne une star de ciném
- a à bout de souffle épaulée par sa fidèle maquilleuse campée par No
- émie Merlant devant la caméra de Bertrand Mandico pour un hommage ébou
- riffant au Cinecitta des années 80.\n\nhttps://www.allocine.fr/film/fich
- efilm_gen_cfilm=1000017272.html
+DESCRIPTION:Drame · 1h47min\n\n1982. Eddie est une actrice qui a eu son he
+ ure de gloire américaine. Accompagnée de Valentina\, sa fidèle maquill
+ euse\, elle accepte le rôle principal d’un film de science-fiction tou
+ rné à Rome\, qui pourrait bien être son ultime film…\n\nhttps://www.
+ allocine.fr/film/fichefilm_gen_cfilm=1000017272.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

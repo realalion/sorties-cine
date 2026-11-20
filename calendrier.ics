@@ -814,21 +814,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-312529@realalion.github.io
-DTSTAMP:20261118T135903Z
+DTSTAMP:20261120T140129Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261118T135903Z
+LAST-MODIFIED:20261120T140129Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Billie\, à la croisée des mondes
-DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h43
- min\n\nDe Fawn Veerasunthorn\, Jason Hand\, Josie Trinidad\n\nAdolescente
-  impulsive et anticonformiste\, Billie est tout le contraire d’Alice - 
- sa mère - une femme prudente et réfléchie. Lorsque la jeune fille lib
- ère accidentellement des pouvoirs magiques qu’elle ignorait\, elle se 
- retrouve propulsée bien au-delà de son domicile\, vers un…\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html\n\nSort
- ie officielle au cinéma en France.
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Fantastique · 1h46
+ min\n\nDe Fawn Veerasunthorn\, Jason Hand\, Josie Trinidad\n\nBillie est 
+ une adolescente impulsive et anticonformiste. Lorsque la jeune fille lib
+ ère accidentellement des pouvoirs magiques dont elle ignorait l’existe
+ nce\, elle se retrouve propulsée dans une aventure spectaculaire au cœu
+ r de Hexe\, un vaste royaume magique.\n\nAlloCiné : https://www.allocine
+ .fr/film/fichefilm_gen_cfilm=312529.html\n\nSortie officielle au cinéma 
+ en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html
 CATEGORIES:Animation,Aventure,Comédie,Famille,Fantastique
 TRANSP:TRANSPARENT
@@ -962,20 +962,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000041096@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261120T140129Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261120T140129Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Le Noël d'Ernest et Célestine
 DESCRIPTION:Animation\, Aventure\, Comédie\, Famille · 1h11min\n\nDe Aur
  élie Raphaël\n\nLa vie d’Ernest et Célestine est toujours pleine de 
- surprises et de fantaisie : cuisiner de délicieuses charabiettes au miel
- \, chercher le cadeau parfait ou encore préparer un spectacle de patinag
- e… les deux complices ne s’ennuient jamais. Et au moment de préparer
-  Noël\, tout…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_ge
- n_cfilm=1000041096.html\n\nSortie officielle au cinéma en France.
+ surprises et de fantaisie. Et au moment de préparer Noël\, tout devient
+  encore plus palpitant ! Avec Ernest et Célestine\, Noël est une célé
+ bration pleine de poésie\, de douceur et de tendresse !\n\nAlloCiné : h
+ ttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.html\n\nSortie
+  officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.h
  tml
 CATEGORIES:Animation,Aventure,Comédie,Famille
@@ -1241,14 +1241,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000021740@realalion.github.io
-DTSTAMP:20261021T054336Z
+DTSTAMP:20261120T140129Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261021T054336Z
+LAST-MODIFIED:20261120T140129Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Behemoth!
-DESCRIPTION:Drame\, Musical · 2h07min\n\nDe Tony Gilroy\n\nVioloncelliste 
+DESCRIPTION:Drame\, Musical · 2h08min\n\nDe Tony Gilroy\n\nVioloncelliste 
  de talent\, Alex Serian revient à Los Angeles\, après vingt années pas
  sées sur les routes. La musique\, qui a toujours été le fil conducteur
   de son existence\, une force aussi omniprésente que dévorante\, entra
@@ -1437,13 +1437,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000055612@realalion.github.io
-DTSTAMP:20261119T071407Z
+DTSTAMP:20261120T140129Z
 CREATED:20261119T071407Z
-LAST-MODIFIED:20261119T071407Z
+LAST-MODIFIED:20261120T140129Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:🎬 Spider-Man : Brand New Day - Version longue
+SUMMARY:🎬 Spider-Man : "Brand New" Brand New Day
 DESCRIPTION:Action\, Aventure\, Science Fiction · 2h37min\n\nDe Destin Dan
  iel Cretton\n\nC’est un tout nouveau jour pour Peter Parker. Dans un mo
  nde qui ne se souvient plus de lui\, il poursuit sans relâche sa lutte c
@@ -2147,19 +2147,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000017272@realalion.github.io
-DTSTAMP:20261022T054313Z
+DTSTAMP:20261120T140129Z
 CREATED:20261022T054313Z
-LAST-MODIFIED:20261022T054313Z
+LAST-MODIFIED:20261120T140129Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🎬 Roma Elastica
-DESCRIPTION:Drame · 1h47min\n\nDe Bertrand Mandico\n\nMarion Cotillard inc
- arne une star de cinéma à bout de souffle épaulée par sa fidèle maqu
- illeuse campée par Noémie Merlant devant la caméra de Bertrand Mandico
-  pour un hommage ébouriffant au Cinecitta des années 80.\n\nAlloCiné :
-  https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html\n\nSort
- ie officielle au cinéma en France.
+DESCRIPTION:Drame · 1h47min\n\nDe Bertrand Mandico\n\n1982. Eddie est une 
+ actrice qui a eu son heure de gloire américaine. Accompagnée de Valenti
+ na\, sa fidèle maquilleuse\, elle accepte le rôle principal d’un film
+  de science-fiction tourné à Rome\, qui pourrait bien être son ultime 
+ film…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1
+ 000017272.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.h
  tml
 CATEGORIES:Drame
@@ -2275,20 +2275,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000031926@realalion.github.io
-DTSTAMP:20261120T072305Z
+DTSTAMP:20261120T140129Z
 CREATED:20261029T055410Z
-LAST-MODIFIED:20261120T072305Z
+LAST-MODIFIED:20261120T140129Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 Avis de tempête
 DESCRIPTION:Comédie\n\nDe Ludovic Bernard\n\nPour apaiser des relations ex
  plosives\, la France décide de prêter La Joconde\, trésor national\, a
- ux États-Unis.À bord du tout nouveau paquebot France\, André Malraux\,
-  fantasque ministre de la Culture missionné par le général de Gaulle\,
-  entame la traversée.Mais voilà\, en plein…\n\nAlloCiné : https://ww
- w.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html\n\nSortie officiel
- le au cinéma en France.
+ ux États-Unis. À bord du tout nouveau paquebot France\, André Malraux\
+ , fantasque ministre de la Culture missionné par le général de Gaulle\
+ , entame la traversée. Mais voilà\, en plein…\n\nAlloCiné : https://
+ www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html\n\nSortie offici
+ elle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.h
  tml
 CATEGORIES:Comédie
@@ -2383,20 +2383,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000014942@realalion.github.io
-DTSTAMP:20261029T055410Z
+DTSTAMP:20261120T140129Z
 CREATED:20261029T055410Z
-LAST-MODIFIED:20261029T055410Z
+LAST-MODIFIED:20261120T140129Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎬 Tie Man
 DESCRIPTION:Action\, Comédie\, Epouvante-horreur · 1h39min\n\nDe Rémi Fr
  échette\n\nLa policière Marjolaine Coppola cherche à retrouver sa sœu
- r qui s’est faite enlevée le même soir que leurs parents se sont fait
-  assassiner. Les responsables travailleraient pour Franz DeMann\, l’hom
- me d’affaires mégalomane qui tente de devenir maire de la grande ville
-  qu’est…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cf
- ilm=1000014942.html\n\nSortie officielle au cinéma en France.
+ r qui s’est fait enlever le même soir que leurs parents se sont fait a
+ ssassiner. Les responsables travailleraient pour Franz DeMann\, l’homme
+  d’affaires mégalomane qui tente de devenir maire de la grande ville q
+ u’est…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfil
+ m=1000014942.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.h
  tml
 CATEGORIES:Action,Comédie,Epouvante-horreur
