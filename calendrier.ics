@@ -1733,14 +1733,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000043825@realalion.github.io
-DTSTAMP:20261121T071935Z
+DTSTAMP:20261121T132836Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261121T071935Z
+LAST-MODIFIED:20261121T132836Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎬 Viendra la révolution
-DESCRIPTION:Documentaire · 1h42min\n\nDe Pegah Ahangarani\n\nÀ travers ci
+DESCRIPTION:Documentaire · 1h46min\n\nDe Pegah Ahangarani\n\nÀ travers ci
  nq portraits de ses proches\, autant de figures de résistance\, Pegah Ah
  angarani trace le récit intime de sa vie. Puisant dans ses archives pers
  onnelles\, vidéos familiales\, images de manifestations\, articles de pr
@@ -3291,6 +3291,28 @@ DESCRIPTION:Drame · 1h43min\n\nDe Karim Lakzadeh\n\nTrois mineurs surviven
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.h
  tml
 CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000052470@realalion.github.io
+DTSTAMP:20261121T132836Z
+CREATED:20261119T071407Z
+LAST-MODIFIED:20261121T132836Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 La Lutte armée n'est pas un jeu d'enfant
+DESCRIPTION:Divers · 1h05min\n\nDe Nicolas Réglat\n\nC’est l’histoire
+  d’un gamin qui grandit à la fin du XXème siècle avec la certitude q
+ u’un jour il reprendra le flambeau de la lutte armée. Il fera la révo
+ lution pour que se dessine un monde meilleur. Mais les choses ne se passe
+ nt pas comme prévues... Aujourd’hui il regarde…\n\nAlloCiné : https
+ ://www.allocine.fr/film/fichefilm_gen_cfilm=1000052470.html\n\nSortie off
+ icielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052470.h
+ tml
+CATEGORIES:Divers
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
