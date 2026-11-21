@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T14:01:27+00:00",
+  "generatedAt": "2026-11-21T07:19:35+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-11-25",
   "to": "2027-01-20",
-  "count": 129,
+  "count": 128,
   "films": [
     {
       "id": "1000023042",
@@ -755,7 +755,7 @@
       "genres": [
         "Documentaire"
       ],
-      "duration": "1h46min",
+      "duration": "1h42min",
       "synopsis": "À travers cinq portraits de ses proches, autant de figures de résistance, Pegah Ahangarani trace le récit intime de sa vie. Puisant dans ses archives personnelles, vidéos familiales, images de manifestations, articles de presse et enregistrements sonores, elle traverse plus…",
       "poster": "https://fr.web.img2.acsta.net/c_310_420/img/94/35/9435f8e0a5d0503bf784deded4d1dd3c.jpg",
       "directors": [
@@ -1010,7 +1010,7 @@
         "Comédie",
         "Famille"
       ],
-      "duration": null,
+      "duration": "1h38min",
       "synopsis": "En cette période de fêtes de fin d’année, un Angry Bird va devoir relever son plus grand défi : survivre à la paternité… tout en sauvant le monde !",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/a9/97/a997c76544a3d83bfdb4a59cdd4db7d9.jpg",
       "directors": [
@@ -1420,12 +1420,12 @@
       ],
       "duration": "1h11min",
       "synopsis": "La Conscience Politique identifie et répond à la violence de nos institutions à travers l'œuvre du philosophe Geoffroy de Lagasnerie. Ce film est une invitation à la lutte, pensée aux côtés d’Assa Traoré, Edouard Louis, Didier Eribon et d'autres alliés, engagés pour ouvrir la…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/9e/f3/9ef36087e42c5a9a28be1c54e8591424.jpeg",
+      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/76/b2/76b25afd3904d7b4dbe6a02262371532.jpg",
       "directors": [
         "Léolo Victor-Pujebet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045262.html",
-      "color": "#8c8c89"
+      "color": "#8c8889"
     },
     {
       "id": "1000035477",
@@ -1963,22 +1963,6 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html",
       "color": "#ab7c3c"
-    },
-    {
-      "id": "1000052470",
-      "title": "La Lutte armée n'est pas un jeu d'enfant",
-      "releaseDate": "2027-01-20",
-      "genres": [
-        "Divers"
-      ],
-      "duration": "1h05min",
-      "synopsis": "C’est l’histoire d’un gamin qui grandit à la fin du XXème siècle avec la certitude qu’un jour il reprendra le flambeau de la lutte armée. Il fera la révolution pour que se dessine un monde meilleur. Mais les choses ne se passent pas comme prévues... Aujourd’hui il regarde…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/6a/fc/6afc72a2075188b13cac79e39da083ba.jpg",
-      "directors": [
-        "Nicolas Réglat"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052470.html",
-      "color": "#4c5b59"
     },
     {
       "id": "1000031060",
