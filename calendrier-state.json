@@ -2956,7 +2956,7 @@
   },
   "1000043825": {
    "created": "20261008T064216Z",
-   "modified": "20261121T132836Z",
+   "modified": "20261122T071419Z",
    "sequence": 0,
    "fields": {
     "title": "Viendra la révolution",
@@ -2964,7 +2964,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": "1h46min",
+    "duration": "1h42min",
     "directors": [
      "Pegah Ahangarani"
     ],
@@ -3805,7 +3805,8 @@
     "synopsis": "C’est l’histoire d’un gamin qui grandit à la fin du XXème siècle avec la certitude qu’un jour il reprendra le flambeau de la lutte armée. Il fera la révolution pour que se dessine un monde meilleur. Mais les choses ne se passent pas comme prévues... Aujourd’hui il regarde…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052470.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-22"
   },
   "1000052544": {
    "created": "20261008T064216Z",
@@ -4642,10 +4643,10 @@
   },
   "316022": {
    "created": "20261112T072128Z",
-   "modified": "20261112T072128Z",
+   "modified": "20261122T071419Z",
    "sequence": 0,
    "fields": {
-    "title": "Lords of War",
+    "title": "Lord of War 2",
     "releaseDate": "2027-01-13",
     "genres": [
      "Thriller"

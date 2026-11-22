@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-316022-2027-01-13@realalion.github.io
-DTSTAMP:20261121T132836Z
+DTSTAMP:20261122T071419Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:🎬 Lords of War — sortie ciné
+SUMMARY:🎬 Lord of War 2 — sortie ciné
 DESCRIPTION:Thriller · 1h40min\n\nLe trafiquant d'armes\, Yuri Orlov\, dé
  couvre qu'il a un fils\, Anton. Ce dernier est en train de constituer une
   armée de mercenaires pour combattre les conflits au Moyen-Orient.\n\nht
