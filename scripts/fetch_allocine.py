@@ -506,34 +506,57 @@ def write_data(films: list[dict]) -> Path:
     return path
 
 
-def fetch_all() -> list[dict]:
+# Horizon de collecte : toutes les semaines d'agenda FR publiées par AlloCiné
+# (pages /film/agenda/sem-YYYY-MM-DD/ uniquement, jamais /agenda/usa/).
+# Le menu déroulant du site s'arrête plus tôt que les pages hebdo, d'où un
+# parcours des mercredis jusqu'à EMPTY_STOP semaines consécutives sans sortie
+# cinéma FR, avec un plafond de sécurité MAX_WEEKS.
+MAX_WEEKS = 156
+EMPTY_STOP = 8
+
+
+def fetch_all(*, enrich_details: bool = True) -> list[dict]:
     today = date.today()
     start = next_wednesday(today)
-    end = start + timedelta(weeks=8)
+    end_cap = start + timedelta(weeks=MAX_WEEKS)
     all_films = []
     d = start
-    while d <= end:
+    empty_streak = 0
+    last_with_films = None
+    while d <= end_cap:
         url = f"https://www.allocine.fr/film/agenda/sem-{d.isoformat()}/"
         print("fetch", url)
-        films = parse_week(fetch(url), d, (start, end))
+        films = parse_week(fetch(url), d, (start, end_cap))
         print(f"  {len(films)} films")
-        all_films.extend(films)
+        if films:
+            all_films.extend(films)
+            empty_streak = 0
+            last_with_films = d
+        else:
+            empty_streak += 1
+            if empty_streak >= EMPTY_STOP:
+                print(
+                    f"stop: {EMPTY_STOP} mercredis consécutifs sans sortie FR "
+                    f"(dernière semaine avec films: {last_with_films})"
+                )
+                break
         d += timedelta(days=7)
 
     seen = {}
     for f in all_films:
         seen.setdefault(f["id"], f)
     films = list(seen.values())
+    by_id = {f["id"]: f for f in films}
 
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        futs = [ex.submit(fetch_duration, f) for f in films]
-        by_id = {f["id"]: f for f in films}
-        for fut in as_completed(futs):
-            fid, dur, genres = fut.result()
-            if dur:
-                by_id[fid]["duration"] = dur
-            if genres:
-                by_id[fid]["genres"] = genres
+    if enrich_details:
+        with ThreadPoolExecutor(max_workers=8) as ex:
+            futs = [ex.submit(fetch_duration, f) for f in films]
+            for fut in as_completed(futs):
+                fid, dur, genres = fut.result()
+                if dur:
+                    by_id[fid]["duration"] = dur
+                if genres:
+                    by_id[fid]["genres"] = genres
 
     return sorted(by_id.values(), key=lambda x: (x["releaseDate"], x["title"]))
 
@@ -544,6 +567,11 @@ def main():
         "--ics-only",
         action="store_true",
         help="Regenerate ICS files from existing data.json without fetching",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Collecte l'agenda sans enrichir les fiches ni écrire les fichiers",
     )
     args = parser.parse_args()
 
@@ -557,7 +585,18 @@ def main():
         write_feed(films)
         return
 
-    films = fetch_all()
+    films = fetch_all(enrich_details=not args.dry_run)
+    if args.dry_run:
+        from collections import Counter
+        counts = Counter(f["releaseDate"] for f in films)
+        weeks = sorted(counts)
+        print(f"dry-run: {len(films)} films, {len(weeks)} semaines")
+        if weeks:
+            print(f"dry-run: première semaine {weeks[0]}, dernière {weeks[-1]}")
+        for w in weeks:
+            print(f"  {w}: {counts[w]} films")
+        return
+
     enrich_colors(films)
     write_data(films)
     write_ics_files(films)
