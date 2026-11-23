@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000040093-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 LīLā la cité des femmes oubliées — sortie ciné
+DESCRIPTION:Documentaire · 1h32min\n\nDans un petit village du Nord de l
+ ’Inde\, des vieilles femmes destituées de tout parce qu’elles sont v
+ euves viennent trouver refuge. Exilées du monde\, elles tournent en rond
+  dans ce purgatoire à ciel ouvert\, chantent des heures durant des louan
+ ges au dieu Krishna\, jusqu’à en…\n\nhttps://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000040093.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040093.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

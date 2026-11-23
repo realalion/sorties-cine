@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000016065-2027-03-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎬 Les Fraises — sortie ciné
+DESCRIPTION:Drame\n\nHasna et Meriem quittent pour la première fois le Mar
+ oc. Elles rejoignent l’Andalousie comme saisonnières dans les serres d
+ e fraises\, pour offrir une vie meilleure à leurs familles. Très vite\,
+  elles sont confrontées à la dure réalité de leur situation. Ensemble
+ \, elles vont…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000
+ 016065.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016065.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

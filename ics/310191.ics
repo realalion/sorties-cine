@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-310191-2027-05-26@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:🎬 Star Wars: Starfighter — sortie ciné
+DESCRIPTION:Aventure\, Fantastique\, Science Fiction\n\nhttps://www.allocin
+ e.fr/film/fichefilm_gen_cfilm=310191.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=310191.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000007344-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 Nos Réparations — sortie ciné
+DESCRIPTION:Documentaire\n\nNos Réparations est une plongée au cœur d’
+ une démarche unique au monde\, celle de la Commission Reconnaissance et 
+ Réparation (CRR)\, créée en 2021 pour accompagner les victimes d’agr
+ essions sexuelles commises au sein de l’Église de France.\n\nhttps://w
+ ww.allocine.fr/film/fichefilm_gen_cfilm=1000007344.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007344.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

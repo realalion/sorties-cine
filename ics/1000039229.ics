@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039229-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 Le Château d'Arioka — sortie ciné
+DESCRIPTION:Drame\, Historique\, Thriller · 2h27min\n\nDans le Japon féod
+ al\, Murashige trahit son seigneur et se retranche dans son château assi
+ égé\, où il fait prisonnier Kanbei\, l’émissaire de son ancien maî
+ tre. Mais bientôt\, la menace n’est plus seulement extérieure : des c
+ rimes mystérieux se succèdent dans la forteresse.…\n\nhttps://www.all
+ ocine.fr/film/fichefilm_gen_cfilm=1000039229.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039229.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

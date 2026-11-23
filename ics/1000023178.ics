@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000023178-2027-03-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎬 The Comeback King — sortie ciné
+DESCRIPTION:Comédie\n\nLa trajectoire incroyable d'une star de la musique 
+ country qui\, après avoir perdu la gloire de manière vertigineuse\, par
+ vient à tirer des leçons de ce qui pouvait lui arriver de pire pour un 
+ come-back triomphal.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=
+ 1000023178.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023178.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

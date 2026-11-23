@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000017329-2027-03-31@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🎬 Sonic 4 le film — sortie ciné
+DESCRIPTION:Action\, Animation\, Aventure\n\nQuatrième volet des aventures
+  de Sonic.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000017329
+ .html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017329.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

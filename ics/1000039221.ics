@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039221-2027-03-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎬 Pourquoi pas nous ? — sortie ciné
+DESCRIPTION:Comédie\n\nQuand l’usine de poisson où travaillent Dom et s
+ a fille Mellie fait faillite\, c’est toute la commune qui accuse le cou
+ p\, et les ouvriers qui se retrouvent sans emploi. Dom ne peut accepter c
+ et échec\, lui qui a entièrement dédié sa vie à cette usine depuis t
+ ant d’années. Dom…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfi
+ lm=1000039221.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039221.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

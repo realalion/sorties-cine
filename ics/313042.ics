@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-313042-2027-03-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎬 Art College 1994 — sortie ciné
+DESCRIPTION:Animation\, Drame\n\nCampus de l'Académie des Arts de Chine\, 
+ 1994. Dans un contexte d'ouverture du pays au monde occidental\, un group
+ e d'étudiants découvre peu à peu la vie d'adulte où amours et amitié
+ s se confrontent aux grands idéaux et ambitions personnelles. Perdus ent
+ re tradition et…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=31
+ 3042.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=313042.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

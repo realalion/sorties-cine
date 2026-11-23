@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000026727-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Dora — sortie ciné
+DESCRIPTION:Drame\n\nUne famille vient se ressourcer au bord de mer\, loin 
+ de l’agitation de Séoul. La fille\, Dora\, souffre d’une mystérieus
+ e maladie. Sa découverte de l’amour libère une énergie aussi puissan
+ te que dangereuse\, qui n’est pas sans conséquence sur son entourage
+ …\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000026727.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026727.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

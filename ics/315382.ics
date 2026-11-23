@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-315382-2027-04-14@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🎬 Pas si seuls — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\n\nLa rencontre de Joe\, un mé
+ canicien de fusées introverti qui mène une vie tranquille et solitaire\
+ , avec Fran\, une brillante astro-botaniste qui met au point la toute pre
+ mière fusée alimentée par des plantes. Lorsque les deux sont amenés 
+ à travailler ensemble pour préparer le…\n\nhttps://www.allocine.fr/fi
+ lm/fichefilm_gen_cfilm=315382.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=315382.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

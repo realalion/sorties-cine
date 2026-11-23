@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000017999-2027-03-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎬 Voilà\, c’est fini — sortie ciné
+DESCRIPTION:Comédie dramatique\, Romance\n\nÎle Maurice. Une histoire d
+ ’amour nait entre Pierre\, employé d’hôtel\, et Louise\, touriste f
+ rançaise. Il lui montre une autre facette de son pays. Mais le départ d
+ e Louise approche et Pierre se tend à l’idée de rester sur cette île
+  qu’il veut quitter à tout prix.\n\nhttps://www.allocine.fr/film/fiche
+ film_gen_cfilm=1000017999.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017999.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

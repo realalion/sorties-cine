@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000036540-2028-12-20@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20281220
+DTEND;VALUE=DATE:20281221
+SUMMARY:🎬 Untitled Sonic Universe Event Film — sortie ciné
+DESCRIPTION:Action\, Aventure\, Comédie\n\nSpin-off de Sonic.\n\nhttps://w
+ ww.allocine.fr/film/fichefilm_gen_cfilm=1000036540.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036540.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

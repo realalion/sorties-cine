@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-324542-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 La Deuxième fille — sortie ciné
+DESCRIPTION:Drame · 2h05min\n\nUne jeune Chinoise grandit de ses 6 ans à 
+ ses 18 ans entre trois familles\, qui lui donnent chacune un nouveau nom 
+ et une nouvelle vie. En quête d'appartenance et d'amour\, elle doit affr
+ onter le poids de son passé et l'incertitude de son avenir\, jusqu'à ce
+  qu'elle trouve sa…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm
+ =324542.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=324542.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

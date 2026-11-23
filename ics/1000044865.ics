@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044865-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 L’échappée belle — sortie ciné
+DESCRIPTION:Animation · 1h16min\n\nHenri\, employé de banque modèle\, vo
+ it sa vie basculer lorsque dix millions disparaissent et qu’il devient 
+ le principal suspect. En fuite\, il se réfugie dans une décharge où il
+  rencontre Dante\, un rat débrouillard qui lui vient en aide. Ensemble\,
+  ils mènent l’enquête pour…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000044865.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044865.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

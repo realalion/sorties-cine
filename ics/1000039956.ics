@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039956-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Un homme à la mer — sortie ciné
+DESCRIPTION:Comédie\, Drame\n\nLa vie de Camilo\, maître-nageur cubain\, 
+ prend un tournant inattendu lorsqu’il sauve de la noyade Abel\, un homm
+ e d’affaires mexicain.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000039956.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039956.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

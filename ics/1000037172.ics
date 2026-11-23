@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000037172-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 Tout sur mon père — sortie ciné
+DESCRIPTION:Drame\n\nAu milieu de la folie de la fin des années 1980 et de
+  la montée de l’épidémie de sida\, Boaz\, 12 ans\, découvre un secr
+ et dévastateur concernant le père qu’il idolâtre\, un secret qui men
+ ace de déchirer sa famille.\n\nhttps://www.allocine.fr/film/fichefilm_ge
+ n_cfilm=1000037172.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037172.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

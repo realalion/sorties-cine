@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-40672-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Solo Sunny — sortie ciné
+DESCRIPTION:Drame\, Musical · 1h42min\n\nIngrid décide de quitter son tra
+ vail à l’usine pour devenir chanteuse sous le nom de Sunny. Elle sillo
+ nne les scènes underground de Berlin-Est avec son groupe. Sunny rêve de
+  gloire et voudrait chanter en solo.\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=40672.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=40672.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

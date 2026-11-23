@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000046138-2027-05-05@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🎬 Tosca (The Royal Opera) — sortie ciné
+DESCRIPTION:Opéra\n\nFloria Tosca et Mario Cavaradossi vivent l'un pour l'
+ autre et pour leur art. Mais quand Cavaradossi aide un prisonnier évadé
+ \, les amants s’attirent un ennemi mortel en la personne du Baron Scarp
+ ia\, le chef de la police. À la merci des désirs dépravés de Scarpia\
+ , Tosca est…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100004
+ 6138.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046138.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

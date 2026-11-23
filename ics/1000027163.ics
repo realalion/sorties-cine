@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000027163-2027-03-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎬 Gioia Mia — sortie ciné
+DESCRIPTION:Drame\n\nNico\, dix ans\, petit Milanais accro à son télépho
+ ne et aux jeux vidéo\, est envoyé passer un mois d’été en Sicile ch
+ ez sa grand-tante Gela.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfi
+ lm=1000027163.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027163.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

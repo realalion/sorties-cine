@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-317064-2028-11-01@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:🎬 The Lunar Chronicles — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Fantastique\n\nQuatre jeunes femmes se r
+ ebellent contre la tyrannique Reine de la Lune afin de prendre leur desti
+ n en main.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=317064.htm
+ l
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=317064.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

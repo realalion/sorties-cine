@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000049221-2027-03-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 Instinct de famille — sortie ciné
+DESCRIPTION:Comédie\n\nJulie et Christel souhaitent avoir un enfant. Lorsq
+ ue Julie demande à deux de ses anciens compagnons d'être donneur\, un d
+ îner fait resurgir blessures\, jalousies et espoirs. Un huis clos intens
+ e sur la famille\, la filiation et la rédemption.\n\nhttps://www.allocin
+ e.fr/film/fichefilm_gen_cfilm=1000049221.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049221.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000005970-2028-06-28@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20280628
+DTEND;VALUE=DATE:20280629
+SUMMARY:🎬 Dreamworks' Donkey — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Famille\n\nUn film centré sur l'Ane de 
+ Shrek.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000005970.htm
+ l
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005970.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

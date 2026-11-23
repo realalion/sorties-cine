@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000031546-2027-03-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 Hidden Hills — sortie ciné
+DESCRIPTION:Drame\n\nTrois histoires s’entrecroisent à Los Angeles : Jas
+ on et son entreprise de traitement de nuisibles\, Mira venue fêter son e
+ nterrement de vie de jeune fille et Alex qui travaille comme employé dan
+ s un funérarium.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100
+ 0031546.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031546.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

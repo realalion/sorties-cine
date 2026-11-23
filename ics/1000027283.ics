@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000027283-2028-05-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20280517
+DTEND;VALUE=DATE:20280518
+SUMMARY:🎬 One Italian Summer — sortie ciné
+DESCRIPTION:Comédie dramatique\, Romance\n\nAprès avoir perdu sa mère\, 
+ une jeune femme se voit offrir une occasion extraordinaire de renouer ave
+ c elle lors d'un voyage en Italie.\n\nhttps://www.allocine.fr/film/fichef
+ ilm_gen_cfilm=1000027283.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027283.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

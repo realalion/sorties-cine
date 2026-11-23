@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000041162-2027-02-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:🎬 Allez ma fille — sortie ciné
+DESCRIPTION:Comédie dramatique\n\nJade\, 17 ans\, est une twirleuse passio
+ nnée mais en crise de confiance\, coincée entre Sylvie\, sa coach obsé
+ dée par la victoire\, et un club au bord de la fermeture. Quand son pèr
+ e\, Alex\, se retrouve malgré lui accompagnateur de l’équipe pour les
+  championnats régionaux\, c’est le…\n\nhttps://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000041162.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041162.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

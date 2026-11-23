@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000055207-2027-02-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:🎬 Le Candidat — sortie ciné
+DESCRIPTION:Documentaire\n\nÀ 44 ans\, Mathieu collectionne les diplômes\
+ , se passionne pour l’IA et veut devenir maire de son village. Six ans 
+ après une cuisante défaite\, il repart à la conquête de la mairie de 
+ Preuilly-sur-Claise.Sauf que cette fois\, c’est sans Guy\, son ancien c
+ olistier et mentor dont…\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000055207.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055207.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

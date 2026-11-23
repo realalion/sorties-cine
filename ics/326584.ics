@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-326584-2027-06-02@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:🎬 The Housewife — sortie ciné
+DESCRIPTION:Drame\n\n1964\, un jeune journaliste du New York Times traque u
+ n officier nazi potentiel vivant secrètement dans le Queens. Pour l'appr
+ ocher\, il se lie d'amitié avec la charmante épouse du suspect.\n\nhttp
+ s://www.allocine.fr/film/fichefilm_gen_cfilm=326584.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=326584.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

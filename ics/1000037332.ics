@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000037332-2027-02-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 Belleville nous verra toujours danser — sortie ciné
+DESCRIPTION:Documentaire · 1h27min\n\nA Belleville\, dans l'est parisien\,
+  la Perm’ est devenue le refuge des adolescents du quartier. On y déba
+ t des violences policières\, des amendes abusives mais surtout on y rêv
+ e. Matthieu\, Solo\, Kany et leur bande bâtissent ensemble un espace de 
+ résistance et de création. A…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000037332.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037332.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

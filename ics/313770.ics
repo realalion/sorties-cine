@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-313770-2027-12-15@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:🎬 The Lord Of The Rings: The Hunt For Gollum — sortie ciné
+DESCRIPTION:Aventure\, Fantastique\n\nUne nouvelle vision du Seigneur des a
+ nneaux par New Line Cinema et Warner Bros Pictures.\n\nhttps://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=313770.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=313770.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

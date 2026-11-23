@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000034541-2027-08-11@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:🎬 Shiver — sortie ciné
+DESCRIPTION:Action\, Science Fiction\n\nUn contrebandier se retrouve pris a
+ u milieu d’une trahison mortelle lors d’une mission dans la mer des C
+ araïbes. Il se retrouve alors encerclé par des cadavres\, des mercenair
+ es et des requins. Par la suite\, il se voit piégé dans une boucle temp
+ orelle et doit tout faire pour…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000034541.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034541.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

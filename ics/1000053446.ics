@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000053446-2027-03-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎬 Noise — sortie ciné
+DESCRIPTION:Fantastique\, Policier\n\nRendu sourd par un accident\, Vincent
+  se rend compte qu'il peut entendre les pensées des gens. Il va alors ut
+ iliser cet étrange pouvoir pour enquêter sur la disparition d'une jeune
+  femme.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000053446.ht
+ ml
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053446.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

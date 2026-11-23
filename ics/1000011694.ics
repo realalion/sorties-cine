@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000011694-2028-11-22@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20281122
+DTEND;VALUE=DATE:20281123
+SUMMARY:🎬 Untitled Baz Luhrmann Film — sortie ciné
+DESCRIPTION:Biopic\, Historique\n\nAdaptation de la vie de Jeanne d'Arc.\n\
+ nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000011694.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000011694.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

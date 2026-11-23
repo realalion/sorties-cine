@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000054039-2027-03-31@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🎬 Alexandre mon amour — sortie ciné
+DESCRIPTION:Drame\n\nMorgane\, jeune caissière\, est prise en otage par un
+  islamiste. Pour la sauver\, Alexandre\, un gendarme\, prend sa place. Mo
+ rgane est libérée\, mais Alexandre\, lui est exécuté. Rongée par la 
+ culpabilité\, elle croise un jour Viviane\, la veuve du gendarme.\n\nhtt
+ ps://www.allocine.fr/film/fichefilm_gen_cfilm=1000054039.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054039.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

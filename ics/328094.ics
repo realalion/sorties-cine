@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-328094-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Des femmes comme les autres — sortie ciné
+DESCRIPTION:Comédie dramatique\n\nSimone et Jeannine fréquentent le même
+  club de broderie à Montpellier. Elles sont voisines. Un jour\, Jeannin
+ e ne brode plus qu’en rouge. Simone\, elle\, n’est plus la même depu
+ is l’arrivée de Léa\, une aide à domicile dont elle estime ne pas av
+ oir besoin.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=328094.ht
+ ml
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=328094.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

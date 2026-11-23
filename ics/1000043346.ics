@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000043346-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Ben'imana — sortie ciné
+DESCRIPTION:Drame · 1h41min\n\nRwanda\, 2012. Après le génocide des Tuts
+ is\, des tribunaux populaires sont mis en place pour apporter justice et 
+ réconciliation. Vénéranda\, survivante\, organise des séances de disc
+ ussion entre victimes et familles de bourreaux\, malgré les pressions.\n
+ \nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000043346.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043346.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

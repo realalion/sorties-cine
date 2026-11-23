@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000016291-2027-02-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 Un détour par Diane — sortie ciné
+DESCRIPTION:Comédie dramatique · 1h32min\n\nDiane déteste les hommes aut
+ ant qu'elle les désire. Sa mère a été victime d’un viol trois ans a
+ vant sa naissance. Lorsque Diane l’apprend\, elle n'a plus qu'une idée
+  en tête : venger sa mère. Mais celle-ci ne veut qu'une chose : devenir
+  enfin la femme qu'elle aurait dû être.…\n\nhttps://www.allocine.fr/f
+ ilm/fichefilm_gen_cfilm=1000016291.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016291.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

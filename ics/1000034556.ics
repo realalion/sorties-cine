@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000034556-2027-03-31@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🎬 À double tour — sortie ciné
+DESCRIPTION:Action\, Comédie\n\nTom est un menteur compulsif\, condamné 
+ à trois ans ferme pour escroquerie. Afin de s’assurer la protection d
+ ’un gang de criminels en prison\, il se fait passer pour un crocheteur 
+ de génie et leur promet ses services pour de futurs casses. Problème : 
+ il ne connaît rien aux…\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000034556.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034556.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

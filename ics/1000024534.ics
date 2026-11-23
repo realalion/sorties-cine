@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000024534-2027-05-12@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:🎬 F.A.S.T. — sortie ciné
+DESCRIPTION:Action\, Thriller\n\nUn ancien commando des forces spéciales e
+ st recruté par la DEA pour diriger une opération clandestine contre des
+  trafiquants de drogue protégés par la CIA.\n\nhttps://www.allocine.fr/
+ film/fichefilm_gen_cfilm=1000024534.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024534.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

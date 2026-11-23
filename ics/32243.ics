@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-32243-2027-04-14@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🎬 Horus\, prince du soleil — sortie ciné
+DESCRIPTION:Animation\n\nDans une nature hostile où les loups attaquent l'
+ homme\, Horus retire l'épée du soleil d'un démon de pierre. Avant de m
+ ourir\, son père lui confie une mission : sauver son peuple d'une créat
+ ure qui terrorise le pays.\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=32243.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=32243.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000006596-2027-11-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:🎬 Tomorrow\, And Tomorrow\, And Tomorrow — sortie ciné
+DESCRIPTION:Drame\, Romance\n\nDeux amis d'enfance se retrouvent adultes po
+ ur créer des jeux vidéo.\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000006596.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000006596.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

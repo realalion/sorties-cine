@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-299163-2027-06-23@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:🎬 Spider-Man: Beyond The Spider-Verse — sortie ciné
+DESCRIPTION:Action\, Animation\, Fantastique\n\nTroisième volet des aventu
+ res de l'homme-araignée dans le multivers.\n\nhttps://www.allocine.fr/fi
+ lm/fichefilm_gen_cfilm=299163.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=299163.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

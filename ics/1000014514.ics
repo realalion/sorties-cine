@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000014514-2028-05-31@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:🎬 Untitled Days of Thunder Sequel — sortie ciné
+DESCRIPTION:Action\n\nUne suite à Jours de tonnerre.\n\nhttps://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=1000014514.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014514.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

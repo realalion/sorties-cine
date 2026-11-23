@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-317063-2027-05-19@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:🎬 Bad Fairies — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie musicale\n\nA Londres\, une ban
+ de de fées enfreignent toutes les règles.\n\nhttps://www.allocine.fr/fi
+ lm/fichefilm_gen_cfilm=317063.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=317063.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

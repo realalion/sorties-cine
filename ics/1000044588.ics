@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044588-2027-03-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 Juste une mise aux points — sortie ciné
+DESCRIPTION:Comédie\n\nIls sont 13\, hommes et femmes\, ils ne se connaiss
+ ent pas\, ils ne se ressemblent pas\, ils ne se sont jamais rencontrés e
+ t pourtant malgré leur différence\, ils ont le même but\, ils partagen
+ t le même Graal : récupérer 4 points sur leur permis de conduire. Bien
+ venue au stage !\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000
+ 044588.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044588.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

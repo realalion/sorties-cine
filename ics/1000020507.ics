@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000020507-2027-02-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:🎬 Banquise — sortie ciné
+DESCRIPTION:Thriller\n\nUne jeune fille disparait. Trois ans plus tard sa j
+ eune sœur part à sa recherche\, au Groenland. Les parents se lancent à
+  sa poursuite\, partagés entre l'espoir de retrouver la première et l'a
+ ngoisse de perdre aussi la seconde. Tout au long de ce périple\, entre s
+ ouvenirs…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100002050
+ 7.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020507.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

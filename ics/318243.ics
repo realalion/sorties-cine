@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-318243-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Têtes brûlées — sortie ciné
+DESCRIPTION:Drame\n\nBruxelles. Eya\, 12 ans\, fan de rap et de danse\, vit
+  une relation fusionnelle avec son grand-frère\, Younès. Elle passe son
+  quotidien avec lui et sa bande d’amis qu’elle admire\, bien qu’ils
+  aient tous une dizaine d’années de plus qu’elle. Un jour\, dans un 
+ contexte flou\, Younès…\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=318243.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=318243.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

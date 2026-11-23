@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000023874-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 Bunker — sortie ciné
+DESCRIPTION:Drame\, Thriller · 2h06min\n\nUn architecte de renom se voit p
+ roposer de concevoir\, dans le plus grand secret\, un bunker de survie po
+ ur un milliardaire convaincu que la fin du monde est proche. Tandis qu’
+ il se laisse séduire par ce projet moralement ambigu\, son épouse comme
+ nce à remettre en question leur…\n\nhttps://www.allocine.fr/film/fiche
+ film_gen_cfilm=1000023874.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023874.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

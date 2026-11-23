@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000038074-2027-10-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:🎬 Nana — sortie ciné
+DESCRIPTION:Drame\n\nParis\, fin du XIXème siècle. Nana\, médiocre actri
+ ce mais séductrice redoutable\, triomphe dans le rôle de Vénus au Thé
+ âtre des Variétés. Incarnation de la tentation solaire\, elle use de s
+ es charmes pour mener une vie de luxure et de dépense\, entraînant dans
+  son sillage la…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=10
+ 00038074.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038074.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

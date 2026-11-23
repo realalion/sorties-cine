@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-208528-2028-05-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20280503
+DTEND;VALUE=DATE:20280504
+SUMMARY:🎬 Untitled X-Men — sortie ciné
+DESCRIPTION:Action\, Science Fiction\n\nUn nouveau film X-Men.\n\nhttps://w
+ ww.allocine.fr/film/fichefilm_gen_cfilm=208528.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=208528.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

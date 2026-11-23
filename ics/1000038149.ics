@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000038149-2027-12-15@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:🎬 Les Secrets de la femme de ménage — sortie ciné
+DESCRIPTION:Drame\, Thriller\n\nMillie est embauchée dans une nouvelle fam
+ ille qui vit dans un bel appartement new-yorkais. Une fois de plus\, cett
+ e famille cache de lourds secrets…\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000038149.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038149.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000048032-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 3 jours en septembre — sortie ciné
+DESCRIPTION:Comédie dramatique · 1h16min\n\nLe monde de Bianca s'écroule
+  lorsque la maîtresse enceinte de son fiancé fait irruption à son mari
+ age. Humiliée\, elle fuit les lieux à bord d'un petit train\, dans une 
+ station balnéaire hors saison.\n\nhttps://www.allocine.fr/film/fichefilm
+ _gen_cfilm=1000048032.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048032.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

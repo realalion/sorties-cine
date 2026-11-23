@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000054209-2027-03-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎬 Car la lune — sortie ciné
+DESCRIPTION:Documentaire\n\nÀ Paris\, des élèves de l'Institut national 
+ des jeunes aveugles se servent d'appareils photo et de leur créativité 
+ pour exprimer leur regard singulier sur le monde. Entre cinéma d'observa
+ tion et création collective\, le projet interroge la notion de regard et
+  la manière dont se…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfi
+ lm=1000054209.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054209.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

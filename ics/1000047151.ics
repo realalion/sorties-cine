@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000047151-2027-11-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:🎬 L'Île au trésor — sortie ciné
+DESCRIPTION:Action\, Aventure\n\nLa vie du jeune Jim Hawkins bascule le jou
+ r où un marin ivrogne et balafré s'installe dans l'auberge tenue par se
+ s parents. Qui est réellement celui que l'on surnomme le "capitaine" ? P
+ ourquoi se cache t-il ? Une nuit\, des pirates attaquent l'auberge. Jim n
+ 'a que le temps de…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000047151.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047151.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

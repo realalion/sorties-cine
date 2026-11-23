@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-318141-2027-02-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🎬 Prima della guerra — sortie ciné
+DESCRIPTION:Drame\n\nGuido\, âgé d'une vingtaine d'années\, vit dans une
+  petite ville du nord de l'Italie. Dans le milieu raciste et machiste où
+  il a grandi\, il s'est imposé par la violence. Mais quand il rencontre 
+ Sonia\, une immigrée kosovare\, quelque chose bascule. Guido se retrouve
+  tiraillé…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=318141.
+ html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=318141.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000048613-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 Le Mal est fait — sortie ciné
+DESCRIPTION:Drame\, Thriller\n\nAriel\, 12 ans\, passe en conseil de discip
+ line pour avoir allumé un feu dans les toilettes de son collège. Sa mè
+ re\, jeune divorcée à bout et enceinte\, ne sait plus comment s’y pre
+ ndre et demande à son ex de le garder pendant les vacances d’été.\n\
+ nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000048613.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048613.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

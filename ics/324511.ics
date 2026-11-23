@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-324511-2027-11-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:🎬 Naughty — sortie ciné
+DESCRIPTION:Comédie\n\nLe seul espoir pour Mallory d'obtenir la garde de s
+ on fils auprès de son ex\, est de trouver le Père Noël au Pôle Nord e
+ t de le convaincre de témoigner lors de l'audience de divorce.\n\nhttps:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=324511.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=324511.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

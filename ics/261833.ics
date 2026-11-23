@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-261833-2027-10-13@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:🎬 Dans Les Nuages — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Famille\n\nAprès avoir accidentellement
+  déclenché une rébellion contre Gretsch\, la tyrannique diva qui a ban
+ ni toute forme de musique de sa ville\, le jeune Wirral se lance dans un 
+ voyage extraordinaire pour libérer les sons\, les mélodies… et les c
+ œurs ! Avec l’aide de nouveaux amis…\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=261833.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=261833.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

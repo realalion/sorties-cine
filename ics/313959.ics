@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-313959-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 Le Bonheur est dans la lutte — sortie ciné
+DESCRIPTION:Documentaire\n\nEt si la montée de l'extrême droite n'était 
+ pas une fatalité ?Olivier Besancenot décide de partir sur les pas de Mi
+ guel Enríquez\, l’une des figures de la gauche révolutionnaire latino
+ -américaine\, mort à trente ans en combattant la dictature de Pinochet.
+  À la recherche de ses…\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=313959.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=313959.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-300592-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Beaux Seigneurs — sortie ciné
+DESCRIPTION:Comédie dramatique · 1h32min\n\nVincent\, stéphanois utopis
+ te mais habitué aux galères\, se retrouve endetté après une éni
+ ème tentative de sauver le monde. Pour rembourser\, il embarque Gaby\, 
+ pilier de bar notoire au coup de gueule facile\, et Avril\, reine des com
+ bines qui se serait bien passée d'eux.…\n\nhttps://www.allocine.fr/fi
+ lm/fichefilm_gen_cfilm=300592.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=300592.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

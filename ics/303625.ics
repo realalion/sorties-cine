@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-303625-2027-08-04@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:🎬 Anatole Latuile — sortie ciné
+DESCRIPTION:Comédie\, Famille\n\nAnatole Latuile\, le roi des bêtises et 
+ star incontestée des cours de récréation arrive pour la première fois
+  au cinéma ! Anatole Latuile est un jeune garçon débordant d’imagina
+ tion qui enchaine les bêtises\, pour le plus grand bonheur de ses copain
+ s. Son quotidien se retrouve…\n\nhttps://www.allocine.fr/film/fichefilm
+ _gen_cfilm=303625.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=303625.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

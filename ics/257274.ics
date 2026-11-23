@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-257274-2027-03-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎬 New York\, Miriam et moi — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Famille\n\nNew York\, 1941. Alors que le
+  FBI traque les espions venus d’Europe\, Steven voit son père dispara
+ ître dans la foule de Grand Central\, poursuivi par deux inconnus. Déci
+ dé à le retrouver\, il fait équipe avec Miriam\, une réfugiée autric
+ hienne passionnée de romans policiers et…\n\nhttps://www.allocine.fr/f
+ ilm/fichefilm_gen_cfilm=257274.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=257274.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000007308-2027-03-31@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🎬 Poursuite — sortie ciné
+DESCRIPTION:Drame\, Thriller\n\nAprès avoir survécu à une attaque racist
+ e\, la procureure d’État Seyo Kim porte elle-même son affaire devant 
+ la justice – affrontant à la fois les auteurs et un système judiciair
+ e qui ferme les yeux sur l’extrémisme de droite.\n\nhttps://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=1000007308.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007308.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

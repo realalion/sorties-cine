@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-21247-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Le Ciel partagé — sortie ciné
+DESCRIPTION:Comédie dramatique · 2h19min\n\n1961\, peu avant la construct
+ ion du Mur de Berlin\, Rita\, jeune étudiante\, et Manfred\, chimiste\, 
+ vivent une histoire d’amour. Manfred décide de s’installer à Berlin
+ -Ouest\, Rita refuse de le suivre...\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=21247.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=21247.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

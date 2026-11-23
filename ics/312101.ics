@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-312101-2028-12-13@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20281213
+DTEND;VALUE=DATE:20281214
+SUMMARY:🎬 Untitled Black Panther 3 — sortie ciné
+DESCRIPTION:Action\, Fantastique\n\nTroisième volet de Black Panther.\n\nh
+ ttps://www.allocine.fr/film/fichefilm_gen_cfilm=312101.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=312101.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

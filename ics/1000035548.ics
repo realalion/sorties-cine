@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000035548-2027-03-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 Badinter — sortie ciné
+DESCRIPTION:Drame\n\nEn 1972\, la vie de Robert Badinter bascule lorsqu’i
+ l accepte de défendre un homme condamné à mort pour un meurtre qu’il
+  n’a pas commis. Malgré une plaidoirie implacable\, son client est gui
+ llotiné.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000035548.
+ html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035548.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

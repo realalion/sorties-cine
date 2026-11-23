@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000048894-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 Blue Hour — sortie ciné
+DESCRIPTION:Drame\n\nLe jour de son 21ème anniversaire\, Aimée décide de
+  mettre fin à ses jours. Submergée par le deuil de sa mère\, le poids 
+ d’un avenir incertain et une solitude dévorante\, elle rédige une der
+ nière liste de choses à faire. Mais serait-ce lorsqu’elle décide d
+ ’en finir que sa vie…\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=1000048894.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048894.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

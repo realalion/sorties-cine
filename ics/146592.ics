@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-146592-2027-02-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 Fantômas – Le nouveau monde — sortie ciné
+DESCRIPTION:Action\, Policier\, Thriller\n\nParis\, 1914. Une série de meu
+ rtres spectaculaires secoue la ville. Sur chaque scène de crime\, une si
+ gnature tracée à la craie comme une déclaration de guerre : la lettre 
+ « F »… La presse s’emballe\, l’opinion publique vacille. L’insp
+ ecteur Juve se lance à la poursuite d’un…\n\nhttps://www.allocine.fr
+ /film/fichefilm_gen_cfilm=146592.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=146592.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

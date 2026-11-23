@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-303428-2027-12-22@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:🎬 An Untitled Nancy Meyers Film — sortie ciné
+DESCRIPTION:Comédie\, Romance\n\nUne réalisatrice tombe amoureuse d'un pr
+ oducteur. Ensemble\, ils vont fonder une famille et signer plusieurs succ
+ ès. Des années après leur divorce et la fin de leur collaboration\, il
+ s se retrouvent forcés à retravailler ensemble...\n\nhttps://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=303428.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=303428.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

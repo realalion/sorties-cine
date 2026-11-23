@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-255111-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 Le Royaume d'Orïsha — sortie ciné
+DESCRIPTION:Action\, Aventure\, Fantastique\n\nLe Royaume d’Orïsha nous 
+ plonge dans le monde épique et fantastique d'Orïsha\, une jeune femme q
+ ui se lance dans une quête pour rendre à son peuple la magie qui lui a 
+ été violemment arrachée. Avec son frère\, elle s'allie à la fille et
+  au fils du roi afin de lutter contre son…\n\nhttps://www.allocine.fr/f
+ ilm/fichefilm_gen_cfilm=255111.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=255111.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

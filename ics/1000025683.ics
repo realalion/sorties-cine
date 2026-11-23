@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000025683-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 Lovebirds — sortie ciné
+DESCRIPTION:Animation\, Famille · 1h30min\n\nIl croit en l’humour\, elle
+  croit en l’amour. George est un pigeon maladroit qui rêve de devenir 
+ le roi du stand-up. Nina est une décoratrice d’intérieur passionnée 
+ qui rêve de rencontrer l’oiseau de sa vie. Lorsque leurs destins se cr
+ oisent\, ils embarquent dans un incroyable…\n\nhttps://www.allocine.fr/
+ film/fichefilm_gen_cfilm=1000025683.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

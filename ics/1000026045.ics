@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000026045-2027-03-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 Nero\, chat noir — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\n\nVenise\, ses canaux\, ses su
+ perstitions. Après avoir arpenté pendant des années les rues de la Cit
+ é des Doges\, Nero\, un chat noir au passé bien rempli\, commence à se
+  demander s’il a vraiment mené les bonnes vies. Endetté comme jamais 
+ auprès de Rocco - le parrain de la pègre…\n\nhttps://www.allocine.fr/
+ film/fichefilm_gen_cfilm=1000026045.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026045.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

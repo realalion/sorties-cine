@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000033017-2027-07-21@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:🎬 A Minecraft Movie Squared — sortie ciné
+DESCRIPTION:Aventure\, Comédie\n\nSuite de Minecraft Movie\, le film (2025
+ ).\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000033017.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033017.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-294813-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 L'Exorciste : Martyrs — sortie ciné
+DESCRIPTION:Epouvante-horreur\n\nTreize ans après avoir neutralisé un tue
+ ur en série sataniste\, une policière enquête sur de nouveaux crimes l
+ iés à son passé. Pendant ce temps\, son fils de douze ans est pris pou
+ r cible par une entité démoniaque.\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=294813.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=294813.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

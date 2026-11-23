@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000010349-2027-02-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🎬 Josephine — sortie ciné
+DESCRIPTION:Drame\n\nAlors qu'elle se promène avec son père dans le Golde
+ n Gate Park de San Francisco\, Josephine\, huit ans\, est témoin d'une a
+ gression sexuelle. Incapable de mettre des mots sur ce qu'elle a vu\, ell
+ e est pourtant la seule personne dont le témoignage pourrait permettre d
+ ’inculper…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100001
+ 0349.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010349.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

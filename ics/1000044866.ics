@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044866-2027-05-05@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🎬 Dudley\, l’invasion cosmique — sortie ciné
+DESCRIPTION:Animation\n\nDudley\, une grenouille adolescente insouciante\, 
+ a toujours été source de déception pour son père Arthur\, le maire po
+ mpeux de FrogTown. La vie de Dudley change à jamais lorsqu'un vaisseau s
+ patial extraterrestre s'écrase dans l'étang où il vit. La mission des 
+ extraterrestres…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=10
+ 00044866.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044866.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

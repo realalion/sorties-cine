@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039624-2027-02-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 Melody pour un ours — sortie ciné
+DESCRIPTION:Aventure\, Famille\n\n​À 14 ans\, Melody est envoyée chez s
+ on père qu’elle n’a encore jamais rencontré\, dans un refuge d’ou
+ rs niché au cœur des forêts canadiennes. Défenseur passionné des ani
+ maux sauvages\, cet homme lui est étranger\, tout comme le monde qui l
+ ’entoure\, mais sa rencontre avec Heaven\,…\n\nhttps://www.allocine.f
+ r/film/fichefilm_gen_cfilm=1000039624.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039624.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

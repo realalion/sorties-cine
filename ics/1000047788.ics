@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000047788-2028-02-02@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20280202
+DTEND;VALUE=DATE:20280203
+SUMMARY:🎬 Alibi.com 3 — sortie ciné
+DESCRIPTION:Comédie\n\nTroisième volet de la franchise Alibi.com.\n\nhttp
+ s://www.allocine.fr/film/fichefilm_gen_cfilm=1000047788.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047788.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

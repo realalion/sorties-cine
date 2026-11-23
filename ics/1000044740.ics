@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044740-2027-10-20@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:🎬 Les Enfants de la Résistance : L'escalade — sortie ciné
+DESCRIPTION:Aventure\, Comédie\, Famille\n\n1941. L’étau se resserre su
+ r la France occupée. Bouleversé par l’exécution de son père par les
+  nazis\, François multiplie les actes de résistance aux côtés de Lisa
+  et Eusèbe. Lorsqu’un agent de la France libre\, parachuté depuis Lon
+ dres\, entre en contact avec eux\, les trois…\n\nhttps://www.allocine.f
+ r/film/fichefilm_gen_cfilm=1000044740.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044740.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

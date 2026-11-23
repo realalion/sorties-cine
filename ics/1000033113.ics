@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000033113-2027-06-16@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:🎬 Papaya — sortie ciné
+DESCRIPTION:Animation\, Famille\n\nUne minuscule graine de papaye erre à t
+ ravers la forêt amazonienne. Passionnée par le vol\, elle doit sans ces
+ se avancer pour éviter de s’enraciner.\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=1000033113.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033113.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

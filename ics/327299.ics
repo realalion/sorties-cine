@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-327299-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Le Dernier Roi du blues — sortie ciné
+DESCRIPTION:Comédie\, Drame · 1h27min\n\nAl Cook\, musicien de blues autr
+ ichien au look d’Elvis Presley\, vit parmi les vestiges de son passé\,
+  entouré de vinyles et de cassettes vidéo. Entre les murs de son appart
+ ement\, le temps semble s’être arrêté\, tandis que le monde poursuit
+  sa course. Dernier locataire d’un…\n\nhttps://www.allocine.fr/film/f
+ ichefilm_gen_cfilm=327299.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=327299.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

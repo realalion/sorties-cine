@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-292824-2027-07-14@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:🎬 Ally — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Fantastique\n\nAlly\, une petite créatu
+ re marine à la fois curieuse et attachante\, vit dans les profondeurs in
+ explorées du Pacifique Sud. Elle rêve de voir un jour le soleil et de d
+ evenir la star d’un documentaire animalier. Mais lorsqu’un mystérieu
+ x avion s’écrase dans l’océan\, son monde…\n\nhttps://www.allocin
+ e.fr/film/fichefilm_gen_cfilm=292824.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=292824.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

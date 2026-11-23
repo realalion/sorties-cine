@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000033759-2027-03-31@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🎬 L’Adoption — sortie ciné
+DESCRIPTION:Aventure\, Drame\n\nGabriel\, s’est tout juste attaché à sa
+  petite fille adoptive quand elle est renvoyée en Colombie\, les documen
+ ts d’adoption ayant été falsifiés. Il décide de partir à Bogota o
+ ù il rencontre un touriste fantasque qui lui propose son aide. Ce duo im
+ probable va se lancer dans une…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000033759.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033759.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-119080-2027-03-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 L'Affaire Thomas Crown — sortie ciné
+DESCRIPTION:Romance\, Thriller\n\nLauréat d'un Oscar®\, Michael B. Jordan
+  réalise\, produit et incarne Thomas Crown dans un nouveau thriller de b
+ raquage audacieux\, vibrant et visuellement époustouflant\, où l'homme 
+ le plus redoutable est celui qu'on ne remarque pas.\n\nhttps://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=119080.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=119080.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

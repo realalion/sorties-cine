@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000039580-2027-03-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎬 Atlas de l'univers — sortie ciné
+DESCRIPTION:Aventure\, Comédie\, Famille\n\nAprès avoir acheté par erreu
+ r deux chaussures droites\, Filip\, dix ans\, se lance à travers la camp
+ agne à la recherche de la chaussure gauche manquante.\n\nhttps://www.all
+ ocine.fr/film/fichefilm_gen_cfilm=1000039580.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039580.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

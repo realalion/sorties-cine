@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000041217-2027-07-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:🎬 Dans la forêt — sortie ciné
+DESCRIPTION:Documentaire\n\nEssai documentaire qui explore les liens entre 
+ humains\, animaux et forêt\, révélant un monde complexe où s’affron
+ tent protection et exploitation. Entre réalisme\, engagement politique e
+ t onirisme\, le film appelle à repenser notre rapport au vivant.\n\nhttp
+ s://www.allocine.fr/film/fichefilm_gen_cfilm=1000041217.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041217.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

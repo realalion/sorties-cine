@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000046438-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Y a pas de réseau 2 — sortie ciné
+DESCRIPTION:Comédie\n\nUn an après leurs péripéties en montagne\, la fa
+ mille pensait profiter de vacances de rêve offertes par Madame Tutor dan
+ s un aquapark délirant en bord de mer ! C’était sans compter sur le r
+ etour de leurs vieux ennemis\, Viking et Delta\, partis à la recherche d
+ ’un trésor de…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1
+ 000046438.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046438.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

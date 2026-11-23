@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000030693-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 A Long Winter — sortie ciné
+DESCRIPTION:Drame\n\nLouise\, la mère alcoolique de Mike et Tommy\, part a
+ près une dispute avec son mari Lester — marchant avec son chien jusqu
+ ’à la maison de son frère Frank\, située à plusieurs kilomètres de
+  là. Lorsqu’une tempête de neige éclate et paralyse toute la région
+ \, Lester et Mike…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=
+ 1000030693.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030693.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

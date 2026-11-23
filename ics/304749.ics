@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-304749-2027-06-23@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:🎬 Ocean's Prequel — sortie ciné
+DESCRIPTION:Action\, Comédie\, Thriller\n\nPrequel de la franchise Ocean's
+  Eleven. Lors du Grand Prix de Monaco de 1962\, un couple apprend à ses 
+ enfants comment voler les riches.\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=304749.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=304749.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

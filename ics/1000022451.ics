@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000022451-2027-03-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎬 Le Lierre - Hiedra — sortie ciné
+DESCRIPTION:Drame\n\nÀ 31 ans\, Azucena décide de rechercher le fils qu'e
+ lle a abandonné lorsqu'elle est tombée enceinte à 13 ans. Julio\, son 
+ fils de 18 ans\, en est à sa dernière année à l'orphelinat et tous de
+ ux semblent avoir le même âge.\n\nhttps://www.allocine.fr/film/fichefil
+ m_gen_cfilm=1000022451.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022451.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

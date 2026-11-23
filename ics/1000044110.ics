@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044110-2027-02-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 Le Pacte de sel — sortie ciné
+DESCRIPTION:Documentaire · 1h27min\n\nLe Pacte de sel retrace le destin de
+ s familles marocaines chassées d'Algérie et porte un message profondém
+ ent humain sur le vivre-ensemble\, la liberté de circulation et la mémo
+ ire partagée.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100004
+ 4110.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-318590-2027-08-11@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:🎬 Teenage Mutant Ninja Turtles: Mutant Mayhem 2 — sortie ciné
+DESCRIPTION:Action\, Animation\, Arts Martiaux\n\nLe quatuor de tortues en 
+ ont assez d'être isolés de l'humanité. Ils entreprennent donc de gagne
+ r le cœur des New-Yorkais et d'être acceptés comme des adolescents nor
+ maux en accomplissant cependant des actes héroïques.\n\nhttps://www.all
+ ocine.fr/film/fichefilm_gen_cfilm=318590.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=318590.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

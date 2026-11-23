@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000030966-2027-09-08@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:🎬 The Conjuring: First Communion — sortie ciné
+DESCRIPTION:Epouvante-horreur\n\nPréquel de Conjuring.\n\nhttps://www.allo
+ cine.fr/film/fichefilm_gen_cfilm=1000030966.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030966.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

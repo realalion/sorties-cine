@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000031289-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Les disparus de Tuam — sortie ciné
+DESCRIPTION:Drame\n\nCatherine Corless mène des recherches sur le foyer po
+ ur mères et enfants Bon Secours à Tuam\, dans le comté de Galway. Elle
+  met au jour que jusqu’à 796 enfants auraient été enterrés dans des
+  tombes anonymes sur le site.\n\nhttps://www.allocine.fr/film/fichefilm_g
+ en_cfilm=1000031289.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031289.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

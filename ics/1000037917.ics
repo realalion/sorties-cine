@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000037917-2027-11-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:🎬 5h48 : place des Martyrs — sortie ciné
+DESCRIPTION:Action\, Comédie\, Drame\n\nAu Havre\, comme chaque matin\, le
+  bus de 5h48 quitte la Place des Martyrs pour entamer sa tournée\, condu
+ it par Gilles\, chauffeur discret et fatigué. Ce matin\, à bout\, mépr
+ isé par l’administration et quitté par sa femme\, il prend en otage s
+ es passagers. Tandis que police et…\n\nhttps://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000037917.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037917.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

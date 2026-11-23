@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000047917-2028-10-18@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20281018
+DTEND;VALUE=DATE:20281019
+SUMMARY:🎬 Freddy the 13th — sortie ciné
+DESCRIPTION:Animation\, Comédie\, Epouvante-horreur\n\nLes mésaventures d
+ e Freddy Vanwinkle\, le treizième fils d’un treizième fils\, qui éch
+ oue dans tout ce qu’il entreprend\, contrairement à ses brillants frè
+ res et sœurs. Une nuit\, alors qu’il garde son neveu Logan et sa nièc
+ e Lola\, il tue accidentellement un légendaire tueur en…\n\nhttps://ww
+ w.allocine.fr/film/fichefilm_gen_cfilm=1000047917.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047917.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

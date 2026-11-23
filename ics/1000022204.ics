@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000022204-2027-03-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎬 Le Sens de la vie — sortie ciné
+DESCRIPTION:Drame\, Romance\n\nÀ l’approche de la quarantaine\, Emma mè
+ ne une vie discrète entre son travail\, son fils adolescent et une activ
+ ité bénévole d’écrivain public\, où elle rédige des lettres d’a
+ mour pour les autres. Mère célibataire\, elle s’en tient à une liais
+ on sans avenir avec un homme marié.\n\nhttps://www.allocine.fr/film/fich
+ efilm_gen_cfilm=1000022204.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022204.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

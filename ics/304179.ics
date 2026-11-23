@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-304179-2027-12-08@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:🎬 Wings Of Freedom — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Science Fiction\n\nEn 2340\, les humains
+  se sont tournés vers l'IA pour combattre le réchauffement climatique. 
+ Malheureusement\, leur plan se retourne contre eux : les drones IA identi
+ fient que l'humanité est le principal ennemi de la survie de la Terre. U
+ ne armée de drones prend alors le…\n\nhttps://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=304179.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=304179.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000030658-2027-03-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 On était des loups — sortie ciné
+DESCRIPTION:Drame\n\nAu cœur des grands espaces\, un père et son enfant s
+ e retrouvent soudainement livrés à eux-mêmes. Au bout du monde\, peut-
+ on vraiment réparer les liens rompus ?Le premier film de fiction de Fran
+ çois Busnel interroge l’instinct paternel et le prix d’une possible 
+ renaissance.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=10000306
+ 58.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030658.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

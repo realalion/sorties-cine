@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000024585-2027-02-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 CoComelon : Le Film — sortie ciné
+DESCRIPTION:Animation\, Famille\n\nJJ est sur le point de vivre la plus gra
+ nde aventure de sa vie : la maternelle. Mais\, le jour de la rentrée\, q
+ uand il réalise que Boba son ours en peluche adoré manque à l’appel\
+ , il va se lancer avec ses amis Cody\, CeCe et Nina\, dans une aventure q
+ ui les mènera à la…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfi
+ lm=1000024585.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024585.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

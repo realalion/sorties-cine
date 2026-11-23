@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000055151-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 Soleil Noir — sortie ciné
+DESCRIPTION:Divers\n\nSoleil Noir est un photographe star des réseaux soci
+ aux. Lors du tournage d’un documentaire sur lui\, Soleil Noir se dévoi
+ le petit à petit à la caméra\, laissant transparaître un personnage a
+ vec des zones d’ombres et de noirceur. Qui est vraiment Soleil Noir ? Q
+ ue se cache-t-il…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1
+ 000055151.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055151.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

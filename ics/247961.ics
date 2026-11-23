@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-247961-2027-02-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 Le Chant du rossignol – Deux sœurs face à la guerre — so
+ rtie ciné
+DESCRIPTION:Drame\, Guerre\, Historique\n\nVianne et Isabelle\, deux soeurs
+  fraîchement majeures\, voient leur quoditien bouleversé avec l'entrée
+  en guerre de la France contre le régime nazi. Sous l'occupation alleman
+ de\, elles rentrent dans un réseau de résistantes qui\, avec des aviate
+ urs alliés\, cachent des enfants juifs.\n\nhttps://www.allocine.fr/film/
+ fichefilm_gen_cfilm=247961.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=247961.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

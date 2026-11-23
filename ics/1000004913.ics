@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000004913-2027-06-09@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:🎬 Possession — sortie ciné
+DESCRIPTION:Epouvante-horreur\n\nAprès avoir demandé le divorce à son ma
+ ri qu'elle soupçonne d'adultère\, le comportement d'une femme devient d
+ e plus en plus troublant.\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=1000004913.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004913.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

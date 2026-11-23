@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000013719-2027-03-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎬 Tu me diras — sortie ciné
+DESCRIPTION:Drame\n\nAoût 2021\, à Kaboul. Tous les Occidentaux quittent 
+ le pays après l'arrivée des Talibans. Michael Le Guen\, Major du RAID\,
+  en charge de la sécurité de l'Ambassade de France\, décide de rester 
+ pour sauver Marwa\, la fille de 11 ans de ses amis Afghans qui viennent d
+ 'être tués par…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1
+ 000013719.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013719.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

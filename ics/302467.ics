@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-302467-2027-10-13@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:🎬 Fleur — sortie ciné
+DESCRIPTION:Animation\, Drame\, Famille\n\nAu début du XXe siècle\, Fleur
+ \, une jeune fille passionnée et observatrice vit avec sa famille dans L
+ a Zone\, un bidonville de la banlieue parisienne. Contrainte de travaille
+ r dans une usine de savon\, elle subit la dureté des conditions de trava
+ il de la classe ouvrière.…\n\nhttps://www.allocine.fr/film/fichefilm_g
+ en_cfilm=302467.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=302467.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

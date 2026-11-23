@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000034545-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 Le Teckel — sortie ciné
+DESCRIPTION:Comédie\n\nGuy Farkas\, alias Le Teckel\, est une légende viv
+ ante des ventes pharmaceutiques : lunettes Aviator\, gabardine impeccable
+ \, il fait toujours mouche. Quand un scandale éclabousse le prestigieux 
+ laboratoire Sopharma\, la direction envoie Marylou\, jeune cadre ambitieu
+ se\, pour…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=10000345
+ 45.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034545.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

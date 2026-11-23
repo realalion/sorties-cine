@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000043234-2027-04-21@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:🎬 Stand Up — sortie ciné
+DESCRIPTION:Drame\n\nÀ 23 ans\, Vera mène une vie insouciante jusqu'à ce
+  qu'un accident la laisse en fauteuil roulant. Contrainte de réinventer 
+ son quotidien\, elle peine à trouver sa place dans cette nouvelle réali
+ té. Sa rencontre avec Xander\, un jeune homme qui vit en fauteuil roulan
+ t depuis sa…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100004
+ 3234.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043234.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

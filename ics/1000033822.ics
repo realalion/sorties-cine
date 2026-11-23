@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000033822-2027-06-09@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:🎬 Invisibles — sortie ciné
+DESCRIPTION:Drame\n\nElizabeth\, artiste burlesque et travailleuse du sexe\
+ , exerce ses deux métiers avec passion. Seulement\, après des années p
+ assées à garder sa vie d'escorte secrète\, elle se demande si elle peu
+ t encore vivre ainsi. Alors qu’elle se prépare à tourner la page\, el
+ le accepte un…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000
+ 033822.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033822.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

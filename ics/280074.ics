@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-280074-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Muyi\, la légende du village des femmes — sortie ciné
+DESCRIPTION:Animation\, Aventure · 1h30min\n\nAu fin fond des montagnes ch
+ inoises\, Muyi\, une jeune fille intrépide\, grandit auprès de sa grand
+ -mère dans un village mystérieux interdit aux hommes. Un jour\, elle cr
+ oise la route d’une troupe d’opéra itinérante qui raconte la légen
+ de du Beau Général\, un guerrier mythique…\n\nhttps://www.allocine.fr
+ /film/fichefilm_gen_cfilm=280074.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=280074.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

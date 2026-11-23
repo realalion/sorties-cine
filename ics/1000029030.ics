@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000029030-2028-05-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:🎬 Destination finale 7 — sortie ciné
+DESCRIPTION:Epouvante-horreur\n\nSeptième volet de la saga horrifique Dest
+ inale finale.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000029
+ 030.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029030.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

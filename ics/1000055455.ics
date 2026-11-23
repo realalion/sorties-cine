@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000055455-2027-02-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:🎬 Labore nobile — sortie ciné
+DESCRIPTION:Documentaire\n\nÀ Saint-Nazaire\, la construction de paquebots
+  les plus grands du monde et un port industriel sont réunis là où la L
+ oire\, dernier fleuve dit « sauvage » en Europe\, rejoint l’Atlantiqu
+ e. Le film articule les paysages singuliers de l’estuaire à des parole
+ s d’habitants\, comme…\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=1000055455.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055455.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

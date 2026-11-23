@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000006479-2027-03-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎬 Les femmes de la station — sortie ciné
+DESCRIPTION:Drame\n\nAu Yémen\, Layal gère une station-service exclusivem
+ ent réservée aux femmes\, un havre de paix dans un pays déchiré par l
+ a guerre. Les règles y sont simples : pas d’hommes\, pas d’armes\, p
+ as de politique. Quand son tout jeune frère est mobilisé\, Layal doit r
+ enouer avec sa sœur.…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000006479.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000006479.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

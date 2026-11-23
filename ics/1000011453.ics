@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000011453-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Reste avec moi — sortie ciné
+DESCRIPTION:Fantastique\, Romance\, Thriller\n\nL'architecte Tate Donovan s
+ e rend à Cape Cod pour concevoir la maison d'été de son meilleur ami. 
+ Il y rencontre Wren\, une jeune femme qui lui fait remettre en question t
+ out ce qu'il sait de son monde...\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000011453.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000011453.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

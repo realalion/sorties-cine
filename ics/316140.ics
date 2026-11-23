@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-316140-2027-04-14@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🎬 Cliffhanger — sortie ciné
+DESCRIPTION:Action\, Thriller\n\nRay Cooper\, un alpiniste chevronné explo
+ ite un chalet de luxe dans les Dolomites avec sa fille Sydney. Lors d'un 
+ week-end avec le fils d'un milliardaire\, ils sont pris pour cible par un
+ e bande de ravisseurs.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfil
+ m=316140.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=316140.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000053992-2027-03-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 Élégie pour les Lilas — sortie ciné
+DESCRIPTION:Documentaire\n\nEn octobre 2025\, la maternité des Lilas\, en 
+ Seine-Saint-Denis\, a fermé ses portes après 61 ans d’activités auto
+ ur de l’accouchement sans douleur\, de l’IVG et du droit des femmes 
+ à disposer de leurs corps. Ce film témoigne du quotidien des trois dern
+ ières années de la maternité.\n\nhttps://www.allocine.fr/film/fichefil
+ m_gen_cfilm=1000053992.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053992.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

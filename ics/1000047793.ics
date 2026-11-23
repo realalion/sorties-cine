@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000047793-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Yakari : Cœur de brave — sortie ciné
+DESCRIPTION:Animation\, Famille\n\nLorsque l'ami de Yakari\, Buffalo Seed\,
+  menace de tomber dans le monde des rêves\, Rainbow révèle ses connais
+ sances médicinales pour le maintenir conscient tandis que Yakari part av
+ ec le fougueux mustang Little Thunder à la recherche du seul être capab
+ le de le réveiller : son…\n\nhttps://www.allocine.fr/film/fichefilm_ge
+ n_cfilm=1000047793.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047793.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

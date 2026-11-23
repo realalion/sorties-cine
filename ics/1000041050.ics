@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000041050-2027-12-01@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:🎬 L'Atelier du Père Noël — sortie ciné
+DESCRIPTION:Animation\, Famille\, Fantastique\n\nMari est convaincue que le
+  Père Noël existe et part avec son père réticent et sa grand-mère in
+ trépide pour le retrouver. Mais un elfe paniqué est déterminé à les 
+ arrêter avant qu'ils ne découvrent l'atelier secret du Père Noël et n
+ e plongent Noël dans le chaos.\n\nhttps://www.allocine.fr/film/fichefilm
+ _gen_cfilm=1000041050.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041050.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

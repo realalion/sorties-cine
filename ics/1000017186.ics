@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000017186-2027-08-04@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:🎬 Bluey\, le film — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\n\nLes aventures d’une petite
+  chienne australienne de six ans\, débordant d’énergie et d’imagina
+ tion. Elle vit avec sa famille : Bandit\, son père \; Chilli\, sa mère 
+ \; et sa petite sœur Bingo. Toujours en quête de nouveaux jeux\, Bluey 
+ transforme le quotidien en aventures…\n\nhttps://www.allocine.fr/film/f
+ ichefilm_gen_cfilm=1000017186.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017186.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

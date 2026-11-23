@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044054-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 Virages — sortie ciné
+DESCRIPTION:Comédie\n\nCet été\, Johanna reste à Genève. Elle partage 
+ son temps entre l’usine où elle assemble des montres de luxe\, ses ami
+ s et la vieille Coccinelle qu’elle retape avec une idée en tête : par
+ ticiper à une course en Belgique. L’occasion de prendre sa revanche su
+ r les machos de la…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000044054.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044054.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

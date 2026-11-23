@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000034767-2027-10-13@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:🎬 La Momie 4 — sortie ciné
+DESCRIPTION:Action\, Aventure\n\nUn nouvel épisode de la franchise La Momi
+ e.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000034767.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034767.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

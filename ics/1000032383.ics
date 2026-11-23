@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000032383-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 The Man I Love — sortie ciné
+DESCRIPTION:Drame\, Romance · 1h36min\n\nNew York\, fin des années 1980\,
+  Jimmy George\, figure iconique de la scène théâtrale\, vit en couple 
+ avec le plus tendre et attentionné des amants. Mais devant la mort qui l
+ ui est promise\, la soif de vivre et de créer\, de désirer et d’aimer
+ \, une dernière fois\, est plus forte que…\n\nhttps://www.allocine.fr/
+ film/fichefilm_gen_cfilm=1000032383.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032383.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

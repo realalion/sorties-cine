@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-256810-2027-11-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:🎬 Margie Clause — sortie ciné
+DESCRIPTION:Comédie\, Comédie musicale\, Famille\n\nAlors que le Père No
+ ël est porté disparu le soir du réveillon\, Margie Claus est obligée 
+ de quitter le Pôle Nord pour la première fois pour le sauver.\n\nhttps:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=256810.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=256810.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

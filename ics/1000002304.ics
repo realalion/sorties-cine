@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000002304-2028-04-12@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20280412
+DTEND;VALUE=DATE:20280413
+SUMMARY:🎬 Evil Dead Wrath — sortie ciné
+DESCRIPTION:Epouvante-horreur\n\n1972. Une Française se retrouve enfermée
+  dans un mariage malheureux aux États-Unis...\n\nhttps://www.allocine.fr
+ /film/fichefilm_gen_cfilm=1000002304.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002304.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

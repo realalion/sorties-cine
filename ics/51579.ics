@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-51579-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Lissy — sortie ciné
+DESCRIPTION:Drame · 1h29min\n\nBerlin\, 1932. Le mari de Lissy\, à peine 
+ licencié\, se rapproche du parti nazi. La jeune femme observe avec effro
+ i son ascension...\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=51
+ 579.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=51579.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000013823-2027-10-13@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:🎬 Dumas - diable noir — sortie ciné
+DESCRIPTION:Aventure\, Historique\n\nL’histoire extraordinaire et peu con
+ nue de Thomas Alexandre Davy de La Pailleterie Dumas\, esclave né en 176
+ 2 dans les Caraïbes qui\, contre toute attente\, est devenu Général de
+  l’armée française sous la Révolution et dont le fils est l’un des
+  écrivains les plus célèbres au…\n\nhttps://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000013823.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013823.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

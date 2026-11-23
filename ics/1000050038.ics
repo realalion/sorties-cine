@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000050038-2027-03-31@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🎬 Quantic — sortie ciné
+DESCRIPTION:Epouvante-horreur\, Fantastique\, Thriller\n\nDans une universi
+ té scientifique\, une expérience quantique illégale libère une menace
+  invisible et mortelle. Enfermé et traqué toute une nuit\, un groupe d'
+ étudiants découvre alors l'unique règle pour survivre : ne jamais se q
+ uitter des yeux\, littéralement.\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000050038.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050038.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

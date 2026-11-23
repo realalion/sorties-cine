@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000041593-2027-07-14@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:🎬 Fake Skating — sortie ciné
+DESCRIPTION:Comédie\, Romance\n\nDes anciens amoureux font semblant d’ê
+ tre en couple\, dans une ville où les habitants sont passionnés de hock
+ ey.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000041593.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041593.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

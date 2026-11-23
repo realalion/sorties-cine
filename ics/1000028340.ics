@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000028340-2027-03-31@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🎬 Disaster — sortie ciné
+DESCRIPTION:Drame\, Policier\n\nAu Japon\, des morts inexpliquées frappent
+  des personnes sans lien apparent. Chargée de l’enquête\, l’inspect
+ rice Domoto assemble peu à peu les pièces d’un puzzle qui semble mene
+ r à un tueur en série aux multiples visages. Mais comment traquer un ho
+ mme dont l’identité ne cesse…\n\nhttps://www.allocine.fr/film/fichef
+ ilm_gen_cfilm=1000028340.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028340.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000044861-2027-05-05@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🎬 Julian et le grand carnaval — sortie ciné
+DESCRIPTION:Animation\n\nUn garçon de 7 ans passe l'été chez sa grand-m
+ ère à Brooklyn. Inspiré par ses récits magiques et par le monde qui l
+ ’entoure\, Julián rêve de devenir une sirène.\n\nhttps://www.allocin
+ e.fr/film/fichefilm_gen_cfilm=1000044861.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044861.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000013357-2027-04-14@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🎬 Demande à la montagne — sortie ciné
+DESCRIPTION:Drame\n\nUne nuit d’été\, Mathieu disparait en haute montag
+ ne. Viviane\, sa mère\, arrive sur place pour participer aux recherches\
+ , en vain. L’enquête piétine et les rumeurs commencent à circuler da
+ ns la vallée. Viviane tente alors de se rapprocher de Félix\, un paysan
+  solitaire qui a…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1
+ 000013357.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013357.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

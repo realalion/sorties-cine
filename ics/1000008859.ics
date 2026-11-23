@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000008859-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 La Petite classe — sortie ciné
+DESCRIPTION:Documentaire\n\nAlyzée\, Marwan\, Bloo\, Ilyes et leurs camara
+ des ont deux ans. Ils découvrent les mots\, les autres\, et l'immense av
+ enture de vivre ensemble. Dans leur petite classe d’une école maternel
+ le publique\, Katia\, leur enseignante\, fait vivre la Communication Non 
+ Violente au quotidien.…\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=1000008859.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000008859.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000020045-2027-03-10@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🎬 Un goût de cendres — sortie ciné
+DESCRIPTION:Drame\n\nLucila\, une jeune femme de 21 ans\, avec son frère D
+ iego\, se rendent en Espagne pour retrouver leur mère\, Isabel\, qui a 
+ émigré huit ans plus tôt à la recherche d'un avenir meilleur.\n\nhttp
+ s://www.allocine.fr/film/fichefilm_gen_cfilm=1000020045.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020045.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000029992-2027-03-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎬 Le Bois de Klara — sortie ciné
+DESCRIPTION:Drame\, Historique\n\nUne maison située au bord d'un lac près
+  de Berlin devient le témoin d'un siècle d'événements qui ont remodel
+ é le monde qui l'entoure : la montée du nazisme et les ravages de la gu
+ erre\, l'occupation soviétique\, la réunification de l'Allemagne et l'a
+ ube d'une ère nouvelle.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000029992.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029992.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

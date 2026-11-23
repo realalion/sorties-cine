@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-320833-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 Peau d'homme — sortie ciné
+DESCRIPTION:Comédie\n\nEn 1480 et des poussières\, alors que la princesse
+  Blanche se prépare à épouser le beau prince du royaume voisin\, son p
+ ère décide de la marier à Melchior\, son vulgaire chef des armées. C
+ ’est alors que sa marraine lui révèle être en possession d’une mys
+ térieuse "peau" qui va…\n\nhttps://www.allocine.fr/film/fichefilm_gen_
+ cfilm=320833.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=320833.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

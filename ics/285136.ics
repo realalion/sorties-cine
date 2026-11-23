@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-285136-2027-02-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:🎬 Du dedans au dehors — sortie ciné
+DESCRIPTION:Documentaire · 1h59min\n\nTourné en 2D et en 3D\, le document
+ aire est consacré à l'architecte suisse Peter Zumthor.\n\nhttps://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=285136.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

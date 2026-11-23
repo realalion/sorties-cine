@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000030646-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Il était une fois — sortie ciné
+DESCRIPTION:Comédie\n\nCharles Perrault\, homme de lettres et chef d’orc
+ hestre du chantier de Versailles\, se voit confier une mission royale : r
+ amener une mystérieuse inconnue du monastère où elle vivait cachée su
+ r la volonté du roi Louis XIV. Mais sa mission prend une autre tournure 
+ quand…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000030646.h
+ tml
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030646.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

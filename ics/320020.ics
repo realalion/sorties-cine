@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-320020-2028-02-02@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20280202
+DTEND;VALUE=DATE:20280203
+SUMMARY:🎬 Arabesque — sortie ciné
+DESCRIPTION:Policier\n\nLes enquêtes de Jessica Fletcher\, une autrice de 
+ thrillers qui s'improvise détective pour résoudre de véritables affair
+ es policières.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=32002
+ 0.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=320020.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

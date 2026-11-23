@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-326685-2027-04-21@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:🎬 Bollywoof — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\n\nBasil est un Springer Anglai
+ s perdu en Inde. Poursuivi par un redoutable attrapeur de chiens\, Basil 
+ fait équipe avec un chien des rues malin et obsédé par Bollywood.\n\nh
+ ttps://www.allocine.fr/film/fichefilm_gen_cfilm=326685.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=326685.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

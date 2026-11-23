@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-317392-2027-05-05@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🎬 Beach Read — sortie ciné
+DESCRIPTION:Comédie\, Romance\n\nDeux auteurs échangent leurs genres pour
+  l'été.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=317392.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=317392.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

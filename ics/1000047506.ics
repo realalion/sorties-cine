@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000047506-2027-03-17@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎬 Josèphe — sortie ciné
+DESCRIPTION:Comédie\n\nJosèphe\, 35 ans\, célibataire\, gagne un voyage 
+ au Japon et décide de tout plaquer pour s’installer là-bas. En attend
+ ant son départ\, elle est hébergée à Paris par Jeannette\, tenancièr
+ e d’un club libertin. Elle s’inscrit à des cours de Japonais où ell
+ e fait la rencontre de…\n\nhttps://www.allocine.fr/film/fichefilm_gen_c
+ film=1000047506.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047506.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

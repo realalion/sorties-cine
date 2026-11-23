@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-310244-2027-08-04@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:🎬 Snoop — sortie ciné
+DESCRIPTION:Biopic\, Musical\n\nBiopic sur le rappeur Snoop Dogg.\n\nhttps:
+ //www.allocine.fr/film/fichefilm_gen_cfilm=310244.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=310244.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

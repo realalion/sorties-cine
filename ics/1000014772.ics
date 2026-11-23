@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000014772-2027-04-14@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🎬 Monitor — sortie ciné
+DESCRIPTION:Epouvante-horreur\n\nUn groupe de modérateurs de médias socia
+ ux refuse de publier une vidéo affreuse\, une créature démoniaque comm
+ ence à les suivre sur tous les écrans de leur vie.\n\nhttps://www.alloc
+ ine.fr/film/fichefilm_gen_cfilm=1000014772.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014772.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

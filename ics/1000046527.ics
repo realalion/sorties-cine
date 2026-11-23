@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000046527-2027-01-27@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎬 Boccia le Magnifique — sortie ciné
+DESCRIPTION:Comédie · 1h26min\n\nRoma\, Cinecittà\, 1964. Fellini\, Anto
+ nioni et Visconti tournent leurs chefs-d’œuvre. Tanio Boccia\, lui\, f
+ ait des miracles. Il se lance dans un pari insensé dans les mythiques st
+ udios de Cinecittà : tourner quatre films en même temps.\n\nhttps://www
+ .allocine.fr/film/fichefilm_gen_cfilm=1000046527.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046527.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

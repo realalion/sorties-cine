@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-53230-2027-04-14@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🎬 Le Serpent Blanc — sortie ciné
+DESCRIPTION:Animation\n\nDans la Chine ancienne\, un enfant achète au marc
+ hé un petit serpent blanc\, mais doit le relâcher. Quelques années plu
+ s tard\, le reptile réapparaît sous la forme d'une princesse et se met 
+ à la recherche de son ancien protecteur...\n\nhttps://www.allocine.fr/fi
+ lm/fichefilm_gen_cfilm=53230.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=53230.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

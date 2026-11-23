@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000014959-2027-02-03@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 L'Âge de glace : le réveil du volcan — sortie ciné
+DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\n\nLe mammouth Manny\
+ , le tigre à dents de sabre Diego\, le paresseux Sid\, la belette borgne
+  Buck et la mammouth femelle Ellie\, sans oublier les chasseurs de noiset
+ tes invétérés que sont Scrat et Baby Scrat\, ou bien encore les turbul
+ ents opossums Crash et Eddie. Jaillissant d’un…\n\nhttps://www.alloci
+ ne.fr/film/fichefilm_gen_cfilm=1000014959.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014959.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

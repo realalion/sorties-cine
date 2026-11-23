@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000027922-2027-02-24@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🎬 K-Pop : Les Débuts — sortie ciné
+DESCRIPTION:Musical\n\nUne jeune femme américano-coréenne participe à un
+ e émission télévisée visant à former le prochain groupe de filles de
+  K-pop.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000027922.ht
+ ml
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027922.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

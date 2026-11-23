@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000035976-2028-11-15@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20281115
+DTEND;VALUE=DATE:20281116
+SUMMARY:🎬 Untitled Hybrid Live Action Teenage Mutant Ninja Turtles — s
+ ortie ciné
+DESCRIPTION:Action\, Aventure\n\nUn film en prises de vues réelles sur les
+  Tortues Ninjas.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000
+ 035976.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035976.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

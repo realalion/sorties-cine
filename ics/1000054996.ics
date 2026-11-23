@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000054996-2027-04-07@realalion.github.io
+DTSTAMP:20261123T161812Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎬 Les Chiffonniers du Caire — sortie ciné
+DESCRIPTION:Divers\n\nLe Caire\, 2009. Salem retrouve sa famille dans le qu
+ artier copte des chiffonniers\, où son beau-frère lui confie un élevag
+ e de porcs\, essentiel au système de recyclage des déchets. Alors qu’
+ il trouve sa place dans la communauté\, des cas de grippe porcine à l
+ ’autre bout du…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1
+ 000054996.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054996.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
