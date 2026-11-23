@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000044052-2027-01-20@realalion.github.io
-DTSTAMP:20261123T071911Z
+DTSTAMP:20261123T155852Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:🎬 Deux Vies\, Trois Morts — sortie ciné
-DESCRIPTION:Drame · 1h43min\n\nTrois mineurs survivent à l’effondrement
-  d’une mine mais choisissent de se faire passer pour morts afin que leu
- rs familles touchent une indemnisation. Contraints à une clandestinité 
- absurde\, entre tensions familiales et quête d’identité\, ils travers
- ent l’Iran jusqu’à Téhéran.…\n\nhttps://www.allocine.fr/film/fic
- hefilm_gen_cfilm=1000044052.html
+DESCRIPTION:Comédie · 1h43min\n\nTrois mineurs survivent à l’effondrem
+ ent d’une mine mais choisissent de se faire passer pour morts afin que 
+ leurs familles touchent une indemnisation. Contraints à une clandestinit
+ é absurde\, entre tensions familiales et quête d’identité\, ils trav
+ ersent l’Iran jusqu’à Téhéran.…\n\nhttps://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000044052.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

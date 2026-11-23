@@ -3274,23 +3274,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000044052@realalion.github.io
-DTSTAMP:20261119T071407Z
+DTSTAMP:20261123T155852Z
 CREATED:20261119T071407Z
-LAST-MODIFIED:20261119T071407Z
+LAST-MODIFIED:20261123T155852Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:🎬 Deux Vies\, Trois Morts
-DESCRIPTION:Drame · 1h43min\n\nDe Karim Lakzadeh\n\nTrois mineurs surviven
- t à l’effondrement d’une mine mais choisissent de se faire passer po
- ur morts afin que leurs familles touchent une indemnisation. Contraints 
- à une clandestinité absurde\, entre tensions familiales et quête d’i
- dentité\, ils traversent l’Iran jusqu’à Téhéran.…\n\nAlloCiné 
- : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html\n\nSor
- tie officielle au cinéma en France.
+DESCRIPTION:Comédie · 1h43min\n\nDe Karim Lakzadeh\n\nTrois mineurs survi
+ vent à l’effondrement d’une mine mais choisissent de se faire passer
+  pour morts afin que leurs familles touchent une indemnisation. Contraint
+ s à une clandestinité absurde\, entre tensions familiales et quête d
+ ’identité\, ils traversent l’Iran jusqu’à Téhéran.…\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html\n\
+ nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.h
  tml
-CATEGORIES:Drame
+CATEGORIES:Comédie
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
