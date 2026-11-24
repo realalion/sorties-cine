@@ -3107,7 +3107,7 @@
   },
   "1000027133": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261124T071838Z",
    "sequence": 0,
    "fields": {
     "title": "Un été en hiver",
@@ -3115,7 +3115,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": "1h29min",
+    "duration": null,
     "directors": [
      "Sho Miyake"
     ],
@@ -8416,7 +8416,7 @@
   },
   "269068": {
    "created": "20261015T054330Z",
-   "modified": "20261015T054330Z",
+   "modified": "20261124T071838Z",
    "sequence": 0,
    "fields": {
     "title": "Avengers: Doomsday",
@@ -8425,7 +8425,7 @@
      "Action",
      "Aventure"
     ],
-    "duration": "2h45min",
+    "duration": "2h30min",
     "directors": [
      "Joe Russo",
      "Anthony Russo"
@@ -8613,7 +8613,7 @@
   },
   "285136": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261124T071838Z",
    "sequence": 0,
    "fields": {
     "title": "Du dedans au dehors",
@@ -8621,7 +8621,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": "1h59min",
+    "duration": null,
     "directors": [
      "Wim Wenders"
     ],
@@ -10089,7 +10089,7 @@
   },
   "324508": {
    "created": "20261015T054330Z",
-   "modified": "20261105T061113Z",
+   "modified": "20261124T071838Z",
    "sequence": 0,
    "fields": {
     "title": "Dune : Troisième partie",
@@ -10099,7 +10099,7 @@
      "Aventure",
      "Science Fiction"
     ],
-    "duration": "2h31min",
+    "duration": "2h30min",
     "directors": [
      "Denis Villeneuve"
     ],

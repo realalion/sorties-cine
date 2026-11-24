@@ -1776,14 +1776,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-269068@realalion.github.io
-DTSTAMP:20261015T054330Z
+DTSTAMP:20261124T071838Z
 CREATED:20261015T054330Z
-LAST-MODIFIED:20261015T054330Z
+LAST-MODIFIED:20261124T071838Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Avengers: Doomsday
-DESCRIPTION:Action\, Aventure · 2h45min\n\nDe Joe Russo\, Anthony Russo\n\
+DESCRIPTION:Action\, Aventure · 2h30min\n\nDe Joe Russo\, Anthony Russo\n\
  nDans ce nouveau chapitre de la saga Avengers\, les héros emblématiques
   venus de différents univers sont réunis face à une menace existentiel
  le sans précédent.\n\nAlloCiné : https://www.allocine.fr/film/fichefil
@@ -1837,14 +1837,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-324508@realalion.github.io
-DTSTAMP:20261105T061113Z
+DTSTAMP:20261124T071838Z
 CREATED:20261015T054330Z
-LAST-MODIFIED:20261105T061113Z
+LAST-MODIFIED:20261124T071838Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🎬 Dune : Troisième partie
-DESCRIPTION:Action\, Aventure\, Science Fiction · 2h31min\n\nDe Denis Vill
+DESCRIPTION:Action\, Aventure\, Science Fiction · 2h30min\n\nDe Denis Vill
  eneuve\n\nPrès de vingt ans après avoir pris le contrôle de l’Empire
  \, Paul Atréides règne désormais en empereur impitoyable. Alors que d
  ’anciens alliés refont surface\, que de nouvelles menaces émergent et
@@ -4660,17 +4660,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-285136@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261124T071838Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261124T071838Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Du dedans au dehors
-DESCRIPTION:Documentaire · 1h59min\n\nDe Wim Wenders\n\nTourné en 2D et e
- n 3D\, le documentaire est consacré à l'architecte suisse Peter Zumthor
- .\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.
- html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Documentaire\n\nDe Wim Wenders\n\nTourné en 2D et en 3D\, le d
+ ocumentaire est consacré à l'architecte suisse Peter Zumthor.\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.html\n\nSor
+ tie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.html
 CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
@@ -4870,20 +4870,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000027133@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261124T071838Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261124T071838Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Un été en hiver
-DESCRIPTION:Drame · 1h29min\n\nDe Sho Miyake\n\nUn été\, Nagisa\, jeune 
- citadine\, rencontre Natsuo au bord de la mer. Sous une pluie battante\, 
- leurs mots maladroits et leurs regards hésitants les rapprochent. L’hi
- ver venu\, Li\, une scénariste en quête d’inspiration\, gagne un vill
- age enneigé avec l’appareil photo d’un ami…\n\nAlloCiné : https:/
- /www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.html\n\nSortie offic
- ielle au cinéma en France.
+DESCRIPTION:Drame\n\nDe Sho Miyake\n\nUn été\, Nagisa\, jeune citadine\, 
+ rencontre Natsuo au bord de la mer. Sous une pluie battante\, leurs mots 
+ maladroits et leurs regards hésitants les rapprochent. L’hiver venu\, 
+ Li\, une scénariste en quête d’inspiration\, gagne un village enneig
+ é avec l’appareil photo d’un ami…\n\nAlloCiné : https://www.alloc
+ ine.fr/film/fichefilm_gen_cfilm=1000027133.html\n\nSortie officielle au c
+ inéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.h
  tml
 CATEGORIES:Drame
