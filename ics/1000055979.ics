@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000055979-2027-02-03@realalion.github.io
+DTSTAMP:20261124T155356Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Un taxi pour l'Espagne — sortie ciné
+DESCRIPTION:Divers · 1h35min\n\nJeanne et Mia\, deux demi-sœurs que la vi
+ e a séparées\, vont passer une dernière soirée avec leur mère\, Alex
+ andra\, dépressive\, qui a décidé de se faire euthanasier le lendemain
+  matin. S’il ne devait rester que quelques heures\, que choisirait-on d
+ e se dire et de garder ? Les…\n\nhttps://www.allocine.fr/film/fichefilm
+ _gen_cfilm=1000055979.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055979.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

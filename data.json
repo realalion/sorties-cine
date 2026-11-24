@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T07:18:37+00:00",
+  "generatedAt": "2026-11-24T15:53:56+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
   "from": "2026-11-25",
   "to": "2028-12-20",
-  "count": 406,
+  "count": 407,
   "films": [
     {
       "id": "1000023042",
@@ -16,12 +16,12 @@
       ],
       "duration": "2h04min",
       "synopsis": "Cheol-jun, 27 ans, a fui la Corée du Nord pour vivre au Sud. En attendant que ses parents le rejoignent, le jeune homme, gay, essaie de faire des rencontres, mais son statut particulier et sa timidité naturelle l’inhibent… jusqu’au jour où Yeong-jun, un garçon chaleureux, lui…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/73/1d/731dd9b688c6d86b3d41dc04983f0df3.jpg",
+      "poster": null,
       "directors": [
         "Joon-ho Park"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html",
-      "color": "#18a7d5"
+      "color": "#2EE59D"
     },
     {
       "id": "312529",
@@ -54,12 +54,12 @@
       ],
       "duration": "1h30min",
       "synopsis": "Bangui. Robert a 17 ans et rêve de faire carrière dans la musique. Mais il n'est pas un Centrafricain comme les autres. Il est un réfugié congolais. Lorsque ses parents sont arrêtés, il doit s'occuper seul de ses quatre jeunes frère et sœurs.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/27/d1/27d1fc7fc7f29782118a7c970398c815.jpg",
+      "poster": null,
       "directors": [
         "Rafiki Fariala"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043822.html",
-      "color": "#ff8e05"
+      "color": "#B967FF"
     },
     {
       "id": "1000004190",
@@ -70,12 +70,12 @@
       ],
       "duration": "1h47min",
       "synopsis": "Le jour de son départ à la retraite, Émile, professeur de lettres à Dieppe, donne à ses jeunes élèves un dernier cours sur la littérature et l’amour, les encourageant à devenir les poètes de leurs propres existences. Une fois rentré chez lui, Émile découvre que sa femme l’a…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/38/58/3858f877d88532b0c1a8da62e26b8b2c.jpg",
+      "poster": null,
       "directors": [
         "Martin Provost"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html",
-      "color": "#005a97"
+      "color": "#B967FF"
     },
     {
       "id": "1000028064",
@@ -88,12 +88,12 @@
       ],
       "duration": null,
       "synopsis": "Sacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraîné depuis toujours par son père, ils rêvent ensemble de décrocher leur premier grand titre à Paris. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sacha devra faire face à un autre défi :…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/11/a6/11a6a85afebfcb2a1afc709b8fb52794.jpg",
+      "poster": null,
       "directors": [
         "Pierre-Ange Carlotti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html",
-      "color": "#00a4f4"
+      "color": "#E8458B"
     },
     {
       "id": "1000054743",
@@ -104,14 +104,14 @@
       ],
       "duration": "1h23min",
       "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/13/c4/13c447cc4e0698eefd6c9169f12df1c8.jpg",
+      "poster": null,
       "directors": [
         "Jérôme Lévy",
         "Eduardo Carretié",
         "Raphaël Jouzeau"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054743.html",
-      "color": "#e6444c"
+      "color": "#B967FF"
     },
     {
       "id": "1000052290",
@@ -122,14 +122,14 @@
       ],
       "duration": "53min",
       "synopsis": "Les monstres les plus attachants de la littérature jeunesse sont de retour sur grand écran ! Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/84/76/8476e2ac768c5221cd67cda165f5e31e.jpg",
+      "poster": null,
       "directors": [
         "Jakob Schuh",
         "Max Lang",
         "Johannes Weiland"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052290.html",
-      "color": "#fc7c10"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000012306",
@@ -140,12 +140,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Misael travaille seul. Muni de sa hache, il abat des arbres dans la forêt. Une responsabilité inattendue vient bouleverser sa vie, et le rythme de ses journées disparaît progressivement dans une nature où la raison humaine n’a plus de sens.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/94/3d/943dbe6e743568aa646d57789f2903d4.jpg",
+      "poster": null,
       "directors": [
         "Lisandro Alonso"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012306.html",
-      "color": "#f9a200"
+      "color": "#FFD60A"
     },
     {
       "id": "1000041096",
@@ -159,12 +159,12 @@
       ],
       "duration": "1h11min",
       "synopsis": "La vie d’Ernest et Célestine est toujours pleine de surprises et de fantaisie. Et au moment de préparer Noël, tout devient encore plus palpitant ! Avec Ernest et Célestine, Noël est une célébration pleine de poésie, de douceur et de tendresse !",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/bb/1e/bb1e2999f5a2305fa567bb78eb90bfdc.jpg",
+      "poster": null,
       "directors": [
         "Aurélie Raphaël"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.html",
-      "color": "#9d3e1e"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000037949",
@@ -177,12 +177,12 @@
       ],
       "duration": "2h06min",
       "synopsis": "Fin de la dynastie Sui, vers l’an 600, en Chine. Dao Ma, ancien soldat devenu chasseur de primes, accepte d’escorter un mystérieux personnage masqué jusqu’à Chang’an, afin de s’acquitter d’une dette envers son vénérable ami, le chef du Clan Mo. Le passager se révèle être Zhi…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/00/5e/005e5ba856cd2e9a41de055e2274b76c.jpg",
+      "poster": null,
       "directors": [
         "Yuen Woo-Ping"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037949.html",
-      "color": "#c5722a"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000009924",
@@ -193,12 +193,12 @@
       ],
       "duration": "1h51min",
       "synopsis": "Reynold se meurt d’un cancer de l’estomac. Il doit se résigner à mourir de faim. Son rendez-vous manqué avec la mort le rattrape puisque la faim qu’on lui avait infligée à la prison de Fort-Dimanche ravive en lui de sombres souvenirs.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/a7/3d/a73da829281476a377bea2203781b8b7.jpg",
+      "poster": null,
       "directors": [
         "Maryse Legagneur"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009924.html",
-      "color": "#d17118"
+      "color": "#FF6B35"
     },
     {
       "id": "1000044062",
@@ -209,12 +209,12 @@
       ],
       "duration": null,
       "synopsis": "Ceci est l’histoire d’un filmeur, Alain Cavalier. Toujours accompagné de sa caméra il continue de filmer passionnément la vie, apprenant encore sur lui et surtout sur les autres. Cependant il prend de l’âge et voit sa vitesse, sa fraîcheur, son audace et sa légèreté baisser.…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/7c/64/7c6421b192e7900a1fc602eab7f61260.jpg",
+      "poster": null,
       "directors": [
         "Alain Cavalier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html",
-      "color": "#b77452"
+      "color": "#E8458B"
     },
     {
       "id": "1000016814",
@@ -243,12 +243,12 @@
       ],
       "duration": "1h54min",
       "synopsis": "Deux frères que tout oppose s’unissent pour une affaire douteuse liée à la mafia russe. Mais ce qui devait être une opportunité devient un cauchemar, mettant en péril leur famille, leur intégrité, et leur lien fraternel.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/1b/6d/1b6dc1a4bbc7a3ae72b48a29cff63b90.jpg",
+      "poster": null,
       "directors": [
         "James Gray"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html",
-      "color": "#9c3d29"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000027620",
@@ -259,12 +259,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "Nouvellement embauchée dans le département des Ressources Humaines d’une grande compagnie d’assurances, Carla Moretti doit travailler à réconcilier le bien-être des salariés avec les objectifs de performance de l’entreprise. Jusqu’à ce qu’elle découvre un cas de management…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/e8/48/e848a27240bab4b74850de107f5fd010.jpg",
+      "poster": null,
       "directors": [
         "Stéphane Brizé"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027620.html",
-      "color": "#5d7b82"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000012542",
@@ -275,12 +275,12 @@
       ],
       "duration": "1h28min",
       "synopsis": "Le destin de deux sœurs experte de la fabrication d’une bière ancestrale de Finlande. Leur autre sœur se marie et leur demande de faire 100 litres de bières pour son mariage. Mais les deux brasseuses boivent les 100 litres et se réveillent avec une terrible gueule de bois et…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/b8/2d/b82d2df60263b9c7e140806505f7bd9d.jpg",
+      "poster": null,
       "directors": [
         "Teemu Nikki"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012542.html",
-      "color": "#edab3d"
+      "color": "#B967FF"
     },
     {
       "id": "327394",
@@ -291,12 +291,12 @@
       ],
       "duration": "1h28min",
       "synopsis": "Professeur stagiaire, Ari s’effondre dans sa classe de maternelle lors d’une inspection académique. Pour son père qui l’héberge, c’est l’échec de trop : Ari doit partir. À fleur de peau et livré à lui-même, il retrouve alors celles et ceux qu’il a perdu(e)s de vue.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/02/e1/02e10748f6413cd8a11320d9402e89aa.jpg",
+      "poster": null,
       "directors": [
         "Léonor Serraille"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327394.html",
-      "color": "#a8440e"
+      "color": "#00C2FF"
     },
     {
       "id": "1000051317",
@@ -307,13 +307,13 @@
       ],
       "duration": "1h30min",
       "synopsis": "Nés au Brésil et en Inde mais devenus Ardéchois de cœur, John et Gabriel parcourent les routes du département à la rencontre de celles et ceux qui l’habitent, autour d’une question aussi intime qu’universelle : qu’est-ce qui fait qu’un endroit devient chez soi ?",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/49/10/491041b02b3d9be920efda36ce4499b4.jpg",
+      "poster": null,
       "directors": [
         "Gabriel Campina",
         "John Dauvin"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html",
-      "color": "#008dce"
+      "color": "#00C2FF"
     },
     {
       "id": "313265",
@@ -344,12 +344,12 @@
       ],
       "duration": "1h20min",
       "synopsis": "Jérémy rencontre Baptiste. Leur calvitie commune les conduit à Istanbul, où des cliniques promettent de remonter le temps. Au gré des vents changeants et d’une sourde agitation, ils cherchent un sens dans une ville qui n’est pas la leur. Jour après jour, un lien fragile se…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/24/34/24342b6ff0ce44013185de74ea0e4120.jpg",
+      "poster": null,
       "directors": [
         "Manoël Dupont"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027075.html",
-      "color": "#435170"
+      "color": "#2EE59D"
     },
     {
       "id": "324538",
@@ -360,12 +360,12 @@
       ],
       "duration": "2h11min",
       "synopsis": "À 26 ans, Aïsha, une aide à domicile soudanaise, vit dans un quartier du cœur du Caire où elle est témoin des tensions entre ses compatriotes migrants africains et les gangs locaux. Prise entre une relation ambiguë avec un jeune cuisinier égyptien, un gangster qui la fait…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/3c/b2/3cb2342e6ffd3e8e03c1ae6aaf6a21f6.jpg",
+      "poster": null,
       "directors": [
         "Morad Mostafa"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324538.html",
-      "color": "#ab4e00"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000021740",
@@ -377,12 +377,12 @@
       ],
       "duration": "2h08min",
       "synopsis": "Violoncelliste de talent, Alex Serian revient à Los Angeles, après vingt années passées sur les routes. La musique, qui a toujours été le fil conducteur de son existence, une force aussi omniprésente que dévorante, entraîne Alex dans une aventure qui le changera à jamais.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/ee/82/ee82b695c2cf530c4e2c9bee7e148511.jpg",
+      "poster": null,
       "directors": [
         "Tony Gilroy"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html",
-      "color": "#10809c"
+      "color": "#FFD60A"
     },
     {
       "id": "1000038378",
@@ -391,14 +391,14 @@
       "genres": [
         "Comédie"
       ],
-      "duration": null,
+      "duration": "1h31min",
       "synopsis": "Claude, 75 ans, aussi charmant qu’irresponsable, est mis à la porte par sa (quatrième) femme. Il se retrouve alors en garde alternée chez ses enfants, qu'il a pourtant évité toute sa vie. Cette cohabitation explosive et improbable pourrait bien, contre toute attente, recoller…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/6b/d1/6bd13f369a26f94b8d556c14ace58657.jpg",
+      "poster": null,
       "directors": [
         "Clément Michel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html",
-      "color": "#bb7f15"
+      "color": "#E8458B"
     },
     {
       "id": "302095",
@@ -410,12 +410,12 @@
       ],
       "duration": "1h31min",
       "synopsis": "Étienne est routier. Accroché à la route, il réduit sa vie affective à des rencontres anonymes et éphémères sur des parkings. Quand il croise Bartosz, un camionneur polonais, sa solitude est bouleversée.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/0e/76/0e7668d9363d3f802f54dc5dd2e92ae3.jpg",
+      "poster": null,
       "directors": [
         "Pierre Le Gall"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302095.html",
-      "color": "#0084ad"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000031164",
@@ -443,12 +443,12 @@
       ],
       "duration": "1h35min",
       "synopsis": "Lièvre pour un champion de course de fond qui ne cesse de l’humilier, Ian se lance dans une course clandestine où des centaines de participants courent jusqu’à l’épuisement. À la clé, une somme qui pourrait changer la vie de sa famille. Dans un jeu où s’arrêter mène à la…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/14/b1/14b1788e43523136d7e7908f4defdd98.jpg",
+      "poster": null,
       "directors": [
         "Gonzague Legout"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014166.html",
-      "color": "#9e0e00"
+      "color": "#2EE59D"
     },
     {
       "id": "1000026311",
@@ -459,12 +459,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Boca Chica, Texas. Ce hameau vit au rythme du bruit des vagues. Mais des changements irréversibles bouleversent cette contrée sauvage. L’ombre qui se profile au-dessus de la plage est celle de la fusée de 50 étages de SpaceX, d’Elon Musk, en attente d’être lancée dans…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/44/fd/44fdb2229ec5e21f1481da3dfa2519a2.jpg",
+      "poster": null,
       "directors": [
         "Julien Elie"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026311.html",
-      "color": "#8c8c8c"
+      "color": "#FFD60A"
     },
     {
       "id": "1000044336",
@@ -475,12 +475,12 @@
       ],
       "duration": "1h19min",
       "synopsis": "Le réalisateur du film « À BICYCLETTE ! », Mathias Mlekuz, embarque son ami Philippe pour une toute nouvelle aventure singulière à travers la France : accompagner Manolo, le fils cadet qui a pour projet de recueillir les 500 parrainages pour se lancer dans la campagne…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/f8/25/f825b352d6167e959bf9e1ff5c54f681.jpg",
+      "poster": null,
       "directors": [
         "Mathias Mlekuz"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044336.html",
-      "color": "#00b2f8"
+      "color": "#FF6B35"
     },
     {
       "id": "1000024935",
@@ -491,12 +491,12 @@
       ],
       "duration": "1h23min",
       "synopsis": "Années 1980 : en Seine-Saint-Denis, c'est le grand retour du tramway !« L'Antenne est à nous », une émission de télévision locale financée par le Département, sonde l'opinion publique... quitte à la fabriquer.Quarante ans plus tard, plongée dans les rushes de l'émission à la…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/22/96/2296db26306d15e926f17bd97698562d.jpg",
+      "poster": null,
       "directors": [
         "Mehdi Benallal"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html",
-      "color": "#00b9f8"
+      "color": "#2EE59D"
     },
     {
       "id": "1000023399",
@@ -507,16 +507,16 @@
       ],
       "duration": "1h35min",
       "synopsis": "En 2015, Irene, tout juste arrivée d’Espagne, débarque au TDB, un squat toulousain occupé par des jeunes queer radicaux, refuge dans un monde hostile. Elle y filme et partage l’euphorie, les luttes, les amours et la rage de vivre qui les animent.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/5d/53/5d531ee295da289dc50bc019daa8b4ab.jpg",
+      "poster": null,
       "directors": [
         "Irene Bailo Carramiñana"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023399.html",
-      "color": "#ff0077"
+      "color": "#FFD60A"
     },
     {
       "id": "1000055612",
-      "title": "Spider-Man : \"Brand New\" Brand New Day",
+      "title": "Spider-Man: \"Brand New\" Brand New Day",
       "releaseDate": "2026-12-02",
       "genres": [
         "Action",
@@ -525,12 +525,12 @@
       ],
       "duration": "2h37min",
       "synopsis": "C’est un tout nouveau jour pour Peter Parker. Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité. Mais le sentiment d’avoir été oublié par ses amis qui avancent désormais sans lui provoque un changement chez Peter qu’il n’est…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ba/3e/ba3e4b5cd714efedcfc48a661e55ba61.jpg",
+      "poster": null,
       "directors": [
         "Destin Daniel Cretton"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055612.html",
-      "color": "#e70010"
+      "color": "#00C2FF"
     },
     {
       "id": "1000031015",
@@ -541,12 +541,12 @@
       ],
       "duration": "1h50min",
       "synopsis": "Sur le point de se séparer de sa compagne avec qui il vit à Nancy, Léo, 49 ans, apprend la mort de son père biologique qu’il n’a jamais connu. Dans l’attente d’un rendez-vous avec un notaire en Italie, il passe quelques jours à Paris où il a vécu plus jeune. De discussions…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/6d/9f/6d9fa130d4f69259a5b7534fb748d186.jpg",
+      "poster": null,
       "directors": [
         "Nicolas Pariser"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031015.html",
-      "color": "#e90c09"
+      "color": "#FFD60A"
     },
     {
       "id": "312651",
@@ -558,12 +558,12 @@
       ],
       "duration": "1h50min",
       "synopsis": "Si vous êtes sages, vous aurez des cadeaux du Père Noël.Si vous ne l’êtes pas, vous aurez ce que vous méritez.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/5c/71/5c713bfabf643dd093071a507cb30c5a.jpg",
+      "poster": null,
       "directors": [
         "Tommy Wirkola"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312651.html",
-      "color": "#d30000"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000003266",
@@ -574,12 +574,12 @@
       ],
       "duration": "45min",
       "synopsis": "Nagez avec les phoques, survolez les colonies de manchots, croisez les géants des mers. Une aventure en immersion totale au cœur de la banquise.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/97/ec/97ecf4ea48687c23713fe8f6241760c0.png",
+      "poster": null,
       "directors": [
         "Fredi Devas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003266.html",
-      "color": "#4792c4"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000044048",
@@ -590,12 +590,12 @@
       ],
       "duration": "1h26min",
       "synopsis": "L’été de leurs dix-huit ans, Emile, Paul, Hascoët et Léo partent à Barcelone, la Mecque du skateboard, pour leurs premières vacances entre potes. Dix ans plus tard, ils s’appellent et se refont le film.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/1d/00/1d00ae58db9702ac781dd764ce72ccbe.jpg",
+      "poster": null,
       "directors": [
         "Paul Nouhet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html",
-      "color": "#e2d10f"
+      "color": "#2EE59D"
     },
     {
       "id": "1000018371",
@@ -623,12 +623,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "Juin 1961, New York : le légendaire pianiste de jazz Bill Evans a trouvé sa voix musicale et a créé le trio parfait, comprenant le bassiste Scott LaFaro. Une résidence au Village Vanguard de New York culmine avec l'enregistrement en direct de deux des plus grands disques de…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/b0/80/b080f924e51f37dd658477a75c20f920.jpeg",
+      "poster": null,
       "directors": [
         "Grant Gee"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014226.html",
-      "color": "#c8a00a"
+      "color": "#B967FF"
     },
     {
       "id": "1000016226",
@@ -641,12 +641,12 @@
       ],
       "duration": "1h41min",
       "synopsis": "Dans une société gouvernée par une IA sensible, un détective privé enquêtant sur un meurtre tombe sur un groupe rebelle capable d'ébranler le chef numérique.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/b6/ab/b6ab8a6cebba7b1ee7c4b6946f07470a.jpg",
+      "poster": null,
       "directors": [
         "Agnieszka Smoczyńska"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016226.html",
-      "color": "#ff9f00"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000025551",
@@ -657,12 +657,12 @@
       ],
       "duration": "1h30min",
       "synopsis": "Lily, jeune romancière en devenir, procrastine à l'approche de l'obtention de son diplôme. À mesure que les frontières entre les rêves de Lily, sa réalité et le roman qu'elle écrit commencent à se brouiller, elle devra affronter ses peurs les plus profondes — et décider si…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/e7/ab/e7ab76d426f05d9048d73b2e684b1346.png",
+      "poster": null,
       "directors": [
         "Eva Chen"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025551.html",
-      "color": "#8c8a8a"
+      "color": "#FF3B5C"
     },
     {
       "id": "204864",
@@ -675,13 +675,13 @@
       ],
       "duration": "1h54min",
       "synopsis": "Le Chat se voit confier sa mission la plus difficile jusqu'à présent... aider deux frères et sœurs qui ont du mal à s'installer dans une nouvelle ville.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/f6/50/f6509a9e13b24278f5961d06bbbbf393.jpg",
+      "poster": null,
       "directors": [
         "Alessandro Carloni",
         "Erica Rivinoja"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=204864.html",
-      "color": "#af353b"
+      "color": "#B967FF"
     },
     {
       "id": "1000033622",
@@ -692,12 +692,12 @@
       ],
       "duration": "1h55min",
       "synopsis": "La fratrie Puig comprend sept enfants. Et c’est aujourd’hui qu’on marie le petit dernier : Jacques. Nous sommes en mars 1978 dans les faubourgs de Nantes. Le père n’assiste pas aux noces, il a été banni de la famille. Les frères et les sœurs eux sont tous là, heureux de se…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1b/50/1b50049fc981113046fe9dc7c9aaa209.jpg",
+      "poster": null,
       "directors": [
         "Christophe Honoré"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033622.html",
-      "color": "#a81c2d"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000012486",
@@ -708,12 +708,12 @@
       ],
       "duration": "1h43min",
       "synopsis": "La vidéo virale d’une artiste bulgare de 8 ans, prodige de la peinture, circule sur Internet. Ce phénomène attire l’attention d’un collectionneur. Mihail sera dépêché sur place pour évaluer la valeur de la production de la jeune fille. Il devra retourner pour la première fois…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/25/6c/256c2443d87a7b9e0444cc7bbc757aac.jpg",
+      "poster": null,
       "directors": [
         "Geneviève Dulude-De Celles"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012486.html",
-      "color": "#b24f32"
+      "color": "#E8458B"
     },
     {
       "id": "1000046828",
@@ -725,12 +725,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "Elsa Delcourt, une avocate en pleine crise, voit son monde s'effondrer. Après une confrontation violente avec son compagnon, elle décide de partir seule à Tanger. Déterminée à échapper aux attentes qui l'étouffent, son voyage devient plus qu'une simple fuite : c'est une quête…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/b7/10/b7108ac32065471faf2e68f7621b137c.jpg",
+      "poster": null,
       "directors": [
         "Ali Mesbahi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046828.html",
-      "color": "#cc683a"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000051781",
@@ -741,12 +741,12 @@
       ],
       "duration": "1h19min",
       "synopsis": "Des Aînées suisses attaquent leur pays pour son inaction climatique et gagnent devant la justice européenne.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/ef/97/ef972b33e2489973f0ee768c778bc625.jpg",
+      "poster": null,
       "directors": [
         "Benjamin Weiss"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051781.html",
-      "color": "#ffd200"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000043825",
@@ -757,12 +757,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "À travers cinq portraits de ses proches, autant de figures de résistance, Pegah Ahangarani trace le récit intime de sa vie. Puisant dans ses archives personnelles, vidéos familiales, images de manifestations, articles de presse et enregistrements sonores, elle traverse plus…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/94/35/9435f8e0a5d0503bf784deded4d1dd3c.jpg",
+      "poster": null,
       "directors": [
         "Pegah Ahangarani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043825.html",
-      "color": "#e53832"
+      "color": "#FF6B35"
     },
     {
       "id": "296439",
@@ -810,12 +810,12 @@
       ],
       "duration": "1h30min",
       "synopsis": "Dans les ruelles de Séville, Salva, Belén et leur bande de gamins des rues vont affronter tous les dangers pour éloigner la menace qui plane sur Carmen, jeune femme libre et flamboyante. Le destin de Carmen, oiseau rebelle, est entre leurs mains.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/99/f5/99f561c6fd04c19f09b4622b4b71ee5a.jpg",
+      "poster": null,
       "directors": [
         "Sébastien Laudenbach"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=319971.html",
-      "color": "#e07a10"
+      "color": "#E8458B"
     },
     {
       "id": "1000028361",
@@ -826,12 +826,12 @@
       ],
       "duration": "1h33min",
       "synopsis": "Ils ont une vingtaine d’années et veulent devenir acteurs. Pendant deux ans, seize apprentis comédiens ont joué, ri et douté ensemble. Maintenant, ils préparent leur dernier spectacle avant de se lancer dans l'inconnu, rêvant du même destin que leurs prédécesseurs.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/95/39/9539dda44514f15fb62f43c906f9f799.jpg",
+      "poster": null,
       "directors": [
         "Ambroise Sabbagh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html",
-      "color": "#b3262c"
+      "color": "#FFD60A"
     },
     {
       "id": "324508",
@@ -860,12 +860,12 @@
       ],
       "duration": "1h49min",
       "synopsis": "Cinq amis. Cinq vies. D'innombrables espoirs. Patrick, Shiv, Rian, Oli et Conor ont grandi à Birmingham. Ils jouaient ensemble, séchaient les cours ensemble et rêvaient ensemble du futur. Aujourd'hui, ils ont trente ans et sont rattrapés par le quotidien. Seul Rian a quitté…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/95/a8/95a8bd858ab190fb111b99e7b5574923.jpg",
+      "poster": null,
       "directors": [
         "Clio Barnard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022460.html",
-      "color": "#00a1da"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000024810",
@@ -876,13 +876,13 @@
       ],
       "duration": "2h40min",
       "synopsis": "Espagne 1932, 1937, 2017. Trois hommes. Trois époques. Un même fil invisible de désir, de douleur et d'héritage. LA BOLA NEGRA traverse le temps pour révéler ce qui les unit.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/2a/aa/2aaaeec1f24dd816fb91b12be2a8d8d9.jpg",
+      "poster": null,
       "directors": [
         "Javier Calvo",
         "Javier Ambrossi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024810.html",
-      "color": "#c03141"
+      "color": "#FF6B35"
     },
     {
       "id": "1000050663",
@@ -894,12 +894,12 @@
       ],
       "duration": "1h04min",
       "synopsis": "",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/f9/90/f990b9b0ed05e2a9e00ca0786b86d045.jpg",
+      "poster": null,
       "directors": [
         "Nicolas Saada"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050663.html",
-      "color": "#900000"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000032465",
@@ -910,12 +910,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Une réalisatrice revient à Lhassa pour tourner un film sur son enfance. Le temps d’une nuit, entre disputes avec son père et rencontre avec la jeune femme qui a inspiré son personnage, l’été oublié de sa mémoire refait surface.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Kangdrun"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032465.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "1000053016",
@@ -926,12 +926,12 @@
       ],
       "duration": null,
       "synopsis": "Sylvain est un agriculteur qui considère le bio comme un retour en arrière.En nous immergeant dans son quotidien, celui d’un homme confronté aux transformations de son métier, le film cherche à le comprendre.Il raconte non sans poésie la complexité et les contradictions du…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/63/4c/634c5b95768e69016fdf52008e9352d1.jpg",
+      "poster": null,
       "directors": [
         "Coco Tassel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053016.html",
-      "color": "#0a7ea5"
+      "color": "#00C2FF"
     },
     {
       "id": "275256",
@@ -945,12 +945,12 @@
       ],
       "duration": "1h31min",
       "synopsis": "Léo, jeune baleine à bosse, rêve de trouver sa voix pour suivre la destinée de son père, dont le chant magique protégeait autrefois les fonds marins. Quand le redoutable Léviathan se réveille, seul Léo a le pouvoir de l’arrêter. Accompagné de ses amis Willy et Darya, il se…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/97/66/97666bf650063193c0d28528d50df967.jpg",
+      "poster": null,
       "directors": [
         "Reza Memari"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=275256.html",
-      "color": "#00b1ee"
+      "color": "#FF6B35"
     },
     {
       "id": "1000047461",
@@ -961,12 +961,12 @@
       ],
       "duration": "1h48min",
       "synopsis": "Slimane, un vieux routier fatigué et malade, et Smaïn, son rippeur, ont pour mission de convoyer une cargaison au fin fond du Sahara algérien. En route, ils se font violemment agresser et dérober leur camion. Anna, une jeune chercheuse universitaire, et Sofiane, son compagnon…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/b9/59/b959b138229fef2217754790d265380b.jpg",
+      "poster": null,
       "directors": [
         "Rabah Ameur-Zaïmeche"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.html",
-      "color": "#a27740"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000021762",
@@ -977,12 +977,12 @@
       ],
       "duration": "1h54min",
       "synopsis": "Lorsque Marcel est contraint d'accepter une dernière mission, il déclenche une chaine d’évènements qui bouleverse plusieurs vies. De Montréal à Paris, chacun devra trouver le courage d'aimer, de pardonner et, peut-être, de se racheter.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ca/f6/caf6829b8d282da218f5d1069a299e4e.jpg",
+      "poster": null,
       "directors": [
         "Luc Picard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html",
-      "color": "#598cad"
+      "color": "#00C2FF"
     },
     {
       "id": "309190",
@@ -993,12 +993,12 @@
       ],
       "duration": "1h44min",
       "synopsis": "Mexico, début des années 90. Bruno grandit dans une famille joyeuse et insouciante. Le jour de ses onze ans, il apprend que son père est malade. Trente ans plus tard, Bruno filme. Il cherche à se souvenir de ces six mois dans la maison rose et bleue de son enfance.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/99/5e/995e04e48e7f6ee467cd8f0b3dec96a0.jpg",
+      "poster": null,
       "directors": [
         "Bruno Santamaría Razo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=309190.html",
-      "color": "#a54c24"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000004507",
@@ -1012,12 +1012,12 @@
       ],
       "duration": "1h38min",
       "synopsis": "En cette période de fêtes de fin d’année, un Angry Bird va devoir relever son plus grand défi : survivre à la paternité… tout en sauvant le monde !",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/a9/97/a997c76544a3d83bfdb4a59cdd4db7d9.jpg",
+      "poster": null,
       "directors": [
         "John Rice"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004507.html",
-      "color": "#ff7100"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000002678",
@@ -1062,12 +1062,12 @@
       ],
       "duration": "2h02min",
       "synopsis": "Après 14 ans, Hein revient dans son village insulaire, mais la communauté ne le reconnaît pas et exige un procès pour prouver son identité.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0f/c1/0fc127a0062773cf4d264000b0919de5.jpg",
+      "poster": null,
       "directors": [
         "Kai Stänicke"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html",
-      "color": "#93684f"
+      "color": "#00C2FF"
     },
     {
       "id": "326180",
@@ -1078,12 +1078,12 @@
       ],
       "duration": "2h20min",
       "synopsis": "Tokyo, au début du XXe siècle. Enfant à la santé fragile et cinéphile précoce, chéri par ses parents, le jeune Yasujiro Ozu entre à la Shochiku – à leur grande déception – pour assouvir sa passion du cinéma en tournant des comédies muettes, tout en façonnant un regard d’une…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/3d/b1/3db17f875ea90c6b70275ce976dd5b57.jpg",
+      "poster": null,
       "directors": [
         "Daniel Raim"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326180.html",
-      "color": "#847d7a"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000017272",
@@ -1094,12 +1094,12 @@
       ],
       "duration": "1h47min",
       "synopsis": "1982. Eddie est une actrice qui a eu son heure de gloire américaine. Accompagnée de Valentina, sa fidèle maquilleuse, elle accepte le rôle principal d’un film de science-fiction tourné à Rome, qui pourrait bien être son ultime film…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/60/d3/60d385f3e86b16a941027c3fe47f811d.jpg",
+      "poster": null,
       "directors": [
         "Bertrand Mandico"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html",
-      "color": "#c8334b"
+      "color": "#2EE59D"
     },
     {
       "id": "1000016431",
@@ -1110,12 +1110,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Édith, journaliste et mère célibataire, voit son quotidien bouleversé lorsqu'elle découvre l'identité du donneur à l'origine de la naissance de son fils : Niels, créateur de jeux vidéo à succès. Troublée par les comportements de son enfant et ce qu'il pourrait avoir hérité,…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/07/1e/071e454af592be40e369a03f2b2bd0e3.jpg",
+      "poster": null,
       "directors": [
         "Janicke Askevold"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016431.html",
-      "color": "#c35e4b"
+      "color": "#E8458B"
     },
     {
       "id": "1000023667",
@@ -1126,12 +1126,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Le veille de Noël, Cliff, humoriste qui se relève doucement d’une grosse dépression, se casse une dent. Il se rend chez Didi, dentiste de garde et fraîchement divorcée. Par un concours de circonstances, leur rencontre se transforme en odyssée urbaine dans les rues glacées de…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/65/90/6590835cda207bef792d1eabd9428e6d.jpg",
+      "poster": null,
       "directors": [
         "Jay Duplass"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html",
-      "color": "#0cadf6"
+      "color": "#00C2FF"
     },
     {
       "id": "1000039482",
@@ -1142,12 +1142,12 @@
       ],
       "duration": "1h54min",
       "synopsis": "Édimbourg, 1810. Jane Pirie et Marianne Woods, deux enseignantes, se lancent dans l’aventure d’une vie indépendante à deux et ouvrent un pensionnat pour jeunes filles. L’arrivée de Jane Cumming, adolescente métisse venue des Indes, bouleverse leur fragile équilibre.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/fa/74/fa74a414819f062d47a7e4557351ce0f.jpg",
+      "poster": null,
       "directors": [
         "Sophie Heldman"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039482.html",
-      "color": "#71475a"
+      "color": "#2EE59D"
     },
     {
       "id": "294374",
@@ -1158,12 +1158,12 @@
       ],
       "duration": "2h37min",
       "synopsis": "Singapour, aujourd’hui. Junyang, 21 ans, est amoureux d’une jeune fille timide et rêve sa vie sans accomplir grand-chose. Son père, un veuf qui travaille dur pour les faire vivre, courtise une femme exubérante. Ensemble, les deux générations devront cohabiter et réinventer…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/50/d6/50d69c8413c032b690454fca5aa236e6.jpg",
+      "poster": null,
       "directors": [
         "Anthony Chen"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html",
-      "color": "#25a9b4"
+      "color": "#FFD60A"
     },
     {
       "id": "1000042575",
@@ -1174,12 +1174,12 @@
       ],
       "duration": "2h20min",
       "synopsis": "Un fils, une mère, leur famille et 9 temples. Le temps d’une journée, un pèlerinage qui raconte le cycle des saisons de la vie.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/fc/96/fc960f224748084e477e4be84e9ef71b.jpg",
+      "poster": null,
       "directors": [
         "Sompot Chidgasornpongse"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042575.html",
-      "color": "#d67900"
+      "color": "#E8458B"
     },
     {
       "id": "1000031926",
@@ -1207,12 +1207,12 @@
       ],
       "duration": "1h43min",
       "synopsis": "En plein match de tennis, Matteo voit surgir une inconnue en robe de mariée. Elle échange quelques balles avec lui, puis disparait aussi soudainement qu’elle est apparue.Matteo n’arrive pas à oublier cette brève et improbable rencontre.Pendant sept ans, leurs vies suivent des…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/f3/7e/f37eafb0c5cce96eccd95c1cf08dae61.jpg",
+      "poster": null,
       "directors": [
         "Nanni Moretti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html",
-      "color": "#964a02"
+      "color": "#FF6B35"
     },
     {
       "id": "1000048761",
@@ -1223,12 +1223,12 @@
       ],
       "duration": "1h33min",
       "synopsis": "Après plusieurs années de rupture, Myriam, jeune femme de culture musulmane qui grandit à Marseille, renoue durant les vacances d’été avec Eva, issue d’une famille juive. Ensemble, elles vivent leur jeunesse hors des cadres imposés. Mais cet été d’insouciance se fissure…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/a2/c5/a2c5589d3885f0bf8d41d7e14f054929.jpg",
+      "poster": null,
       "directors": [
         "Hanaël El Yousfi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048761.html",
-      "color": "#c25901"
+      "color": "#00C2FF"
     },
     {
       "id": "1000036227",
@@ -1239,12 +1239,12 @@
       ],
       "duration": "1h37min",
       "synopsis": "Quand Paul Chardonnet, riche et charismatique entrepreneur, meurt dans le crash de son jet privé, sa veuve Sarah se retrouve brutalement seule à la tête de l’empire familial. Mais pour cette mère de trois enfants, la situation s'aggrave encore avec l'arrivée de François…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/8b/ca/8bca462d9e107ceacccff8e106e52baa.jpg",
+      "poster": null,
       "directors": [
         "Olivier Ducray"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.html",
-      "color": "#7e5e48"
+      "color": "#FFD60A"
     },
     {
       "id": "1000022811",
@@ -1255,12 +1255,12 @@
       ],
       "duration": "1h29min",
       "synopsis": "Harry est le dernier pickpocket de New York. Un jour, il dérobe une mystérieuse clef USB à un jeune mafieux et se retrouve pris en chasse par une dangereuse organisation criminelle…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/86/5e/865e07afd33e1d6f2aede0414620f15d.jpg",
+      "poster": null,
       "directors": [
         "Noah Segan"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022811.html",
-      "color": "#cec911"
+      "color": "#2EE59D"
     },
     {
       "id": "1000014942",
@@ -1273,12 +1273,12 @@
       ],
       "duration": "1h39min",
       "synopsis": "La policière Marjolaine Coppola cherche à retrouver sa sœur qui s’est fait enlever le même soir que leurs parents se sont fait assassiner. Les responsables travailleraient pour Franz DeMann, l’homme d’affaires mégalomane qui tente de devenir maire de la grande ville qu’est…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Rémi Fréchette"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.html",
-      "color": "#e0e0e0"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000036365",
@@ -1289,12 +1289,12 @@
       ],
       "duration": "1h57min",
       "synopsis": "Tsubasa et Gyotaro, deux jeunes garçons de huit ans, deviennent inséparables. Isolés dans leur petit monde, ils partagent des moments inoubliables. Mais en grandissant, leur relation bascule, jusqu’à un incident qui les sépare brutalement.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/4b/80/4b80d2ea202a480020dc7f12813f75e8.jpg",
+      "poster": null,
       "directors": [
         "Kohei Kadowaki"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.html",
-      "color": "#e69b13"
+      "color": "#B967FF"
     },
     {
       "id": "1000022458",
@@ -1306,13 +1306,13 @@
       ],
       "duration": "1h55min",
       "synopsis": "Une mannequin biélorusse rêvant d’une carrière en Chine est attirée par un homme mystérieux et solitaire qui travaille de nuit dans une morgue. Cette rencontre bouleverse son rapport à son corps, sa beauté et sa mortalité.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/7f/bd/7fbdf1c0b687fc82be3b35bc482d6392.jpg",
+      "poster": null,
       "directors": [
         "Elsa Kremser",
         "Levin Peter"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022458.html",
-      "color": "#f70087"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000051707",
@@ -1340,12 +1340,12 @@
       ],
       "duration": "1h28min",
       "synopsis": "En l’espace de 4 ans, Lilou est sortie du secret. Elle est devenue une femme de 64 ans qui aime bricoler, jardiner, faire du vélo et s’occuper de ses petits-enfants. En accompagnant sa transition, j’ai filmé une famille qui panse ses plaies et réinvente une place pour…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/b6/54/b6545c6e8f52e8ded7a4be960bda892d.jpg",
+      "poster": null,
       "directors": [
         "Tom Fontenille"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044050.html",
-      "color": "#a64262"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000028341",
@@ -1372,12 +1372,12 @@
       ],
       "duration": "1h56min",
       "synopsis": "À l’aube de ses 50 ans, Nacer Belkacem peut être satisfait de sa vie : père de famille aimant, époux attentionné et bienveillant, travail stable, implication dans sa communauté et jolie petite maison de banlieue. Au contact des riches parents d'élèves de l'école où vont ses…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/8a/13/8a1392882a614c42046110d8b1dc0c27.jpg",
+      "poster": null,
       "directors": [
         "Mathieu Denis"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028959.html",
-      "color": "#0044c0"
+      "color": "#FFD60A"
     },
     {
       "id": "1000018576",
@@ -1388,12 +1388,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "À peine sortie d’un séjour en psychiatrie, Pia retourne vivre chez ses parents pour reconstruire sa vie. Entre ses différents emplois, ses peines de cœur, ses médicaments et la stigmatisation, elle se retrouve plongée dans un monde qui part en vrille et qui lui semble aussi…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/4e/a5/4ea5525f01ab11d94e57a85f655e8b60.jpeg",
+      "poster": null,
       "directors": [
         "Florian Pochlatko"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018576.html",
-      "color": "#ffea00"
+      "color": "#2EE59D"
     },
     {
       "id": "1000037196",
@@ -1404,12 +1404,12 @@
       ],
       "duration": "1h35min",
       "synopsis": "Du haut de ses douze ans, Lil Ant trans­forme son quar­tier popu­laire, situé sous un cou­loir aérien de l’aéroport de Los Angeles, en une mytho­lo­gie vivante où les siens deviennent des dieux et le ciel un bal­let inces­sant de départs. En quête d’un lien avec son père,…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/98/fa/98fa928464714225482ee5a0318bbd25.jpg",
+      "poster": null,
       "directors": [
         "Walter Thompson-Hernández"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037196.html",
-      "color": "#0085b1"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000045262",
@@ -1420,12 +1420,12 @@
       ],
       "duration": "1h11min",
       "synopsis": "La Conscience Politique identifie et répond à la violence de nos institutions à travers l'œuvre du philosophe Geoffroy de Lagasnerie. Ce film est une invitation à la lutte, pensée aux côtés d’Assa Traoré, Edouard Louis, Didier Eribon et d'autres alliés, engagés pour ouvrir la…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/76/b2/76b25afd3904d7b4dbe6a02262371532.jpg",
+      "poster": null,
       "directors": [
         "Léolo Victor-Pujebet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045262.html",
-      "color": "#8c8889"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000035477",
@@ -1436,12 +1436,12 @@
       ],
       "duration": "2h06min",
       "synopsis": "Dans un futur proche, Otone et son mari Kensuke, qui ont perdu leur enfant, se voient proposer un robot humanoïde totalement identique à leur fils.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/3c/32/3c32174af8d749e5567eb92359b5a049.jpg",
+      "poster": null,
       "directors": [
         "Hirokazu Kore-eda"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035477.html",
-      "color": "#48524b"
+      "color": "#B967FF"
     },
     {
       "id": "1000017996",
@@ -1452,12 +1452,12 @@
       ],
       "duration": "1h43min",
       "synopsis": "Ivan Katz, metteur en scène de théâtre et joueur pathologique, brûle sa vie dans les jeux d'argent. Lors d’une nuit fatidique, il joue et perd la totalité de la subvention de sa nouvelle pièce : Platonov de Tchekhov. Pour se refaire et sauver son spectacle, Ivan décide…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/62/d9/62d9a682d16714dd0712006fc6ab0cf7.jpg",
+      "poster": null,
       "directors": [
         "Élie Wajeman"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017996.html",
-      "color": "#f03704"
+      "color": "#E8458B"
     },
     {
       "id": "1000037190",
@@ -1484,12 +1484,12 @@
       ],
       "duration": "1h56min",
       "synopsis": "Londres, 1969. Le magnat Rupert Murdoch rachète un tabloïd en perte de vitesse et recrute le jeune rédacteur en chef Larry Lamb pour en faire le quotidien le plus lu du pays.​ Avec une équipe de journalistes aussi talentueux qu'indésirables, ils vont déclencher une révolution…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/aa/4f/aa4ff4f0a90d9754e51561d96c74ae6b.jpg",
+      "poster": null,
       "directors": [
         "Danny Boyle"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.html",
-      "color": "#ea0712"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000033365",
@@ -1500,12 +1500,12 @@
       ],
       "duration": "1h43min",
       "synopsis": "Depuis qu’une ordonnance d’éloignement a été prononcée contre son père, Carmela, 12 ans, ne peut le voir que dans un centre de médiation sociale, sous surveillance. Lui qu’elle adore, voire l’idolâtre, est accusé de violences contre sa mère qui a demandé le divorce. Prise…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/5a/4e/5a4e092ab180dfe79b2dfc93d0274643.jpg",
+      "poster": null,
       "directors": [
         "Júlia De Paz Solvas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html",
-      "color": "#be6d32"
+      "color": "#2EE59D"
     },
     {
       "id": "1000018715",
@@ -1517,12 +1517,12 @@
       ],
       "duration": "2h00min",
       "synopsis": "Une plongée sombre et envoûtante dans un univers où la dévotion se heurte à la damnation, et où les ténèbres qui habitent les hommes finissent par se révéler.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/ce/26/ce26d4103b6ce3af22abfca7d36bb8f5.jpg",
+      "poster": null,
       "directors": [
         "Robert Eggers"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018715.html",
-      "color": "#7d8c8a"
+      "color": "#00C2FF"
     },
     {
       "id": "1000049862",
@@ -1533,12 +1533,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Ulysse élève son fils Max dans le hangar d’une base aérienne désaffectée, à coups de bricolage et de promesses. Mais Max a quinze ans, il en a assez des plans qui tombent à l’eau et décide en secret d’aller vivre chez sa mère. Pour le retenir, Ulysse tente un dernier coup :…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Mathieu Cesar"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049862.html",
-      "color": "#e0e0e0"
+      "color": "#2EE59D"
     },
     {
       "id": "1000015051",
@@ -1550,12 +1550,12 @@
       ],
       "duration": "1h55min",
       "synopsis": "Un empire qui vacille. Un souverain rongé par la peur. Une étoile qui se lève au-dessus de Bethléem.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/61/66/61664bedafb43e72fd3763e64b4f25be.jpg",
+      "poster": null,
       "directors": [
         "Alejandro Monteverde"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015051.html",
-      "color": "#024957"
+      "color": "#00C2FF"
     },
     {
       "id": "1000051801",
@@ -1567,12 +1567,12 @@
       ],
       "duration": "1h01min",
       "synopsis": "Floriane rejoue avec deux comédiens ses rencontres en autostop, enregistrées au fil des ans. Entre documentaire et fiction.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/75/b3/75b3d026fbf470cf8f79ea7a7b568fd7.jpg",
+      "poster": null,
       "directors": [
         "Roman Hüben"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051801.html",
-      "color": "#ffea00"
+      "color": "#7C4DFF"
     },
     {
       "id": "312915",
@@ -1583,12 +1583,12 @@
       ],
       "duration": "1h45min",
       "synopsis": "Années 90 à Nairobi. Queen, figure respectée de sa communauté, fait face aux ravages du sida. Sa rencontre avec une journaliste irlandaise donne naissance à une amitié inattendue qui les rassemble dans le combat pour un accès plus juste aux médicaments.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/60/ce/60cedda444ce2e65c1bd140b9788f83e.jpg",
+      "poster": null,
       "directors": [
         "Emily Atef"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312915.html",
-      "color": "#ea4b1d"
+      "color": "#7C4DFF"
     },
     {
       "id": "315018",
@@ -1599,12 +1599,12 @@
       ],
       "duration": "1h49min",
       "synopsis": "Agathe, 23 ans, chimiste brillante et passionnée, rejoint un prestigieux laboratoire parisien pour sa thèse. Son rêve de devenir une grande chercheuse est en passe de devenir réalité mais elle va devoir composer avec une directrice de thèse toxique et des collègues hostiles.…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0b/ef/0bef7e6a3218afb556b7ac4fafe543b4.jpg",
+      "poster": null,
       "directors": [
         "Aurélien Peilloux"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315018.html",
-      "color": "#9d6c40"
+      "color": "#FF6B35"
     },
     {
       "id": "1000050258",
@@ -1615,12 +1615,12 @@
       ],
       "duration": "1h38min",
       "synopsis": "Chronique d'une pension de famille raconte comment retrouver un chez-soi ouvre peu à peu le chemin vers les autres. Pendant plus d'une année, François Havez a partagé le quotidien des habitants de cette pension de famille à Nevers. Entre repas et fêtes, échanges et…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/8c/98/8c98ae2bb02d93e40f4f4558a5ecba63.jpg",
+      "poster": null,
       "directors": [
         "François Havez"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050258.html",
-      "color": "#ffa500"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000034569",
@@ -1631,13 +1631,13 @@
       ],
       "duration": "1h21min",
       "synopsis": "Sans logement à San Francisco, Dawn et Tony trouvent du réconfort auprès de Miss Terry qui, après une vie dans la rue, anime des groupes de soutien à l'église Glide.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/32/d0/32d0f5705d33132f2cf2860d009ce62a.jpg",
+      "poster": null,
       "directors": [
         "Laetitia Jacquart",
         "Corinne Sullivan"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034569.html",
-      "color": "#ff9200"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000049433",
@@ -1648,13 +1648,13 @@
       ],
       "duration": "1h55min",
       "synopsis": "L'ascension de l'Everest.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Jimmy Chin (III)",
         "Elizabeth Chai Vasarhelyi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049433.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "325279",
@@ -1665,12 +1665,12 @@
       ],
       "duration": "1h39min",
       "synopsis": "Slovénie. Mihrije, Sina et Jasna sont trois amies inséparables d’une vingtaine d'années. Chacune à leur façon, elles refusent de se conformer au système patriarcal dans lequel elles ont grandi. Lorsqu'elles rencontrent Fantasy, une femme libre et transgenre, leur monde…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/79/39/793900731500468d53e92b65b2769f2e.jpg",
+      "poster": null,
       "directors": [
         "Kukla Kesherović"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325279.html",
-      "color": "#aa270e"
+      "color": "#2EE59D"
     },
     {
       "id": "1000023776",
@@ -1697,12 +1697,12 @@
       ],
       "duration": "1h38min",
       "synopsis": "De jeunes activistes infiltrent un abattoir qu’ils soupçonnent de maltraitance animale. Alors qu'ils récupèrent leurs caméras dissimulées quelques jours plus tôt, ils sont surpris par les vigiles. Le patron et ses complices se lancent à leur poursuite…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/b6/f8/b6f86557ebb75f6e2225e887aab7d39f.jpg",
+      "poster": null,
       "directors": [
         "Abel Ferry"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327810.html",
-      "color": "#7e4328"
+      "color": "#FFD60A"
     },
     {
       "id": "1000033616",
@@ -1729,12 +1729,12 @@
       ],
       "duration": "1h34min",
       "synopsis": "Des années avant que la célébrité ne soit considérée comme une forme d’art à part entière, Jean Cocteau, considérait sa vie artistique comme un mélange d'obscurité et de célébrité.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/c8/bf/c8bf7460628b9dea3798c8d32d57e558.jpg",
+      "poster": null,
       "directors": [
         "Lisa Immordino Vreeland"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=119263.html",
-      "color": "#8b8b8b"
+      "color": "#00C2FF"
     },
     {
       "id": "1000024109",
@@ -1746,12 +1746,12 @@
       ],
       "duration": "2h12min",
       "synopsis": "1943. Les Nazis occupent la Belgique et font du quotidien national Le Soir leur outil de propagande. Alors qu’il est interdit de commémorer le 11 novembre, un groupe de résistants a une idée folle : et si, pour remonter le moral des Belges, ils parvenaient à imprimer une…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/a5/a4/a5a4d6dc634565dcbd1bebcd51108405.jpg",
+      "poster": null,
       "directors": [
         "Michaël R. Roskam"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024109.html",
-      "color": "#81453a"
+      "color": "#7C4DFF"
     },
     {
       "id": "316022",
@@ -1762,12 +1762,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Le trafiquant d'armes, Yuri Orlov, découvre qu'il a un fils, Anton. Ce dernier est en train de constituer une armée de mercenaires pour combattre les conflits au Moyen-Orient.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/ec/ba/ecbaec0943b4ab9f0e9836e8226be59c.jpg",
+      "poster": null,
       "directors": [
         "Andrew Niccol"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316022.html",
-      "color": "#c15515"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000048256",
@@ -1778,12 +1778,12 @@
       ],
       "duration": "54min",
       "synopsis": "2018. Dans la « Nouvelle-Grande-Russie » de Vladimir Poutine, des bulldozers menacent les cités de garages, villes clandestines qui se développèrent dans l’effondrement de l’URSS. Ici vivent les survivants de cette apocalypse : les Garagniki. Avec eux, nous remontons le temps…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/8c/b6/8cb62c9b54389af39ccd0e4bf72831c5.jpg",
+      "poster": null,
       "directors": [
         "Stany Cambot"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048256.html",
-      "color": "#367674"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000015811",
@@ -1794,12 +1794,12 @@
       ],
       "duration": "1h45min",
       "synopsis": "Lorsque Mona Friedman décroche un petit rôle dans un théâtre de quartier, cette femme au foyer discrète et effacée découvre un espace où, pour la première fois, elle peut exister pleinement. Elle se prend au jeu avec une intensité inattendue, jusqu’à transformer ce petit rôle…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/98/2d/982d2aa6f17e3abd04fbb30b54c8e694.jpg",
+      "poster": null,
       "directors": [
         "Jesse Eisenberg"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015811.html",
-      "color": "#7b4029"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000047933",
@@ -1810,12 +1810,12 @@
       ],
       "duration": "1h20min",
       "synopsis": "Au cœur de la forêt tropicale de Bornéo, Popi, une bébé orang-outan, est recueillie dans un centre de réhabilitation où elle est élevée par des soigneurs. A mesure qu’elle grandit, ils lui apprennent à se détacher des humains pour retourner à l’état sauvage. Mais autour du…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/5a/e0/5ae079b5cce59f447c7e06c0ec8c1c9e.jpg",
+      "poster": null,
       "directors": [
         "Audrey Bauduin"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047933.html",
-      "color": "#86874e"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000052052",
@@ -1827,12 +1827,12 @@
       ],
       "duration": "1h30min",
       "synopsis": "Prisonnier de ses pulsions, un tueur silencieux et méticuleux s'enfonce dans une solitude profonde. Chaque geste est un combat intime pour maîtriser l'incontrôlable. Il arpente un chemin insidieux où chaque victime devient une obsession.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/90/ae/90ae7388b8dd431db84ef04b9eca0c3c.jpg",
+      "poster": null,
       "directors": [
         "Edouard Pradel De Lamaze"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052052.html",
-      "color": "#bd7e5f"
+      "color": "#B967FF"
     },
     {
       "id": "1000029139",
@@ -1843,12 +1843,12 @@
       ],
       "duration": "1h53min",
       "synopsis": "Nora, 40 ans fait un retour fracassant dans sa vie ! Sa carrière décolle, son mari, Tom, est plus amoureux que jamais, mais Max est beaucoup trop séduisant … Cette renaissance la détourne d’un combat qu’elle pensait gagné.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/e4/c3/e4c3289a38fd5f704d83e2c986e7b619.jpg",
+      "poster": null,
       "directors": [
         "Aina Clotet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029139.html",
-      "color": "#ed1203"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000034048",
@@ -1859,12 +1859,12 @@
       ],
       "duration": null,
       "synopsis": "Automne 2011. Un matin, une femme arrive en lisière d’une ville de la Drôme. Un centre commercial, un garage, une cafétéria où elle se fait engager comme serveuse. Alice a passé vingt ans au Québec, c’est ce qu’elle dit. Dans un garage voisin, elle se lie avec un jeune mécano…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Nicole Garcia"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.html",
-      "color": "#e0e0e0"
+      "color": "#E8458B"
     },
     {
       "id": "1000055255",
@@ -1875,12 +1875,12 @@
       ],
       "duration": null,
       "synopsis": "",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/3b/f1/3bf10dd4aea45ae28c7cece2c4ea3cf7.jpg",
+      "poster": null,
       "directors": [
         "Fabien Moine"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.html",
-      "color": "#ad9756"
+      "color": "#00C2FF"
     },
     {
       "id": "316461",
@@ -1891,12 +1891,12 @@
       ],
       "duration": "1h41min",
       "synopsis": "Jer­ry, père céli­ba­taire en rup­ture avec la socié­té, endoc­trine son fils Joe dans le mou­ve­ment des Citoyens Sou­ve­rains, com­po­sé d’ac­ti­vistes anti-gou­ver­ne­men­taux. À mesure que cette idéo­lo­gie les consume, père et fils se dirigent inexo­ra­ble­ment vers une…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ff/68/ff68b855b127482e7110334d47f9d52b.jpg",
+      "poster": null,
       "directors": [
         "Christian Swegal"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316461.html",
-      "color": "#ff2c19"
+      "color": "#FFD60A"
     },
     {
       "id": "1000031477",
@@ -1908,12 +1908,12 @@
       ],
       "duration": "3h23min",
       "synopsis": "Dans un monde nouveau où la mémoire a été effacée et la conformité imposée, Simon décide de prendre sous sa responsabilité David, un enfant curieux et insoumis. Convaincu qu’il doit retrouver sa mère, Simon part à sa recherche et rencontre Inés, en qui il voit la mère idéale.…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/57/c4/57c4d784239e4a623e8f8eb74c2ae8de.jpg",
+      "poster": null,
       "directors": [
         "Tiago Guedes"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031477.html",
-      "color": "#c15219"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000039330",
@@ -1924,13 +1924,13 @@
       ],
       "duration": null,
       "synopsis": "Moussa est un arnaqueur professionnel, avec sa complice et petite amie de toujours, Tania. Leur méthode : la séduction. Pour leur prochain coup, ils doivent infiltrer le milieu de l’art pour dérober un précieux masque Dogon. Pour y parvenir, Moussa se rapproche d’Awa, une…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/08/b2/08b24e7e13ff05b2369df4a7e6c39f43.jpg",
+      "poster": null,
       "directors": [
         "Carine May",
         "Hakim Zouhani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039330.html",
-      "color": "#356575"
+      "color": "#7C4DFF"
     },
     {
       "id": "311446",
@@ -1941,28 +1941,28 @@
       ],
       "duration": null,
       "synopsis": "Au soir de la présidence d'Emmanuel Macron, CEUX QUI TIENNENT LA LAISSE dresse le bilan de la \" Start-up Nation \". À travers l'ascension de Xavier Niel, Patrick Drahi et d'une nouvelle génération de milliardaires, il enquête sur les liens entre argent, politique et médias, et…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/4a/7e/4a7e8a99924250896da063e5c7aa5ee3.jpg",
+      "poster": null,
       "directors": [
         "Gilles Balbastre"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=311446.html",
-      "color": "#fbab16"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000044052",
       "title": "Deux Vies, Trois Morts",
       "releaseDate": "2027-01-20",
       "genres": [
-        "Drame"
+        "Comédie"
       ],
       "duration": "1h43min",
       "synopsis": "Trois mineurs survivent à l’effondrement d’une mine mais choisissent de se faire passer pour morts afin que leurs familles touchent une indemnisation. Contraints à une clandestinité absurde, entre tensions familiales et quête d’identité, ils traversent l’Iran jusqu’à Téhéran.…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/fe/cd/fecd6198a5a2e5ce7d60ccb610070fe4.jpg",
+      "poster": null,
       "directors": [
         "Karim Lakzadeh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html",
-      "color": "#ab7c3c"
+      "color": "#FFD60A"
     },
     {
       "id": "1000031060",
@@ -1974,12 +1974,12 @@
       ],
       "duration": "1h40min",
       "synopsis": "Août 1942. En pleine occupation, le gouvernement de Vichy organise une rafle massive de Juifs étrangers. Gilbert Lesage, jeune fonctionnaire au Service Social des Étrangers, est chargé d’organiser une commission de criblage pour statuer sur le sort des Juifs arrêtés, tandis…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/07/af/07af01917079707e5c569312e816fb00.jpg",
+      "poster": null,
       "directors": [
         "Daniel Auteuil"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031060.html",
-      "color": "#3f7b4e"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000029952",
@@ -1990,12 +1990,12 @@
       ],
       "duration": "2h19min",
       "synopsis": "Le tournage du remake d'une scène culte d'une série iranienne prend une tournure angoissante lorsqu'il apparaît que l'arme prévue n'est pas factice et chargée. Une mystérieuse jeune femme réclame une audition, tandis que Sara, rescapée d'un accident de voiture, découvre que…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1f/2e/1f2e52da0a0cb5d2be4c6a1262eec878.jpg",
+      "poster": null,
       "directors": [
         "Shahram Mokri"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029952.html",
-      "color": "#b16a2f"
+      "color": "#2EE59D"
     },
     {
       "id": "1000023483",
@@ -2006,12 +2006,12 @@
       ],
       "duration": "1h34min",
       "synopsis": "Gianina, jeune roumaine, travaille comme employée de maison dans une famille bourgeoise bordelaise. Elle répète le soir avec une troupe de théâtre amateur le rôle d’une soubrette dans une adaptation du Journal d’une femme de chambre d’Octave Mirbeau. Au quotidien, elle…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/ce/c7/cec747386a30cfa8cd8396bfee2a4020.jpg",
+      "poster": null,
       "directors": [
         "Radu Jude"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023483.html",
-      "color": "#ffa600"
+      "color": "#2EE59D"
     },
     {
       "id": "1000047524",
@@ -2038,12 +2038,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "Bastia, années 80 : Pascal et Joséphine se marient. La fête révèle les secrets et les rancœurs des invités. Le père de la mariée, gangster disparu, serait de retour.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Gérard Guerrieri"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054485.html",
-      "color": "#e0e0e0"
+      "color": "#B967FF"
     },
     {
       "id": "1000000503",
@@ -2055,12 +2055,12 @@
       ],
       "duration": "1h42min",
       "synopsis": "San Francisco, fin des années 90. Sarah, jeune illustratrice, voit enfin ses premiers dessins publiés. Elle tombe amoureuse de Donimo et goûte à la liberté que sa petite ville natale ne lui a jamais offerte. Elle n’oublie pas ses parents, sa sœur et ses tantes, restés à…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/22/78/22789ac23bf9562622633a84335bb860.jpg",
+      "poster": null,
       "directors": [
         "Leah Nelson"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000503.html",
-      "color": "#ecd68d"
+      "color": "#B967FF"
     },
     {
       "id": "1000032798",
@@ -2071,12 +2071,12 @@
       ],
       "duration": "1h44min",
       "synopsis": "Japon, 1944. 10 000 soldats japonais débarquent sur l'île de Peleliu. Tamaru, un aspirant mangaka de 21 ans est enrôlé malgré lui dans le conflit, tout comme Yoshiki avec qui il va se lier d'amitié. Ensemble, ils s'accrochent à la vie au coeur de cette guerre d'usure. Isolés…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/47/bf/47bf36e60737dab0acd99992d6097b0c.jpeg",
+      "poster": null,
       "directors": [
         "Goro Kuji"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html",
-      "color": "#4291ba"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000034882",
@@ -2103,12 +2103,12 @@
       ],
       "duration": "1h34min",
       "synopsis": "Dans une villa d’été, un couple marié depuis vingt ans invite une jeune femme énigmatique. Entre désir, jalousie et non-dits, un jeu dangereux s’installe où chacun joue son rôle. Leurs enfants, à distance, surveillent et s’inquiètent : qui joue avec qui ? Leur mère est-elle…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/4e/44/4e4423f087a49d60e1b49ba17a8106e1.jpg",
+      "poster": null,
       "directors": [
         "Karine Silla"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044335.html",
-      "color": "#96531c"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000027308",
@@ -2119,12 +2119,12 @@
       ],
       "duration": "1h33min",
       "synopsis": "En Ukraine occupée, les Russes interdisent d’enterrer les civils ukrainiens exécutés. Andryï, prêtre de 35 ans, voit son église transformée en morgue. Contraint d'y stocker les corps avant leur disparition en fosses communes, il résiste en secret : il identifie les morts et…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/22/a7/22a7f1cf5ab8b2522cbb3dd693641077.jpg",
+      "poster": null,
       "directors": [
         "Rostislav Kirpičenko"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027308.html",
-      "color": "#787f8a"
+      "color": "#00C2FF"
     },
     {
       "id": "1000048032",
@@ -2135,12 +2135,12 @@
       ],
       "duration": "1h16min",
       "synopsis": "Le monde de Bianca s'écroule lorsque la maîtresse enceinte de son fiancé fait irruption à son mariage. Humiliée, elle fuit les lieux à bord d'un petit train, dans une station balnéaire hors saison.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/36/62/3662355f60f86753cf6241faab1e3ec7.jpg",
+      "poster": null,
       "directors": [
         "Tudor Giurgiu"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048032.html",
-      "color": "#3c6283"
+      "color": "#7C4DFF"
     },
     {
       "id": "310517",
@@ -2151,12 +2151,12 @@
       ],
       "duration": "1h29min",
       "synopsis": "Pris dans les feux croisés du divorce de leurs parents, Nina et Eli se réfugient chacun dans leur propre monde, déchirés entre loyauté, colère et désir d’être vus.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/18/6e/186efc6f52d3e0db2a873312cb22ceec.jpg",
+      "poster": null,
       "directors": [
         "Mees Peijnenburg"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310517.html",
-      "color": "#c5045f"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000025577",
@@ -2184,12 +2184,12 @@
       ],
       "duration": "1h26min",
       "synopsis": "Roma, Cinecittà, 1964. Fellini, Antonioni et Visconti tournent leurs chefs-d’œuvre. Tanio Boccia, lui, fait des miracles. Il se lance dans un pari insensé dans les mythiques studios de Cinecittà : tourner quatre films en même temps.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/36/5e/365ec153c0954516faf7c65cbac6870e.jpg",
+      "poster": null,
       "directors": [
         "Karen Di Porto"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046527.html",
-      "color": "#be5854"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000023874",
@@ -2201,12 +2201,12 @@
       ],
       "duration": "2h06min",
       "synopsis": "Un architecte de renom se voit proposer de concevoir, dans le plus grand secret, un bunker de survie pour un milliardaire convaincu que la fin du monde est proche. Tandis qu’il se laisse séduire par ce projet moralement ambigu, son épouse commence à remettre en question leur…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/22/2a/222a244d6c4fc6e271d2447b97f354f5.jpg",
+      "poster": null,
       "directors": [
         "Florian Zeller"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023874.html",
-      "color": "#900006"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000050293",
@@ -2217,12 +2217,12 @@
       ],
       "duration": "35min",
       "synopsis": "Ce programme réunit cinq des récits les plus célèbres d’Eric Carle, qui mettent en lumière les merveilles du monde qui s’offrent aux enfants. La musique douce et colorée de Julian Nott sublime une animation d’une grande beauté.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/08/3e/083e99f96fc28b774d62c9b1efc157d7.jpg",
+      "poster": null,
       "directors": [
         "Andrew Goff"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050293.html",
-      "color": "#009b6e"
+      "color": "#2EE59D"
     },
     {
       "id": "324542",
@@ -2233,12 +2233,12 @@
       ],
       "duration": "2h05min",
       "synopsis": "Une jeune Chinoise grandit de ses 6 ans à ses 18 ans entre trois familles, qui lui donnent chacune un nouveau nom et une nouvelle vie. En quête d'appartenance et d'amour, elle doit affronter le poids de son passé et l'incertitude de son avenir, jusqu'à ce qu'elle trouve sa…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/0b/d1/0bd17e079f909acd9f5c49ac1e22755a.jpg",
+      "poster": null,
       "directors": [
         "Zou Jing"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324542.html",
-      "color": "#892210"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000052470",
@@ -2249,12 +2249,12 @@
       ],
       "duration": "1h05min",
       "synopsis": "C’est l’histoire d’un gamin qui grandit à la fin du XXème siècle avec la certitude qu’un jour il reprendra le flambeau de la lutte armée. Il fera la révolution pour que se dessine un monde meilleur. Mais les choses ne se passent pas comme prévues... Aujourd’hui il regarde…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/6a/fc/6afc72a2075188b13cac79e39da083ba.jpg",
+      "poster": null,
       "directors": [
         "Nicolas Réglat"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052470.html",
-      "color": "#4c5b59"
+      "color": "#FF6B35"
     },
     {
       "id": "1000039229",
@@ -2267,12 +2267,12 @@
       ],
       "duration": "2h27min",
       "synopsis": "Dans le Japon féodal, Murashige trahit son seigneur et se retranche dans son château assiégé, où il fait prisonnier Kanbei, l’émissaire de son ancien maître. Mais bientôt, la menace n’est plus seulement extérieure : des crimes mystérieux se succèdent dans la forteresse.…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/41/cf/41cf7861593b6db329d061fbed8e0577.jpg",
+      "poster": null,
       "directors": [
         "Kiyoshi Kurosawa"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039229.html",
-      "color": "#b23637"
+      "color": "#B967FF"
     },
     {
       "id": "255111",
@@ -2285,12 +2285,12 @@
       ],
       "duration": null,
       "synopsis": "Le Royaume d’Orïsha nous plonge dans le monde épique et fantastique d'Orïsha, une jeune femme qui se lance dans une quête pour rendre à son peuple la magie qui lui a été violemment arrachée. Avec son frère, elle s'allie à la fille et au fils du roi afin de lutter contre son…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/f8/3a/f83a5fface66ac4d0105767c9dd9cb7d.jpg",
+      "poster": null,
       "directors": [
         "Gina Prince-Bythewood"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=255111.html",
-      "color": "#98162b"
+      "color": "#E8458B"
     },
     {
       "id": "1000034545",
@@ -2301,12 +2301,12 @@
       ],
       "duration": null,
       "synopsis": "Guy Farkas, alias Le Teckel, est une légende vivante des ventes pharmaceutiques : lunettes Aviator, gabardine impeccable, il fait toujours mouche. Quand un scandale éclabousse le prestigieux laboratoire Sopharma, la direction envoie Marylou, jeune cadre ambitieuse, pour…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Mathieu Sapin"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034545.html",
-      "color": "#e0e0e0"
+      "color": "#E8458B"
     },
     {
       "id": "1000023486",
@@ -2318,12 +2318,12 @@
       ],
       "duration": "1h13min",
       "synopsis": "Isak Borg est premier secrétaire de l'ambassade de Suède à Pyongyang, ce qui lui vaut d'être constamment surveillé. Borg sort secrêtement avec Bok-joo, une agent de la circulation local. Sachant que leur temps est compté, ils chérissent leurs rencontres secrètes. Un jour,…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/e9/ab/e9abdd5c3d5394611fc586268aebaca1.jpg",
+      "poster": null,
       "directors": [
         "Bo-Sol Kim"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023486.html",
-      "color": "#ba815d"
+      "color": "#00C2FF"
     },
     {
       "id": "1000025683",
@@ -2352,12 +2352,12 @@
       ],
       "duration": null,
       "synopsis": "Retour sur l'origine de la marque de voitures italiennes de luxe, Maserati, fondée en 1914 à Bologne par trois frères : Alfieri, Ettore et Ernesto.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/3d/95/3d9558549923962f296e1d9d20f0625a.jpg",
+      "poster": null,
       "directors": [
         "Bobby Moresco"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314259.html",
-      "color": "#a10000"
+      "color": "#00C2FF"
     },
     {
       "id": "1000007344",
@@ -2368,12 +2368,12 @@
       ],
       "duration": null,
       "synopsis": "Nos Réparations est une plongée au cœur d’une démarche unique au monde, celle de la Commission Reconnaissance et Réparation (CRR), créée en 2021 pour accompagner les victimes d’agressions sexuelles commises au sein de l’Église de France.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Jacques Maillot"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007344.html",
-      "color": "#e0e0e0"
+      "color": "#FF3B5C"
     },
     {
       "id": "320833",
@@ -2384,12 +2384,12 @@
       ],
       "duration": null,
       "synopsis": "En 1480 et des poussières, alors que la princesse Blanche se prépare à épouser le beau prince du royaume voisin, son père décide de la marier à Melchior, son vulgaire chef des armées. C’est alors que sa marraine lui révèle être en possession d’une mystérieuse \"peau\" qui va…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Léa Domenach"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=320833.html",
-      "color": "#e0e0e0"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000052525",
@@ -2399,13 +2399,13 @@
         "Documentaire"
       ],
       "duration": "1h27min",
-      "synopsis": "Sānsūr, mot persan pour « censure », suit six femmes iraniennes qui ont refusé de plier devant l'État. Une artiste, une enseignante, une journaliste, une sportive, une musicienne, une actrice. Six trajectoires de résistance. À travers leurs histoires, ce documentaire…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/be/4d/be4dc0dadf53d3876fcfe0d0ecb74346.jpg",
+      "synopsis": "Sānsūr, mot persan pour « censure », suit six femmes iraniennes qui ont refusé de se plier à la censure, écrite ou implicite, et en ont payé le prix du licenciement à l’exil. Une artiste, une enseignante, une journaliste, une sportive, une musicienne, une actrice. Six…",
+      "poster": null,
       "directors": [
         "Mostafa Heravi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html",
-      "color": "#f28200"
+      "color": "#B967FF"
     },
     {
       "id": "1000016340",
@@ -2418,10 +2418,10 @@
       ],
       "duration": "2h10min",
       "synopsis": "On raconte que deux sorcières vivaient dans un manoir sur la colline…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016340.html",
-      "color": "#e0e0e0"
+      "color": "#FF3B5C"
     },
     {
       "id": "300592",
@@ -2437,7 +2437,7 @@
         "Maxime Roy"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300592.html",
-      "color": "#FF8A5B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000043346",
@@ -2453,7 +2453,7 @@
         "Marie Clémentine Dusabejambo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043346.html",
-      "color": "#E8458B"
+      "color": "#B967FF"
     },
     {
       "id": "1000041526",
@@ -2471,7 +2471,7 @@
         "Jean-Paul Guigue"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041526.html",
-      "color": "#B967FF"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000014959",
@@ -2506,7 +2506,7 @@
         "Julie Bertuccelli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043425.html",
-      "color": "#FF8A5B"
+      "color": "#B967FF"
     },
     {
       "id": "1000024790",
@@ -2522,7 +2522,7 @@
         "Hubert Caron-Guay"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024790.html",
-      "color": "#B967FF"
+      "color": "#FF6B35"
     },
     {
       "id": "21247",
@@ -2538,7 +2538,7 @@
         "Konrad Wolf"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=21247.html",
-      "color": "#7C4DFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000045317",
@@ -2554,7 +2554,7 @@
         "Barrie Kosky"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045317.html",
-      "color": "#FF6B35"
+      "color": "#00C2FF"
     },
     {
       "id": "327299",
@@ -2572,7 +2572,7 @@
         "Rainer Frimmel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327299.html",
-      "color": "#FFD60A"
+      "color": "#E8458B"
     },
     {
       "id": "51579",
@@ -2588,7 +2588,7 @@
         "Konrad Wolf"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=51579.html",
-      "color": "#FF3B5C"
+      "color": "#FFD60A"
     },
     {
       "id": "1000040093",
@@ -2604,7 +2604,7 @@
         "Fabianny Deschamps"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040093.html",
-      "color": "#FF6B35"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000044865",
@@ -2620,7 +2620,7 @@
         "Linda Hambäck"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044865.html",
-      "color": "#FFD60A"
+      "color": "#5B8CFF"
     },
     {
       "id": "280074",
@@ -2637,7 +2637,7 @@
         "Julien Chheng"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=280074.html",
-      "color": "#E8458B"
+      "color": "#5B8CFF"
     },
     {
       "id": "318151",
@@ -2654,7 +2654,7 @@
         "Shahrbanoo Sadat"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318151.html",
-      "color": "#FF6B35"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000011453",
@@ -2672,7 +2672,7 @@
         "M. Night Shyamalan"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000011453.html",
-      "color": "#FF8A5B"
+      "color": "#FF3B5C"
     },
     {
       "id": "40672",
@@ -2690,7 +2690,7 @@
         "Wolfgang Kohlhaase"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=40672.html",
-      "color": "#7C4DFF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000023611",
@@ -2699,7 +2699,7 @@
       "genres": [
         "Comédie"
       ],
-      "duration": null,
+      "duration": "1h32min",
       "synopsis": "Adam est somnambule : dès qu’il s’endort, il change totalement de personnalité… et fait des folies. Un matin, en se réveillant, il voit Estelle, la fille de son patron, ligotée dans sa salle de bain. Il n’ a aucun souvenir de ce qui s’est passé. Poursuivi par la police, il…",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/img/7c/c9/7cc9a095fd74998265f8fa82c191593d.jpg",
       "directors": [
@@ -2724,6 +2724,23 @@
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032383.html",
       "color": "#00C2FF"
+    },
+    {
+      "id": "1000055979",
+      "title": "Un taxi pour l'Espagne",
+      "releaseDate": "2027-02-03",
+      "genres": [
+        "Divers"
+      ],
+      "duration": "1h35min",
+      "synopsis": "Jeanne et Mia, deux demi-sœurs que la vie a séparées, vont passer une dernière soirée avec leur mère, Alexandra, dépressive, qui a décidé de se faire euthanasier le lendemain matin. S’il ne devait rester que quelques heures, que choisirait-on de se dire et de garder ? Les…",
+      "poster": null,
+      "directors": [
+        "Romain Broch",
+        "Pauline Cabrol-Mathieu"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055979.html",
+      "color": "#FF3B5C"
     },
     {
       "id": "1000037332",
@@ -2756,7 +2773,7 @@
         "Kathleen Good"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024585.html",
-      "color": "#2EE59D"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000039576",
@@ -2772,7 +2789,7 @@
         "Yûsuke Hirota"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039576.html",
-      "color": "#5B8CFF"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000022203",
@@ -2788,7 +2805,7 @@
         "Blerta Basholli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022203.html",
-      "color": "#FF6B35"
+      "color": "#E8458B"
     },
     {
       "id": "146592",
@@ -2825,7 +2842,7 @@
         "David Serero"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054206.html",
-      "color": "#FFD60A"
+      "color": "#7C4DFF"
     },
     {
       "id": "247961",
@@ -2859,7 +2876,7 @@
         "Rahma Benhamou-El Madani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html",
-      "color": "#7C4DFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000043430",
@@ -2876,7 +2893,7 @@
         "Rahma Benhamou-El Madani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.html",
-      "color": "#B967FF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000044691",
@@ -2892,7 +2909,7 @@
         "Pierre-François Martin-Laval"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044691.html",
-      "color": "#FF6B35"
+      "color": "#E8458B"
     },
     {
       "id": "1000013358",
@@ -2909,7 +2926,7 @@
         "Yann Berlier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013358.html",
-      "color": "#B967FF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000039624",
@@ -2926,7 +2943,7 @@
         "Gilles de Maistre"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039624.html",
-      "color": "#FF8A5B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000041813",
@@ -2945,7 +2962,7 @@
         "Clémentine Campos"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041813.html",
-      "color": "#E8458B"
+      "color": "#FF6B35"
     },
     {
       "id": "1000023777",
@@ -2980,7 +2997,7 @@
         "Potsy Ponciroli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019085.html",
-      "color": "#FF6B35"
+      "color": "#B967FF"
     },
     {
       "id": "1000016291",
@@ -2997,7 +3014,7 @@
         "Raphaël Balboni"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016291.html",
-      "color": "#5B8CFF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000041162",
@@ -3013,7 +3030,7 @@
         "Chloé Jouannet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041162.html",
-      "color": "#B967FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000020507",
@@ -3029,7 +3046,7 @@
         "Emmanuel Courcol"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020507.html",
-      "color": "#00C2FF"
+      "color": "#2EE59D"
     },
     {
       "id": "285136",
@@ -3045,7 +3062,7 @@
         "Wim Wenders"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.html",
-      "color": "#FF6B35"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000008280",
@@ -3061,7 +3078,7 @@
         "Nathaniel Wilson"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000008280.html",
-      "color": "#2EE59D"
+      "color": "#B967FF"
     },
     {
       "id": "1000047034",
@@ -3093,7 +3110,7 @@
         "Juliette Achard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055455.html",
-      "color": "#2EE59D"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000055207",
@@ -3109,7 +3126,7 @@
         "Sylvain Desclous"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055207.html",
-      "color": "#FF3B5C"
+      "color": "#2EE59D"
     },
     {
       "id": "1000004480",
@@ -3141,7 +3158,7 @@
         "Mohsen Gharaei"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049635.html",
-      "color": "#FF8A5B"
+      "color": "#00C2FF"
     },
     {
       "id": "1000025672",
@@ -3157,7 +3174,7 @@
         "Dani Sancho"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025672.html",
-      "color": "#B967FF"
+      "color": "#E8458B"
     },
     {
       "id": "1000026607",
@@ -3191,7 +3208,7 @@
         "Frédéric Quiring"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044851.html",
-      "color": "#FF6B35"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000027133",
@@ -3207,7 +3224,7 @@
         "Sho Miyake"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.html",
-      "color": "#FF6B35"
+      "color": "#00C2FF"
     },
     {
       "id": "1000014174",
@@ -3218,12 +3235,12 @@
       ],
       "duration": null,
       "synopsis": "Simona vit à Lyon avec son mari et leur fille. Un jour, elle reçoit un message qui l’oblige à se rendre d’urgence à Bristol, en Angleterre, où elle a grandi. Un passé qu’elle croyait enfoui et dont elle n’a jamais parlé à personne refait surface, mettant en péril l’équilibre…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/33/e5/33e5931b1673008f46d2e20518081604.jpg",
+      "poster": null,
       "directors": [
         "Mikhaël Hers"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014174.html",
-      "color": "#23647a"
+      "color": "#FFD60A"
     },
     {
       "id": "1000034898",
@@ -3234,12 +3251,12 @@
       ],
       "duration": null,
       "synopsis": "Séquestrée par une famille prétendant qu’elle est leur fille disparue, Rita se voit contrainte d’accepter ce rôle, tout en cherchant désespérément à s’échapper. C’est alors qu’elle ne tarde pas à découvrir le secret qui unit cette étrange famille…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/d6/5b/d65b481883a7981f3ec594c90cd3ecc8.jpg",
+      "poster": null,
       "directors": [
         "Gábor Holtai"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034898.html",
-      "color": "#7e430d"
+      "color": "#B967FF"
     },
     {
       "id": "1000010349",
@@ -3266,12 +3283,12 @@
       ],
       "duration": null,
       "synopsis": "Une jeune femme américano-coréenne participe à une émission télévisée visant à former le prochain groupe de filles de K-pop.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Benson Lee"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027922.html",
-      "color": "#e0e0e0"
+      "color": "#E8458B"
     },
     {
       "id": "1000031694",
@@ -3282,12 +3299,12 @@
       ],
       "duration": null,
       "synopsis": "À Copenhague, dans les jours qui suivent la libération de l’occupation nazie, Marie est sur le point de changer de rang en épousant son riche employeur. Mais son passé menace de la rattraper et elle doit tout mettre en œuvre pour préserver sa nouvelle vie…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/7d/46/7d46d1a4d0b49b63e37de4fe569c5220.jpg",
+      "poster": null,
       "directors": [
         "May el-Toukhy"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031694.html",
-      "color": "#a52717"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000009119",
@@ -3298,12 +3315,12 @@
       ],
       "duration": null,
       "synopsis": "Les difficultés financières s’accumulent pour la famille de Shaban, obligée de quitter la campagne kosovare pour la capitale, Pristina. Sur place, Shaban peine à trouver un emploi stable et doit composer avec l’aide écrasante de son entourage. Dans cette grande ville qui ne…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/39/27/39275c1c9a76d3aef94097e943bdfada.png",
+      "poster": null,
       "directors": [
         "Visar Morina"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009119.html",
-      "color": "#0e4c59"
+      "color": "#FFD60A"
     },
     {
       "id": "1000031017",
@@ -3331,12 +3348,12 @@
       ],
       "duration": null,
       "synopsis": "À la fin des années 80, le groupe Mano Negra surgit comme une déflagration. Emmené par Manu Chao, ce collectif de gamins furieux et visionnaires impose un son inédit. En seulement quatre albums et 5 ans d'existence, le groupe révolutionne le rock français et embrase les…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/71/25/7125bd480ddc2be5c68da92587475d68.jpg",
+      "poster": null,
       "directors": [
         "David Dufresne"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039766.html",
-      "color": "#be0f08"
+      "color": "#FF8A5B"
     },
     {
       "id": "318141",
@@ -3347,12 +3364,12 @@
       ],
       "duration": null,
       "synopsis": "Guido, âgé d'une vingtaine d'années, vit dans une petite ville du nord de l'Italie. Dans le milieu raciste et machiste où il a grandi, il s'est imposé par la violence. Mais quand il rencontre Sonia, une immigrée kosovare, quelque chose bascule. Guido se retrouve tiraillé…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Tommaso Usberti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318141.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "1000033019",
@@ -3364,12 +3381,12 @@
       ],
       "duration": null,
       "synopsis": "Le retour de l’esprit vengeur de La Llorona...",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Santiago Menghini"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033019.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "1000035548",
@@ -3577,12 +3594,12 @@
       ],
       "duration": null,
       "synopsis": "Louise, la mère alcoolique de Mike et Tommy, part après une dispute avec son mari Lester — marchant avec son chien jusqu’à la maison de son frère Frank, située à plusieurs kilomètres de là. Lorsqu’une tempête de neige éclate et paralyse toute la région, Lester et Mike…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Andrew Haigh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030693.html",
-      "color": "#e0e0e0"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000048894",
@@ -3593,12 +3610,12 @@
       ],
       "duration": null,
       "synopsis": "Le jour de son 21ème anniversaire, Aimée décide de mettre fin à ses jours. Submergée par le deuil de sa mère, le poids d’un avenir incertain et une solitude dévorante, elle rédige une dernière liste de choses à faire. Mais serait-ce lorsqu’elle décide d’en finir que sa vie…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Ornella Pacchioni"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048894.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "1000013602",
@@ -3609,12 +3626,12 @@
       ],
       "duration": null,
       "synopsis": "Un travailleur social se consacre à la réinsertion d’enfants qui ont abandonné l’école dans les rues de Naples grâce aux arts du cirque.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/99/a8/99a847660ef9dcf84f94bf2af07babbe.jpg",
+      "poster": null,
       "directors": [
         "Cécile Allegra"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013602.html",
-      "color": "#d85b00"
+      "color": "#2EE59D"
     },
     {
       "id": "1000020292",
@@ -3627,12 +3644,12 @@
       ],
       "duration": null,
       "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Alexandre Astier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020292.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "294813",
@@ -3659,12 +3676,12 @@
       ],
       "duration": null,
       "synopsis": "Alyzée, Marwan, Bloo, Ilyes et leurs camarades ont deux ans. Ils découvrent les mots, les autres, et l'immense aventure de vivre ensemble. Dans leur petite classe d’une école maternelle publique, Katia, leur enseignante, fait vivre la Communication Non Violente au quotidien.…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/f8/3a/f83aa81070f138d161386ced875480a1.jpg",
+      "poster": null,
       "directors": [
         "Laetitia Carton"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000008859.html",
-      "color": "#484844"
+      "color": "#FF3B5C"
     },
     {
       "id": "313959",
@@ -3675,12 +3692,12 @@
       ],
       "duration": null,
       "synopsis": "Et si la montée de l'extrême droite n'était pas une fatalité ?Olivier Besancenot décide de partir sur les pas de Miguel Enríquez, l’une des figures de la gauche révolutionnaire latino-américaine, mort à trente ans en combattant la dictature de Pinochet. À la recherche de ses…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Olivier Besancenot"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313959.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "1000048613",
@@ -3707,13 +3724,13 @@
         "Comédie"
       ],
       "duration": null,
-      "synopsis": "Roxie, 17 ans, porteuse de trisomie 21, est une jeune fille solaire. Elle voit son rêve s’effondrer lorsqu’elle est exclue de son équipe de majorettes à quelques mois des championnats de France.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "synopsis": "Dans la famille Desrochelle, il y a Roxie, 17 ans et porteuse de trisomie 21, qui ne vit que pour les majorettes. Et il y a tous les autres, qui ne vivent que pour elle.Quand elle est exclue de son équipe à quelques mois des championnats de France, ses proches n’ont qu’une…",
+      "poster": null,
       "directors": [
         "Jennifer Devoldere"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036768.html",
-      "color": "#e0e0e0"
+      "color": "#FFD60A"
     },
     {
       "id": "1000055151",
@@ -3724,12 +3741,12 @@
       ],
       "duration": null,
       "synopsis": "Soleil Noir est un photographe star des réseaux sociaux. Lors du tournage d’un documentaire sur lui, Soleil Noir se dévoile petit à petit à la caméra, laissant transparaître un personnage avec des zones d’ombres et de noirceur. Qui est vraiment Soleil Noir ? Que se cache-t-il…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/01/5a/015a656854801a139be092f95b129e6b.jpg",
+      "poster": null,
       "directors": [
         "Ana Dumitrescu"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055151.html",
-      "color": "#828398"
+      "color": "#FF6B35"
     },
     {
       "id": "1000037172",
@@ -3740,12 +3757,12 @@
       ],
       "duration": null,
       "synopsis": "Au milieu de la folie de la fin des années 1980 et de la montée de l’épidémie de sida, Boaz, 12 ans, découvre un secret dévastateur concernant le père qu’il idolâtre, un secret qui menace de déchirer sa famille.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Moshe Rosenthal"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037172.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "1000020045",
@@ -3756,12 +3773,12 @@
       ],
       "duration": null,
       "synopsis": "Lucila, une jeune femme de 21 ans, avec son frère Diego, se rendent en Espagne pour retrouver leur mère, Isabel, qui a émigré huit ans plus tôt à la recherche d'un avenir meilleur.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/e3/29/e329ef21958efa8b2d3f2dc32e2e6ab4.jpg",
+      "poster": null,
       "directors": [
         "Diego Luna"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020045.html",
-      "color": "#491d29"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000044054",
@@ -3772,13 +3789,13 @@
       ],
       "duration": null,
       "synopsis": "Cet été, Johanna reste à Genève. Elle partage son temps entre l’usine où elle assemble des montres de luxe, ses amis et la vieille Coccinelle qu’elle retape avec une idée en tête : participer à une course en Belgique. L’occasion de prendre sa revanche sur les machos de la…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/0f/4e/0f4eb82ce4e1b0da33eb0e62f1ed70d5.jpg",
+      "poster": null,
       "directors": [
         "Céline Carridroit",
         "Aline Suter"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044054.html",
-      "color": "#e26a13"
+      "color": "#FF8A5B"
     },
     {
       "id": "326225",
@@ -3789,12 +3806,12 @@
       ],
       "duration": null,
       "synopsis": "Décembre 1981. Arrivée à Varsovie pour donner une conférence, Joan Andrews, éminente professeure britannique, découvre une ville calme en apparence. Mais au petit matin, tout bascule : la loi martiale est décrétée. Téléphones coupés, frontières fermées, chars dans les rues...…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/3a/ba/3aba2c6d9609ba0b3dfda1490484acc4.jpg",
+      "poster": null,
       "directors": [
         "Kasia Adamik"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326225.html",
-      "color": "#3f7d8f"
+      "color": "#FF3B5C"
     },
     {
       "id": "313042",
@@ -3806,12 +3823,12 @@
       ],
       "duration": null,
       "synopsis": "Campus de l'Académie des Arts de Chine, 1994. Dans un contexte d'ouverture du pays au monde occidental, un groupe d'étudiants découvre peu à peu la vie d'adulte où amours et amitiés se confrontent aux grands idéaux et ambitions personnelles. Perdus entre tradition et…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/23/02/06/09/35/4045004.jpg",
+      "poster": null,
       "directors": [
         "Liu Jian"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313042.html",
-      "color": "#5fa425"
+      "color": "#FFD60A"
     },
     {
       "id": "1000052461",
@@ -3822,12 +3839,12 @@
       ],
       "duration": null,
       "synopsis": "Film-hommage à Mohammad Bakri. Acteur-réalisateur palestinien d'Israél. Portrait en 3 chapitres d'un homme marqué à jamais par la tragédie de son peuple.",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/a4/39/a4399e625f7820ce174dde67a8b0f20d.jpg",
+      "poster": null,
       "directors": [
         "Roland Nurier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052461.html",
-      "color": "#17354a"
+      "color": "#2EE59D"
     },
     {
       "id": "1000027465",
@@ -3838,12 +3855,12 @@
       ],
       "duration": null,
       "synopsis": "",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/7f/92/7f92c6323e84379ac2140ca1a4280627.JPG",
+      "poster": null,
       "directors": [
         "Thomas Vernay"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027465.html",
-      "color": "#8a7742"
+      "color": "#E8458B"
     },
     {
       "id": "1000047506",
@@ -3870,12 +3887,12 @@
       ],
       "duration": null,
       "synopsis": "À 31 ans, Azucena décide de rechercher le fils qu'elle a abandonné lorsqu'elle est tombée enceinte à 13 ans. Julio, son fils de 18 ans, en est à sa dernière année à l'orphelinat et tous deux semblent avoir le même âge.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/6e/57/6e576d9a443a3dbe7fd5f2d801f35ca2.jpeg",
+      "poster": null,
       "directors": [
         "Ana Cristina Barragán"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022451.html",
-      "color": "#6c5147"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000022204",
@@ -3887,12 +3904,12 @@
       ],
       "duration": null,
       "synopsis": "À l’approche de la quarantaine, Emma mène une vie discrète entre son travail, son fils adolescent et une activité bénévole d’écrivain public, où elle rédige des lettres d’amour pour les autres. Mère célibataire, elle s’en tient à une liaison sans avenir avec un homme marié.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Élise Girard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022204.html",
-      "color": "#e0e0e0"
+      "color": "#FFD60A"
     },
     {
       "id": "1000039177",
@@ -3903,12 +3920,12 @@
       ],
       "duration": null,
       "synopsis": "Depuis l’achat catastrophique d’une maison d’hôtes, Jean et Sarah n’ont plus un sou et beaucoup de raisons de divorcer. Lorsqu’ils apprennent que le légendaire trésor de la Buse d’Or serait caché dans les environs, ils se lancent dans une chasse au trésor aussi folle…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Vincent Mariette"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039177.html",
-      "color": "#e0e0e0"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000006479",
@@ -3919,12 +3936,12 @@
       ],
       "duration": null,
       "synopsis": "Au Yémen, Layal gère une station-service exclusivement réservée aux femmes, un havre de paix dans un pays déchiré par la guerre. Les règles y sont simples : pas d’hommes, pas d’armes, pas de politique. Quand son tout jeune frère est mobilisé, Layal doit renouer avec sa sœur.…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/e7/ad/e7ada3db7431233ba727c6207c4a71e5.jpg",
+      "poster": null,
       "directors": [
         "Sara Ishaq"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000006479.html",
-      "color": "#673a14"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000054824",
@@ -3935,12 +3952,12 @@
       ],
       "duration": null,
       "synopsis": "Dans la France rurale du XIX ème siècle, une jeune femme devient le centre d’un jeu de passions, de jalousies et de désirs inavoués.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/ec/12/ec126b6a48d3e680a50e7be38fa31112.jpg",
+      "poster": null,
       "directors": [
         "Bruno François-Boucher"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054824.html",
-      "color": "#b16b23"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000053446",
@@ -3952,28 +3969,28 @@
       ],
       "duration": null,
       "synopsis": "Rendu sourd par un accident, Vincent se rend compte qu'il peut entendre les pensées des gens. Il va alors utiliser cet étrange pouvoir pour enquêter sur la disparition d'une jeune femme.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Jérémy Laval"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053446.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "1000039221",
-      "title": "Pourquoi pas nous ?",
+      "title": "Pourquoi pas nous",
       "releaseDate": "2027-03-17",
       "genres": [
         "Comédie"
       ],
       "duration": null,
       "synopsis": "Quand l’usine de poisson où travaillent Dom et sa fille Mellie fait faillite, c’est toute la commune qui accuse le coup, et les ouvriers qui se retrouvent sans emploi. Dom ne peut accepter cet échec, lui qui a entièrement dédié sa vie à cette usine depuis tant d’années. Dom…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Mélanie Auffret"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039221.html",
-      "color": "#e0e0e0"
+      "color": "#B967FF"
     },
     {
       "id": "1000022207",
@@ -3984,12 +4001,12 @@
       ],
       "duration": null,
       "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Thomas Lilti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022207.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "1000019336",
@@ -4000,12 +4017,12 @@
       ],
       "duration": null,
       "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Mike Leigh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019336.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "1000023178",
@@ -4016,12 +4033,12 @@
       ],
       "duration": null,
       "synopsis": "La trajectoire incroyable d'une star de la musique country qui, après avoir perdu la gloire de manière vertigineuse, parvient à tirer des leçons de ce qui pouvait lui arriver de pire pour un come-back triomphal.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/40/c6/40c6aac0259ebc9f2d9f1fe55bff99d6.jpg",
+      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/90/a8/90a83ede8515b2671c494e653df95c85.jpg",
       "directors": [
         "Judd Apatow"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023178.html",
-      "color": "#ae6e51"
+      "color": "#00437b"
     },
     {
       "id": "1000039580",
@@ -4034,12 +4051,12 @@
       ],
       "duration": null,
       "synopsis": "Après avoir acheté par erreur deux chaussures droites, Filip, dix ans, se lance à travers la campagne à la recherche de la chaussure gauche manquante.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/f3/b3/f3b3331a6aa3d07bf1601ccee16553b1.jpg",
+      "poster": null,
       "directors": [
         "Paul Negoescu"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039580.html",
-      "color": "#ba6a20"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000054209",
@@ -4050,12 +4067,12 @@
       ],
       "duration": null,
       "synopsis": "À Paris, des élèves de l'Institut national des jeunes aveugles se servent d'appareils photo et de leur créativité pour exprimer leur regard singulier sur le monde. Entre cinéma d'observation et création collective, le projet interroge la notion de regard et la manière dont se…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Eric Baudelaire"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054209.html",
-      "color": "#e0e0e0"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000027163",
@@ -4066,12 +4083,12 @@
       ],
       "duration": null,
       "synopsis": "Nico, dix ans, petit Milanais accro à son téléphone et aux jeux vidéo, est envoyé passer un mois d’été en Sicile chez sa grand-tante Gela.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/cc/ea/ccea2ec0cb04f50ce322684ca30e6e06.jpg",
+      "poster": null,
       "directors": [
         "Margherita Spampinato"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027163.html",
-      "color": "#00889a"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000002997",
@@ -4083,12 +4100,12 @@
       ],
       "duration": null,
       "synopsis": "Un nouveau film du MonsterVerse.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/a6/47/a647bf57e26f56f0b8a46d9079278045.jpg",
+      "poster": null,
       "directors": [
         "Grant Sputore"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002997.html",
-      "color": "#e44b03"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000026623",
@@ -4099,12 +4116,12 @@
       ],
       "duration": null,
       "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Benjamin Busnel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026623.html",
-      "color": "#e0e0e0"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000029992",
@@ -4116,12 +4133,12 @@
       ],
       "duration": null,
       "synopsis": "Une maison située au bord d'un lac près de Berlin devient le témoin d'un siècle d'événements qui ont remodelé le monde qui l'entoure : la montée du nazisme et les ravages de la guerre, l'occupation soviétique, la réunification de l'Allemagne et l'aube d'une ère nouvelle.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/48/74/4874a72ddd1fc8ae319bdd593fdc9405.jpg",
+      "poster": null,
       "directors": [
         "Volker Schlöndorff"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029992.html",
-      "color": "#964724"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000016065",
@@ -4150,13 +4167,13 @@
       ],
       "duration": null,
       "synopsis": "New York, 1941. Alors que le FBI traque les espions venus d’Europe, Steven voit son père disparaître dans la foule de Grand Central, poursuivi par deux inconnus. Décidé à le retrouver, il fait équipe avec Miriam, une réfugiée autrichienne passionnée de romans policiers et…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/e6/93/e693b2f3188d668867c700b1b3d2caf2.jpg",
+      "poster": null,
       "directors": [
         "Rémy Schaepman",
         "Léahn Vivier-Chapas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=257274.html",
-      "color": "#4a7885"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000036259",
@@ -4167,12 +4184,12 @@
       ],
       "duration": null,
       "synopsis": "Années 80, New Jersey.Malmenée par un quotidien épuisant et un passé traumatique, Rita découvre enfin la sérénité en rencontrant la fascinante Ricky, à la tête d’une communauté de femmes. Guidée par leurs croyances sectaires, Rita se laisse doucement séduire. Mais lorsque ses…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Guy Nattiv"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "289083",
@@ -4184,12 +4201,12 @@
       ],
       "duration": null,
       "synopsis": "Au Japon, une adolescente en décalage avec le monde qui l'entoure s'entraîne pour devenir une sirène professionnelle. Après avoir frôlé la mort, elle est sauvée par son entraîneur, qui lui donne le baiser de la vie. Cet événement éveille son désir, lui fait découvrir sa voix…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1a/7d/1a7d219a4c6b3c8fae749cfcd444952f.jpg",
+      "poster": null,
       "directors": [
         "Konstantina Kotzamani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=289083.html",
-      "color": "#640c25"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000013719",
@@ -4200,12 +4217,12 @@
       ],
       "duration": null,
       "synopsis": "Août 2021, à Kaboul. Tous les Occidentaux quittent le pays après l'arrivée des Talibans. Michael Le Guen, Major du RAID, en charge de la sécurité de l'Ambassade de France, décide de rester pour sauver Marwa, la fille de 11 ans de ses amis Afghans qui viennent d'être tués par…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Radu Mihaileanu"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013719.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "1000017999",
@@ -4225,22 +4242,6 @@
       "color": "#0d4f81"
     },
     {
-      "id": "1000044889",
-      "title": "Alea Jacarandas",
-      "releaseDate": "2027-03-31",
-      "genres": [
-        "Documentaire"
-      ],
-      "duration": null,
-      "synopsis": "À Alger, un écrivain entreprend une cartographie poétique des jacarandas, arbres à la floraison mauve venus d'Amérique latine. Son fils cinéaste le suit dans cette déambulation intime où les récits du père dessinent un dictionnaire amoureux de la ville.",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/c4/4b/c44b9436ab54a7507fda3de0398fb680.jpg",
-      "directors": [
-        "Hassen Ferhani"
-      ],
-      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044889.html",
-      "color": "#9a7a8d"
-    },
-    {
       "id": "1000054039",
       "title": "Alexandre mon amour",
       "releaseDate": "2027-03-31",
@@ -4249,12 +4250,12 @@
       ],
       "duration": null,
       "synopsis": "Morgane, jeune caissière, est prise en otage par un islamiste. Pour la sauver, Alexandre, un gendarme, prend sa place. Morgane est libérée, mais Alexandre, lui est exécuté. Rongée par la culpabilité, elle croise un jour Viviane, la veuve du gendarme.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/d6/8d/d68d8b2c85b5501f665a441da1af8a68.jpg",
+      "poster": null,
       "directors": [
         "Cheyenne Carron"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054039.html",
-      "color": "#78788d"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000028340",
@@ -4266,13 +4267,13 @@
       ],
       "duration": null,
       "synopsis": "Au Japon, des morts inexpliquées frappent des personnes sans lien apparent. Chargée de l’enquête, l’inspectrice Domoto assemble peu à peu les pièces d’un puzzle qui semble mener à un tueur en série aux multiples visages. Mais comment traquer un homme dont l’identité ne cesse…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/db/7b/db7bbd7acc0fe9f6feb39dcb22c790eb.jpg",
+      "poster": null,
       "directors": [
         "Yutaro Seki",
         "Hirase Kentaro"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028340.html",
-      "color": "#082c5b"
+      "color": "#FF6B35"
     },
     {
       "id": "1000043418",
@@ -4283,12 +4284,12 @@
       ],
       "duration": null,
       "synopsis": "Pour éviter d’aller en prison, Mélanie, jeune femme impulsive et sans filtre, est forcée de suivre une formation d’aide-soignante. Problème, elle tourne de l’œil à la moindre piqûre et à la moindre goutte de sang. Après une énième maladresse, elle n’a d’autre choix que…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Frank Bellocq"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043418.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "325263",
@@ -4299,12 +4300,12 @@
       ],
       "duration": null,
       "synopsis": "Ouvrir une porte. Gérer une crise. Rédiger un compte-rendu d’incident. À l’École nationale d’administration pénitentiaire, des centaines de femmes et d’hommes apprennent le métier de surveillant. Au fil des cours, sur les visages, le doute se fait de plus en plus rare.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/0b/e9/0be915867d13f510c87a86e7a44b8c75.jpg",
+      "poster": null,
       "directors": [
         "Guillaume Massart"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325263.html",
-      "color": "#5d4c4b"
+      "color": "#FF6B35"
     },
     {
       "id": "1000027643",
@@ -4317,12 +4318,12 @@
       ],
       "duration": null,
       "synopsis": "Durant un orage, Anna se présente à l’improviste dans l’appartement étudiant de sa fille Alice et lui révèle que toute leur histoire familiale repose sur un mensonge qu’elle lui a raconté. Anna affirme avoir passé un pacte avec un mystérieux inconnu pour sauver la jambe…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Paolo Strippoli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027643.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "1000035793",
@@ -4335,12 +4336,12 @@
       ],
       "duration": null,
       "synopsis": "Une jeune chatte des forêts part à la recherche de sa mère kidnappée, accompagnée d'un chiot et d'un vieil ours de cirque.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/91/bb/91bbb8a290ccaa47db54a60b15265ab9.jpg",
+      "poster": null,
       "directors": [
         "Gabriel Osorio Vargas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035793.html",
-      "color": "#78290d"
+      "color": "#B967FF"
     },
     {
       "id": "1000033759",
@@ -4369,12 +4370,12 @@
       ],
       "duration": null,
       "synopsis": "Après avoir survécu à une attaque raciste, la procureure d’État Seyo Kim porte elle-même son affaire devant la justice – affrontant à la fois les auteurs et un système judiciaire qui ferme les yeux sur l’extrémisme de droite.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/28/aa/28aa6d18b3cde7fbd86fcba51224f3b4.jpg",
+      "poster": null,
       "directors": [
         "Faraz Shariat"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007308.html",
-      "color": "#965b2b"
+      "color": "#B967FF"
     },
     {
       "id": "1000050038",
@@ -4387,12 +4388,12 @@
       ],
       "duration": null,
       "synopsis": "Dans une université scientifique, une expérience quantique illégale libère une menace invisible et mortelle. Enfermé et traqué toute une nuit, un groupe d'étudiants découvre alors l'unique règle pour survivre : ne jamais se quitter des yeux, littéralement.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/2c/12/2c12b3084ba376a93835be9258e04b5c.jpg",
+      "poster": null,
       "directors": [
         "David Sarrio"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050038.html",
-      "color": "#2d798b"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000017329",
@@ -4422,12 +4423,12 @@
       ],
       "duration": null,
       "synopsis": "Une chirurgienne à la retraite est enlevée et forcée d'opérer un patient mystérieux. Bien qu'en infériorité numérique, ses ravisseurs ont négligé sa plus grande arme : 35 ans d'expérience chirurgicale.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Roshan Sethi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024299.html",
-      "color": "#e0e0e0"
+      "color": "#B967FF"
     },
     {
       "id": "1000034686",
@@ -4440,12 +4441,12 @@
       ],
       "duration": null,
       "synopsis": "Deux intrépides jeunes Vikings, Ingrid et Hedvig, défient la tradition pour ramener un garçon clandestin jusqu’en Chine.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Harald Zwart"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034686.html",
-      "color": "#e0e0e0"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000034556",
@@ -4457,12 +4458,12 @@
       ],
       "duration": null,
       "synopsis": "Tom est un menteur compulsif, condamné à trois ans ferme pour escroquerie. Afin de s’assurer la protection d’un gang de criminels en prison, il se fait passer pour un crocheteur de génie et leur promet ses services pour de futurs casses. Problème : il ne connaît rien aux…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/57/e3/57e3ac763cb055b0b05901e40fc3f16e.jpg",
+      "poster": null,
       "directors": [
         "Bastien Daret"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034556.html",
-      "color": "#bb0005"
+      "color": "#FFD60A"
     },
     {
       "id": "328094",
@@ -4489,12 +4490,12 @@
       ],
       "duration": null,
       "synopsis": "Une famille vient se ressourcer au bord de mer, loin de l’agitation de Séoul. La fille, Dora, souffre d’une mystérieuse maladie. Sa découverte de l’amour libère une énergie aussi puissante que dangereuse, qui n’est pas sans conséquence sur son entourage…",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/30/c5/30c5cdda49aef221e149950b7d7901f3.jpg",
+      "poster": null,
       "directors": [
         "July Jung"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026727.html",
-      "color": "#4d7834"
+      "color": "#E8458B"
     },
     {
       "id": "1000030646",
@@ -4505,12 +4506,12 @@
       ],
       "duration": null,
       "synopsis": "Charles Perrault, homme de lettres et chef d’orchestre du chantier de Versailles, se voit confier une mission royale : ramener une mystérieuse inconnue du monastère où elle vivait cachée sur la volonté du roi Louis XIV. Mais sa mission prend une autre tournure quand…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Clovis Cornillac"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030646.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "1000033612",
@@ -4522,12 +4523,12 @@
       ],
       "duration": null,
       "synopsis": "1952. Dans le train qui l’emmène à Oslo, Felix Kersten, accorde un entretien à une journaliste. Il lui raconte comment, lorsqu’il était le masseur du chef des SS Heinrich Himmler, il a sauvé des milliers de citoyens des camps nazis, mais elle le confronte à ses…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/ff/5c/ff5c86615978635a7c1394d21e79e944.jpg",
+      "poster": null,
       "directors": [
         "Felix Randau"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033612.html",
-      "color": "#9a0e14"
+      "color": "#B967FF"
     },
     {
       "id": "1000054996",
@@ -4538,13 +4539,13 @@
       ],
       "duration": null,
       "synopsis": "Le Caire, 2009. Salem retrouve sa famille dans le quartier copte des chiffonniers, où son beau-frère lui confie un élevage de porcs, essentiel au système de recyclage des déchets. Alors qu’il trouve sa place dans la communauté, des cas de grippe porcine à l’autre bout du…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Rani Massalha",
         "Salem Massalha"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054996.html",
-      "color": "#e0e0e0"
+      "color": "#00C2FF"
     },
     {
       "id": "1000031289",
@@ -4555,12 +4556,12 @@
       ],
       "duration": null,
       "synopsis": "Catherine Corless mène des recherches sur le foyer pour mères et enfants Bon Secours à Tuam, dans le comté de Galway. Elle met au jour que jusqu’à 796 enfants auraient été enterrés dans des tombes anonymes sur le site.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Frank Berry (II)"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031289.html",
-      "color": "#e0e0e0"
+      "color": "#FFD60A"
     },
     {
       "id": "326985",
@@ -4572,12 +4573,12 @@
       ],
       "duration": null,
       "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Sam Esmail"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326985.html",
-      "color": "#e0e0e0"
+      "color": "#FF8A5B"
     },
     {
       "id": "318243",
@@ -4588,12 +4589,12 @@
       ],
       "duration": null,
       "synopsis": "Bruxelles. Eya, 12 ans, fan de rap et de danse, vit une relation fusionnelle avec son grand-frère, Younès. Elle passe son quotidien avec lui et sa bande d’amis qu’elle admire, bien qu’ils aient tous une dizaine d’années de plus qu’elle. Un jour, dans un contexte flou, Younès…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/ec/61/ec6187ddbd19532810931d038fe08b04.jpg",
+      "poster": null,
       "directors": [
         "Maja Ajmia Zellama"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318243.html",
-      "color": "#d48a11"
+      "color": "#2EE59D"
     },
     {
       "id": "1000039956",
@@ -4605,12 +4606,12 @@
       ],
       "duration": null,
       "synopsis": "La vie de Camilo, maître-nageur cubain, prend un tournant inattendu lorsqu’il sauve de la noyade Abel, un homme d’affaires mexicain.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/01/b1/01b1d6273b0ff5f65954a26ff98aabe3.jpg",
+      "poster": null,
       "directors": [
         "Gael García Bernal"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039956.html",
-      "color": "#723418"
+      "color": "#B967FF"
     },
     {
       "id": "1000046438",
@@ -4638,12 +4639,12 @@
       ],
       "duration": null,
       "synopsis": "Lorsque l'ami de Yakari, Buffalo Seed, menace de tomber dans le monde des rêves, Rainbow révèle ses connaissances médicinales pour le maintenir conscient tandis que Yakari part avec le fougueux mustang Little Thunder à la recherche du seul être capable de le réveiller : son…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Xavier Giacometti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047793.html",
-      "color": "#e0e0e0"
+      "color": "#2EE59D"
     },
     {
       "id": "1000048882",
@@ -4654,12 +4655,12 @@
       ],
       "duration": null,
       "synopsis": "",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Tyler Falbo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048882.html",
-      "color": "#e0e0e0"
+      "color": "#2EE59D"
     },
     {
       "id": "316140",
@@ -4671,12 +4672,12 @@
       ],
       "duration": null,
       "synopsis": "Ray Cooper, un alpiniste chevronné exploite un chalet de luxe dans les Dolomites avec sa fille Sydney. Lors d'un week-end avec le fils d'un milliardaire, ils sont pris pour cible par une bande de ravisseurs.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Jaume Collet-Serra"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316140.html",
-      "color": "#e0e0e0"
+      "color": "#E8458B"
     },
     {
       "id": "1000013357",
@@ -4687,12 +4688,12 @@
       ],
       "duration": null,
       "synopsis": "Une nuit d’été, Mathieu disparait en haute montagne. Viviane, sa mère, arrive sur place pour participer aux recherches, en vain. L’enquête piétine et les rumeurs commencent à circuler dans la vallée. Viviane tente alors de se rapprocher de Félix, un paysan solitaire qui a…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/f9/bd/f9bd423ba5a724aa7739842fde6a3f16.jpg",
+      "poster": null,
       "directors": [
         "Pierre Menahem"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013357.html",
-      "color": "#424541"
+      "color": "#00C2FF"
     },
     {
       "id": "32243",
@@ -4703,13 +4704,13 @@
       ],
       "duration": null,
       "synopsis": "Dans une nature hostile où les loups attaquent l'homme, Horus retire l'épée du soleil d'un démon de pierre. Avant de mourir, son père lui confie une mission : sauver son peuple d'une créature qui terrorise le pays.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/medias/nmedia/18/35/17/78/18369815.jpg",
+      "poster": null,
       "directors": [
         "Isao Takahata",
         "Hayao Miyazaki"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=32243.html",
-      "color": "#0081c7"
+      "color": "#00C2FF"
     },
     {
       "id": "1000020504",
@@ -4720,13 +4721,13 @@
       ],
       "duration": null,
       "synopsis": "Le récit fantasmé et rocambolesque de la vie du Caravage, génie impétueux, voyou et meurtrier en cavale, masque la véritable histoire du peintre lombard. Le romanesque a effacé la vie de cet artiste inventeur, expérimentateur, découvreur avant l’heure de la photographie et…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/31/b9/31b9297c9828ae793c714b1cf0be6e1f.jpg",
+      "poster": null,
       "directors": [
         "Ludmilla Intravaia",
         "Lionel Samain"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020504.html",
-      "color": "#dd8b08"
+      "color": "#7C4DFF"
     },
     {
       "id": "53230",
@@ -4737,12 +4738,12 @@
       ],
       "duration": null,
       "synopsis": "Dans la Chine ancienne, un enfant achète au marché un petit serpent blanc, mais doit le relâcher. Quelques années plus tard, le reptile réapparaît sous la forme d'une princesse et se met à la recherche de son ancien protecteur...",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/35/22/43/18375149.jpg",
+      "poster": null,
       "directors": [
         "Taiji Yabushita"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=53230.html",
-      "color": "#0093ce"
+      "color": "#E8458B"
     },
     {
       "id": "305524",
@@ -4770,13 +4771,13 @@
       ],
       "duration": null,
       "synopsis": "Un groupe de modérateurs de médias sociaux refuse de publier une vidéo affreuse, une créature démoniaque commence à les suivre sur tous les écrans de leur vie.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Ryan Polly",
         "Matt Black"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014772.html",
-      "color": "#e0e0e0"
+      "color": "#2EE59D"
     },
     {
       "id": "315382",
@@ -4807,12 +4808,12 @@
       ],
       "duration": null,
       "synopsis": "Ella, une ancienne alcoolique, est contrainte de retourner vivre chez son père Alan, tandis que ses filles sont confiées à son ex-mari Joseph et à sa nouvelle compagne Bethan.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Stephen Moyer"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=308363.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "326685",
@@ -4825,12 +4826,12 @@
       ],
       "duration": null,
       "synopsis": "Basil est un Springer Anglais perdu en Inde. Poursuivi par un redoutable attrapeur de chiens, Basil fait équipe avec un chien des rues malin et obsédé par Bollywood.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Frederik Du Chau"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326685.html",
-      "color": "#e0e0e0"
+      "color": "#FFD60A"
     },
     {
       "id": "1000025901",
@@ -4873,12 +4874,12 @@
       ],
       "duration": null,
       "synopsis": "À 23 ans, Vera mène une vie insouciante jusqu'à ce qu'un accident la laisse en fauteuil roulant. Contrainte de réinventer son quotidien, elle peine à trouver sa place dans cette nouvelle réalité. Sa rencontre avec Xander, un jeune homme qui vit en fauteuil roulant depuis sa…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/42/77/4277b424dad06ffc6198e7a279ffe833.jpg",
+      "poster": null,
       "directors": [
         "Mari Sanders"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043234.html",
-      "color": "#008aa4"
+      "color": "#B967FF"
     },
     {
       "id": "1000020416",
@@ -4929,7 +4930,7 @@
         "Yulin Kuang"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=317392.html",
-      "color": "#B967FF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000044866",
@@ -4945,7 +4946,7 @@
         "Cherifa Bakhti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044866.html",
-      "color": "#FF8A5B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000016853",
@@ -4961,7 +4962,7 @@
         "Manon Coubia"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016853.html",
-      "color": "#5B8CFF"
+      "color": "#00C2FF"
     },
     {
       "id": "1000044861",
@@ -5010,7 +5011,7 @@
         "Oliver Mears"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046138.html",
-      "color": "#7C4DFF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000024534",
@@ -5046,7 +5047,7 @@
         "Olivier Staphylas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=317063.html",
-      "color": "#7C4DFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000020312",
@@ -5096,7 +5097,7 @@
         "Ian Tuason"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036756.html",
-      "color": "#E8458B"
+      "color": "#B967FF"
     },
     {
       "id": "310191",
@@ -5142,12 +5143,12 @@
       ],
       "duration": null,
       "synopsis": "Le deuxième volet de Dragons en live-action.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Dean DeBlois"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022350.html",
-      "color": "#e0e0e0"
+      "color": "#E8458B"
     },
     {
       "id": "1000033822",
@@ -5190,12 +5191,12 @@
       ],
       "duration": null,
       "synopsis": "Marius est médecin-chef dans l'hôpital de sa petite ville natale ; il élève seul son fils adolescent, Ioan, depuis le décès de son épouse. Il ignore tout de ses activités nocturnes. Son monde bascule lorsqu'il apprend que la police soupçonne Ioan de meurtre.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/82/d8/82d84a75c3fde5371ba6dbfe800d3541.jpg",
+      "poster": null,
       "directors": [
         "Florin Serban"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034931.html",
-      "color": "#704d2d"
+      "color": "#5B8CFF"
     },
     {
       "id": "264579",
@@ -5239,12 +5240,12 @@
       ],
       "duration": null,
       "synopsis": "Une minuscule graine de papaye erre à travers la forêt amazonienne. Passionnée par le vol, elle doit sans cesse avancer pour éviter de s’enraciner.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Priscilla Kellen"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033113.html",
-      "color": "#e0e0e0"
+      "color": "#B967FF"
     },
     {
       "id": "304749",
@@ -5328,12 +5329,30 @@
       ],
       "duration": null,
       "synopsis": "Essai documentaire qui explore les liens entre humains, animaux et forêt, révélant un monde complexe où s’affrontent protection et exploitation. Entre réalisme, engagement politique et onirisme, le film appelle à repenser notre rapport au vivant.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/72/89/72896da487e324365b6c849d5e05bf8b.jpg",
+      "poster": null,
       "directors": [
         "Pascale Ferland"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041217.html",
-      "color": "#b4c33e"
+      "color": "#E8458B"
+    },
+    {
+      "id": "112405",
+      "title": "Linda Linda Linda",
+      "releaseDate": "2027-07-07",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Musical"
+      ],
+      "duration": null,
+      "synopsis": "",
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/73/06/33/19188701.jpg",
+      "directors": [
+        "Nobuhiro Yamashita"
+      ],
+      "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=112405.html",
+      "color": "#e51071"
     },
     {
       "id": "1000030435",
@@ -5364,12 +5383,12 @@
       ],
       "duration": null,
       "synopsis": "Une adolescente intrépide est empêtrée dans ses mensonges. Pour conjurer une malédiction qui menace de détruire son village natal, elle doit faire équipe avec une créature au franc-parler. Ce duo hilarant et improbable entreprend alors une virée palpitante à travers l'Italie,…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Lino DiSalvo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004736.html",
-      "color": "#e0e0e0"
+      "color": "#FF8A5B"
     },
     {
       "id": "292824",
@@ -5382,12 +5401,12 @@
       ],
       "duration": null,
       "synopsis": "Ally, une petite créature marine à la fois curieuse et attachante, vit dans les profondeurs inexplorées du Pacifique Sud. Elle rêve de voir un jour le soleil et de devenir la star d’un documentaire animalier. Mais lorsqu’un mystérieux avion s’écrase dans l’océan, son monde…",
-      "poster": "https://fr.web.img4.acsta.net/c_310_420/img/32/cc/32ccc4e45d0cda215c0f536fd9133a37.jpg",
+      "poster": null,
       "directors": [
         "Bong Joon Ho"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=292824.html",
-      "color": "#007bc1"
+      "color": "#FF3B5C"
     },
     {
       "id": "310037",
@@ -5400,12 +5419,12 @@
       ],
       "duration": null,
       "synopsis": "Un rappeur se réincarne dans le corps d'un chat et inversement à la veille d'une battle de rap.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Albert Pereira Lazaro"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310037.html",
-      "color": "#e0e0e0"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000041593",
@@ -5417,12 +5436,12 @@
       ],
       "duration": null,
       "synopsis": "Des anciens amoureux font semblant d’être en couple, dans une ville où les habitants sont passionnés de hockey.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Josh Boone"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041593.html",
-      "color": "#e0e0e0"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000024815",
@@ -5450,12 +5469,12 @@
       ],
       "duration": null,
       "synopsis": "Suite du film Crawl d'Alexandre Aja (2019).",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Alexandre Aja"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009070.html",
-      "color": "#e0e0e0"
+      "color": "#FFD60A"
     },
     {
       "id": "1000033017",
@@ -5519,12 +5538,12 @@
       ],
       "duration": null,
       "synopsis": "Les aventures d’une petite chienne australienne de six ans, débordant d’énergie et d’imagination. Elle vit avec sa famille : Bandit, son père ; Chilli, sa mère ; et sa petite sœur Bingo. Toujours en quête de nouveaux jeux, Bluey transforme le quotidien en aventures…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/img/1c/6d/1c6d2021be37f2c5ab37eec3a139058c.jpg",
+      "poster": null,
       "directors": [
         "Joe Brumm"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017186.html",
-      "color": "#ff0013"
+      "color": "#00C2FF"
     },
     {
       "id": "310244",
@@ -5536,12 +5555,12 @@
       ],
       "duration": null,
       "synopsis": "Biopic sur le rappeur Snoop Dogg.",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Craig Brewer"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310244.html",
-      "color": "#e0e0e0"
+      "color": "#E8458B"
     },
     {
       "id": "1000034541",
@@ -5592,7 +5611,7 @@
         "Teyana Taylor"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328255.html",
-      "color": "#FF8A5B"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000052825",
@@ -5722,12 +5741,12 @@
       ],
       "duration": null,
       "synopsis": "Après avoir accidentellement déclenché une rébellion contre Gretsch, la tyrannique diva qui a banni toute forme de musique de sa ville, le jeune Wirral se lance dans un voyage extraordinaire pour libérer les sons, les mélodies… et les cœurs ! Avec l’aide de nouveaux amis…",
-      "poster": "https://fr.web.img2.acsta.net/c_310_420/img/72/e3/72e3465d6590024630667eb49f137b4a.jpg",
+      "poster": null,
       "directors": [
         "Toby Genkel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=261833.html",
-      "color": "#eb7712"
+      "color": "#2EE59D"
     },
     {
       "id": "1000013823",
@@ -5757,12 +5776,12 @@
       ],
       "duration": null,
       "synopsis": "Au début du XXe siècle, Fleur, une jeune fille passionnée et observatrice vit avec sa famille dans La Zone, un bidonville de la banlieue parisienne. Contrainte de travailler dans une usine de savon, elle subit la dureté des conditions de travail de la classe ouvrière.…",
-      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
+      "poster": null,
       "directors": [
         "Rémi Chayé"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302467.html",
-      "color": "#e0e0e0"
+      "color": "#FF6B35"
     },
     {
       "id": "1000034767",
@@ -5825,12 +5844,12 @@
       ],
       "duration": null,
       "synopsis": "La petite Arabella veut à tout prix fuguer. Sur un parking, elle rencontre Holly, vingt-huit ans. Arabella lui fait croire qu’elle est sa version enfantine et, qu’ensemble, elles pourraient revenir en arrière et corriger les erreurs du passé.",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/06/79/067953f3f9c2441a4d2f72a4ab57c2e0.jpg",
+      "poster": null,
       "directors": [
         "Carolina Cavalli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000006211.html",
-      "color": "#947f96"
+      "color": "#B967FF"
     },
     {
       "id": "256810",
@@ -6043,7 +6062,7 @@
         "Paul Feig"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038149.html",
-      "color": "#7b1719"
+      "color": "#81201f"
     },
     {
       "id": "313770",
@@ -6093,7 +6112,7 @@
         "Caitlin Vanarsdale"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027749.html",
-      "color": "#FFD60A"
+      "color": "#2EE59D"
     },
     {
       "id": "1000054573",
@@ -6297,7 +6316,7 @@
         "Sam Mendes"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327009.html",
-      "color": "#2EE59D"
+      "color": "#FF6B35"
     },
     {
       "id": "327008",
@@ -6351,7 +6370,7 @@
         "Sam Mendes"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327010.html",
-      "color": "#FF3B5C"
+      "color": "#2EE59D"
     },
     {
       "id": "1000002304",

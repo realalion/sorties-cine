@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000052525-2027-01-27@realalion.github.io
-DTSTAMP:20261124T071837Z
+DTSTAMP:20261124T155356Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:🎬 Sānsūr — sortie ciné
 DESCRIPTION:Documentaire · 1h27min\n\nSānsūr\, mot persan pour « censur
- e »\, suit six femmes iraniennes qui ont refusé de plier devant l'État
- . Une artiste\, une enseignante\, une journaliste\, une sportive\, une mu
- sicienne\, une actrice. Six trajectoires de résistance. À travers leurs
-  histoires\, ce documentaire…\n\nhttps://www.allocine.fr/film/fichefilm
- _gen_cfilm=1000052525.html
+ e »\, suit six femmes iraniennes qui ont refusé de se plier à la censu
+ re\, écrite ou implicite\, et en ont payé le prix du licenciement à l
+ ’exil. Une artiste\, une enseignante\, une journaliste\, une sportive\,
+  une musicienne\, une actrice. Six…\n\nhttps://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000052525.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

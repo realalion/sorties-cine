@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000039221-2027-03-17@realalion.github.io
-DTSTAMP:20261124T071837Z
+DTSTAMP:20261124T155356Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:🎬 Pourquoi pas nous ? — sortie ciné
+SUMMARY:🎬 Pourquoi pas nous — sortie ciné
 DESCRIPTION:Comédie\n\nQuand l’usine de poisson où travaillent Dom et s
  a fille Mellie fait faillite\, c’est toute la commune qui accuse le cou
  p\, et les ouvriers qui se retrouvent sans emploi. Dom ne peut accepter c

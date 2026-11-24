@@ -2456,7 +2456,7 @@
   },
   "1000023611": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261124T155356Z",
    "sequence": 0,
    "fields": {
     "title": "Somnambule",
@@ -2464,7 +2464,7 @@
     "genres": [
      "Comédie"
     ],
-    "duration": null,
+    "duration": "1h32min",
     "directors": [
      "Tarek Boudali"
     ],
@@ -4850,7 +4850,7 @@
   },
   "1000036768": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261124T155356Z",
    "sequence": 0,
    "fields": {
     "title": "Roxie au milieu",
@@ -4863,7 +4863,7 @@
      "Jennifer Devoldere"
     ],
     "cast": [],
-    "synopsis": "Roxie, 17 ans, porteuse de trisomie 21, est une jeune fille solaire. Elle voit son rêve s’effondrer lorsqu’elle est exclue de son équipe de majorettes à quelques mois des championnats de France.",
+    "synopsis": "Dans la famille Desrochelle, il y a Roxie, 17 ans et porteuse de trisomie 21, qui ne vit que pour les majorettes. Et il y a tous les autres, qui ne vivent que pour elle.Quand elle est exclue de son équipe à quelques mois des championnats de France, ses proches n’ont qu’une…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036768.html"
    },
    "inFeed": true
@@ -5139,7 +5139,7 @@
   },
   "1000038378": {
    "created": "20261008T064216Z",
-   "modified": "20261104T060901Z",
+   "modified": "20261124T155356Z",
    "sequence": 0,
    "fields": {
     "title": "Claude",
@@ -5147,7 +5147,7 @@
     "genres": [
      "Comédie"
     ],
-    "duration": null,
+    "duration": "1h31min",
     "directors": [
      "Clément Michel"
     ],
@@ -5259,10 +5259,10 @@
   },
   "1000039221": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261124T155356Z",
    "sequence": 0,
    "fields": {
-    "title": "Pourquoi pas nous ?",
+    "title": "Pourquoi pas nous",
     "releaseDate": "2027-03-17",
     "genres": [
      "Comédie"
@@ -5986,13 +5986,13 @@
   },
   "1000044052": {
    "created": "20261119T071407Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261124T155356Z",
    "sequence": 0,
    "fields": {
     "title": "Deux Vies, Trois Morts",
     "releaseDate": "2027-01-20",
     "genres": [
-     "Drame"
+     "Comédie"
     ],
     "duration": "1h43min",
     "directors": [
@@ -6305,7 +6305,8 @@
     "synopsis": "À Alger, un écrivain entreprend une cartographie poétique des jacarandas, arbres à la floraison mauve venus d'Amérique latine. Son fils cinéaste le suit dans cette déambulation intime où les récits du père dessinent un dictionnaire amoureux de la ville.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044889.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-24"
   },
   "1000045262": {
    "created": "20261105T061113Z",
@@ -7408,7 +7409,7 @@
   },
   "1000052525": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261124T155356Z",
    "sequence": 0,
    "fields": {
     "title": "Sānsūr",
@@ -7421,7 +7422,7 @@
      "Mostafa Heravi"
     ],
     "cast": [],
-    "synopsis": "Sānsūr, mot persan pour « censure », suit six femmes iraniennes qui ont refusé de plier devant l'État. Une artiste, une enseignante, une journaliste, une sportive, une musicienne, une actrice. Six trajectoires de résistance. À travers leurs histoires, ce documentaire…",
+    "synopsis": "Sānsūr, mot persan pour « censure », suit six femmes iraniennes qui ont refusé de se plier à la censure, écrite ou implicite, et en ont payé le prix du licenciement à l’exil. Une artiste, une enseignante, une journaliste, une sportive, une musicienne, une actrice. Six…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html"
    },
    "inFeed": true
@@ -7857,10 +7858,10 @@
   },
   "1000055612": {
    "created": "20261119T071407Z",
-   "modified": "20261120T140129Z",
+   "modified": "20261124T155356Z",
    "sequence": 0,
    "fields": {
-    "title": "Spider-Man : \"Brand New\" Brand New Day",
+    "title": "Spider-Man: \"Brand New\" Brand New Day",
     "releaseDate": "2026-12-02",
     "genres": [
      "Action",
@@ -7894,6 +7895,49 @@
     "cast": [],
     "synopsis": "De retour de mission en Afrique, Père Matthieu, prêtre maladroit et futur évêque, retourne dans sa ville natale. Après une nuit un peu trop arrosée avec Anna, son amour de jeunesse, il apprend qu’il va devenir… papa !",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055777.html"
+   },
+   "inFeed": true
+  },
+  "1000055979": {
+   "created": "20261124T155356Z",
+   "modified": "20261124T155356Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Un taxi pour l'Espagne",
+    "releaseDate": "2027-02-03",
+    "genres": [
+     "Divers"
+    ],
+    "duration": "1h35min",
+    "directors": [
+     "Romain Broch",
+     "Pauline Cabrol-Mathieu"
+    ],
+    "cast": [],
+    "synopsis": "Jeanne et Mia, deux demi-sœurs que la vie a séparées, vont passer une dernière soirée avec leur mère, Alexandra, dépressive, qui a décidé de se faire euthanasier le lendemain matin. S’il ne devait rester que quelques heures, que choisirait-on de se dire et de garder ? Les…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055979.html"
+   },
+   "inFeed": true
+  },
+  "112405": {
+   "created": "20261124T155356Z",
+   "modified": "20261124T155356Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Linda Linda Linda",
+    "releaseDate": "2027-07-07",
+    "genres": [
+     "Comédie",
+     "Drame",
+     "Musical"
+    ],
+    "duration": null,
+    "directors": [
+     "Nobuhiro Yamashita"
+    ],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=112405.html"
    },
    "inFeed": true
   },

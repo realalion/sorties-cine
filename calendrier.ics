@@ -1263,20 +1263,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000038378@realalion.github.io
-DTSTAMP:20261104T060901Z
+DTSTAMP:20261124T155356Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261104T060901Z
+LAST-MODIFIED:20261124T155356Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Claude
-DESCRIPTION:Comédie\n\nDe Clément Michel\n\nClaude\, 75 ans\, aussi charm
- ant qu’irresponsable\, est mis à la porte par sa (quatrième) femme. I
- l se retrouve alors en garde alternée chez ses enfants\, qu'il a pourtan
- t évité toute sa vie. Cette cohabitation explosive et improbable pourra
- it bien\, contre toute attente\, recoller…\n\nAlloCiné : https://www.a
- llocine.fr/film/fichefilm_gen_cfilm=1000038378.html\n\nSortie officielle 
- au cinéma en France.
+DESCRIPTION:Comédie · 1h31min\n\nDe Clément Michel\n\nClaude\, 75 ans\, 
+ aussi charmant qu’irresponsable\, est mis à la porte par sa (quatrièm
+ e) femme. Il se retrouve alors en garde alternée chez ses enfants\, qu'i
+ l a pourtant évité toute sa vie. Cette cohabitation explosive et improb
+ able pourrait bien\, contre toute attente\, recoller…\n\nAlloCiné : ht
+ tps://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html\n\nSortie 
+ officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.h
  tml
 CATEGORIES:Comédie
@@ -1437,13 +1437,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000055612@realalion.github.io
-DTSTAMP:20261120T140129Z
+DTSTAMP:20261124T155356Z
 CREATED:20261119T071407Z
-LAST-MODIFIED:20261120T140129Z
+LAST-MODIFIED:20261124T155356Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:🎬 Spider-Man : "Brand New" Brand New Day
+SUMMARY:🎬 Spider-Man: "Brand New" Brand New Day
 DESCRIPTION:Action\, Aventure\, Science Fiction · 2h37min\n\nDe Destin Dan
  iel Cretton\n\nC’est un tout nouveau jour pour Peter Parker. Dans un mo
  nde qui ne se souvient plus de lui\, il poursuit sans relâche sa lutte c
@@ -3274,23 +3274,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000044052@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261124T155356Z
 CREATED:20261119T071407Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261124T155356Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:🎬 Deux Vies\, Trois Morts
-DESCRIPTION:Drame · 1h43min\n\nDe Karim Lakzadeh\n\nTrois mineurs surviven
- t à l’effondrement d’une mine mais choisissent de se faire passer po
- ur morts afin que leurs familles touchent une indemnisation. Contraints 
- à une clandestinité absurde\, entre tensions familiales et quête d’i
- dentité\, ils traversent l’Iran jusqu’à Téhéran.…\n\nAlloCiné 
- : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html\n\nSor
- tie officielle au cinéma en France.
+DESCRIPTION:Comédie · 1h43min\n\nDe Karim Lakzadeh\n\nTrois mineurs survi
+ vent à l’effondrement d’une mine mais choisissent de se faire passer
+  pour morts afin que leurs familles touchent une indemnisation. Contraint
+ s à une clandestinité absurde\, entre tensions familiales et quête d
+ ’identité\, ils traversent l’Iran jusqu’à Téhéran.…\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html\n\
+ nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.h
  tml
-CATEGORIES:Drame
+CATEGORIES:Comédie
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -3849,20 +3849,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000052525@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261124T155356Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261124T155356Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:🎬 Sānsūr
 DESCRIPTION:Documentaire · 1h27min\n\nDe Mostafa Heravi\n\nSānsūr\, mot 
  persan pour « censure »\, suit six femmes iraniennes qui ont refusé de
-  plier devant l'État. Une artiste\, une enseignante\, une journaliste\, 
- une sportive\, une musicienne\, une actrice. Six trajectoires de résista
- nce. À travers leurs histoires\, ce documentaire…\n\nAlloCiné : https
- ://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html\n\nSortie off
- icielle au cinéma en France.
+  se plier à la censure\, écrite ou implicite\, et en ont payé le prix 
+ du licenciement à l’exil. Une artiste\, une enseignante\, une journali
+ ste\, une sportive\, une musicienne\, une actrice. Six…\n\nAlloCiné : 
+ https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html\n\nSorti
+ e officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.h
  tml
 CATEGORIES:Documentaire
@@ -4230,20 +4230,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000023611@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261124T155356Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261124T155356Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:🎬 Somnambule
-DESCRIPTION:Comédie\n\nDe Tarek Boudali\n\nAdam est somnambule : dès qu
- ’il s’endort\, il change totalement de personnalité… et fait des f
- olies. Un matin\, en se réveillant\, il voit Estelle\, la fille de son p
- atron\, ligotée dans sa salle de bain. Il n’ a aucun souvenir de ce qu
- i s’est passé. Poursuivi par la police\, il…\n\nAlloCiné : https://
- www.allocine.fr/film/fichefilm_gen_cfilm=1000023611.html\n\nSortie offici
- elle au cinéma en France.
+DESCRIPTION:Comédie · 1h32min\n\nDe Tarek Boudali\n\nAdam est somnambule 
+ : dès qu’il s’endort\, il change totalement de personnalité… et f
+ ait des folies. Un matin\, en se réveillant\, il voit Estelle\, la fille
+  de son patron\, ligotée dans sa salle de bain. Il n’ a aucun souvenir
+  de ce qui s’est passé. Poursuivi par la police\, il…\n\nAlloCiné :
+  https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023611.html\n\nSort
+ ie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023611.h
  tml
 CATEGORIES:Comédie
@@ -4269,6 +4269,28 @@ DESCRIPTION:Drame\, Romance · 1h36min\n\nDe Ira Sachs\n\nNew York\, fin de
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032383.h
  tml
 CATEGORIES:Drame,Romance
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000055979@realalion.github.io
+DTSTAMP:20261124T155356Z
+CREATED:20261124T155356Z
+LAST-MODIFIED:20261124T155356Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎬 Un taxi pour l'Espagne
+DESCRIPTION:Divers · 1h35min\n\nDe Romain Broch\, Pauline Cabrol-Mathieu\n
+ \nJeanne et Mia\, deux demi-sœurs que la vie a séparées\, vont passer 
+ une dernière soirée avec leur mère\, Alexandra\, dépressive\, qui a d
+ écidé de se faire euthanasier le lendemain matin. S’il ne devait rest
+ er que quelques heures\, que choisirait-on de se dire et de garder ? Les
+ …\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=10000
+ 55979.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055979.h
+ tml
+CATEGORIES:Divers
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -5525,19 +5547,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000036768@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261124T155356Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261124T155356Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:🎬 Roxie au milieu
-DESCRIPTION:Comédie\n\nDe Jennifer Devoldere\n\nRoxie\, 17 ans\, porteuse 
- de trisomie 21\, est une jeune fille solaire. Elle voit son rêve s’eff
- ondrer lorsqu’elle est exclue de son équipe de majorettes à quelques 
- mois des championnats de France.\n\nAlloCiné : https://www.allocine.fr/f
- ilm/fichefilm_gen_cfilm=1000036768.html\n\nSortie officielle au cinéma e
- n France.
+DESCRIPTION:Comédie\n\nDe Jennifer Devoldere\n\nDans la famille Desrochell
+ e\, il y a Roxie\, 17 ans et porteuse de trisomie 21\, qui ne vit que pou
+ r les majorettes. Et il y a tous les autres\, qui ne vivent que pour elle
+ .Quand elle est exclue de son équipe à quelques mois des championnats d
+ e France\, ses proches n’ont qu’une…\n\nAlloCiné : https://www.all
+ ocine.fr/film/fichefilm_gen_cfilm=1000036768.html\n\nSortie officielle au
+  cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036768.h
  tml
 CATEGORIES:Comédie
@@ -5861,13 +5884,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000039221@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261124T155356Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261124T155356Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
-SUMMARY:🎬 Pourquoi pas nous ?
+SUMMARY:🎬 Pourquoi pas nous
 DESCRIPTION:Comédie\n\nDe Mélanie Auffret\n\nQuand l’usine de poisson o
  ù travaillent Dom et sa fille Mellie fait faillite\, c’est toute la co
  mmune qui accuse le coup\, et les ouvriers qui se retrouvent sans emploi.
@@ -6185,27 +6208,6 @@ DESCRIPTION:Comédie dramatique\, Romance\n\nDe Gustave Kervern\n\nÎle Mau
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017999.h
  tml
 CATEGORIES:Comédie dramatique,Romance
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000044889@realalion.github.io
-DTSTAMP:20261123T161812Z
-CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:🎬 Alea Jacarandas
-DESCRIPTION:Documentaire\n\nDe Hassen Ferhani\n\nÀ Alger\, un écrivain en
- treprend une cartographie poétique des jacarandas\, arbres à la florais
- on mauve venus d'Amérique latine. Son fils cinéaste le suit dans cette 
- déambulation intime où les récits du père dessinent un dictionnaire a
- moureux de la ville.\n\nAlloCiné : https://www.allocine.fr/film/fichefil
- m_gen_cfilm=1000044889.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044889.h
- tml
-CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -7541,6 +7543,23 @@ DESCRIPTION:Documentaire\n\nDe Pascale Ferland\n\nEssai documentaire qui ex
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041217.h
  tml
 CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-112405@realalion.github.io
+DTSTAMP:20261124T155356Z
+CREATED:20261124T155356Z
+LAST-MODIFIED:20261124T155356Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:🎬 Linda Linda Linda
+DESCRIPTION:Comédie\, Drame\, Musical\n\nDe Nobuhiro Yamashita\n\nAlloCin
+ é : https://www.allocine.fr/film/fichefilm_gen_cfilm=112405.html\n\nSort
+ ie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=112405.html
+CATEGORIES:Comédie,Drame,Musical
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

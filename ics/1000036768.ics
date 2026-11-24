@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000036768-2027-03-10@realalion.github.io
-DTSTAMP:20261124T071837Z
+DTSTAMP:20261124T155356Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:🎬 Roxie au milieu — sortie ciné
-DESCRIPTION:Comédie\n\nRoxie\, 17 ans\, porteuse de trisomie 21\, est une 
- jeune fille solaire. Elle voit son rêve s’effondrer lorsqu’elle est 
- exclue de son équipe de majorettes à quelques mois des championnats de 
- France.\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000036768.ht
- ml
+DESCRIPTION:Comédie\n\nDans la famille Desrochelle\, il y a Roxie\, 17 ans
+  et porteuse de trisomie 21\, qui ne vit que pour les majorettes. Et il y
+  a tous les autres\, qui ne vivent que pour elle.Quand elle est exclue de
+  son équipe à quelques mois des championnats de France\, ses proches n
+ ’ont qu’une…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=10
+ 00036768.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036768.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
