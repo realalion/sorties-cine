@@ -4,10 +4,10 @@ PRODID:-//Sorties Cine France//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sortie-cine-1000044052-2027-01-20@realalion.github.io
-DTSTAMP:20261125T153706Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
+UID:sortie-cine-1000044052-2027-02-24@realalion.github.io
+DTSTAMP:20261125T180401Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Deux Vies\, Trois Morts — sortie ciné
 DESCRIPTION:Comédie · 1h43min\n\nTrois mineurs survivent à l’effondrem
  ent d’une mine mais choisissent de se faire passer pour morts afin que 

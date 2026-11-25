@@ -877,12 +877,13 @@
   },
   "1000013823": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261125T180401Z",
    "sequence": 0,
    "fields": {
     "title": "Dumas - diable noir",
     "releaseDate": "2027-10-13",
     "genres": [
+     "Action",
      "Aventure",
      "Historique"
     ],
@@ -2835,7 +2836,7 @@
   },
   "1000025672": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261125T180401Z",
    "sequence": 0,
    "fields": {
     "title": "Le Voyage d'Ousman Umar",
@@ -2843,7 +2844,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": "1h50min",
+    "duration": null,
     "directors": [
      "Dani Sancho"
     ],
@@ -2855,7 +2856,7 @@
   },
   "1000025683": {
    "created": "20261123T161812Z",
-   "modified": "20261125T153706Z",
+   "modified": "20261125T180401Z",
    "sequence": 0,
    "fields": {
     "title": "Lovebirds",
@@ -2870,7 +2871,7 @@
      "Laurent Bru"
     ],
     "cast": [],
-    "synopsis": "Il croit en l’humour, elle croit en l’amour. George est un pigeon maladroit qui rêve de devenir le roi du stand-up. Nina est une décoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau de sa vie. Lorsque leurs destins se croisent, ils embarquent dans un incroyable…",
+    "synopsis": "Elle croit en l’amour, il croit en l’humour. Nina est une décoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau de sa vie. George est un pigeon maladroit qui rêve de devenir le roi du stand-up. Lorsque leurs destins se croisent, ils embarquent dans un incroyable…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.html"
    },
    "inFeed": true
@@ -3107,7 +3108,7 @@
   },
   "1000027133": {
    "created": "20261123T161812Z",
-   "modified": "20261125T153706Z",
+   "modified": "20261125T180401Z",
    "sequence": 0,
    "fields": {
     "title": "Un été en hiver",
@@ -3115,7 +3116,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": "1h29min",
+    "duration": null,
     "directors": [
      "Sho Miyake"
     ],
@@ -5986,11 +5987,11 @@
   },
   "1000044052": {
    "created": "20261119T071407Z",
-   "modified": "20261124T155356Z",
-   "sequence": 0,
+   "modified": "20261125T180401Z",
+   "sequence": 1,
    "fields": {
     "title": "Deux Vies, Trois Morts",
-    "releaseDate": "2027-01-20",
+    "releaseDate": "2027-02-24",
     "genres": [
      "Comédie"
     ],
@@ -7814,7 +7815,8 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-25"
   },
   "1000055455": {
    "created": "20261123T161812Z",
@@ -8657,7 +8659,7 @@
   },
   "285136": {
    "created": "20261123T161812Z",
-   "modified": "20261125T153706Z",
+   "modified": "20261125T180401Z",
    "sequence": 0,
    "fields": {
     "title": "Du dedans au dehors",
@@ -8665,7 +8667,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": "1h59min",
+    "duration": null,
     "directors": [
      "Wim Wenders"
     ],

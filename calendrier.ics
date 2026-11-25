@@ -3166,24 +3166,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000055255@realalion.github.io
-DTSTAMP:20261125T153706Z
-CREATED:20261119T071407Z
-LAST-MODIFIED:20261125T153706Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:🎬 Albert-Claude Quemoun\, une vie d'homéopathie
-DESCRIPTION:Documentaire\n\nDe Fabien Moine\n\nAlloCiné : https://www.allo
- cine.fr/film/fichefilm_gen_cfilm=1000055255.html\n\nSortie officielle au 
- cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.h
- tml
-CATEGORIES:Documentaire
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-316461@realalion.github.io
 DTSTAMP:20261119T071407Z
 CREATED:20261119T071407Z
@@ -3266,28 +3248,6 @@ DESCRIPTION:Documentaire\n\nDe Gilles Balbastre\n\nAu soir de la présidenc
  u cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=311446.html
 CATEGORIES:Documentaire
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000044052@realalion.github.io
-DTSTAMP:20261124T155356Z
-CREATED:20261119T071407Z
-LAST-MODIFIED:20261124T155356Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:🎬 Deux Vies\, Trois Morts
-DESCRIPTION:Comédie · 1h43min\n\nDe Karim Lakzadeh\n\nTrois mineurs survi
- vent à l’effondrement d’une mine mais choisissent de se faire passer
-  pour morts afin que leurs familles touchent une indemnisation. Contraint
- s à une clandestinité absurde\, entre tensions familiales et quête d
- ’identité\, ils traversent l’Iran jusqu’à Téhéran.…\n\nAlloCi
- né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html\n\
- nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.h
- tml
-CATEGORIES:Comédie
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -3763,18 +3723,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000025683@realalion.github.io
-DTSTAMP:20261125T153706Z
+DTSTAMP:20261125T180401Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261125T153706Z
+LAST-MODIFIED:20261125T180401Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:🎬 Lovebirds
 DESCRIPTION:Animation\, Famille · 1h30min\n\nDe Hélène Blanchard\, Laure
- nt Bru\n\nIl croit en l’humour\, elle croit en l’amour. George est un
-  pigeon maladroit qui rêve de devenir le roi du stand-up. Nina est une d
- écoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau
-  de sa vie. Lorsque leurs destins se croisent\, ils embarquent dans un in
+ nt Bru\n\nElle croit en l’amour\, il croit en l’humour. Nina est une 
+ décoratrice d’intérieur passionnée qui rêve de rencontrer l’oisea
+ u de sa vie. George est un pigeon maladroit qui rêve de devenir le roi d
+ u stand-up. Lorsque leurs destins se croisent\, ils embarquent dans un in
  croyable…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfi
  lm=1000025683.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.h
@@ -4679,17 +4639,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-285136@realalion.github.io
-DTSTAMP:20261125T153706Z
+DTSTAMP:20261125T180401Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261125T153706Z
+LAST-MODIFIED:20261125T180401Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Du dedans au dehors
-DESCRIPTION:Documentaire · 1h59min\n\nDe Wim Wenders\n\nTourné en 2D et e
- n 3D\, le documentaire est consacré à l'architecte suisse Peter Zumthor
- .\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.
- html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Documentaire\n\nDe Wim Wenders\n\nTourné en 2D et en 3D\, le d
+ ocumentaire est consacré à l'architecte suisse Peter Zumthor.\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.html\n\nSor
+ tie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.html
 CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
@@ -4824,19 +4784,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000025672@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261125T180401Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261125T180401Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Le Voyage d'Ousman Umar
-DESCRIPTION:Drame · 1h50min\n\nDe Dani Sancho\n\nÀ 13 ans\, Ousman Umar q
- uitte son village du Ghana avec un rêve : découvrir le monde et voyager
-  au pays des blancs. Commence alors un périple à travers le désert\, l
- a violence et la peur. Il atteint enfin Barcelone\, seul et sans ressourc
- es...\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=100
- 0025672.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Drame\n\nDe Dani Sancho\n\nÀ 13 ans\, Ousman Umar quitte son v
+ illage du Ghana avec un rêve : découvrir le monde et voyager au pays de
+ s blancs. Commence alors un périple à travers le désert\, la violence 
+ et la peur. Il atteint enfin Barcelone\, seul et sans ressources...\n\nAl
+ loCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025672.htm
+ l\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025672.h
  tml
 CATEGORIES:Drame
@@ -4889,20 +4849,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000027133@realalion.github.io
-DTSTAMP:20261125T153706Z
+DTSTAMP:20261125T180401Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261125T153706Z
+LAST-MODIFIED:20261125T180401Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Un été en hiver
-DESCRIPTION:Drame · 1h29min\n\nDe Sho Miyake\n\nUn été\, Nagisa\, jeune 
- citadine\, rencontre Natsuo au bord de la mer. Sous une pluie battante\, 
- leurs mots maladroits et leurs regards hésitants les rapprochent. L’hi
- ver venu\, Li\, une scénariste en quête d’inspiration\, gagne un vill
- age enneigé avec l’appareil photo d’un ami…\n\nAlloCiné : https:/
- /www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.html\n\nSortie offic
- ielle au cinéma en France.
+DESCRIPTION:Drame\n\nDe Sho Miyake\n\nUn été\, Nagisa\, jeune citadine\, 
+ rencontre Natsuo au bord de la mer. Sous une pluie battante\, leurs mots 
+ maladroits et leurs regards hésitants les rapprochent. L’hiver venu\, 
+ Li\, une scénariste en quête d’inspiration\, gagne un village enneig
+ é avec l’appareil photo d’un ami…\n\nAlloCiné : https://www.alloc
+ ine.fr/film/fichefilm_gen_cfilm=1000027133.html\n\nSortie officielle au c
+ inéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.h
  tml
 CATEGORIES:Drame
@@ -4928,6 +4888,28 @@ DESCRIPTION:Drame\n\nDe Mikhaël Hers\n\nSimona vit à Lyon avec son mari e
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014174.h
  tml
 CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000044052@realalion.github.io
+DTSTAMP:20261125T180401Z
+CREATED:20261119T071407Z
+LAST-MODIFIED:20261125T180401Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🎬 Deux Vies\, Trois Morts
+DESCRIPTION:Comédie · 1h43min\n\nDe Karim Lakzadeh\n\nTrois mineurs survi
+ vent à l’effondrement d’une mine mais choisissent de se faire passer
+  pour morts afin que leurs familles touchent une indemnisation. Contraint
+ s à une clandestinité absurde\, entre tensions familiales et quête d
+ ’identité\, ils traversent l’Iran jusqu’à Téhéran.…\n\nAlloCi
+ né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html\n\
+ nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.h
+ tml
+CATEGORIES:Comédie
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -8042,23 +8024,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000013823@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261125T180401Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261125T180401Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271014
 SUMMARY:🎬 Dumas - diable noir
-DESCRIPTION:Aventure\, Historique\n\nDe Ladj Ly\n\nL’histoire extraordina
- ire et peu connue de Thomas Alexandre Davy de La Pailleterie Dumas\, escl
- ave né en 1762 dans les Caraïbes qui\, contre toute attente\, est deven
- u Général de l’armée française sous la Révolution et dont le fils 
- est l’un des écrivains les plus célèbres au…\n\nAlloCiné : https:
- //www.allocine.fr/film/fichefilm_gen_cfilm=1000013823.html\n\nSortie offi
- cielle au cinéma en France.
+DESCRIPTION:Action\, Aventure\, Historique\n\nDe Ladj Ly\n\nL’histoire ex
+ traordinaire et peu connue de Thomas Alexandre Davy de La Pailleterie Dum
+ as\, esclave né en 1762 dans les Caraïbes qui\, contre toute attente\, 
+ est devenu Général de l’armée française sous la Révolution et dont
+  le fils est l’un des écrivains les plus célèbres au…\n\nAlloCiné
+  : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013823.html\n\nSo
+ rtie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013823.h
  tml
-CATEGORIES:Aventure,Historique
+CATEGORIES:Action,Aventure,Historique
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
