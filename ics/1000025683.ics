@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000025683-2027-01-27@realalion.github.io
-DTSTAMP:20261124T155356Z
+DTSTAMP:20261125T072036Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:🎬 Lovebirds — sortie ciné
-DESCRIPTION:Animation\, Famille · 1h30min\n\nIl croit en l’humour\, elle
-  croit en l’amour. George est un pigeon maladroit qui rêve de devenir 
- le roi du stand-up. Nina est une décoratrice d’intérieur passionnée 
- qui rêve de rencontrer l’oiseau de sa vie. Lorsque leurs destins se cr
+DESCRIPTION:Animation\, Famille · 1h30min\n\nElle croit en l’amour\, il 
+ croit en l’humour. Nina est une décoratrice d’intérieur passionnée
+  qui rêve de rencontrer l’oiseau de sa vie. George est un pigeon malad
+ roit qui rêve de devenir le roi du stand-up. Lorsque leurs destins se cr
  oisent\, ils embarquent dans un incroyable…\n\nhttps://www.allocine.fr/
  film/fichefilm_gen_cfilm=1000025683.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.html

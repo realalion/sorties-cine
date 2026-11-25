@@ -857,20 +857,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000004190@realalion.github.io
-DTSTAMP:20261008T064216Z
+DTSTAMP:20261125T072036Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
+LAST-MODIFIED:20261125T072036Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Demain je tombe amoureux
 DESCRIPTION:Comédie · 1h47min\n\nDe Martin Provost\n\nLe jour de son dép
- art à la retraite\, Émile\, professeur de lettres à Dieppe\, donne à 
- ses jeunes élèves un dernier cours sur la littérature et l’amour\, l
- es encourageant à devenir les poètes de leurs propres existences. Une f
- ois rentré chez lui\, Émile découvre que sa femme l’a…\n\nAlloCin
- é : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html\n\n
- Sortie officielle au cinéma en France.
+ art à la retraite\, Émile\, professeur de lettres à Dieppe\, découvre
+  que sa femme l’a quitté. Trois rencontres vont alors l’aider à se 
+ réinventer.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cf
+ ilm=1000004190.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.h
  tml
 CATEGORIES:Comédie
@@ -879,20 +877,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000028064@realalion.github.io
-DTSTAMP:20261015T054330Z
+DTSTAMP:20261125T072036Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261015T054330Z
+LAST-MODIFIED:20261125T072036Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🎬 Forty Love
-DESCRIPTION:Drame\, Romance\, Thriller\n\nDe Pierre-Ange Carlotti\n\nSacha 
- Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraî
- né depuis toujours par son père\, ils rêvent ensemble de décrocher le
- ur premier grand titre à Paris. L’arrivée d’un nouveau rival va bou
- leverser ses certitudes. Sacha devra faire face à un autre défi :…\n\
- nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.
- html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Drame\, Romance\, Thriller · 1h37min\n\nDe Pierre-Ange Carlott
+ i\n\nSacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tenn
+ is. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sach
+ a devra faire face à un autre défi : l’amour.\n\nAlloCiné : https://
+ www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html\n\nSortie offici
+ elle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.h
  tml
 CATEGORIES:Drame,Romance,Thriller
@@ -2004,27 +2001,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sortie-cine-1000021762@realalion.github.io
-DTSTAMP:20261029T055410Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261029T055410Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:🎬 Rédemptions
-DESCRIPTION:Drame · 1h54min\n\nDe Luc Picard\n\nLorsque Marcel est contrai
- nt d'accepter une dernière mission\, il déclenche une chaine d’évèn
- ements qui bouleverse plusieurs vies. De Montréal à Paris\, chacun devr
- a trouver le courage d'aimer\, de pardonner et\, peut-être\, de se rache
- ter.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000
- 021762.html\n\nSortie officielle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.h
- tml
-CATEGORIES:Drame
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sortie-cine-309190@realalion.github.io
 DTSTAMP:20261109T135445Z
 CREATED:20261015T054330Z
@@ -2663,6 +2639,27 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000021762@realalion.github.io
+DTSTAMP:20261125T072036Z
+CREATED:20261008T064216Z
+LAST-MODIFIED:20261125T072036Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🎬 Rédemptions
+DESCRIPTION:Drame · 1h54min\n\nDe Luc Picard\n\nLorsque Marcel est contrai
+ nt d'accepter une dernière mission\, il déclenche une chaine d’évèn
+ ements qui bouleverse plusieurs vies. De Montréal à Paris\, chacun devr
+ a trouver le courage d'aimer\, de pardonner et\, peut-être\, de se rache
+ ter.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000
+ 021762.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.h
+ tml
+CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-1000029498@realalion.github.io
 DTSTAMP:20261110T132839Z
 CREATED:20261105T061113Z
@@ -3020,20 +3017,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-316022@realalion.github.io
-DTSTAMP:20261122T071419Z
+DTSTAMP:20261125T072036Z
 CREATED:20261112T072128Z
-LAST-MODIFIED:20261122T071419Z
+LAST-MODIFIED:20261125T072036Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:🎬 Lord of War 2
-DESCRIPTION:Thriller · 1h40min\n\nDe Andrew Niccol\n\nLe trafiquant d'arme
- s\, Yuri Orlov\, découvre qu'il a un fils\, Anton. Ce dernier est en tra
- in de constituer une armée de mercenaires pour combattre les conflits au
-  Moyen-Orient.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_
- cfilm=316022.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Action\, Thriller · 1h40min\n\nDe Andrew Niccol\n\nLe trafiqua
+ nt d'armes\, Yuri Orlov\, découvre qu'il a un fils\, Anton. Ce dernier e
+ st en train de constituer une armée de mercenaires pour combattre les co
+ nflits au Moyen-Orient.\n\nAlloCiné : https://www.allocine.fr/film/fiche
+ film_gen_cfilm=316022.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=316022.html
-CATEGORIES:Thriller
+CATEGORIES:Action,Thriller
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -3165,24 +3162,6 @@ DESCRIPTION:Comédie dramatique\n\nDe Nicole Garcia\n\nAutomne 2011. Un mat
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.h
  tml
 CATEGORIES:Comédie dramatique
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000055255@realalion.github.io
-DTSTAMP:20261119T071407Z
-CREATED:20261119T071407Z
-LAST-MODIFIED:20261119T071407Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:🎬 Albert-Claude Quemoun\, une vie d'homéopathie
-DESCRIPTION:Documentaire\n\nDe Fabien Moine\n\nAlloCiné : https://www.allo
- cine.fr/film/fichefilm_gen_cfilm=1000055255.html\n\nSortie officielle au 
- cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.h
- tml
-CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -3766,18 +3745,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000025683@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261125T072036Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261125T072036Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:🎬 Lovebirds
 DESCRIPTION:Animation\, Famille · 1h30min\n\nDe Hélène Blanchard\, Laure
- nt Bru\n\nIl croit en l’humour\, elle croit en l’amour. George est un
-  pigeon maladroit qui rêve de devenir le roi du stand-up. Nina est une d
- écoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau
-  de sa vie. Lorsque leurs destins se croisent\, ils embarquent dans un in
+ nt Bru\n\nElle croit en l’amour\, il croit en l’humour. Nina est une 
+ décoratrice d’intérieur passionnée qui rêve de rencontrer l’oisea
+ u de sa vie. George est un pigeon maladroit qui rêve de devenir le roi d
+ u stand-up. Lorsque leurs destins se croisent\, ils embarquent dans un in
  croyable…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfi
  lm=1000025683.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.h
@@ -4274,23 +4253,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000055979@realalion.github.io
-DTSTAMP:20261124T155356Z
+DTSTAMP:20261125T072036Z
 CREATED:20261124T155356Z
-LAST-MODIFIED:20261124T155356Z
+LAST-MODIFIED:20261125T072036Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:🎬 Un taxi pour l'Espagne
-DESCRIPTION:Divers · 1h35min\n\nDe Romain Broch\, Pauline Cabrol-Mathieu\n
- \nJeanne et Mia\, deux demi-sœurs que la vie a séparées\, vont passer 
- une dernière soirée avec leur mère\, Alexandra\, dépressive\, qui a d
+DESCRIPTION:Drame · 1h35min\n\nDe Romain Broch\, Pauline Cabrol-Mathieu\n\
+ nJeanne et Mia\, deux demi-sœurs que la vie a séparées\, vont passer u
+ ne dernière soirée avec leur mère\, Alexandra\, dépressive\, qui a d
  écidé de se faire euthanasier le lendemain matin. S’il ne devait rest
  er que quelques heures\, que choisirait-on de se dire et de garder ? Les
  …\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=10000
  55979.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055979.h
  tml
-CATEGORIES:Divers
+CATEGORIES:Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -5143,6 +5122,23 @@ DESCRIPTION:Drame\n\nDe Pierre Godeau\n\nEn 1972\, la vie de Robert Badinte
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035548.h
  tml
 CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-328095@realalion.github.io
+DTSTAMP:20261125T072036Z
+CREATED:20261125T072036Z
+LAST-MODIFIED:20261125T072036Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 D'un corps à l'autre
+DESCRIPTION:Documentaire\n\nDe Mariana Otero\n\nAlloCiné : https://www.all
+ ocine.fr/film/fichefilm_gen_cfilm=328095.html\n\nSortie officielle au cin
+ éma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=328095.html
+CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

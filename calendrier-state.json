@@ -168,7 +168,7 @@
   },
   "1000004190": {
    "created": "20261008T064216Z",
-   "modified": "20261008T064216Z",
+   "modified": "20261125T072036Z",
    "sequence": 0,
    "fields": {
     "title": "Demain je tombe amoureux",
@@ -181,7 +181,7 @@
      "Martin Provost"
     ],
     "cast": [],
-    "synopsis": "Le jour de son départ à la retraite, Émile, professeur de lettres à Dieppe, donne à ses jeunes élèves un dernier cours sur la littérature et l’amour, les encourageant à devenir les poètes de leurs propres existences. Une fois rentré chez lui, Émile découvre que sa femme l’a…",
+    "synopsis": "Le jour de son départ à la retraite, Émile, professeur de lettres à Dieppe, découvre que sa femme l’a quitté. Trois rencontres vont alors l’aider à se réinventer.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html"
    },
    "inFeed": true
@@ -2002,11 +2002,11 @@
   },
   "1000021762": {
    "created": "20261008T064216Z",
-   "modified": "20261029T055410Z",
-   "sequence": 1,
+   "modified": "20261125T072036Z",
+   "sequence": 2,
    "fields": {
     "title": "Rédemptions",
-    "releaseDate": "2026-12-16",
+    "releaseDate": "2027-01-06",
     "genres": [
      "Drame"
     ],
@@ -2855,7 +2855,7 @@
   },
   "1000025683": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261125T072036Z",
    "sequence": 0,
    "fields": {
     "title": "Lovebirds",
@@ -2870,7 +2870,7 @@
      "Laurent Bru"
     ],
     "cast": [],
-    "synopsis": "Il croit en l’humour, elle croit en l’amour. George est un pigeon maladroit qui rêve de devenir le roi du stand-up. Nina est une décoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau de sa vie. Lorsque leurs destins se croisent, ils embarquent dans un incroyable…",
+    "synopsis": "Elle croit en l’amour, il croit en l’humour. Nina est une décoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau de sa vie. George est un pigeon maladroit qui rêve de devenir le roi du stand-up. Lorsque leurs destins se croisent, ils embarquent dans un incroyable…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.html"
    },
    "inFeed": true
@@ -3334,7 +3334,7 @@
   },
   "1000028064": {
    "created": "20261008T064216Z",
-   "modified": "20261015T054330Z",
+   "modified": "20261125T072036Z",
    "sequence": 2,
    "fields": {
     "title": "Forty Love",
@@ -3344,12 +3344,12 @@
      "Romance",
      "Thriller"
     ],
-    "duration": null,
+    "duration": "1h37min",
     "directors": [
      "Pierre-Ange Carlotti"
     ],
     "cast": [],
-    "synopsis": "Sacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. Entraîné depuis toujours par son père, ils rêvent ensemble de décrocher leur premier grand titre à Paris. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sacha devra faire face à un autre défi :…",
+    "synopsis": "Sacha Gallo a 21 ans et ne sait faire qu’une chose : jouer au tennis. L’arrivée d’un nouveau rival va bouleverser ses certitudes. Sacha devra faire face à un autre défi : l’amour.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html"
    },
    "inFeed": true
@@ -7814,7 +7814,8 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-25"
   },
   "1000055455": {
    "created": "20261123T161812Z",
@@ -7900,13 +7901,13 @@
   },
   "1000055979": {
    "created": "20261124T155356Z",
-   "modified": "20261124T155356Z",
+   "modified": "20261125T072036Z",
    "sequence": 0,
    "fields": {
     "title": "Un taxi pour l'Espagne",
     "releaseDate": "2027-02-03",
     "genres": [
-     "Divers"
+     "Drame"
     ],
     "duration": "1h35min",
     "directors": [
@@ -9687,12 +9688,13 @@
   },
   "316022": {
    "created": "20261112T072128Z",
-   "modified": "20261122T071419Z",
+   "modified": "20261125T072036Z",
    "sequence": 0,
    "fields": {
     "title": "Lord of War 2",
     "releaseDate": "2027-01-13",
     "genres": [
+     "Action",
      "Thriller"
     ],
     "duration": "1h40min",
@@ -10607,6 +10609,26 @@
     "cast": [],
     "synopsis": "Simone et Jeannine fréquentent le même club de broderie à Montpellier. Elles sont voisines. Un jour, Jeannine ne brode plus qu’en rouge. Simone, elle, n’est plus la même depuis l’arrivée de Léa, une aide à domicile dont elle estime ne pas avoir besoin.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328094.html"
+   },
+   "inFeed": true
+  },
+  "328095": {
+   "created": "20261125T072036Z",
+   "modified": "20261125T072036Z",
+   "sequence": 0,
+   "fields": {
+    "title": "D'un corps à l'autre",
+    "releaseDate": "2027-03-03",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": null,
+    "directors": [
+     "Mariana Otero"
+    ],
+    "cast": [],
+    "synopsis": "",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328095.html"
    },
    "inFeed": true
   },

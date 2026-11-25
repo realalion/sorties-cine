@@ -4,15 +4,14 @@ PRODID:-//Sorties Cine France//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sortie-cine-1000055255-2027-01-20@realalion.github.io
-DTSTAMP:20261124T155356Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:🎬 Albert-Claude Quemoun\, une vie d'homéopathie — sortie cin
- é
+UID:sortie-cine-328095-2027-03-03@realalion.github.io
+DTSTAMP:20261125T072036Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 D'un corps à l'autre — sortie ciné
 DESCRIPTION:Documentaire\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfil
- m=1000055255.html
-URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.html
+ m=328095.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=328095.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM

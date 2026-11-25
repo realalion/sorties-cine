@@ -4,10 +4,10 @@ PRODID:-//Sorties Cine France//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:sortie-cine-1000021762-2026-12-16@realalion.github.io
-DTSTAMP:20261124T155356Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+UID:sortie-cine-1000021762-2027-01-06@realalion.github.io
+DTSTAMP:20261125T072036Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
 SUMMARY:🎬 Rédemptions — sortie ciné
 DESCRIPTION:Drame · 1h54min\n\nLorsque Marcel est contraint d'accepter une
   dernière mission\, il déclenche une chaine d’évènements qui boulev
