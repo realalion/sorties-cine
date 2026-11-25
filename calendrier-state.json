@@ -2855,7 +2855,7 @@
   },
   "1000025683": {
    "created": "20261123T161812Z",
-   "modified": "20261125T072036Z",
+   "modified": "20261125T153706Z",
    "sequence": 0,
    "fields": {
     "title": "Lovebirds",
@@ -2870,7 +2870,7 @@
      "Laurent Bru"
     ],
     "cast": [],
-    "synopsis": "Elle croit en l’amour, il croit en l’humour. Nina est une décoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau de sa vie. George est un pigeon maladroit qui rêve de devenir le roi du stand-up. Lorsque leurs destins se croisent, ils embarquent dans un incroyable…",
+    "synopsis": "Il croit en l’humour, elle croit en l’amour. George est un pigeon maladroit qui rêve de devenir le roi du stand-up. Nina est une décoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau de sa vie. Lorsque leurs destins se croisent, ils embarquent dans un incroyable…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.html"
    },
    "inFeed": true
@@ -3107,7 +3107,7 @@
   },
   "1000027133": {
    "created": "20261123T161812Z",
-   "modified": "20261124T071838Z",
+   "modified": "20261125T153706Z",
    "sequence": 0,
    "fields": {
     "title": "Un été en hiver",
@@ -3115,7 +3115,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "1h29min",
     "directors": [
      "Sho Miyake"
     ],
@@ -3638,7 +3638,7 @@
   },
   "1000029992": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261125T153706Z",
    "sequence": 0,
    "fields": {
     "title": "Le Bois de Klara",
@@ -3652,7 +3652,7 @@
      "Volker Schlöndorff"
     ],
     "cast": [],
-    "synopsis": "Une maison située au bord d'un lac près de Berlin devient le témoin d'un siècle d'événements qui ont remodelé le monde qui l'entoure : la montée du nazisme et les ravages de la guerre, l'occupation soviétique, la réunification de l'Allemagne et l'aube d'une ère nouvelle.",
+    "synopsis": "Au bord d'un lac près de Berlin, une maison voit se succéder plusieurs générations dont les destins se mêlent aux grands bouleversements de l'Histoire allemande.​",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029992.html"
    },
    "inFeed": true
@@ -7798,8 +7798,8 @@
   },
   "1000055255": {
    "created": "20261119T071407Z",
-   "modified": "20261119T071407Z",
-   "sequence": 0,
+   "modified": "20261125T153706Z",
+   "sequence": 1,
    "fields": {
     "title": "Albert-Claude Quemoun, une vie d'homéopathie",
     "releaseDate": "2027-01-20",
@@ -7814,8 +7814,7 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.html"
    },
-   "inFeed": false,
-   "removedOn": "2026-11-25"
+   "inFeed": true
   },
   "1000055455": {
    "created": "20261123T161812Z",
@@ -8658,7 +8657,7 @@
   },
   "285136": {
    "created": "20261123T161812Z",
-   "modified": "20261124T071838Z",
+   "modified": "20261125T153706Z",
    "sequence": 0,
    "fields": {
     "title": "Du dedans au dehors",
@@ -8666,7 +8665,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": null,
+    "duration": "1h59min",
     "directors": [
      "Wim Wenders"
     ],

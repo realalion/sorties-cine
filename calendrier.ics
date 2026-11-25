@@ -3166,6 +3166,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sortie-cine-1000055255@realalion.github.io
+DTSTAMP:20261125T153706Z
+CREATED:20261119T071407Z
+LAST-MODIFIED:20261125T153706Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎬 Albert-Claude Quemoun\, une vie d'homéopathie
+DESCRIPTION:Documentaire\n\nDe Fabien Moine\n\nAlloCiné : https://www.allo
+ cine.fr/film/fichefilm_gen_cfilm=1000055255.html\n\nSortie officielle au 
+ cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055255.h
+ tml
+CATEGORIES:Documentaire
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sortie-cine-316461@realalion.github.io
 DTSTAMP:20261119T071407Z
 CREATED:20261119T071407Z
@@ -3745,18 +3763,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000025683@realalion.github.io
-DTSTAMP:20261125T072036Z
+DTSTAMP:20261125T153706Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261125T072036Z
+LAST-MODIFIED:20261125T153706Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:🎬 Lovebirds
 DESCRIPTION:Animation\, Famille · 1h30min\n\nDe Hélène Blanchard\, Laure
- nt Bru\n\nElle croit en l’amour\, il croit en l’humour. Nina est une 
- décoratrice d’intérieur passionnée qui rêve de rencontrer l’oisea
- u de sa vie. George est un pigeon maladroit qui rêve de devenir le roi d
- u stand-up. Lorsque leurs destins se croisent\, ils embarquent dans un in
+ nt Bru\n\nIl croit en l’humour\, elle croit en l’amour. George est un
+  pigeon maladroit qui rêve de devenir le roi du stand-up. Nina est une d
+ écoratrice d’intérieur passionnée qui rêve de rencontrer l’oiseau
+  de sa vie. Lorsque leurs destins se croisent\, ils embarquent dans un in
  croyable…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfi
  lm=1000025683.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.h
@@ -4661,17 +4679,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-285136@realalion.github.io
-DTSTAMP:20261124T071838Z
+DTSTAMP:20261125T153706Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261124T071838Z
+LAST-MODIFIED:20261125T153706Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Du dedans au dehors
-DESCRIPTION:Documentaire\n\nDe Wim Wenders\n\nTourné en 2D et en 3D\, le d
- ocumentaire est consacré à l'architecte suisse Peter Zumthor.\n\nAlloCi
- né : https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.html\n\nSor
- tie officielle au cinéma en France.
+DESCRIPTION:Documentaire · 1h59min\n\nDe Wim Wenders\n\nTourné en 2D et e
+ n 3D\, le documentaire est consacré à l'architecte suisse Peter Zumthor
+ .\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.
+ html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=285136.html
 CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
@@ -4871,20 +4889,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000027133@realalion.github.io
-DTSTAMP:20261124T071838Z
+DTSTAMP:20261125T153706Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261124T071838Z
+LAST-MODIFIED:20261125T153706Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Un été en hiver
-DESCRIPTION:Drame\n\nDe Sho Miyake\n\nUn été\, Nagisa\, jeune citadine\, 
- rencontre Natsuo au bord de la mer. Sous une pluie battante\, leurs mots 
- maladroits et leurs regards hésitants les rapprochent. L’hiver venu\, 
- Li\, une scénariste en quête d’inspiration\, gagne un village enneig
- é avec l’appareil photo d’un ami…\n\nAlloCiné : https://www.alloc
- ine.fr/film/fichefilm_gen_cfilm=1000027133.html\n\nSortie officielle au c
- inéma en France.
+DESCRIPTION:Drame · 1h29min\n\nDe Sho Miyake\n\nUn été\, Nagisa\, jeune 
+ citadine\, rencontre Natsuo au bord de la mer. Sous une pluie battante\, 
+ leurs mots maladroits et leurs regards hésitants les rapprochent. L’hi
+ ver venu\, Li\, une scénariste en quête d’inspiration\, gagne un vill
+ age enneigé avec l’appareil photo d’un ami…\n\nAlloCiné : https:/
+ /www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.html\n\nSortie offic
+ ielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.h
  tml
 CATEGORIES:Drame
@@ -6057,20 +6075,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000029992@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261125T153706Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261125T153706Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:🎬 Le Bois de Klara
-DESCRIPTION:Drame\, Historique\n\nDe Volker Schlöndorff\n\nUne maison situ
- ée au bord d'un lac près de Berlin devient le témoin d'un siècle d'é
- vénements qui ont remodelé le monde qui l'entoure : la montée du nazis
- me et les ravages de la guerre\, l'occupation soviétique\, la réunifica
- tion de l'Allemagne et l'aube d'une ère nouvelle.\n\nAlloCiné : https:/
- /www.allocine.fr/film/fichefilm_gen_cfilm=1000029992.html\n\nSortie offic
- ielle au cinéma en France.
+DESCRIPTION:Drame\, Historique\n\nDe Volker Schlöndorff\n\nAu bord d'un la
+ c près de Berlin\, une maison voit se succéder plusieurs générations 
+ dont les destins se mêlent aux grands bouleversements de l'Histoire alle
+ mande.​\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm
+ =1000029992.html\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029992.h
  tml
 CATEGORIES:Drame,Historique
