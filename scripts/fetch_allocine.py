@@ -70,7 +70,7 @@ def parse_week(html: str, week_date: date, window: tuple[date, date] | None = No
         if not title_m:
             continue
         url, fid, title = title_m.group(1), title_m.group(2), clean_text(title_m.group(3))
-        date_m = re.search(r'<span class="date">([^<]+)</span>', c)
+        date_m = re.search(r'<span class="[^"]*\bdate\b[^"]*"[^>]*>([^<]+)</span>', c)
         if not date_m:
             continue
         release = parse_fr_date(date_m.group(1))
@@ -115,14 +115,34 @@ def parse_week(html: str, week_date: date, window: tuple[date, date] | None = No
     return films
 
 
+def parse_fiche_release_date(html: str):
+    """Date de sortie France (« en salle ») lue sur une fiche AlloCiné."""
+    info = re.search(r'meta-body-info">(.*?)</div>', html, re.S)
+    if not info:
+        return None
+    block = info.group(1)
+    theatrical = re.search(
+        r'<span class="[^"]*\bdate\b[^"]*"[^>]*>([^<]+)</span>\s*<span class="meta-release-type">\s*en salle',
+        block,
+        re.S | re.I,
+    )
+    if theatrical:
+        d = parse_fr_date(theatrical.group(1))
+        if d:
+            return d
+    m = re.search(r"(\d{1,2}\s+[a-zéû]+\s+\d{4})", clean_text(block).lower())
+    return parse_fr_date(m.group(1)) if m else None
+
+
 def fetch_duration(film):
     try:
         html = fetch(film["allocineUrl"])
     except Exception:
-        return film["id"], None, None
+        return film["id"], None, None, None
+    official = parse_fiche_release_date(html)
     info = re.search(r'meta-body-info">(.*?)</div>', html, re.S)
     if not info:
-        return film["id"], None, None
+        return film["id"], None, None, official
     text = clean_text(info.group(1))
     m = re.search(r"(\d+h(?:\s*\d+min)?|\d+\s*min)", text)
     dur = None
@@ -131,7 +151,7 @@ def fetch_duration(film):
         if dur.startswith("0h"):
             dur = dur[2:]
     genres = [clean_text(g) for g in re.findall(r'dark-grey-link"[^>]*>([^<]+)', info.group(1))]
-    return film["id"], dur, genres or None
+    return film["id"], dur, genres or None, official
 
 
 def ics_escape(value: str) -> str:
@@ -306,6 +326,17 @@ def _feed_vevent(fid: str, entry: dict) -> list[str]:
 
 
 EXTRA_PATH = ROOT / "extra-films.json"
+EXCLUDED_PATH = ROOT / "excluded-films.json"
+
+
+def load_excluded_ids() -> set[str]:
+    """Ids AlloCiné à ne jamais réintégrer dans le calendrier."""
+    try:
+        data = json.loads(EXCLUDED_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return set()
+    return {str(i) for i in (data.get("ids") or [])}
+
 
 
 def load_extra_films(recheck: bool = True) -> list[dict]:
@@ -323,11 +354,7 @@ def load_extra_films(recheck: bool = True) -> list[dict]:
             html = fetch(f["allocineUrl"])
         except Exception:
             continue
-        info = re.search(r'meta-body-info">(.*?)</div>', html, re.S)
-        if not info:
-            continue
-        m = re.search(r"(\d{1,2}\s+[a-zéû]+\s+\d{4})", clean_text(info.group(1)).lower())
-        d = parse_fr_date(m.group(1)) if m else None
+        d = parse_fiche_release_date(html)
         if d and d.isoformat() != f["releaseDate"]:
             print(f"extra: {f['title']} {f['releaseDate']} -> {d.isoformat()}")
             f["releaseDate"] = d.isoformat()
@@ -354,11 +381,13 @@ def write_feed(films: list[dict], today: date | None = None, extras: list[dict] 
     except Exception:
         state = {}
     films_state = state.get("films", {})
-    current = {f["id"]: f for f in films if f.get("releaseDate")}
+    excluded = load_excluded_ids()
+    current = {f["id"]: f for f in films if f.get("releaseDate") and f["id"] not in excluded}
     if extras is None:
         extras = load_extra_films()
     for f in extras:
-        current.setdefault(f["id"], f)
+        if f["id"] not in excluded:
+            current.setdefault(f["id"], f)
 
     new_state = {}
     for fid, film in current.items():
@@ -545,18 +574,48 @@ def fetch_all(*, enrich_details: bool = True) -> list[dict]:
     seen = {}
     for f in all_films:
         seen.setdefault(f["id"], f)
-    films = list(seen.values())
+    excluded = load_excluded_ids()
+    films = [f for f in seen.values() if f["id"] not in excluded]
+    for f in seen.values():
+        if f["id"] in excluded:
+            print(f"skip: {f['title']} ({f['id']}) exclu")
     by_id = {f["id"]: f for f in films}
 
     if enrich_details:
+        official_dates = {}
         with ThreadPoolExecutor(max_workers=8) as ex:
             futs = [ex.submit(fetch_duration, f) for f in films]
             for fut in as_completed(futs):
-                fid, dur, genres = fut.result()
-                if dur:
+                fid, dur, genres, official = fut.result()
+                if dur and fid in by_id:
                     by_id[fid]["duration"] = dur
-                if genres:
+                if genres and fid in by_id:
                     by_id[fid]["genres"] = genres
+                if official:
+                    official_dates[fid] = official
+
+        # L'agenda laisse parfois un film déjà sorti sur une semaine future,
+        # avec une date de carte erronée (ex. Quemoun, sortie 5/07/2026, resté
+        # sur l'agenda du 20/01/2027). On fait confiance à la fiche officielle.
+        keep_from = today - timedelta(days=FEED_KEEP_PAST_DAYS)
+        kept = []
+        for f in films:
+            official = official_dates.get(f["id"])
+            if official is None:
+                kept.append(f)
+                continue
+            if official < keep_from:
+                print(
+                    f"skip: {f['title']} ({f['id']}) sortie fiche {official.isoformat()} "
+                    f"déjà passée (agenda {f['releaseDate']})"
+                )
+                continue
+            if official.isoformat() != f["releaseDate"]:
+                print(f"date fiche: {f['title']} {f['releaseDate']} -> {official.isoformat()}")
+                f["releaseDate"] = official.isoformat()
+            kept.append(f)
+        films = kept
+        by_id = {f["id"]: f for f in films}
 
     return sorted(by_id.values(), key=lambda x: (x["releaseDate"], x["title"]))
 
