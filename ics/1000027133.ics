@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000027133-2027-02-17@realalion.github.io
-DTSTAMP:20261125T180401Z
+DTSTAMP:20261126T072129Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Un été en hiver — sortie ciné
-DESCRIPTION:Drame\n\nUn été\, Nagisa\, jeune citadine\, rencontre Natsuo 
- au bord de la mer. Sous une pluie battante\, leurs mots maladroits et leu
- rs regards hésitants les rapprochent. L’hiver venu\, Li\, une scénari
- ste en quête d’inspiration\, gagne un village enneigé avec l’appare
- il photo d’un ami…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfil
- m=1000027133.html
+DESCRIPTION:Drame · 1h29min\n\nUn été\, Nagisa\, jeune citadine\, rencon
+ tre Natsuo au bord de la mer. Sous une pluie battante\, leurs mots maladr
+ oits et leurs regards hésitants les rapprochent. L’hiver venu\, Li\, u
+ ne scénariste en quête d’inspiration\, gagne un village enneigé avec
+  l’appareil photo d’un ami…\n\nhttps://www.allocine.fr/film/fichefi
+ lm_gen_cfilm=1000027133.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

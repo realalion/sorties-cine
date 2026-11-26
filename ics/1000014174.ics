@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000014174-2027-02-24@realalion.github.io
-DTSTAMP:20261125T180401Z
+DTSTAMP:20261126T072129Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Bristol — sortie ciné
-DESCRIPTION:Drame\n\nSimona vit à Lyon avec son mari et leur fille. Un jou
- r\, elle reçoit un message qui l’oblige à se rendre d’urgence à B
- ristol\, en Angleterre\, où elle a grandi. Un passé qu’elle croyait e
- nfoui et dont elle n’a jamais parlé à personne refait surface\, metta
- nt en péril l’équilibre…\n\nhttps://www.allocine.fr/film/fichefilm_
- gen_cfilm=1000014174.html
+DESCRIPTION:Drame · 1h50min\n\nSimona vit à Lyon avec son mari et leur fi
+ lle. Un jour\, elle reçoit un message qui l’oblige à se rendre d’u
+ rgence à Bristol\, en Angleterre\, où elle a grandi. Un passé qu’ell
+ e croyait enfoui et dont elle n’a jamais parlé à personne refait surf
+ ace\, mettant en péril l’équilibre…\n\nhttps://www.allocine.fr/film
+ /fichefilm_gen_cfilm=1000014174.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014174.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000025672-2027-02-17@realalion.github.io
-DTSTAMP:20261125T180401Z
+DTSTAMP:20261126T072129Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 Le Voyage d'Ousman Umar — sortie ciné
-DESCRIPTION:Drame\n\nÀ 13 ans\, Ousman Umar quitte son village du Ghana av
- ec un rêve : découvrir le monde et voyager au pays des blancs. Commence
-  alors un périple à travers le désert\, la violence et la peur. Il att
- eint enfin Barcelone\, seul et sans ressources...\n\nhttps://www.allocine
- .fr/film/fichefilm_gen_cfilm=1000025672.html
+DESCRIPTION:Drame · 1h50min\n\nÀ 13 ans\, Ousman Umar quitte son village 
+ du Ghana avec un rêve : découvrir le monde et voyager au pays des blanc
+ s. Commence alors un périple à travers le désert\, la violence et la p
+ eur. Il atteint enfin Barcelone\, seul et sans ressources...\n\nhttps://w
+ ww.allocine.fr/film/fichefilm_gen_cfilm=1000025672.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025672.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

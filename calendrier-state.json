@@ -442,7 +442,7 @@
   },
   "1000008280": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "In A Violent Nature 2",
@@ -450,7 +450,7 @@
     "genres": [
      "Epouvante-horreur"
     ],
-    "duration": null,
+    "duration": "1h28min",
     "directors": [
      "Nathaniel Wilson"
     ],
@@ -525,7 +525,7 @@
   },
   "1000009119": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Le Prix et la Valeur",
@@ -533,7 +533,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "2h09min",
     "directors": [
      "Visar Morina"
     ],
@@ -565,7 +565,7 @@
   },
   "1000010349": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Josephine",
@@ -573,7 +573,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "2h00min",
     "directors": [
      "Beth de Araújo"
     ],
@@ -794,7 +794,7 @@
   },
   "1000013358": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Mauvaise étoile",
@@ -802,7 +802,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": "2h12min",
+    "duration": null,
     "directors": [
      "Lola Cambourieu",
      "Yann Berlier"
@@ -920,7 +920,7 @@
   },
   "1000014174": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Bristol",
@@ -928,7 +928,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "1h50min",
     "directors": [
      "Mikhaël Hers"
     ],
@@ -1666,7 +1666,8 @@
     "synopsis": "Dans les années 1950, l'usine « Isolation » à Donetsk est un centre industriel majeur du Donbass, un des fleurons du communisme. A la chute de l'Union soviétique, Isolation est reconvertie en un prestigieux centre d'art contemporain et accueille des artistes du monde entier.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000019336": {
    "created": "20261123T161812Z",
@@ -1791,7 +1792,8 @@
     "synopsis": "Une équipe de braqueurs filme ses hold-up en direct et devient viral. Mais leur célébrité grandissante attire l'attention d'un agent du FBI et d'une ingénieure informatique déterminés à les arrêter. Alors que cet improbable duo se rapproche dangereusement d’eux, le gang…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020289.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000020292": {
    "created": "20261123T161812Z",
@@ -1958,7 +1960,8 @@
     "synopsis": "1970, le tout premier match de football féminin espagnol organisé par un jeune entraîneur, stupéfait par le talent et la passion d’un groupe de jeunes filles.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020962.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000021740": {
    "created": "20261008T064216Z",
@@ -2836,7 +2839,7 @@
   },
   "1000025672": {
    "created": "20261123T161812Z",
-   "modified": "20261125T180401Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Le Voyage d'Ousman Umar",
@@ -2844,7 +2847,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "1h50min",
     "directors": [
      "Dani Sancho"
     ],
@@ -3108,7 +3111,7 @@
   },
   "1000027133": {
    "created": "20261123T161812Z",
-   "modified": "20261125T180401Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Un été en hiver",
@@ -3116,7 +3119,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "1h29min",
     "directors": [
      "Sho Miyake"
     ],
@@ -3943,7 +3946,7 @@
   },
   "1000031694": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "La Femme sans passé",
@@ -3951,7 +3954,7 @@
     "genres": [
      "Thriller"
     ],
-    "duration": null,
+    "duration": "2h06min",
     "directors": [
      "May el-Toukhy"
     ],
@@ -4063,7 +4066,8 @@
     "synopsis": "",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000032465": {
    "created": "20261028T055256Z",
@@ -4331,7 +4335,8 @@
     "synopsis": "Pour changer son futur, Scrooge va revivre son passé.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000034048": {
    "created": "20261119T071407Z",
@@ -5009,7 +5014,8 @@
     "synopsis": "Charlie et Hicham, la trentaine, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est confronté à l’infécondité. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans, entre espoirs et déceptions, ils vont mettre leur…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037363.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000037484": {
    "created": "20261123T161812Z",
@@ -5380,7 +5386,8 @@
     "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000039576": {
    "created": "20261123T161812Z",
@@ -5525,7 +5532,8 @@
     "synopsis": "Lucia, 17 ans, est amenée par la police dans une unité de soins pédopsychiatriques de l’hôpital public. Ici tous les patients ont entre 15 et 18 ans. Lucia connaît l’endroit, elle y a fait de nombreux séjours. Elle retrouve son amie Eloïse, en hospitalisation longue durée,…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040172.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000040300": {
    "created": "20261008T064216Z",
@@ -5586,7 +5594,8 @@
     "synopsis": "Fabienne Langlois, conseillère d'insertion et de probation au Centre National d’Évaluation, doit déterminer si Antoine Martineau, détenu pour le meurtre de sa femme, peut obtenir une libération conditionnelle. Entre mutisme, paranoïa et zones d’ombre, elle plonge dans…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040446.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000041050": {
    "created": "20261123T161812Z",
@@ -5761,7 +5770,8 @@
     "synopsis": "Un long métrage restauré et remasterisé à partir d’images longtemps considérées comme perdues, tournées au célèbre Palais Omnisports de Paris-Bercy lors de l’étape européenne du Faith Tour en 1988.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041856.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000042575": {
    "created": "20261029T055410Z",
@@ -6717,7 +6727,8 @@
     "synopsis": "Un gardien a disparu lors de sa première nuit dans un ancien hôpital psychiatrique. Les images de vidéosurveillance montrent des incidents inexplicables qui continuent de déconcerter les enquêteurs.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048020.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000048032": {
    "created": "20261123T161812Z",
@@ -7548,7 +7559,8 @@
     "synopsis": "Ils et elles ont traversé un siècle de bouleversements. À travers leurs souvenirs, leurs épreuves et leur regard sur le monde d’aujourd’hui, « Centenaires » donne la parole à des femmes et des hommes de plus de 100 ans. Un film sur la mémoire, la transmission et la réalité du…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "1000053992": {
    "created": "20261123T161812Z",
@@ -7820,7 +7832,7 @@
   },
   "1000055455": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Labore nobile",
@@ -7828,7 +7840,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": null,
+    "duration": "1h16min",
     "directors": [
      "Juliette Achard"
     ],
@@ -8462,7 +8474,7 @@
   },
   "269068": {
    "created": "20261015T054330Z",
-   "modified": "20261124T071838Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Avengers: Doomsday",
@@ -8471,7 +8483,7 @@
      "Action",
      "Aventure"
     ],
-    "duration": "2h30min",
+    "duration": "2h31min",
     "directors": [
      "Joe Russo",
      "Anthony Russo"
@@ -8659,7 +8671,7 @@
   },
   "285136": {
    "created": "20261123T161812Z",
-   "modified": "20261125T180401Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Du dedans au dehors",
@@ -8667,7 +8679,7 @@
     "genres": [
      "Documentaire"
     ],
-    "duration": null,
+    "duration": "1h59min",
     "directors": [
      "Wim Wenders"
     ],
@@ -9319,7 +9331,8 @@
     "synopsis": "La vie hors-norme de Jeanne Lavaur n’appartient qu’à elle-même. Elle traverse le XXème siècle et défie son destin, depuis son enfance dans la boucherie de ses parents jusqu’à son rêve de devenir comtesse. D’une guerre à l’autre, du Paris des années folles au Brésil, son…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310503.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "310509": {
    "created": "20261008T064216Z",
@@ -9339,7 +9352,8 @@
     "synopsis": "Jessie est une adolescente pleine de vie. Son seul problème est qu’elle partage sa chambre avec sa petite sœur. Ella, leur mère, est débordée mais attentive. Quand l’une des trois disparaît, toute la famille est bouleversée et cherche un coupable. Ella décide alors d’un…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310509.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "310517": {
    "created": "20261123T161812Z",
@@ -9838,7 +9852,7 @@
   },
   "318141": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T072129Z",
    "sequence": 0,
    "fields": {
     "title": "Prima della guerra",
@@ -9846,7 +9860,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "1h23min",
     "directors": [
      "Tommaso Usberti"
     ],
@@ -10132,7 +10146,8 @@
     "synopsis": "Chaya, 11 ans, vit avec sa famille dans les Landes, au bord de l’océan. A l’annonce de leur expulsion, son grand frère Nour sombre dans un sommeil profond et mystérieux. Chaya va tout faire pour le réveiller, jusqu’à plonger dans ses rêves pour le retrouver.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "324508": {
    "created": "20261015T054330Z",
@@ -10672,7 +10687,8 @@
     "synopsis": "Tommy, jeune délinquant insouciant et impulsif naviguant entre fêtes alcoolisées et violences incontrôlables, se réveille un matin enchaîné dans la cave d’une maison. Il est à la merci de ses occupants, une étrange famille qui s’est donnée pour mission de le remettre dans le…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328439.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "35360": {
    "created": "20261022T054313Z",
@@ -10798,7 +10814,8 @@
     "synopsis": "D'après Pierre ou les Ambiguïtés de Herman Melville.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=58916.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-26"
   },
   "780": {
    "created": "20261008T064216Z",

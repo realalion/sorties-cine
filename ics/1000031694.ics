@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000031694-2027-02-24@realalion.github.io
-DTSTAMP:20261125T180401Z
+DTSTAMP:20261126T072129Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 La Femme sans passé — sortie ciné
-DESCRIPTION:Thriller\n\nÀ Copenhague\, dans les jours qui suivent la libé
- ration de l’occupation nazie\, Marie est sur le point de changer de ran
- g en épousant son riche employeur. Mais son passé menace de la rattrape
- r et elle doit tout mettre en œuvre pour préserver sa nouvelle vie…\n
- \nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000031694.html
+DESCRIPTION:Thriller · 2h06min\n\nÀ Copenhague\, dans les jours qui suive
+ nt la libération de l’occupation nazie\, Marie est sur le point de cha
+ nger de rang en épousant son riche employeur. Mais son passé menace de 
+ la rattraper et elle doit tout mettre en œuvre pour préserver sa nouvel
+ le vie…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000031694.
+ html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031694.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

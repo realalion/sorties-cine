@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000009119-2027-02-24@realalion.github.io
-DTSTAMP:20261125T180401Z
+DTSTAMP:20261126T072129Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Le Prix et la Valeur — sortie ciné
-DESCRIPTION:Drame\n\nLes difficultés financières s’accumulent pour la f
- amille de Shaban\, obligée de quitter la campagne kosovare pour la capit
- ale\, Pristina. Sur place\, Shaban peine à trouver un emploi stable et d
- oit composer avec l’aide écrasante de son entourage. Dans cette grande
-  ville qui ne…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000
- 009119.html
+DESCRIPTION:Drame · 2h09min\n\nLes difficultés financières s’accumulen
+ t pour la famille de Shaban\, obligée de quitter la campagne kosovare po
+ ur la capitale\, Pristina. Sur place\, Shaban peine à trouver un emploi 
+ stable et doit composer avec l’aide écrasante de son entourage. Dans c
+ ette grande ville qui ne…\n\nhttps://www.allocine.fr/film/fichefilm_gen
+ _cfilm=1000009119.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009119.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
