@@ -794,7 +794,7 @@
   },
   "1000013358": {
    "created": "20261123T161812Z",
-   "modified": "20261126T072129Z",
+   "modified": "20261126T151820Z",
    "sequence": 0,
    "fields": {
     "title": "Mauvaise étoile",
@@ -802,7 +802,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": null,
+    "duration": "2h12min",
     "directors": [
      "Lola Cambourieu",
      "Yann Berlier"
@@ -4507,7 +4507,7 @@
   },
   "1000034898": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T151820Z",
    "sequence": 0,
    "fields": {
     "title": "Feels Like Home",
@@ -4515,7 +4515,7 @@
     "genres": [
      "Thriller"
     ],
-    "duration": null,
+    "duration": "2h05min",
     "directors": [
      "Gábor Holtai"
     ],
@@ -4938,7 +4938,7 @@
   },
   "1000037190": {
    "created": "20261105T061113Z",
-   "modified": "20261105T061113Z",
+   "modified": "20261126T151820Z",
    "sequence": 0,
    "fields": {
     "title": "Les Jours d’après",
@@ -4946,7 +4946,7 @@
     "genres": [
      "Comédie dramatique"
     ],
-    "duration": null,
+    "duration": "1h30min",
     "directors": [
      "Stéphanie Pillonca"
     ],
@@ -5019,7 +5019,7 @@
   },
   "1000037484": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261126T151820Z",
    "sequence": 0,
    "fields": {
     "title": "Elsinore",
@@ -5028,7 +5028,7 @@
      "Biopic",
      "Drame"
     ],
-    "duration": null,
+    "duration": "1h51min",
     "directors": [
      "Simon Stone"
     ],
@@ -7912,6 +7912,24 @@
    },
    "inFeed": true
   },
+  "1000055779": {
+   "created": "20261126T151820Z",
+   "modified": "20261126T151820Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Rage",
+    "releaseDate": "2027-02-10",
+    "genres": [
+     "Documentaire"
+    ],
+    "duration": "1h37min",
+    "directors": [],
+    "cast": [],
+    "synopsis": "De la loi Sécurité globale aux révoltes après la mort de Nahel, Zak Kedzi et son équipe filment sept ans de colère sociale en France. Un constat : la démocratie ne survivra qu’en étant réinventée par ses citoyens.",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055779.html"
+   },
+   "inFeed": true
+  },
   "1000055979": {
    "created": "20261124T155356Z",
    "modified": "20261125T072036Z",
@@ -7993,6 +8011,27 @@
     "cast": [],
     "synopsis": "Des années avant que la célébrité ne soit considérée comme une forme d’art à part entière, Jean Cocteau, considérait sa vie artistique comme un mélange d'obscurité et de célébrité.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=119263.html"
+   },
+   "inFeed": true
+  },
+  "123695": {
+   "created": "20261126T151820Z",
+   "modified": "20261126T151820Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Winnie et ses amis",
+    "releaseDate": "2027-03-03",
+    "genres": [
+     "Animation",
+     "Famille"
+    ],
+    "duration": null,
+    "directors": [
+     "Fyodor Khitruk"
+    ],
+    "cast": [],
+    "synopsis": "Winnie l’Ourson aime les petits plaisirs de la vie, le miel et chanter à tue-tête ! Et souvent, il a faim. Et même très très faim. A la recherche de miel, il décide de voler jusqu’à un nid, en s’accrochant à un ballon prêté par son ami Porcinet...",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=123695.html"
    },
    "inFeed": true
   },

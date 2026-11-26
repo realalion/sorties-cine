@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000055779-2027-02-10@realalion.github.io
+DTSTAMP:20261126T151820Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 Rage — sortie ciné
+DESCRIPTION:Documentaire · 1h37min\n\nDe la loi Sécurité globale aux ré
+ voltes après la mort de Nahel\, Zak Kedzi et son équipe filment sept an
+ s de colère sociale en France. Un constat : la démocratie ne survivra q
+ u’en étant réinventée par ses citoyens.\n\nhttps://www.allocine.fr/f
+ ilm/fichefilm_gen_cfilm=1000055779.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055779.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

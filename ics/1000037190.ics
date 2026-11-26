@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000037190-2027-01-06@realalion.github.io
-DTSTAMP:20261126T072129Z
+DTSTAMP:20261126T151820Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:🎬 Les Jours d’après — sortie ciné
-DESCRIPTION:Comédie dramatique\n\nDans un charmant village de campagne\, L
- ouise\, la cinquantaine\, revient seule dans sa maison natale pour la vid
- er. Entre les retrouvailles avec ses amis d’enfance\, la beauté de la 
- nature\, les passages de ses enfants et de son mari\, et la complicité r
- enaissante avec Marc\, son…\n\nhttps://www.allocine.fr/film/fichefilm_g
- en_cfilm=1000037190.html
+DESCRIPTION:Comédie dramatique · 1h30min\n\nDans un charmant village de c
+ ampagne\, Louise\, la cinquantaine\, revient seule dans sa maison natale 
+ pour la vider. Entre les retrouvailles avec ses amis d’enfance\, la bea
+ uté de la nature\, les passages de ses enfants et de son mari\, et la co
+ mplicité renaissante avec Marc\, son…\n\nhttps://www.allocine.fr/film/
+ fichefilm_gen_cfilm=1000037190.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037190.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

@@ -2264,20 +2264,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000037190@realalion.github.io
-DTSTAMP:20261105T061113Z
+DTSTAMP:20261126T151820Z
 CREATED:20261105T061113Z
-LAST-MODIFIED:20261105T061113Z
+LAST-MODIFIED:20261126T151820Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:🎬 Les Jours d’après
-DESCRIPTION:Comédie dramatique\n\nDe Stéphanie Pillonca\n\nDans un charma
- nt village de campagne\, Louise\, la cinquantaine\, revient seule dans sa
-  maison natale pour la vider. Entre les retrouvailles avec ses amis d’e
- nfance\, la beauté de la nature\, les passages de ses enfants et de son 
- mari\, et la complicité renaissante avec Marc\, son…\n\nAlloCiné : ht
- tps://www.allocine.fr/film/fichefilm_gen_cfilm=1000037190.html\n\nSortie 
- officielle au cinéma en France.
+DESCRIPTION:Comédie dramatique · 1h30min\n\nDe Stéphanie Pillonca\n\nDan
+ s un charmant village de campagne\, Louise\, la cinquantaine\, revient se
+ ule dans sa maison natale pour la vider. Entre les retrouvailles avec ses
+  amis d’enfance\, la beauté de la nature\, les passages de ses enfants
+  et de son mari\, et la complicité renaissante avec Marc\, son…\n\nAll
+ oCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037190.html
+ \n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037190.h
  tml
 CATEGORIES:Comédie dramatique
@@ -4116,18 +4116,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000013358@realalion.github.io
-DTSTAMP:20261126T072129Z
+DTSTAMP:20261126T151820Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261126T072129Z
+LAST-MODIFIED:20261126T151820Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:🎬 Mauvaise étoile
-DESCRIPTION:Drame\n\nDe Lola Cambourieu\, Yann Berlier\n\nEn pleine canicul
- e dans une banlieue pavillonnaire du sud de la France\, Alex reproche une
-  fois de plus à Kiki d'avoir merdé. Pourtant Kiki crève d'envie de lui
-  faire plaisir.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen
- _cfilm=1000013358.html\n\nSortie officielle au cinéma en France.
+DESCRIPTION:Drame · 2h12min\n\nDe Lola Cambourieu\, Yann Berlier\n\nEn ple
+ ine canicule dans une banlieue pavillonnaire du sud de la France\, Alex r
+ eproche une fois de plus à Kiki d'avoir merdé. Pourtant Kiki crève d'e
+ nvie de lui faire plaisir.\n\nAlloCiné : https://www.allocine.fr/film/fi
+ chefilm_gen_cfilm=1000013358.html\n\nSortie officielle au cinéma en Fran
+ ce.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013358.h
  tml
 CATEGORIES:Drame
@@ -4176,6 +4177,27 @@ DESCRIPTION:Animation\, Famille · 35min\n\nDe Inès Bernard-Espina\, Mélo
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041813.h
  tml
 CATEGORIES:Animation,Famille
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000055779@realalion.github.io
+DTSTAMP:20261126T151820Z
+CREATED:20261126T151820Z
+LAST-MODIFIED:20261126T151820Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🎬 Rage
+DESCRIPTION:Documentaire · 1h37min\n\nDe la loi Sécurité globale aux ré
+ voltes après la mort de Nahel\, Zak Kedzi et son équipe filment sept an
+ s de colère sociale en France. Un constat : la démocratie ne survivra q
+ u’en étant réinventée par ses citoyens.\n\nAlloCiné : https://www.a
+ llocine.fr/film/fichefilm_gen_cfilm=1000055779.html\n\nSortie officielle 
+ au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055779.h
+ tml
+CATEGORIES:Documentaire
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -4560,20 +4582,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000034898@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261126T151820Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261126T151820Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Feels Like Home
-DESCRIPTION:Thriller\n\nDe Gábor Holtai\n\nSéquestrée par une famille pr
- étendant qu’elle est leur fille disparue\, Rita se voit contrainte d
- ’accepter ce rôle\, tout en cherchant désespérément à s’échappe
- r. C’est alors qu’elle ne tarde pas à découvrir le secret qui unit 
- cette étrange famille…\n\nAlloCiné : https://www.allocine.fr/film/fic
- hefilm_gen_cfilm=1000034898.html\n\nSortie officielle au cinéma en Franc
- e.
+DESCRIPTION:Thriller · 2h05min\n\nDe Gábor Holtai\n\nSéquestrée par une
+  famille prétendant qu’elle est leur fille disparue\, Rita se voit con
+ trainte d’accepter ce rôle\, tout en cherchant désespérément à s
+ ’échapper. C’est alors qu’elle ne tarde pas à découvrir le secre
+ t qui unit cette étrange famille…\n\nAlloCiné : https://www.allocine.
+ fr/film/fichefilm_gen_cfilm=1000034898.html\n\nSortie officielle au ciné
+ ma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034898.h
  tml
 CATEGORIES:Thriller
@@ -4790,18 +4812,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000037484@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261126T151820Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261126T151820Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:🎬 Elsinore
-DESCRIPTION:Biopic\, Drame\n\nDe Simon Stone\n\nLa vie de l’acteur écoss
- ais Ian Charleson (1949-1990)\, révélé par son interprétation d’Eri
- c Liddell dans Les Chariots de feu.\n\nAlloCiné : https://www.allocine.f
- r/film/fichefilm_gen_cfilm=1000037484.html\n\nSortie officielle au ciném
- a en France.
+DESCRIPTION:Biopic\, Drame · 1h51min\n\nDe Simon Stone\n\nLa vie de l’ac
+ teur écossais Ian Charleson (1949-1990)\, révélé par son interprétat
+ ion d’Eric Liddell dans Les Chariots de feu.\n\nAlloCiné : https://www
+ .allocine.fr/film/fichefilm_gen_cfilm=1000037484.html\n\nSortie officiell
+ e au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037484.h
  tml
 CATEGORIES:Biopic,Drame
@@ -4996,6 +5018,27 @@ DESCRIPTION:Drame\n\nDe François Busnel\n\nAu cœur des grands espaces\, u
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030658.h
  tml
 CATEGORIES:Drame
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-123695@realalion.github.io
+DTSTAMP:20261126T151820Z
+CREATED:20261126T151820Z
+LAST-MODIFIED:20261126T151820Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎬 Winnie et ses amis
+DESCRIPTION:Animation\, Famille\n\nDe Fyodor Khitruk\n\nWinnie l’Ourson a
+ ime les petits plaisirs de la vie\, le miel et chanter à tue-tête ! Et 
+ souvent\, il a faim. Et même très très faim. A la recherche de miel\, 
+ il décide de voler jusqu’à un nid\, en s’accrochant à un ballon pr
+ êté par son ami Porcinet...\n\nAlloCiné : https://www.allocine.fr/film
+ /fichefilm_gen_cfilm=123695.html\n\nSortie officielle au cinéma en Franc
+ e.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=123695.html
+CATEGORIES:Animation,Famille
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
