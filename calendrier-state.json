@@ -442,7 +442,7 @@
   },
   "1000008280": {
    "created": "20261123T161812Z",
-   "modified": "20261126T072129Z",
+   "modified": "20261127T150554Z",
    "sequence": 0,
    "fields": {
     "title": "In A Violent Nature 2",
@@ -450,7 +450,7 @@
     "genres": [
      "Epouvante-horreur"
     ],
-    "duration": "1h28min",
+    "duration": "1h29min",
     "directors": [
      "Nathaniel Wilson"
     ],
@@ -1965,16 +1965,15 @@
   },
   "1000021740": {
    "created": "20261008T064216Z",
-   "modified": "20261120T140129Z",
+   "modified": "20261127T150554Z",
    "sequence": 0,
    "fields": {
     "title": "Behemoth!",
     "releaseDate": "2026-12-02",
     "genres": [
-     "Drame",
-     "Musical"
+     "Drame"
     ],
-    "duration": "2h08min",
+    "duration": "2h07min",
     "directors": [
      "Tony Gilroy"
     ],
@@ -4488,7 +4487,7 @@
   },
   "1000034882": {
    "created": "20261019T071228Z",
-   "modified": "20261119T071407Z",
+   "modified": "20261127T150554Z",
    "sequence": 0,
    "fields": {
     "title": "River",
@@ -4496,7 +4495,7 @@
     "genres": [
      "Epouvante-horreur"
     ],
-    "duration": "1h33min",
+    "duration": "1h32min",
     "directors": [
      "Joshua Giuliano"
     ],
@@ -4508,7 +4507,7 @@
   },
   "1000034898": {
    "created": "20261123T161812Z",
-   "modified": "20261126T151820Z",
+   "modified": "20261127T150554Z",
    "sequence": 0,
    "fields": {
     "title": "Feels Like Home",
@@ -4516,7 +4515,7 @@
     "genres": [
      "Thriller"
     ],
-    "duration": "2h05min",
+    "duration": null,
     "directors": [
      "Gábor Holtai"
     ],
@@ -5020,7 +5019,7 @@
   },
   "1000037484": {
    "created": "20261123T161812Z",
-   "modified": "20261126T151820Z",
+   "modified": "20261127T150554Z",
    "sequence": 0,
    "fields": {
     "title": "Elsinore",
@@ -5029,7 +5028,7 @@
      "Biopic",
      "Drame"
     ],
-    "duration": "1h51min",
+    "duration": null,
     "directors": [
      "Simon Stone"
     ],

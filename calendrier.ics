@@ -861,23 +861,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000021740@realalion.github.io
-DTSTAMP:20261120T140129Z
+DTSTAMP:20261127T150554Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261120T140129Z
+LAST-MODIFIED:20261127T150554Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Behemoth!
-DESCRIPTION:Drame\, Musical · 2h08min\n\nDe Tony Gilroy\n\nVioloncelliste 
- de talent\, Alex Serian revient à Los Angeles\, après vingt années pas
- sées sur les routes. La musique\, qui a toujours été le fil conducteur
-  de son existence\, une force aussi omniprésente que dévorante\, entra
- îne Alex dans une aventure qui le changera à jamais.\n\nAlloCiné : htt
- ps://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html\n\nSortie o
- fficielle au cinéma en France.
+DESCRIPTION:Drame · 2h07min\n\nDe Tony Gilroy\n\nVioloncelliste de talent\
+ , Alex Serian revient à Los Angeles\, après vingt années passées sur 
+ les routes. La musique\, qui a toujours été le fil conducteur de son ex
+ istence\, une force aussi omniprésente que dévorante\, entraîne Alex d
+ ans une aventure qui le changera à jamais.\n\nAlloCiné : https://www.al
+ locine.fr/film/fichefilm_gen_cfilm=1000021740.html\n\nSortie officielle a
+ u cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.h
  tml
-CATEGORIES:Drame,Musical
+CATEGORIES:Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -3028,14 +3028,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000034882@realalion.github.io
-DTSTAMP:20261119T071407Z
+DTSTAMP:20261127T150554Z
 CREATED:20261019T071228Z
-LAST-MODIFIED:20261119T071407Z
+LAST-MODIFIED:20261127T150554Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:🎬 River
-DESCRIPTION:Epouvante-horreur · 1h33min\n\nDe Joshua Giuliano\n\nIl n’y 
+DESCRIPTION:Epouvante-horreur · 1h32min\n\nDe Joshua Giuliano\n\nIl n’y 
  a plus de soleil.Plus de moteur sur le bateau.Pas de réseau.Mais il y a 
  quelqu’un sur la rive. À l’affût.\n\nAlloCiné : https://www.alloci
  ne.fr/film/fichefilm_gen_cfilm=1000034882.html\n\nSortie officielle au ci
@@ -4301,14 +4301,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000008280@realalion.github.io
-DTSTAMP:20261126T072129Z
+DTSTAMP:20261127T150554Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261126T072129Z
+LAST-MODIFIED:20261127T150554Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🎬 In A Violent Nature 2
-DESCRIPTION:Epouvante-horreur · 1h28min\n\nDe Nathaniel Wilson\n\nJohnny e
+DESCRIPTION:Epouvante-horreur · 1h29min\n\nDe Nathaniel Wilson\n\nJohnny e
  st de retour\, plus déterminé que jamais à semer la mort sur son passa
  ge. Cette fois\, sa soif de sang va le mener jusqu'à un camp de vacances
   isolé\, où une bande de jeunes s’apprête à célébrer la tradition
@@ -4559,20 +4559,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000034898@realalion.github.io
-DTSTAMP:20261126T151820Z
+DTSTAMP:20261127T150554Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261126T151820Z
+LAST-MODIFIED:20261127T150554Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Feels Like Home
-DESCRIPTION:Thriller · 2h05min\n\nDe Gábor Holtai\n\nSéquestrée par une
-  famille prétendant qu’elle est leur fille disparue\, Rita se voit con
- trainte d’accepter ce rôle\, tout en cherchant désespérément à s
- ’échapper. C’est alors qu’elle ne tarde pas à découvrir le secre
- t qui unit cette étrange famille…\n\nAlloCiné : https://www.allocine.
- fr/film/fichefilm_gen_cfilm=1000034898.html\n\nSortie officielle au ciné
- ma en France.
+DESCRIPTION:Thriller\n\nDe Gábor Holtai\n\nSéquestrée par une famille pr
+ étendant qu’elle est leur fille disparue\, Rita se voit contrainte d
+ ’accepter ce rôle\, tout en cherchant désespérément à s’échappe
+ r. C’est alors qu’elle ne tarde pas à découvrir le secret qui unit 
+ cette étrange famille…\n\nAlloCiné : https://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000034898.html\n\nSortie officielle au cinéma en Franc
+ e.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034898.h
  tml
 CATEGORIES:Thriller
@@ -4789,18 +4789,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000037484@realalion.github.io
-DTSTAMP:20261126T151820Z
+DTSTAMP:20261127T150554Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261126T151820Z
+LAST-MODIFIED:20261127T150554Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:🎬 Elsinore
-DESCRIPTION:Biopic\, Drame · 1h51min\n\nDe Simon Stone\n\nLa vie de l’ac
- teur écossais Ian Charleson (1949-1990)\, révélé par son interprétat
- ion d’Eric Liddell dans Les Chariots de feu.\n\nAlloCiné : https://www
- .allocine.fr/film/fichefilm_gen_cfilm=1000037484.html\n\nSortie officiell
- e au cinéma en France.
+DESCRIPTION:Biopic\, Drame\n\nDe Simon Stone\n\nLa vie de l’acteur écoss
+ ais Ian Charleson (1949-1990)\, révélé par son interprétation d’Eri
+ c Liddell dans Les Chariots de feu.\n\nAlloCiné : https://www.allocine.f
+ r/film/fichefilm_gen_cfilm=1000037484.html\n\nSortie officielle au ciném
+ a en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037484.h
  tml
 CATEGORIES:Biopic,Drame
