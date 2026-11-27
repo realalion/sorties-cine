@@ -819,9 +819,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-313265@realalion.github.io
-DTSTAMP:20261117T142449Z
+DTSTAMP:20261127T071909Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261117T142449Z
+LAST-MODIFIED:20261127T071909Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
@@ -830,34 +830,11 @@ DESCRIPTION:Animation\, Aventure\, Comédie\, Famille\, Historique · 1h26m
  in\n\nDe Alexandre Heboyan\n\nUn village d’irréductibles Gaulois rési
  ste encore et toujours à l’envahisseur… Mais pour combien de temps e
  ncore ? Un élixir de jouvence accidentellement versé dans la potion mag
- ique a transformé tout le village en enfants ! Une seule solution pour A
- stérix et Obélix : voyager…\n\nAlloCiné : https://www.allocine.fr/fi
- lm/fichefilm_gen_cfilm=313265.html\n\nSortie officielle au cinéma en Fra
- nce.
+ ique a transformé tout le village en enfants !\n\nAlloCiné : https://ww
+ w.allocine.fr/film/fichefilm_gen_cfilm=313265.html\n\nSortie officielle a
+ u cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html
 CATEGORIES:Animation,Aventure,Comédie,Famille,Historique
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sortie-cine-1000027075@realalion.github.io
-DTSTAMP:20261008T064216Z
-CREATED:20261008T064216Z
-LAST-MODIFIED:20261008T064216Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:🎬 Avant / Après
-DESCRIPTION:Drame · 1h20min\n\nDe Manoël Dupont\n\nJérémy rencontre Bap
- tiste. Leur calvitie commune les conduit à Istanbul\, où des cliniques 
- promettent de remonter le temps. Au gré des vents changeants et d’une 
- sourde agitation\, ils cherchent un sens dans une ville qui n’est pas l
- a leur. Jour après jour\, un lien fragile se…\n\nAlloCiné : https://w
- ww.allocine.fr/film/fichefilm_gen_cfilm=1000027075.html\n\nSortie officie
- lle au cinéma en France.
-URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027075.h
- tml
-CATEGORIES:Drame
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -948,20 +925,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000031164@realalion.github.io
-DTSTAMP:20261107T114413Z
+DTSTAMP:20261127T071909Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261107T114413Z
+LAST-MODIFIED:20261127T071909Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Fatherland
 DESCRIPTION:Drame · 1h22min\n\nDe Pawel Pawlikowski\n\nEn 1949\, Thomas Ma
- nn (Hanns Zischler)\, lauréat du prix Nobel de littérature\, retourne p
- our la première fois en Allemagne depuis la fin de la guerre\, accompagn
- é de sa fille Erika (Sandra Hüller)\, actrice\, écrivain et pilote de 
- rallye. Au volant d'une Buick noire\, ils…\n\nAlloCiné : https://www.a
- llocine.fr/film/fichefilm_gen_cfilm=1000031164.html\n\nSortie officielle 
- au cinéma en France.
+ nn\, lauréat du prix Nobel de littérature\, retourne pour la première 
+ fois en Allemagne depuis la fin de la guerre\, accompagné de sa fille Er
+ ika. Ils entreprennent un voyage éprouvant dans un pays qu’ils ont fui
+  lors de la prise de pouvoir du parti nazi.\n\nAlloCiné : https://www.al
+ locine.fr/film/fichefilm_gen_cfilm=1000031164.html\n\nSortie officielle a
+ u cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.h
  tml
 CATEGORIES:Drame
@@ -7131,6 +7108,28 @@ DESCRIPTION:Animation\, Famille\n\nDe Priscilla Kellen\n\nUne minuscule gra
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033113.h
  tml
 CATEGORIES:Animation,Famille
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sortie-cine-1000056185@realalion.github.io
+DTSTAMP:20261127T071909Z
+CREATED:20261127T071909Z
+LAST-MODIFIED:20261127T071909Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:🎬 Inspecteur Croquettes
+DESCRIPTION:Animation\, Comédie\n\nDe Benoît Delépine\, Antoine Robert (
+ II)\n\nPoussé par le mystère d’un chat sournois qui grossit et dispar
+ ait sans cesse\, Dagobert alias Inspecteur Croquettes est prié de mener 
+ l’enquête et de découvrir ce que cache son trafic. Tout cela dans une
+  ville victime de sabotages commis par d’étranges « révolutionnaires
+  »\,…\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=
+ 1000056185.html\n\nSortie officielle au cinéma en France.
+URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000056185.h
+ tml
+CATEGORIES:Animation,Comédie
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

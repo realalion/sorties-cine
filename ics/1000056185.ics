@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sorties Cine France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sortie-cine-1000056185-2027-06-23@realalion.github.io
+DTSTAMP:20261127T071909Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:🎬 Inspecteur Croquettes — sortie ciné
+DESCRIPTION:Animation\, Comédie\n\nPoussé par le mystère d’un chat sou
+ rnois qui grossit et disparait sans cesse\, Dagobert alias Inspecteur Cro
+ quettes est prié de mener l’enquête et de découvrir ce que cache son
+  trafic. Tout cela dans une ville victime de sabotages commis par d’ét
+ ranges « révolutionnaires »\,…\n\nhttps://www.allocine.fr/film/fiche
+ film_gen_cfilm=1000056185.html
+URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000056185.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎬 Sortie au cinéma aujourd’hui
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

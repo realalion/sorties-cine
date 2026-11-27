@@ -3107,7 +3107,8 @@
     "synopsis": "Jérémy rencontre Baptiste. Leur calvitie commune les conduit à Istanbul, où des cliniques promettent de remonter le temps. Au gré des vents changeants et d’une sourde agitation, ils cherchent un sens dans une ville qui n’est pas la leur. Jour après jour, un lien fragile se…",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027075.html"
    },
-   "inFeed": true
+   "inFeed": false,
+   "removedOn": "2026-11-27"
   },
   "1000027133": {
    "created": "20261123T161812Z",
@@ -3865,7 +3866,7 @@
   },
   "1000031164": {
    "created": "20261008T064216Z",
-   "modified": "20261107T114413Z",
+   "modified": "20261127T071909Z",
    "sequence": 0,
    "fields": {
     "title": "Fatherland",
@@ -3878,7 +3879,7 @@
      "Pawel Pawlikowski"
     ],
     "cast": [],
-    "synopsis": "En 1949, Thomas Mann (Hanns Zischler), lauréat du prix Nobel de littérature, retourne pour la première fois en Allemagne depuis la fin de la guerre, accompagné de sa fille Erika (Sandra Hüller), actrice, écrivain et pilote de rallye. Au volant d'une Buick noire, ils…",
+    "synopsis": "En 1949, Thomas Mann, lauréat du prix Nobel de littérature, retourne pour la première fois en Allemagne depuis la fin de la guerre, accompagné de sa fille Erika. Ils entreprennent un voyage éprouvant dans un pays qu’ils ont fui lors de la prise de pouvoir du parti nazi.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.html"
    },
    "inFeed": true
@@ -7951,6 +7952,28 @@
    },
    "inFeed": true
   },
+  "1000056185": {
+   "created": "20261127T071909Z",
+   "modified": "20261127T071909Z",
+   "sequence": 0,
+   "fields": {
+    "title": "Inspecteur Croquettes",
+    "releaseDate": "2027-06-23",
+    "genres": [
+     "Animation",
+     "Comédie"
+    ],
+    "duration": null,
+    "directors": [
+     "Benoît Delépine",
+     "Antoine Robert (II)"
+    ],
+    "cast": [],
+    "synopsis": "Poussé par le mystère d’un chat sournois qui grossit et disparait sans cesse, Dagobert alias Inspecteur Croquettes est prié de mener l’enquête et de découvrir ce que cache son trafic. Tout cela dans une ville victime de sabotages commis par d’étranges « révolutionnaires »,…",
+    "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000056185.html"
+   },
+   "inFeed": true
+  },
   "112405": {
    "created": "20261124T155356Z",
    "modified": "20261124T155356Z",
@@ -9545,7 +9568,7 @@
   },
   "313265": {
    "created": "20261008T064216Z",
-   "modified": "20261117T142449Z",
+   "modified": "20261127T071909Z",
    "sequence": 0,
    "fields": {
     "title": "Astérix - Le Royaume de Nubie",
@@ -9562,7 +9585,7 @@
      "Alexandre Heboyan"
     ],
     "cast": [],
-    "synopsis": "Un village d’irréductibles Gaulois résiste encore et toujours à l’envahisseur… Mais pour combien de temps encore ? Un élixir de jouvence accidentellement versé dans la potion magique a transformé tout le village en enfants ! Une seule solution pour Astérix et Obélix : voyager…",
+    "synopsis": "Un village d’irréductibles Gaulois résiste encore et toujours à l’envahisseur… Mais pour combien de temps encore ? Un élixir de jouvence accidentellement versé dans la potion magique a transformé tout le village en enfants !",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html"
    },
    "inFeed": true
