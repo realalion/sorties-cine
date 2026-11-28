@@ -525,7 +525,7 @@
   },
   "1000009119": {
    "created": "20261123T161812Z",
-   "modified": "20261126T072129Z",
+   "modified": "20261128T141258Z",
    "sequence": 0,
    "fields": {
     "title": "Le Prix et la Valeur",
@@ -533,7 +533,7 @@
     "genres": [
      "Drame"
     ],
-    "duration": "2h09min",
+    "duration": null,
     "directors": [
      "Visar Morina"
     ],
@@ -4507,7 +4507,7 @@
   },
   "1000034898": {
    "created": "20261123T161812Z",
-   "modified": "20261128T071919Z",
+   "modified": "20261128T141258Z",
    "sequence": 0,
    "fields": {
     "title": "Feels Like Home",
@@ -4515,7 +4515,7 @@
     "genres": [
      "Thriller"
     ],
-    "duration": "2h05min",
+    "duration": null,
     "directors": [
      "Gábor Holtai"
     ],
@@ -5019,7 +5019,7 @@
   },
   "1000037484": {
    "created": "20261123T161812Z",
-   "modified": "20261128T071919Z",
+   "modified": "20261128T141258Z",
    "sequence": 0,
    "fields": {
     "title": "Elsinore",
@@ -5028,7 +5028,7 @@
      "Biopic",
      "Drame"
     ],
-    "duration": "1h51min",
+    "duration": null,
     "directors": [
      "Simon Stone"
     ],
@@ -5997,7 +5997,7 @@
   },
   "1000044052": {
    "created": "20261119T071407Z",
-   "modified": "20261125T180401Z",
+   "modified": "20261128T141258Z",
    "sequence": 1,
    "fields": {
     "title": "Deux Vies, Trois Morts",
@@ -6005,7 +6005,7 @@
     "genres": [
      "Comédie"
     ],
-    "duration": "1h43min",
+    "duration": null,
     "directors": [
      "Karim Lakzadeh"
     ],

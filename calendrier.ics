@@ -4535,20 +4535,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000044052@realalion.github.io
-DTSTAMP:20261125T180401Z
+DTSTAMP:20261128T141258Z
 CREATED:20261119T071407Z
-LAST-MODIFIED:20261125T180401Z
+LAST-MODIFIED:20261128T141258Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Deux Vies\, Trois Morts
-DESCRIPTION:Comédie · 1h43min\n\nDe Karim Lakzadeh\n\nTrois mineurs survi
- vent à l’effondrement d’une mine mais choisissent de se faire passer
-  pour morts afin que leurs familles touchent une indemnisation. Contraint
- s à une clandestinité absurde\, entre tensions familiales et quête d
- ’identité\, ils traversent l’Iran jusqu’à Téhéran.…\n\nAlloCi
- né : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html\n\
- nSortie officielle au cinéma en France.
+DESCRIPTION:Comédie\n\nDe Karim Lakzadeh\n\nTrois mineurs survivent à l
+ ’effondrement d’une mine mais choisissent de se faire passer pour mor
+ ts afin que leurs familles touchent une indemnisation. Contraints à une 
+ clandestinité absurde\, entre tensions familiales et quête d’identit
+ é\, ils traversent l’Iran jusqu’à Téhéran.…\n\nAlloCiné : http
+ s://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html\n\nSortie of
+ ficielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.h
  tml
 CATEGORIES:Comédie
@@ -4557,20 +4557,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000034898@realalion.github.io
-DTSTAMP:20261128T071919Z
+DTSTAMP:20261128T141258Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261128T071919Z
+LAST-MODIFIED:20261128T141258Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Feels Like Home
-DESCRIPTION:Thriller · 2h05min\n\nDe Gábor Holtai\n\nSéquestrée par une
-  famille prétendant qu’elle est leur fille disparue\, Rita se voit con
- trainte d’accepter ce rôle\, tout en cherchant désespérément à s
- ’échapper. C’est alors qu’elle ne tarde pas à découvrir le secre
- t qui unit cette étrange famille…\n\nAlloCiné : https://www.allocine.
- fr/film/fichefilm_gen_cfilm=1000034898.html\n\nSortie officielle au ciné
- ma en France.
+DESCRIPTION:Thriller\n\nDe Gábor Holtai\n\nSéquestrée par une famille pr
+ étendant qu’elle est leur fille disparue\, Rita se voit contrainte d
+ ’accepter ce rôle\, tout en cherchant désespérément à s’échappe
+ r. C’est alors qu’elle ne tarde pas à découvrir le secret qui unit 
+ cette étrange famille…\n\nAlloCiné : https://www.allocine.fr/film/fic
+ hefilm_gen_cfilm=1000034898.html\n\nSortie officielle au cinéma en Franc
+ e.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034898.h
  tml
 CATEGORIES:Thriller
@@ -4643,20 +4643,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000009119@realalion.github.io
-DTSTAMP:20261126T072129Z
+DTSTAMP:20261128T141258Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261126T072129Z
+LAST-MODIFIED:20261128T141258Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Le Prix et la Valeur
-DESCRIPTION:Drame · 2h09min\n\nDe Visar Morina\n\nLes difficultés financi
- ères s’accumulent pour la famille de Shaban\, obligée de quitter la c
- ampagne kosovare pour la capitale\, Pristina. Sur place\, Shaban peine à
-  trouver un emploi stable et doit composer avec l’aide écrasante de so
- n entourage. Dans cette grande ville qui ne…\n\nAlloCiné : https://www
- .allocine.fr/film/fichefilm_gen_cfilm=1000009119.html\n\nSortie officiell
- e au cinéma en France.
+DESCRIPTION:Drame\n\nDe Visar Morina\n\nLes difficultés financières s’a
+ ccumulent pour la famille de Shaban\, obligée de quitter la campagne kos
+ ovare pour la capitale\, Pristina. Sur place\, Shaban peine à trouver un
+  emploi stable et doit composer avec l’aide écrasante de son entourage
+ . Dans cette grande ville qui ne…\n\nAlloCiné : https://www.allocine.f
+ r/film/fichefilm_gen_cfilm=1000009119.html\n\nSortie officielle au ciném
+ a en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009119.h
  tml
 CATEGORIES:Drame
@@ -4787,18 +4787,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000037484@realalion.github.io
-DTSTAMP:20261128T071919Z
+DTSTAMP:20261128T141258Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261128T071919Z
+LAST-MODIFIED:20261128T141258Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:🎬 Elsinore
-DESCRIPTION:Biopic\, Drame · 1h51min\n\nDe Simon Stone\n\nLa vie de l’ac
- teur écossais Ian Charleson (1949-1990)\, révélé par son interprétat
- ion d’Eric Liddell dans Les Chariots de feu.\n\nAlloCiné : https://www
- .allocine.fr/film/fichefilm_gen_cfilm=1000037484.html\n\nSortie officiell
- e au cinéma en France.
+DESCRIPTION:Biopic\, Drame\n\nDe Simon Stone\n\nLa vie de l’acteur écoss
+ ais Ian Charleson (1949-1990)\, révélé par son interprétation d’Eri
+ c Liddell dans Les Chariots de feu.\n\nAlloCiné : https://www.allocine.f
+ r/film/fichefilm_gen_cfilm=1000037484.html\n\nSortie officielle au ciném
+ a en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037484.h
  tml
 CATEGORIES:Biopic,Drame
