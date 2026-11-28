@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:05:51+00:00",
+  "generatedAt": "2026-11-28T07:19:19+00:00",
   "source": "AlloCiné (agenda sorties France)",
   "sourceUrl": "https://www.allocine.fr/film/agenda/",
   "region": "FR",
@@ -21,7 +21,7 @@
         "Teemu Nikki"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012542.html",
-      "color": "#2EE59D"
+      "color": "#FFD60A"
     },
     {
       "id": "327394",
@@ -37,7 +37,7 @@
         "Léonor Serraille"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327394.html",
-      "color": "#5B8CFF"
+      "color": "#2EE59D"
     },
     {
       "id": "1000051317",
@@ -54,7 +54,7 @@
         "John Dauvin"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051317.html",
-      "color": "#2EE59D"
+      "color": "#00C2FF"
     },
     {
       "id": "313265",
@@ -100,13 +100,13 @@
         "Drame"
       ],
       "duration": "2h07min",
-      "synopsis": "Violoncelliste de talent, Alex Serian revient à Los Angeles, après vingt années passées sur les routes. La musique, qui a toujours été le fil conducteur de son existence, une force aussi omniprésente que dévorante, entraîne Alex dans une aventure qui le changera à jamais.",
+      "synopsis": "Violoncelliste de talent, Alex Serian revient à Los Angeles, après vingt années passées sur les routes. La musique, qui a toujours été le fil conducteur de son existence, entraîne Alex dans une aventure qui le changera à jamais.",
       "poster": null,
       "directors": [
         "Tony Gilroy"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html",
-      "color": "#FF8A5B"
+      "color": "#FF6B35"
     },
     {
       "id": "1000038378",
@@ -115,14 +115,14 @@
       "genres": [
         "Comédie"
       ],
-      "duration": "1h31min",
-      "synopsis": "Claude, 75 ans, aussi charmant qu’irresponsable, est mis à la porte par sa (quatrième) femme. Il se retrouve alors en garde alternée chez ses enfants, qu'il a pourtant évité toute sa vie. Cette cohabitation explosive et improbable pourrait bien, contre toute attente, recoller…",
+      "duration": "1h30min",
+      "synopsis": "Claude, 75 ans, aussi charmant qu’irresponsable, est mis à la porte par sa (quatrième) femme. Il se retrouve alors en garde alternée chez ses enfants, qu'il a pourtant évité toute sa vie.",
       "poster": null,
       "directors": [
         "Clément Michel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html",
-      "color": "#2EE59D"
+      "color": "#B967FF"
     },
     {
       "id": "302095",
@@ -139,7 +139,7 @@
         "Pierre Le Gall"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302095.html",
-      "color": "#FFD60A"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000031164",
@@ -172,7 +172,7 @@
         "Gonzague Legout"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014166.html",
-      "color": "#FF8A5B"
+      "color": "#2EE59D"
     },
     {
       "id": "1000026311",
@@ -188,7 +188,7 @@
         "Julien Elie"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026311.html",
-      "color": "#E8458B"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000044336",
@@ -204,7 +204,7 @@
         "Mathias Mlekuz"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044336.html",
-      "color": "#FF8A5B"
+      "color": "#B967FF"
     },
     {
       "id": "1000024935",
@@ -220,7 +220,7 @@
         "Mehdi Benallal"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024935.html",
-      "color": "#2EE59D"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000023399",
@@ -236,7 +236,7 @@
         "Irene Bailo Carramiñana"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023399.html",
-      "color": "#E8458B"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000055612",
@@ -254,7 +254,7 @@
         "Destin Daniel Cretton"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055612.html",
-      "color": "#FF8A5B"
+      "color": "#E8458B"
     },
     {
       "id": "1000031015",
@@ -287,7 +287,7 @@
         "Tommy Wirkola"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312651.html",
-      "color": "#7C4DFF"
+      "color": "#B967FF"
     },
     {
       "id": "1000003266",
@@ -303,7 +303,7 @@
         "Fredi Devas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003266.html",
-      "color": "#FFD60A"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000044048",
@@ -319,7 +319,7 @@
         "Paul Nouhet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044048.html",
-      "color": "#FF8A5B"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000018371",
@@ -352,7 +352,7 @@
         "Grant Gee"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014226.html",
-      "color": "#5B8CFF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000016226",
@@ -370,7 +370,7 @@
         "Agnieszka Smoczyńska"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016226.html",
-      "color": "#FF6B35"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000025551",
@@ -386,7 +386,7 @@
         "Eva Chen"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025551.html",
-      "color": "#B967FF"
+      "color": "#FF8A5B"
     },
     {
       "id": "204864",
@@ -405,7 +405,7 @@
         "Erica Rivinoja"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=204864.html",
-      "color": "#FF6B35"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000033622",
@@ -421,7 +421,7 @@
         "Christophe Honoré"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033622.html",
-      "color": "#00C2FF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000012486",
@@ -437,7 +437,7 @@
         "Geneviève Dulude-De Celles"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012486.html",
-      "color": "#00C2FF"
+      "color": "#B967FF"
     },
     {
       "id": "1000046828",
@@ -454,7 +454,7 @@
         "Ali Mesbahi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046828.html",
-      "color": "#FF3B5C"
+      "color": "#FFD60A"
     },
     {
       "id": "1000051781",
@@ -470,7 +470,7 @@
         "Benjamin Weiss"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051781.html",
-      "color": "#FF6B35"
+      "color": "#E8458B"
     },
     {
       "id": "1000043825",
@@ -486,7 +486,7 @@
         "Pegah Ahangarani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043825.html",
-      "color": "#FF6B35"
+      "color": "#FF8A5B"
     },
     {
       "id": "296439",
@@ -539,7 +539,7 @@
         "Sébastien Laudenbach"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=319971.html",
-      "color": "#FF8A5B"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000028361",
@@ -555,7 +555,7 @@
         "Ambroise Sabbagh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028361.html",
-      "color": "#2EE59D"
+      "color": "#5B8CFF"
     },
     {
       "id": "324508",
@@ -589,7 +589,7 @@
         "Clio Barnard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022460.html",
-      "color": "#7C4DFF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000024810",
@@ -606,7 +606,7 @@
         "Javier Ambrossi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024810.html",
-      "color": "#2EE59D"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000050663",
@@ -623,7 +623,7 @@
         "Nicolas Saada"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050663.html",
-      "color": "#FF3B5C"
+      "color": "#00C2FF"
     },
     {
       "id": "1000032465",
@@ -655,7 +655,7 @@
         "Coco Tassel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053016.html",
-      "color": "#E8458B"
+      "color": "#B967FF"
     },
     {
       "id": "275256",
@@ -690,7 +690,7 @@
         "Rabah Ameur-Zaïmeche"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047461.html",
-      "color": "#2EE59D"
+      "color": "#00C2FF"
     },
     {
       "id": "309190",
@@ -706,7 +706,7 @@
         "Bruno Santamaría Razo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=309190.html",
-      "color": "#FF6B35"
+      "color": "#2EE59D"
     },
     {
       "id": "1000004507",
@@ -775,7 +775,7 @@
         "Kai Stänicke"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324671.html",
-      "color": "#5B8CFF"
+      "color": "#00C2FF"
     },
     {
       "id": "326180",
@@ -791,7 +791,7 @@
         "Daniel Raim"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326180.html",
-      "color": "#5B8CFF"
+      "color": "#2EE59D"
     },
     {
       "id": "1000017272",
@@ -807,7 +807,7 @@
         "Bertrand Mandico"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017272.html",
-      "color": "#7C4DFF"
+      "color": "#00C2FF"
     },
     {
       "id": "1000016431",
@@ -839,7 +839,7 @@
         "Jay Duplass"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023667.html",
-      "color": "#FF6B35"
+      "color": "#B967FF"
     },
     {
       "id": "1000039482",
@@ -855,7 +855,7 @@
         "Sophie Heldman"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039482.html",
-      "color": "#E8458B"
+      "color": "#2EE59D"
     },
     {
       "id": "294374",
@@ -871,7 +871,7 @@
         "Anthony Chen"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294374.html",
-      "color": "#FFD60A"
+      "color": "#B967FF"
     },
     {
       "id": "1000042575",
@@ -887,7 +887,7 @@
         "Sompot Chidgasornpongse"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042575.html",
-      "color": "#B967FF"
+      "color": "#2EE59D"
     },
     {
       "id": "1000031926",
@@ -903,7 +903,7 @@
         "Ludovic Bernard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031926.html",
-      "color": "#FFD60A"
+      "color": "#B967FF"
     },
     {
       "id": "1000026193",
@@ -936,7 +936,7 @@
         "Hanaël El Yousfi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048761.html",
-      "color": "#B967FF"
+      "color": "#2EE59D"
     },
     {
       "id": "1000036227",
@@ -952,7 +952,7 @@
         "Olivier Ducray"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036227.html",
-      "color": "#FF3B5C"
+      "color": "#B967FF"
     },
     {
       "id": "1000022811",
@@ -968,7 +968,7 @@
         "Noah Segan"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022811.html",
-      "color": "#FF8A5B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000014942",
@@ -986,7 +986,7 @@
         "Rémi Fréchette"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014942.html",
-      "color": "#00C2FF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000036365",
@@ -1002,7 +1002,7 @@
         "Kohei Kadowaki"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036365.html",
-      "color": "#00C2FF"
+      "color": "#B967FF"
     },
     {
       "id": "1000022458",
@@ -1020,7 +1020,7 @@
         "Levin Peter"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022458.html",
-      "color": "#B967FF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000051707",
@@ -1053,7 +1053,7 @@
         "Tom Fontenille"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044050.html",
-      "color": "#FF8A5B"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000028341",
@@ -1085,7 +1085,7 @@
         "Mathieu Denis"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028959.html",
-      "color": "#FFD60A"
+      "color": "#00C2FF"
     },
     {
       "id": "1000018576",
@@ -1101,7 +1101,7 @@
         "Florian Pochlatko"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018576.html",
-      "color": "#2EE59D"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000037196",
@@ -1117,7 +1117,7 @@
         "Walter Thompson-Hernández"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037196.html",
-      "color": "#5B8CFF"
+      "color": "#00C2FF"
     },
     {
       "id": "1000045262",
@@ -1133,7 +1133,7 @@
         "Léolo Victor-Pujebet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045262.html",
-      "color": "#FF8A5B"
+      "color": "#2EE59D"
     },
     {
       "id": "1000035477",
@@ -1149,7 +1149,7 @@
         "Hirokazu Kore-eda"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035477.html",
-      "color": "#FF6B35"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000017996",
@@ -1165,7 +1165,7 @@
         "Élie Wajeman"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017996.html",
-      "color": "#E8458B"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000037190",
@@ -1197,7 +1197,7 @@
         "Luc Picard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021762.html",
-      "color": "#5B8CFF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000029498",
@@ -1213,7 +1213,7 @@
         "Danny Boyle"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.html",
-      "color": "#FF6B35"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000033365",
@@ -1229,7 +1229,7 @@
         "Júlia De Paz Solvas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033365.html",
-      "color": "#FF6B35"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000018715",
@@ -1262,7 +1262,7 @@
         "Mathieu Cesar"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049862.html",
-      "color": "#FF3B5C"
+      "color": "#E8458B"
     },
     {
       "id": "1000015051",
@@ -1279,7 +1279,7 @@
         "Alejandro Monteverde"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015051.html",
-      "color": "#FF8A5B"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000051801",
@@ -1312,7 +1312,7 @@
         "Emily Atef"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312915.html",
-      "color": "#FF6B35"
+      "color": "#E8458B"
     },
     {
       "id": "315018",
@@ -1328,7 +1328,7 @@
         "Aurélien Peilloux"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315018.html",
-      "color": "#00C2FF"
+      "color": "#B967FF"
     },
     {
       "id": "1000050258",
@@ -1344,7 +1344,7 @@
         "François Havez"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050258.html",
-      "color": "#FF3B5C"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000034569",
@@ -1361,7 +1361,7 @@
         "Corinne Sullivan"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034569.html",
-      "color": "#5B8CFF"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000049433",
@@ -1378,7 +1378,7 @@
         "Elizabeth Chai Vasarhelyi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049433.html",
-      "color": "#00C2FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "325279",
@@ -1394,7 +1394,7 @@
         "Kukla Kesherović"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325279.html",
-      "color": "#E8458B"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000023776",
@@ -1426,7 +1426,7 @@
         "Abel Ferry"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327810.html",
-      "color": "#B967FF"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000033616",
@@ -1475,7 +1475,7 @@
         "Michaël R. Roskam"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024109.html",
-      "color": "#FFD60A"
+      "color": "#00C2FF"
     },
     {
       "id": "316022",
@@ -1492,7 +1492,7 @@
         "Andrew Niccol"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316022.html",
-      "color": "#2EE59D"
+      "color": "#B967FF"
     },
     {
       "id": "1000048256",
@@ -1508,7 +1508,7 @@
         "Stany Cambot"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048256.html",
-      "color": "#5B8CFF"
+      "color": "#2EE59D"
     },
     {
       "id": "1000015811",
@@ -1524,7 +1524,7 @@
         "Jesse Eisenberg"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015811.html",
-      "color": "#5B8CFF"
+      "color": "#2EE59D"
     },
     {
       "id": "1000047933",
@@ -1540,7 +1540,7 @@
         "Audrey Bauduin"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047933.html",
-      "color": "#00C2FF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000052052",
@@ -1557,7 +1557,7 @@
         "Edouard Pradel De Lamaze"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052052.html",
-      "color": "#2EE59D"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000029139",
@@ -1573,7 +1573,7 @@
         "Aina Clotet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029139.html",
-      "color": "#00C2FF"
+      "color": "#E8458B"
     },
     {
       "id": "1000034048",
@@ -1589,7 +1589,7 @@
         "Nicole Garcia"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.html",
-      "color": "#5B8CFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "316461",
@@ -1622,7 +1622,7 @@
         "Tiago Guedes"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031477.html",
-      "color": "#FF8A5B"
+      "color": "#2EE59D"
     },
     {
       "id": "1000039330",
@@ -1639,7 +1639,7 @@
         "Hakim Zouhani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039330.html",
-      "color": "#2EE59D"
+      "color": "#E8458B"
     },
     {
       "id": "311446",
@@ -1655,7 +1655,7 @@
         "Gilles Balbastre"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=311446.html",
-      "color": "#2EE59D"
+      "color": "#00C2FF"
     },
     {
       "id": "1000031060",
@@ -1688,7 +1688,7 @@
         "Shahram Mokri"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029952.html",
-      "color": "#FFD60A"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000023483",
@@ -1704,7 +1704,7 @@
         "Radu Jude"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023483.html",
-      "color": "#00C2FF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000047524",
@@ -1715,12 +1715,12 @@
       ],
       "duration": "1h24min",
       "synopsis": "Depuis l’enfance, Vincent Chabloz nourrit une passion profonde pour Derborence, une vallée des Alpes, majestueuse et marquée par son histoire. Le cinéaste animalier nous invite à découvrir ce territoire exceptionnel à travers ceux qui l’habitent toute l’année : renards,…",
-      "poster": "https://fr.web.img3.acsta.net/c_310_420/img/05/d7/05d79f45188c07199ea16210a67f28f4.jpg",
+      "poster": null,
       "directors": [
         "Vincent Chabloz"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047524.html",
-      "color": "#ac9e3b"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000054485",
@@ -1736,7 +1736,7 @@
         "Gérard Guerrieri"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054485.html",
-      "color": "#E8458B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000000503",
@@ -1753,7 +1753,7 @@
         "Leah Nelson"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000503.html",
-      "color": "#00C2FF"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000032798",
@@ -1769,7 +1769,7 @@
         "Goro Kuji"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032798.html",
-      "color": "#FF6B35"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000034882",
@@ -1780,12 +1780,12 @@
       ],
       "duration": "1h32min",
       "synopsis": "Il n’y a plus de soleil.Plus de moteur sur le bateau.Pas de réseau.Mais il y a quelqu’un sur la rive. À l’affût.",
-      "poster": null,
+      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/db/50/db50dda00f9369bf45a0b8789e461d9c.jpg",
       "directors": [
         "Joshua Giuliano"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034882.html",
-      "color": "#B967FF"
+      "color": "#7e3700"
     },
     {
       "id": "1000044335",
@@ -1801,7 +1801,7 @@
         "Karine Silla"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044335.html",
-      "color": "#2EE59D"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000027308",
@@ -1833,7 +1833,7 @@
         "Tudor Giurgiu"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048032.html",
-      "color": "#5B8CFF"
+      "color": "#2EE59D"
     },
     {
       "id": "310517",
@@ -1849,7 +1849,7 @@
         "Mees Peijnenburg"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310517.html",
-      "color": "#FFD60A"
+      "color": "#B967FF"
     },
     {
       "id": "1000025577",
@@ -1882,7 +1882,7 @@
         "Karen Di Porto"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046527.html",
-      "color": "#5B8CFF"
+      "color": "#E8458B"
     },
     {
       "id": "1000023874",
@@ -1915,7 +1915,7 @@
         "Andrew Goff"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050293.html",
-      "color": "#2EE59D"
+      "color": "#FFD60A"
     },
     {
       "id": "324542",
@@ -1931,7 +1931,7 @@
         "Zou Jing"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324542.html",
-      "color": "#FF8A5B"
+      "color": "#FFD60A"
     },
     {
       "id": "1000052470",
@@ -1947,7 +1947,7 @@
         "Nicolas Réglat"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052470.html",
-      "color": "#7C4DFF"
+      "color": "#B967FF"
     },
     {
       "id": "1000039229",
@@ -1965,7 +1965,7 @@
         "Kiyoshi Kurosawa"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039229.html",
-      "color": "#E8458B"
+      "color": "#FFD60A"
     },
     {
       "id": "255111",
@@ -1983,7 +1983,7 @@
         "Gina Prince-Bythewood"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=255111.html",
-      "color": "#E8458B"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000034545",
@@ -1999,7 +1999,7 @@
         "Mathieu Sapin"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034545.html",
-      "color": "#FF6B35"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000023486",
@@ -2016,7 +2016,7 @@
         "Bo-Sol Kim"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023486.html",
-      "color": "#E8458B"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000025683",
@@ -2034,7 +2034,7 @@
         "Laurent Bru"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025683.html",
-      "color": "#FF3B5C"
+      "color": "#FF8A5B"
     },
     {
       "id": "314259",
@@ -2050,7 +2050,7 @@
         "Bobby Moresco"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314259.html",
-      "color": "#2EE59D"
+      "color": "#00C2FF"
     },
     {
       "id": "1000007344",
@@ -2066,7 +2066,7 @@
         "Jacques Maillot"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007344.html",
-      "color": "#FF3B5C"
+      "color": "#FF8A5B"
     },
     {
       "id": "320833",
@@ -2098,7 +2098,7 @@
         "Mostafa Heravi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052525.html",
-      "color": "#B967FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000016340",
@@ -2114,7 +2114,7 @@
       "poster": null,
       "directors": [],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016340.html",
-      "color": "#5B8CFF"
+      "color": "#FF8A5B"
     },
     {
       "id": "300592",
@@ -2130,7 +2130,7 @@
         "Maxime Roy"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300592.html",
-      "color": "#FF8A5B"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000043346",
@@ -2146,7 +2146,7 @@
         "Marie Clémentine Dusabejambo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043346.html",
-      "color": "#5B8CFF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000041526",
@@ -2164,7 +2164,7 @@
         "Jean-Paul Guigue"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041526.html",
-      "color": "#FF8A5B"
+      "color": "#B967FF"
     },
     {
       "id": "1000014959",
@@ -2199,7 +2199,7 @@
         "Julie Bertuccelli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043425.html",
-      "color": "#00C2FF"
+      "color": "#E8458B"
     },
     {
       "id": "1000024790",
@@ -2215,7 +2215,7 @@
         "Hubert Caron-Guay"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024790.html",
-      "color": "#5B8CFF"
+      "color": "#FF8A5B"
     },
     {
       "id": "21247",
@@ -2231,7 +2231,7 @@
         "Konrad Wolf"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=21247.html",
-      "color": "#B967FF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000045317",
@@ -2247,7 +2247,7 @@
         "Barrie Kosky"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045317.html",
-      "color": "#5B8CFF"
+      "color": "#2EE59D"
     },
     {
       "id": "327299",
@@ -2265,7 +2265,7 @@
         "Rainer Frimmel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327299.html",
-      "color": "#FF3B5C"
+      "color": "#FF6B35"
     },
     {
       "id": "51579",
@@ -2297,7 +2297,7 @@
         "Fabianny Deschamps"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040093.html",
-      "color": "#7C4DFF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000044865",
@@ -2313,7 +2313,7 @@
         "Linda Hambäck"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044865.html",
-      "color": "#FF6B35"
+      "color": "#E8458B"
     },
     {
       "id": "280074",
@@ -2330,7 +2330,7 @@
         "Julien Chheng"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=280074.html",
-      "color": "#FF3B5C"
+      "color": "#E8458B"
     },
     {
       "id": "318151",
@@ -2347,7 +2347,7 @@
         "Shahrbanoo Sadat"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318151.html",
-      "color": "#7C4DFF"
+      "color": "#E8458B"
     },
     {
       "id": "1000011453",
@@ -2365,7 +2365,7 @@
         "M. Night Shyamalan"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000011453.html",
-      "color": "#2EE59D"
+      "color": "#FF6B35"
     },
     {
       "id": "40672",
@@ -2383,7 +2383,7 @@
         "Wolfgang Kohlhaase"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=40672.html",
-      "color": "#B967FF"
+      "color": "#E8458B"
     },
     {
       "id": "1000023611",
@@ -2416,7 +2416,7 @@
         "Ira Sachs"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032383.html",
-      "color": "#B967FF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000055979",
@@ -2433,7 +2433,7 @@
         "Pauline Cabrol-Mathieu"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055979.html",
-      "color": "#5B8CFF"
+      "color": "#B967FF"
     },
     {
       "id": "1000037332",
@@ -2466,7 +2466,7 @@
         "Kathleen Good"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024585.html",
-      "color": "#FF6B35"
+      "color": "#00C2FF"
     },
     {
       "id": "1000039576",
@@ -2482,7 +2482,7 @@
         "Yûsuke Hirota"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039576.html",
-      "color": "#2EE59D"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000022203",
@@ -2498,7 +2498,7 @@
         "Blerta Basholli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022203.html",
-      "color": "#00C2FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "146592",
@@ -2569,7 +2569,7 @@
         "Rahma Benhamou-El Madani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044110.html",
-      "color": "#FFD60A"
+      "color": "#00C2FF"
     },
     {
       "id": "1000043430",
@@ -2586,7 +2586,7 @@
         "Rahma Benhamou-El Madani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043430.html",
-      "color": "#00C2FF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000044691",
@@ -2602,7 +2602,7 @@
         "Pierre-François Martin-Laval"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044691.html",
-      "color": "#00C2FF"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000013358",
@@ -2619,7 +2619,7 @@
         "Yann Berlier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013358.html",
-      "color": "#FFD60A"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000039624",
@@ -2636,7 +2636,7 @@
         "Gilles de Maistre"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039624.html",
-      "color": "#E8458B"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000041813",
@@ -2655,7 +2655,7 @@
         "Clémentine Campos"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041813.html",
-      "color": "#FF8A5B"
+      "color": "#2EE59D"
     },
     {
       "id": "1000055779",
@@ -2667,7 +2667,9 @@
       "duration": "1h37min",
       "synopsis": "De la loi Sécurité globale aux révoltes après la mort de Nahel, Zak Kedzi et son équipe filment sept ans de colère sociale en France. Un constat : la démocratie ne survivra qu’en étant réinventée par ses citoyens.",
       "poster": null,
-      "directors": [],
+      "directors": [
+        "Zak Kedzi"
+      ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055779.html",
       "color": "#2EE59D"
     },
@@ -2687,7 +2689,7 @@
         "Jeremy Saulnier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023777.html",
-      "color": "#FFD60A"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000019085",
@@ -2704,7 +2706,7 @@
         "Potsy Ponciroli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019085.html",
-      "color": "#2EE59D"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000016291",
@@ -2721,7 +2723,7 @@
         "Raphaël Balboni"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016291.html",
-      "color": "#E8458B"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000041162",
@@ -2737,7 +2739,7 @@
         "Chloé Jouannet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041162.html",
-      "color": "#7C4DFF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000020507",
@@ -2753,7 +2755,7 @@
         "Emmanuel Courcol"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020507.html",
-      "color": "#2EE59D"
+      "color": "#FF6B35"
     },
     {
       "id": "285136",
@@ -2785,7 +2787,7 @@
         "Nathaniel Wilson"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000008280.html",
-      "color": "#FF8A5B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000047034",
@@ -2801,7 +2803,7 @@
         "Paul Leluc"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047034.html",
-      "color": "#FFD60A"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000055455",
@@ -2833,7 +2835,7 @@
         "Sylvain Desclous"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055207.html",
-      "color": "#FF8A5B"
+      "color": "#FFD60A"
     },
     {
       "id": "1000004480",
@@ -2849,7 +2851,7 @@
         "Guy Ritchie"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004480.html",
-      "color": "#5B8CFF"
+      "color": "#E8458B"
     },
     {
       "id": "1000049635",
@@ -2865,7 +2867,7 @@
         "Mohsen Gharaei"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049635.html",
-      "color": "#5B8CFF"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000025672",
@@ -2881,7 +2883,7 @@
         "Dani Sancho"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025672.html",
-      "color": "#FFD60A"
+      "color": "#00C2FF"
     },
     {
       "id": "1000026607",
@@ -2915,7 +2917,7 @@
         "Frédéric Quiring"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044851.html",
-      "color": "#2EE59D"
+      "color": "#E8458B"
     },
     {
       "id": "1000027133",
@@ -2931,7 +2933,7 @@
         "Sho Miyake"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027133.html",
-      "color": "#00C2FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000014174",
@@ -2947,7 +2949,7 @@
         "Mikhaël Hers"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014174.html",
-      "color": "#B967FF"
+      "color": "#00C2FF"
     },
     {
       "id": "1000044052",
@@ -2963,7 +2965,7 @@
         "Karim Lakzadeh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044052.html",
-      "color": "#FF6B35"
+      "color": "#2EE59D"
     },
     {
       "id": "1000034898",
@@ -2972,7 +2974,7 @@
       "genres": [
         "Thriller"
       ],
-      "duration": null,
+      "duration": "2h05min",
       "synopsis": "Séquestrée par une famille prétendant qu’elle est leur fille disparue, Rita se voit contrainte d’accepter ce rôle, tout en cherchant désespérément à s’échapper. C’est alors qu’elle ne tarde pas à découvrir le secret qui unit cette étrange famille…",
       "poster": null,
       "directors": [
@@ -3027,7 +3029,7 @@
         "May el-Toukhy"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031694.html",
-      "color": "#E8458B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000009119",
@@ -3043,7 +3045,7 @@
         "Visar Morina"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009119.html",
-      "color": "#B967FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000031017",
@@ -3059,7 +3061,7 @@
         "Emile Gaudreault"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031017.html",
-      "color": "#2EE59D"
+      "color": "#FFD60A"
     },
     {
       "id": "1000039766",
@@ -3076,7 +3078,7 @@
         "David Dufresne"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039766.html",
-      "color": "#5B8CFF"
+      "color": "#FF8A5B"
     },
     {
       "id": "318141",
@@ -3092,7 +3094,7 @@
         "Tommaso Usberti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318141.html",
-      "color": "#FF8A5B"
+      "color": "#FFD60A"
     },
     {
       "id": "1000033019",
@@ -3125,7 +3127,7 @@
         "Pierre Godeau"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035548.html",
-      "color": "#2EE59D"
+      "color": "#7C4DFF"
     },
     {
       "id": "328095",
@@ -3141,7 +3143,7 @@
         "Mariana Otero"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328095.html",
-      "color": "#FF3B5C"
+      "color": "#B967FF"
     },
     {
       "id": "1000037484",
@@ -3151,7 +3153,7 @@
         "Biopic",
         "Drame"
       ],
-      "duration": null,
+      "duration": "1h51min",
       "synopsis": "La vie de l’acteur écossais Ian Charleson (1949-1990), révélé par son interprétation d’Eric Liddell dans Les Chariots de feu.",
       "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
       "directors": [
@@ -3174,7 +3176,7 @@
         "Mohammed Sawwaf"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019670.html",
-      "color": "#E8458B"
+      "color": "#2EE59D"
     },
     {
       "id": "1000031546",
@@ -3190,7 +3192,7 @@
         "Virgil Vernier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031546.html",
-      "color": "#2EE59D"
+      "color": "#FF6B35"
     },
     {
       "id": "1000049221",
@@ -3206,7 +3208,7 @@
         "Maurice Hermet"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049221.html",
-      "color": "#7C4DFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000044588",
@@ -3222,7 +3224,7 @@
         "Eric Lavaine"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044588.html",
-      "color": "#FFD60A"
+      "color": "#E8458B"
     },
     {
       "id": "119080",
@@ -3256,7 +3258,7 @@
         "Reynold de Guenyveau"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053284.html",
-      "color": "#FF8A5B"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000022994",
@@ -3272,7 +3274,7 @@
         "Antoine Giorgini"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022994.html",
-      "color": "#FF6B35"
+      "color": "#E8458B"
     },
     {
       "id": "1000026045",
@@ -3290,7 +3292,7 @@
         "Enrico Casarosa"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026045.html",
-      "color": "#5B8CFF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000030658",
@@ -3306,7 +3308,7 @@
         "François Busnel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030658.html",
-      "color": "#FFD60A"
+      "color": "#FF3B5C"
     },
     {
       "id": "123695",
@@ -3323,7 +3325,7 @@
         "Fyodor Khitruk"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=123695.html",
-      "color": "#FFD60A"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000053992",
@@ -3339,7 +3341,7 @@
         "Alain Kassanda"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053992.html",
-      "color": "#5B8CFF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000030693",
@@ -3355,7 +3357,7 @@
         "Andrew Haigh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030693.html",
-      "color": "#FF8A5B"
+      "color": "#B967FF"
     },
     {
       "id": "1000048894",
@@ -3371,7 +3373,7 @@
         "Ornella Pacchioni"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048894.html",
-      "color": "#00C2FF"
+      "color": "#E8458B"
     },
     {
       "id": "1000013602",
@@ -3387,7 +3389,7 @@
         "Cécile Allegra"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013602.html",
-      "color": "#00C2FF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000020292",
@@ -3405,7 +3407,7 @@
         "Alexandre Astier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020292.html",
-      "color": "#FFD60A"
+      "color": "#FF8A5B"
     },
     {
       "id": "294813",
@@ -3437,7 +3439,7 @@
         "Laetitia Carton"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000008859.html",
-      "color": "#E8458B"
+      "color": "#2EE59D"
     },
     {
       "id": "313959",
@@ -3486,7 +3488,7 @@
         "Jennifer Devoldere"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036768.html",
-      "color": "#FF6B35"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000055151",
@@ -3518,7 +3520,7 @@
         "Moshe Rosenthal"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037172.html",
-      "color": "#B967FF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000020045",
@@ -3534,7 +3536,7 @@
         "Diego Luna"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020045.html",
-      "color": "#FF3B5C"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000044054",
@@ -3551,7 +3553,7 @@
         "Aline Suter"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044054.html",
-      "color": "#2EE59D"
+      "color": "#E8458B"
     },
     {
       "id": "326225",
@@ -3567,7 +3569,7 @@
         "Kasia Adamik"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326225.html",
-      "color": "#00C2FF"
+      "color": "#FFD60A"
     },
     {
       "id": "313042",
@@ -3584,7 +3586,7 @@
         "Liu Jian"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313042.html",
-      "color": "#FFD60A"
+      "color": "#B967FF"
     },
     {
       "id": "1000052461",
@@ -3600,7 +3602,7 @@
         "Roland Nurier"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052461.html",
-      "color": "#5B8CFF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000027465",
@@ -3616,7 +3618,7 @@
         "Thomas Vernay"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027465.html",
-      "color": "#5B8CFF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000047506",
@@ -3665,7 +3667,7 @@
         "Élise Girard"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022204.html",
-      "color": "#B967FF"
+      "color": "#E8458B"
     },
     {
       "id": "1000039177",
@@ -3681,7 +3683,7 @@
         "Vincent Mariette"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039177.html",
-      "color": "#FF3B5C"
+      "color": "#2EE59D"
     },
     {
       "id": "1000006479",
@@ -3697,7 +3699,7 @@
         "Sara Ishaq"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000006479.html",
-      "color": "#FF3B5C"
+      "color": "#FFD60A"
     },
     {
       "id": "1000054824",
@@ -3713,7 +3715,7 @@
         "Bruno François-Boucher"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054824.html",
-      "color": "#FF3B5C"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000053446",
@@ -3730,7 +3732,7 @@
         "Jérémy Laval"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053446.html",
-      "color": "#FF8A5B"
+      "color": "#B967FF"
     },
     {
       "id": "1000039221",
@@ -3746,7 +3748,7 @@
         "Mélanie Auffret"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039221.html",
-      "color": "#E8458B"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000022207",
@@ -3762,7 +3764,7 @@
         "Thomas Lilti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022207.html",
-      "color": "#2EE59D"
+      "color": "#B967FF"
     },
     {
       "id": "1000019336",
@@ -3778,7 +3780,7 @@
         "Mike Leigh"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019336.html",
-      "color": "#7C4DFF"
+      "color": "#FFD60A"
     },
     {
       "id": "1000023178",
@@ -3812,7 +3814,7 @@
         "Paul Negoescu"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039580.html",
-      "color": "#5B8CFF"
+      "color": "#7C4DFF"
     },
     {
       "id": "1000054209",
@@ -3844,7 +3846,7 @@
         "Margherita Spampinato"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027163.html",
-      "color": "#FF3B5C"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000002997",
@@ -3894,7 +3896,7 @@
         "Volker Schlöndorff"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029992.html",
-      "color": "#FF6B35"
+      "color": "#FFD60A"
     },
     {
       "id": "1000016065",
@@ -3929,7 +3931,7 @@
         "Léahn Vivier-Chapas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=257274.html",
-      "color": "#FF8A5B"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000036259",
@@ -3945,7 +3947,7 @@
         "Guy Nattiv"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036259.html",
-      "color": "#FFD60A"
+      "color": "#E8458B"
     },
     {
       "id": "289083",
@@ -3962,7 +3964,7 @@
         "Konstantina Kotzamani"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=289083.html",
-      "color": "#5B8CFF"
+      "color": "#B967FF"
     },
     {
       "id": "1000013719",
@@ -3978,7 +3980,7 @@
         "Radu Mihaileanu"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013719.html",
-      "color": "#FF8A5B"
+      "color": "#FF6B35"
     },
     {
       "id": "1000017999",
@@ -4011,7 +4013,7 @@
         "Cheyenne Carron"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054039.html",
-      "color": "#E8458B"
+      "color": "#2EE59D"
     },
     {
       "id": "1000028340",
@@ -4029,7 +4031,7 @@
         "Hirase Kentaro"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028340.html",
-      "color": "#2EE59D"
+      "color": "#B967FF"
     },
     {
       "id": "1000043418",
@@ -4045,7 +4047,7 @@
         "Frank Bellocq"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043418.html",
-      "color": "#2EE59D"
+      "color": "#00C2FF"
     },
     {
       "id": "325263",
@@ -4061,7 +4063,7 @@
         "Guillaume Massart"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325263.html",
-      "color": "#5B8CFF"
+      "color": "#00C2FF"
     },
     {
       "id": "1000027643",
@@ -4079,7 +4081,7 @@
         "Paolo Strippoli"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027643.html",
-      "color": "#FF8A5B"
+      "color": "#FF6B35"
     },
     {
       "id": "1000035793",
@@ -4097,7 +4099,7 @@
         "Gabriel Osorio Vargas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035793.html",
-      "color": "#E8458B"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000033759",
@@ -4131,7 +4133,7 @@
         "Faraz Shariat"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007308.html",
-      "color": "#2EE59D"
+      "color": "#E8458B"
     },
     {
       "id": "1000050038",
@@ -4149,7 +4151,7 @@
         "David Sarrio"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050038.html",
-      "color": "#7C4DFF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000017329",
@@ -4184,7 +4186,7 @@
         "Roshan Sethi"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024299.html",
-      "color": "#FFD60A"
+      "color": "#E8458B"
     },
     {
       "id": "1000034686",
@@ -4202,7 +4204,7 @@
         "Harald Zwart"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034686.html",
-      "color": "#FF8A5B"
+      "color": "#00C2FF"
     },
     {
       "id": "1000034556",
@@ -4219,7 +4221,7 @@
         "Bastien Daret"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034556.html",
-      "color": "#7C4DFF"
+      "color": "#E8458B"
     },
     {
       "id": "328094",
@@ -4230,12 +4232,12 @@
       ],
       "duration": null,
       "synopsis": "Simone et Jeannine fréquentent le même club de broderie à Montpellier. Elles sont voisines. Un jour, Jeannine ne brode plus qu’en rouge. Simone, elle, n’est plus la même depuis l’arrivée de Léa, une aide à domicile dont elle estime ne pas avoir besoin.",
-      "poster": "https://fr.web.img5.acsta.net/c_310_420/img/1d/96/1d96cb22b084d54e0db546aaaa036e4f.jpg",
+      "poster": null,
       "directors": [
         "Dominique Cabrera"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328094.html",
-      "color": "#be4840"
+      "color": "#FF6B35"
     },
     {
       "id": "1000026727",
@@ -4251,7 +4253,7 @@
         "July Jung"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026727.html",
-      "color": "#2EE59D"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000030646",
@@ -4267,7 +4269,7 @@
         "Clovis Cornillac"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030646.html",
-      "color": "#B967FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000033612",
@@ -4284,7 +4286,7 @@
         "Felix Randau"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033612.html",
-      "color": "#FF8A5B"
+      "color": "#2EE59D"
     },
     {
       "id": "1000054996",
@@ -4295,13 +4297,13 @@
       ],
       "duration": null,
       "synopsis": "Le Caire, 2009. Salem retrouve sa famille dans le quartier copte des chiffonniers, où son beau-frère lui confie un élevage de porcs, essentiel au système de recyclage des déchets. Alors qu’il trouve sa place dans la communauté, des cas de grippe porcine à l’autre bout du…",
-      "poster": null,
+      "poster": "https://fr.web.img6.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png",
       "directors": [
         "Rani Massalha",
         "Salem Massalha"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054996.html",
-      "color": "#7C4DFF"
+      "color": "#e0e0e0"
     },
     {
       "id": "1000031289",
@@ -4317,7 +4319,7 @@
         "Frank Berry (II)"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031289.html",
-      "color": "#B967FF"
+      "color": "#FF6B35"
     },
     {
       "id": "326985",
@@ -4334,7 +4336,7 @@
         "Sam Esmail"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326985.html",
-      "color": "#00C2FF"
+      "color": "#FF6B35"
     },
     {
       "id": "318243",
@@ -4350,7 +4352,7 @@
         "Maja Ajmia Zellama"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318243.html",
-      "color": "#FF8A5B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000039956",
@@ -4367,7 +4369,7 @@
         "Gael García Bernal"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039956.html",
-      "color": "#7C4DFF"
+      "color": "#FF6B35"
     },
     {
       "id": "1000046438",
@@ -4400,7 +4402,7 @@
         "Xavier Giacometti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047793.html",
-      "color": "#2EE59D"
+      "color": "#FF6B35"
     },
     {
       "id": "1000048882",
@@ -4416,7 +4418,7 @@
         "Tyler Falbo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048882.html",
-      "color": "#FF6B35"
+      "color": "#E8458B"
     },
     {
       "id": "316140",
@@ -4433,7 +4435,7 @@
         "Jaume Collet-Serra"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316140.html",
-      "color": "#FF3B5C"
+      "color": "#E8458B"
     },
     {
       "id": "1000013357",
@@ -4449,7 +4451,7 @@
         "Pierre Menahem"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013357.html",
-      "color": "#FF3B5C"
+      "color": "#FFD60A"
     },
     {
       "id": "32243",
@@ -4466,7 +4468,7 @@
         "Hayao Miyazaki"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=32243.html",
-      "color": "#5B8CFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "1000020504",
@@ -4483,7 +4485,7 @@
         "Lionel Samain"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020504.html",
-      "color": "#5B8CFF"
+      "color": "#FFD60A"
     },
     {
       "id": "53230",
@@ -4499,7 +4501,7 @@
         "Taiji Yabushita"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=53230.html",
-      "color": "#5B8CFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "305524",
@@ -4533,7 +4535,7 @@
         "Matt Black"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014772.html",
-      "color": "#FFD60A"
+      "color": "#E8458B"
     },
     {
       "id": "315382",
@@ -4569,7 +4571,7 @@
         "Stephen Moyer"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=308363.html",
-      "color": "#5B8CFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "326685",
@@ -4587,7 +4589,7 @@
         "Frederik Du Chau"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326685.html",
-      "color": "#E8458B"
+      "color": "#00C2FF"
     },
     {
       "id": "1000025901",
@@ -4603,7 +4605,7 @@
         "Giuseppe Tornatore"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025901.html",
-      "color": "#B967FF"
+      "color": "#5B8CFF"
     },
     {
       "id": "327936",
@@ -4686,7 +4688,7 @@
         "Yulin Kuang"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=317392.html",
-      "color": "#FF6B35"
+      "color": "#00C2FF"
     },
     {
       "id": "1000044866",
@@ -4702,7 +4704,7 @@
         "Cherifa Bakhti"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044866.html",
-      "color": "#7C4DFF"
+      "color": "#00C2FF"
     },
     {
       "id": "1000016853",
@@ -4718,7 +4720,7 @@
         "Manon Coubia"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016853.html",
-      "color": "#2EE59D"
+      "color": "#FFD60A"
     },
     {
       "id": "1000044861",
@@ -4767,7 +4769,7 @@
         "Oliver Mears"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046138.html",
-      "color": "#2EE59D"
+      "color": "#00C2FF"
     },
     {
       "id": "1000024534",
@@ -4803,7 +4805,7 @@
         "Olivier Staphylas"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=317063.html",
-      "color": "#FF6B35"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000020312",
@@ -4819,7 +4821,7 @@
         "Fernando Eimbcke"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020312.html",
-      "color": "#FF8A5B"
+      "color": "#00C2FF"
     },
     {
       "id": "1000001157",
@@ -4936,7 +4938,7 @@
         "Parker Finn"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004913.html",
-      "color": "#7C4DFF"
+      "color": "#E8458B"
     },
     {
       "id": "1000034931",
@@ -4952,7 +4954,7 @@
         "Florin Serban"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034931.html",
-      "color": "#5B8CFF"
+      "color": "#FF3B5C"
     },
     {
       "id": "264579",
@@ -5019,7 +5021,7 @@
         "Antoine Robert (II)"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000056185.html",
-      "color": "#00C2FF"
+      "color": "#E8458B"
     },
     {
       "id": "304749",
@@ -5108,7 +5110,7 @@
         "Pascale Ferland"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041217.html",
-      "color": "#B967FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "112405",
@@ -5162,7 +5164,7 @@
         "Lino DiSalvo"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004736.html",
-      "color": "#FF3B5C"
+      "color": "#E8458B"
     },
     {
       "id": "292824",
@@ -5180,7 +5182,7 @@
         "Bong Joon Ho"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=292824.html",
-      "color": "#2EE59D"
+      "color": "#FF3B5C"
     },
     {
       "id": "310037",
@@ -5198,7 +5200,7 @@
         "Albert Pereira Lazaro"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310037.html",
-      "color": "#E8458B"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000041593",
@@ -5215,7 +5217,7 @@
         "Josh Boone"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041593.html",
-      "color": "#E8458B"
+      "color": "#2EE59D"
     },
     {
       "id": "1000024815",
@@ -5248,7 +5250,7 @@
         "Alexandre Aja"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009070.html",
-      "color": "#FF8A5B"
+      "color": "#E8458B"
     },
     {
       "id": "1000033017",
@@ -5317,7 +5319,7 @@
         "Joe Brumm"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017186.html",
-      "color": "#FF6B35"
+      "color": "#FF3B5C"
     },
     {
       "id": "310244",
@@ -5385,7 +5387,7 @@
         "Teyana Taylor"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328255.html",
-      "color": "#FF3B5C"
+      "color": "#FFD60A"
     },
     {
       "id": "1000052825",
@@ -5520,7 +5522,7 @@
         "Toby Genkel"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=261833.html",
-      "color": "#2EE59D"
+      "color": "#E8458B"
     },
     {
       "id": "1000013823",
@@ -5556,7 +5558,7 @@
         "Rémi Chayé"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302467.html",
-      "color": "#E8458B"
+      "color": "#FF8A5B"
     },
     {
       "id": "1000034767",
@@ -5642,7 +5644,7 @@
         "Ben Falcone"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=256810.html",
-      "color": "#00C2FF"
+      "color": "#FF6B35"
     },
     {
       "id": "324511",
@@ -5710,7 +5712,7 @@
         "Siân Heder"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000006596.html",
-      "color": "#FFD60A"
+      "color": "#00C2FF"
     },
     {
       "id": "255013",
@@ -5887,7 +5889,7 @@
         "Caitlin Vanarsdale"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027749.html",
-      "color": "#7C4DFF"
+      "color": "#5B8CFF"
     },
     {
       "id": "1000054573",
@@ -6091,7 +6093,7 @@
         "Sam Mendes"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327009.html",
-      "color": "#FF8A5B"
+      "color": "#FF6B35"
     },
     {
       "id": "327008",
@@ -6109,7 +6111,7 @@
         "Sam Mendes"
       ],
       "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327008.html",
-      "color": "#B967FF"
+      "color": "#FF3B5C"
     },
     {
       "id": "327007",
@@ -6562,7 +6564,7 @@
     },
     {
       "id": "312101",
-      "title": "Untitled Black Panther 3",
+      "title": "Black Panther 3",
       "releaseDate": "2028-12-13",
       "genres": [
         "Action",

@@ -861,9 +861,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000021740@realalion.github.io
-DTSTAMP:20261127T150554Z
+DTSTAMP:20261128T071919Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261127T150554Z
+LAST-MODIFIED:20261128T071919Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
@@ -871,10 +871,9 @@ SUMMARY:🎬 Behemoth!
 DESCRIPTION:Drame · 2h07min\n\nDe Tony Gilroy\n\nVioloncelliste de talent\
  , Alex Serian revient à Los Angeles\, après vingt années passées sur 
  les routes. La musique\, qui a toujours été le fil conducteur de son ex
- istence\, une force aussi omniprésente que dévorante\, entraîne Alex d
- ans une aventure qui le changera à jamais.\n\nAlloCiné : https://www.al
- locine.fr/film/fichefilm_gen_cfilm=1000021740.html\n\nSortie officielle a
- u cinéma en France.
+ istence\, entraîne Alex dans une aventure qui le changera à jamais.\n\n
+ AlloCiné : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.h
+ tml\n\nSortie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.h
  tml
 CATEGORIES:Drame
@@ -883,20 +882,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000038378@realalion.github.io
-DTSTAMP:20261124T155356Z
+DTSTAMP:20261128T071919Z
 CREATED:20261008T064216Z
-LAST-MODIFIED:20261124T155356Z
+LAST-MODIFIED:20261128T071919Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎬 Claude
-DESCRIPTION:Comédie · 1h31min\n\nDe Clément Michel\n\nClaude\, 75 ans\, 
+DESCRIPTION:Comédie · 1h30min\n\nDe Clément Michel\n\nClaude\, 75 ans\, 
  aussi charmant qu’irresponsable\, est mis à la porte par sa (quatrièm
  e) femme. Il se retrouve alors en garde alternée chez ses enfants\, qu'i
- l a pourtant évité toute sa vie. Cette cohabitation explosive et improb
- able pourrait bien\, contre toute attente\, recoller…\n\nAlloCiné : ht
- tps://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html\n\nSortie 
- officielle au cinéma en France.
+ l a pourtant évité toute sa vie.\n\nAlloCiné : https://www.allocine.fr
+ /film/fichefilm_gen_cfilm=1000038378.html\n\nSortie officielle au cinéma
+  en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.h
  tml
 CATEGORIES:Comédie
@@ -4159,19 +4157,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000055779@realalion.github.io
-DTSTAMP:20261126T151820Z
+DTSTAMP:20261128T071919Z
 CREATED:20261126T151820Z
-LAST-MODIFIED:20261126T151820Z
+LAST-MODIFIED:20261128T071919Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:🎬 Rage
-DESCRIPTION:Documentaire · 1h37min\n\nDe la loi Sécurité globale aux ré
- voltes après la mort de Nahel\, Zak Kedzi et son équipe filment sept an
- s de colère sociale en France. Un constat : la démocratie ne survivra q
- u’en étant réinventée par ses citoyens.\n\nAlloCiné : https://www.a
- llocine.fr/film/fichefilm_gen_cfilm=1000055779.html\n\nSortie officielle 
- au cinéma en France.
+DESCRIPTION:Documentaire · 1h37min\n\nDe Zak Kedzi\n\nDe la loi Sécurité
+  globale aux révoltes après la mort de Nahel\, Zak Kedzi et son équipe
+  filment sept ans de colère sociale en France. Un constat : la démocrat
+ ie ne survivra qu’en étant réinventée par ses citoyens.\n\nAlloCiné
+  : https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055779.html\n\nSo
+ rtie officielle au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055779.h
  tml
 CATEGORIES:Documentaire
@@ -4559,20 +4557,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000034898@realalion.github.io
-DTSTAMP:20261127T150554Z
+DTSTAMP:20261128T071919Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261127T150554Z
+LAST-MODIFIED:20261128T071919Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Feels Like Home
-DESCRIPTION:Thriller\n\nDe Gábor Holtai\n\nSéquestrée par une famille pr
- étendant qu’elle est leur fille disparue\, Rita se voit contrainte d
- ’accepter ce rôle\, tout en cherchant désespérément à s’échappe
- r. C’est alors qu’elle ne tarde pas à découvrir le secret qui unit 
- cette étrange famille…\n\nAlloCiné : https://www.allocine.fr/film/fic
- hefilm_gen_cfilm=1000034898.html\n\nSortie officielle au cinéma en Franc
- e.
+DESCRIPTION:Thriller · 2h05min\n\nDe Gábor Holtai\n\nSéquestrée par une
+  famille prétendant qu’elle est leur fille disparue\, Rita se voit con
+ trainte d’accepter ce rôle\, tout en cherchant désespérément à s
+ ’échapper. C’est alors qu’elle ne tarde pas à découvrir le secre
+ t qui unit cette étrange famille…\n\nAlloCiné : https://www.allocine.
+ fr/film/fichefilm_gen_cfilm=1000034898.html\n\nSortie officielle au ciné
+ ma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034898.h
  tml
 CATEGORIES:Thriller
@@ -4789,18 +4787,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-1000037484@realalion.github.io
-DTSTAMP:20261127T150554Z
+DTSTAMP:20261128T071919Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261127T150554Z
+LAST-MODIFIED:20261128T071919Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:🎬 Elsinore
-DESCRIPTION:Biopic\, Drame\n\nDe Simon Stone\n\nLa vie de l’acteur écoss
- ais Ian Charleson (1949-1990)\, révélé par son interprétation d’Eri
- c Liddell dans Les Chariots de feu.\n\nAlloCiné : https://www.allocine.f
- r/film/fichefilm_gen_cfilm=1000037484.html\n\nSortie officielle au ciném
- a en France.
+DESCRIPTION:Biopic\, Drame · 1h51min\n\nDe Simon Stone\n\nLa vie de l’ac
+ teur écossais Ian Charleson (1949-1990)\, révélé par son interprétat
+ ion d’Eric Liddell dans Les Chariots de feu.\n\nAlloCiné : https://www
+ .allocine.fr/film/fichefilm_gen_cfilm=1000037484.html\n\nSortie officiell
+ e au cinéma en France.
 URL;VALUE=URI:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037484.h
  tml
 CATEGORIES:Biopic,Drame
@@ -8858,13 +8856,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sortie-cine-312101@realalion.github.io
-DTSTAMP:20261123T161812Z
+DTSTAMP:20261128T071919Z
 CREATED:20261123T161812Z
-LAST-MODIFIED:20261123T161812Z
+LAST-MODIFIED:20261128T071919Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20281213
 DTEND;VALUE=DATE:20281214
-SUMMARY:🎬 Untitled Black Panther 3
+SUMMARY:🎬 Black Panther 3
 DESCRIPTION:Action\, Fantastique\n\nDe Ryan Coogler\n\nTroisième volet de 
  Black Panther.\n\nAlloCiné : https://www.allocine.fr/film/fichefilm_gen_
  cfilm=312101.html\n\nSortie officielle au cinéma en France.

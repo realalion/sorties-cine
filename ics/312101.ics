@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-312101-2028-12-13@realalion.github.io
-DTSTAMP:20261127T150554Z
+DTSTAMP:20261128T071919Z
 DTSTART;VALUE=DATE:20281213
 DTEND;VALUE=DATE:20281214
-SUMMARY:🎬 Untitled Black Panther 3 — sortie ciné
+SUMMARY:🎬 Black Panther 3 — sortie ciné
 DESCRIPTION:Action\, Fantastique\n\nTroisième volet de Black Panther.\n\nh
  ttps://www.allocine.fr/film/fichefilm_gen_cfilm=312101.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=312101.html

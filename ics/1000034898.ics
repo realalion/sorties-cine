@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:sortie-cine-1000034898-2027-02-24@realalion.github.io
-DTSTAMP:20261127T150554Z
+DTSTAMP:20261128T071919Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🎬 Feels Like Home — sortie ciné
-DESCRIPTION:Thriller\n\nSéquestrée par une famille prétendant qu’elle 
- est leur fille disparue\, Rita se voit contrainte d’accepter ce rôle\,
-  tout en cherchant désespérément à s’échapper. C’est alors qu’
- elle ne tarde pas à découvrir le secret qui unit cette étrange famille
- …\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=1000034898.html
+DESCRIPTION:Thriller · 2h05min\n\nSéquestrée par une famille prétendant
+  qu’elle est leur fille disparue\, Rita se voit contrainte d’accepter
+  ce rôle\, tout en cherchant désespérément à s’échapper. C’est 
+ alors qu’elle ne tarde pas à découvrir le secret qui unit cette étra
+ nge famille…\n\nhttps://www.allocine.fr/film/fichefilm_gen_cfilm=100003
+ 4898.html
 URL:https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034898.html
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

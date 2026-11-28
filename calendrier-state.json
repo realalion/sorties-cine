@@ -1965,7 +1965,7 @@
   },
   "1000021740": {
    "created": "20261008T064216Z",
-   "modified": "20261127T150554Z",
+   "modified": "20261128T071919Z",
    "sequence": 0,
    "fields": {
     "title": "Behemoth!",
@@ -1978,7 +1978,7 @@
      "Tony Gilroy"
     ],
     "cast": [],
-    "synopsis": "Violoncelliste de talent, Alex Serian revient à Los Angeles, après vingt années passées sur les routes. La musique, qui a toujours été le fil conducteur de son existence, une force aussi omniprésente que dévorante, entraîne Alex dans une aventure qui le changera à jamais.",
+    "synopsis": "Violoncelliste de talent, Alex Serian revient à Los Angeles, après vingt années passées sur les routes. La musique, qui a toujours été le fil conducteur de son existence, entraîne Alex dans une aventure qui le changera à jamais.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html"
    },
    "inFeed": true
@@ -4507,7 +4507,7 @@
   },
   "1000034898": {
    "created": "20261123T161812Z",
-   "modified": "20261127T150554Z",
+   "modified": "20261128T071919Z",
    "sequence": 0,
    "fields": {
     "title": "Feels Like Home",
@@ -4515,7 +4515,7 @@
     "genres": [
      "Thriller"
     ],
-    "duration": null,
+    "duration": "2h05min",
     "directors": [
      "Gábor Holtai"
     ],
@@ -5019,7 +5019,7 @@
   },
   "1000037484": {
    "created": "20261123T161812Z",
-   "modified": "20261127T150554Z",
+   "modified": "20261128T071919Z",
    "sequence": 0,
    "fields": {
     "title": "Elsinore",
@@ -5028,7 +5028,7 @@
      "Biopic",
      "Drame"
     ],
-    "duration": null,
+    "duration": "1h51min",
     "directors": [
      "Simon Stone"
     ],
@@ -5146,7 +5146,7 @@
   },
   "1000038378": {
    "created": "20261008T064216Z",
-   "modified": "20261124T155356Z",
+   "modified": "20261128T071919Z",
    "sequence": 0,
    "fields": {
     "title": "Claude",
@@ -5154,12 +5154,12 @@
     "genres": [
      "Comédie"
     ],
-    "duration": "1h31min",
+    "duration": "1h30min",
     "directors": [
      "Clément Michel"
     ],
     "cast": [],
-    "synopsis": "Claude, 75 ans, aussi charmant qu’irresponsable, est mis à la porte par sa (quatrième) femme. Il se retrouve alors en garde alternée chez ses enfants, qu'il a pourtant évité toute sa vie. Cette cohabitation explosive et improbable pourrait bien, contre toute attente, recoller…",
+    "synopsis": "Claude, 75 ans, aussi charmant qu’irresponsable, est mis à la porte par sa (quatrième) femme. Il se retrouve alors en garde alternée chez ses enfants, qu'il a pourtant évité toute sa vie.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038378.html"
    },
    "inFeed": true
@@ -7914,7 +7914,7 @@
   },
   "1000055779": {
    "created": "20261126T151820Z",
-   "modified": "20261126T151820Z",
+   "modified": "20261128T071919Z",
    "sequence": 0,
    "fields": {
     "title": "Rage",
@@ -7923,7 +7923,9 @@
      "Documentaire"
     ],
     "duration": "1h37min",
-    "directors": [],
+    "directors": [
+     "Zak Kedzi"
+    ],
     "cast": [],
     "synopsis": "De la loi Sécurité globale aux révoltes après la mort de Nahel, Zak Kedzi et son équipe filment sept ans de colère sociale en France. Un constat : la démocratie ne survivra qu’en étant réinventée par ses citoyens.",
     "allocineUrl": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055779.html"
@@ -9458,10 +9460,10 @@
   },
   "312101": {
    "created": "20261123T161812Z",
-   "modified": "20261123T161812Z",
+   "modified": "20261128T071919Z",
    "sequence": 0,
    "fields": {
-    "title": "Untitled Black Panther 3",
+    "title": "Black Panther 3",
     "releaseDate": "2028-12-13",
     "genres": [
      "Action",
